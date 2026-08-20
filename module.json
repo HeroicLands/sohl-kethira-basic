@@ -14,8 +14,8 @@
     }
   ],
   "compatibility": {
-    "minimum": "12",
-    "verified": "12.331"
+    "minimum": "14",
+    "verified": "14"
   },
   "relationships": {
     "systems": [
@@ -36,41 +36,15 @@
       "sorting": "m",
       "color": "#008000",
       "packs": [
-        "characters",
-        "characteristics",
-        "mysteries"
+        "items"
       ]
     }
   ],
   "packs": [
     {
-      "label": "Characters",
-      "name": "characters",
-      "path": "packs/characters",
-      "type": "Actor",
-      "flags": {},
-      "system": "sohl",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "label": "Characteristics",
-      "name": "characteristics",
-      "path": "packs/characteristics",
-      "type": "Item",
-      "flags": {},
-      "system": "sohl",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "label": "Mysteries",
-      "name": "mysteries",
-      "path": "packs/mysteries",
+      "label": "Items",
+      "name": "items",
+      "path": "packs/items",
       "type": "Item",
       "flags": {},
       "system": "sohl",
