@@ -3,7 +3,7 @@
   "title": "HarnMaster Kethira Basic Items",
   "description": "Basic items needed for playing Song of Heroic Lands in the world of Kethira",
   "version": "0.5.3",
-  "bugs": "https://github.com/toastygm/sohl-kethira-basic/issues",
+  "bugs": "https://github.com/HeroicLands/sohl-kethira-basic/issues",
   "license": "LICENSE",
   "readme": "README.md",
   "authors": [
@@ -22,7 +22,7 @@
       {
         "id": "sohl",
         "type": "system",
-        "manifest": "https://github.com/toastygm/Song-of-Heroic-Lands-FoundryVTT/releases/latest/download/system.json",
+        "manifest": "https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/latest/download/system.json",
         "compatibility": {
           "minimum": "0.4.0",
           "verified": "0.4.3"
@@ -80,9 +80,9 @@
       }
     }
   ],
-  "url": "https://github.com/toastygm/sohl-kethira-basic/",
-  "manifest": "https://github.com/toastygm/sohl-kethira-basic/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/sohl-kethira-basic/releases/download/v0.5.3/module.zip",
+  "url": "https://github.com/HeroicLands/sohl-kethira-basic/",
+  "manifest": "https://github.com/HeroicLands/sohl-kethira-basic/releases/latest/download/module.json",
+  "download": "https://github.com/HeroicLands/sohl-kethira-basic/releases/download/v0.5.3/module.zip",
   "flags": {
     "allowBugReporter": true
   }

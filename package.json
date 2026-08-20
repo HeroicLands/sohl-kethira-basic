@@ -11,10 +11,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/toastygm/sohl-kethira-basic.git"
+        "url": "git+https://github.com/HeroicLands/sohl-kethira-basic.git"
     },
     "bugs": {
-        "url": "https://github.com/toastygm/sohl-kethira-basic/issues"
+        "url": "https://github.com/HeroicLands/sohl-kethira-basic/issues"
     },
     "engines": {
         "node": ">=24.0.0"
