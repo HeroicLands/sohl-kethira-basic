@@ -72,11 +72,36 @@ export default defineConfig({
         stage: "packs",
     },
 
-    // The three Python-era packs, restored (#1566). The #1513 migration
+    // The Python-era Item packs, restored (#1566). The #1513 migration
     // collapsed them into a single `items` pack because the pipeline then ran
     // one pass per document type; that is a breaking change for every existing
     // world, because a compendium UUID carries its pack name
     // (`Compendium.sohl-kethira-basic.characteristics.Item.<id>`).
+    //
+    // Folders are per-pack: the two sets are disjoint (the skill tree on one
+    // side, the philosophy/spell tree on the other), and a folder id declared
+    // for one pack does not exist in the other.
+    //
+    // `characters` is an Actor pack and is deliberately **absent** from this
+    // list. A Kethira being's embedded items are addressed by shortcode
+    // (`attribute:str`, `skill:init`, `mysticalability:fate`) and almost all of
+    // them are defined by the **`sohl` package**, which this repository does not
+    // hold — the retired Python generator resolved them by reading a sibling
+    // checkout of the system repository's *built* packs. An unresolved embedded
+    // item is a hard error in the shared compiler, and because generation
+    // refuses to compile *any* pack from incomplete output, configuring the
+    // Actor pass took the two working Item packs down with it: the whole build
+    // exited 1 and emitted nothing.
+    //
+    // Listing it was never the thing that kept existing worlds' compendium UUIDs
+    // resolving — `module.json` declares the `characters` compendium, and that
+    // declaration is what a `Compendium.sohl-kethira-basic.characters.Actor.<id>`
+    // reference resolves against. It stays declared there and ships empty, as it
+    // always has; nothing regresses by omitting it here, and the two Item packs
+    // now build. Turning the pass on needs the `sohl` item catalog available at
+    // build time, at which point re-enabling it is this list and nothing else —
+    // `actor-folders.yaml` is kept complete against that day. Same constraint
+    // `sohl-thalorna` records for its own actors pass (#1441).
     //
     // Two packs share the `Item` type. The `type` selects the *compiler*; a
     // note's `pack:` frontmatter selects *which pack of that type* receives its
@@ -86,23 +111,6 @@ export default defineConfig({
     // note**. A default here would silently absorb a typo'd or forgotten
     // declaration into the wrong compendium — the exact silent-misrouting
     // failure this layout exists to prevent.
-    //
-    // Folders are per-pack: the two sets are disjoint (the skill tree on one
-    // side, the philosophy/spell tree on the other), and a folder id declared
-    // for one pack does not exist in the other.
-    //
-    // `characters` is an Actor pack, restored here so the compendium UUIDs of
-    // existing worlds keep resolving. **It does not compile yet.** A Kethira
-    // being's embedded items are addressed by shortcode (`attribute:str`,
-    // `skill:init`, `mysticalability:fate`) and almost all of them are defined by
-    // the **`sohl` package**, which this repository does not hold — the retired
-    // Python generator resolved them by reading a sibling checkout of the system
-    // repository's *built* packs. An unresolved embedded item is a hard error in
-    // the shared compiler: the pass builds all 28 beings and then reports 1072
-    // unresolved references (355 `attribute:*`, 532 `skill:*`, and the gear and
-    // affiliation shortcodes), which aborts the LevelDB step for every pack. The
-    // two Item packs above compile cleanly on their own. Same constraint
-    // `sohl-thalorna` records for its own actors pass (#1441).
     packs: [
         {
             name: "characteristics",
@@ -110,7 +118,6 @@ export default defineConfig({
             folders: "item-folders.yaml",
         },
         { name: "mysteries", type: "Item", folders: "mystery-folders.yaml" },
-        { name: "characters", type: "Actor", folders: "actor-folders.yaml" },
     ],
 
     // Publishing is a matrix, and this module sits at its most restrictive

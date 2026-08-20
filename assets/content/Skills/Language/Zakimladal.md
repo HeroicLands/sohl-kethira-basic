@@ -6,7 +6,7 @@ name:
     full: Zâkimladal
     aliases: []
 description: ""
-id: 
+id: CsdzvLOYIrnU1Fre
 slug: zakimladal
 img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: zakimladal

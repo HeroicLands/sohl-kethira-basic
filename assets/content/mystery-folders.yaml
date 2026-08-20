@@ -17,6 +17,18 @@
   id: erU4UqfJtaHDk7YU
   parentFolderId: ""
   color: '#801000'
+# Sunsigns and Affiliations post-date the pre-#1513 pack source, so unlike the
+# folders above their ids are not restored from it — they are the ids the notes
+# themselves already carry, adopted here rather than reassigned, so no note is
+# rewritten and the pack's folder tree is stable from its first compile.
+- name: Sunsigns
+  id: doIwpD92J7NodK9W
+  parentFolderId: ""
+  color: '#B8860B'
+- name: Affiliations
+  id: 0pBXQXg3toSZ51hX
+  parentFolderId: ""
+  color: '#4B0082'
 - name: Odívshè
   id: 7ccHolMvySyG8laH
   parentFolderId: 5ZF66wXiv8vDffS9

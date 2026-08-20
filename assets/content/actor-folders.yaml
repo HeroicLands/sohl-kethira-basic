@@ -14,3 +14,14 @@
   id: FNtXaRapCPXYBQtP
   parentFolderId: ""
   color: '#ca3232'
+# The `Characters` folder post-dates the pre-#1513 pack source, so unlike the
+# three above its id is not restored from it — it is the id all 17 character
+# notes already carry, adopted here rather than reassigned. The `characters`
+# pack is not configured for compilation yet (see `content-build.config.mjs`),
+# so this file is currently unread; it is kept complete so that enabling the
+# Actor pass is a one-line change there and nothing else. The three restored
+# folders above are unused by any note and are retained for the same reason.
+- name: Characters
+  id: wDgcy5cLIaLoFogp
+  parentFolderId: ""
+  color: '#2337c9'

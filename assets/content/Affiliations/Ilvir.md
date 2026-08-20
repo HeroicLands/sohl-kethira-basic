@@ -15,6 +15,7 @@ pack: mysteries
 package: kethira
 sohl:
     kbcat: affiliation
+    subType: divine
     archetype: 0
     society: ""
     office: ""
