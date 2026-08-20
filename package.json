@@ -1,0 +1,31 @@
+{
+    "name": "sohl-kethira-basic",
+    "private": true,
+    "version": "0.5.3",
+    "description": "HârnMaster Kethira content for the Song of Heroic Lands system for Foundry VTT",
+    "type": "module",
+    "license": "SEE LICENSE IN LICENSE",
+    "author": {
+        "name": "Tom Rodriguez",
+        "email": "toasty@heroiclands.org"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/toastygm/sohl-kethira-basic.git"
+    },
+    "bugs": {
+        "url": "https://github.com/toastygm/sohl-kethira-basic/issues"
+    },
+    "engines": {
+        "node": ">=24.0.0"
+    },
+    "scripts": {
+        "build": "npm run build:compiledb",
+        "build:compiledb": "content-build package compile",
+        "build:unpackdb": "content-build package unpack",
+        "build:cleandb": "content-build package clean"
+    },
+    "devDependencies": {
+        "@heroiclands/content-build": "^0.3.0"
+    }
+}

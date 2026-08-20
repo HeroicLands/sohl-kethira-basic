@@ -1,0 +1,27 @@
+---
+aliases: []
+tags: []
+name:
+  full: Spoon
+  aliases: []
+description: ""
+id: BE88Hbv0bK1RfujF
+slug: spoon
+img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+shortcode: spoon
+type: mysticalability
+pack: mysteries
+package: kethira
+sohl:
+  kbcat: null
+  archetype: 0
+  subType: arcaneincantation
+  assocSkillCode: pvarism
+  assocAffiliationCode: odivshe
+  levelBase: 1
+  masteryLevelBase: 0
+  charges:
+    value: null
+    max: null
+folder: 7ccHolMvySyG8laH
+---

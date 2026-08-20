@@ -1,0 +1,16 @@
+# Folder hierarchy for the `characters` Actor pack (character and creature
+# notes). Restored verbatim from the pre-#1513 pack source
+# `assets/packs/characters/data/folders.yaml` at 6b23e84, whose ids the shipped
+# compendium — and therefore every existing world's folder tree — already uses.
+- name: Pregens
+  id: XeWWMLibGrFUwlMs
+  parentFolderId: ""
+  color: '#d35400'
+- name: Prototypes
+  id: J6VZmyYIePnhutut
+  parentFolderId: ""
+  color: '#007a6c'
+- name: Samples
+  id: FNtXaRapCPXYBQtP
+  parentFolderId: ""
+  color: '#ca3232'

@@ -6,6 +6,11 @@ jspm_packages/
 .env
 .env.test
 
+# AI
+/.claude/
+CLAUDE.md
+AI.md
+
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 
