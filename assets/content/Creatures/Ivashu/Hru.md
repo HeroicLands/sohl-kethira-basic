@@ -12,7 +12,7 @@ shortcode: hru
 slug: hru
 img: systems/sohl/assets/icons/game-icons/delapouite/rock-golem.svg
 portrait: ""
-type: creature
+type: being
 package: kethira
 sohl:
   archetype: 0

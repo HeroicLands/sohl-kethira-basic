@@ -11,7 +11,7 @@ shortcode: chelebalrhyddyn
 slug: cheleb-al-rhyddyn
 img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 portrait: systems/sohl/assets/icons/game-icons/delapouite/person.svg
-type: character
+type: being
 pack: characters
 package: kethira
 social:
