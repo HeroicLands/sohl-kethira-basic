@@ -1,0 +1,47 @@
+# Folder hierarchy for the `mysteries` Item pack (mystery, mysticalability,
+# affiliation notes). Restored verbatim from the pre-#1513 pack source
+# `assets/packs/mysteries/data/folders.yaml` at 6b23e84, whose ids the shipped
+# compendium — and therefore every existing world's folder tree — already uses.
+#
+# Folders are declared per pack: the `characteristics` and `mysteries` sets are
+# disjoint, and an id declared for one pack does not exist in the other.
+- name: Philosophies
+  id: XnLMIFiDq8uM4fMi
+  parentFolderId: ""
+  color: '#008F00'
+- name: Spells
+  id: 5ZF66wXiv8vDffS9
+  parentFolderId: ""
+  color: '#800000'
+- name: Arcane Talents
+  id: erU4UqfJtaHDk7YU
+  parentFolderId: ""
+  color: '#801000'
+- name: Odívshè
+  id: 7ccHolMvySyG8laH
+  parentFolderId: 5ZF66wXiv8vDffS9
+  color: '#8b4513'
+- name: Sàvôrya
+  id: OEPLCztBIC7QgLkl
+  parentFolderId: 5ZF66wXiv8vDffS9
+  color: '#a9a9a9'
+- name: Lyáhvi
+  id: Akw3ICeogWX6wv1p
+  parentFolderId: 5ZF66wXiv8vDffS9
+  color: '#00bfff'
+- name: Neutral
+  id: tenkqzeQTszpAWXu
+  parentFolderId: 5ZF66wXiv8vDffS9
+  color: '#5c5c5c'
+- name: Pèleáhn
+  id: KIHoq1ccl3Nhostl
+  parentFolderId: 5ZF66wXiv8vDffS9
+  color: '#0000ff'
+- name: Jmôrvi
+  id: LeWjP4bk9xkAOcza
+  parentFolderId: 5ZF66wXiv8vDffS9
+  color: '#ff0000'
+- name: Fývria
+  id: BcdoPpsdCvuV98RV
+  parentFolderId: 5ZF66wXiv8vDffS9
+  color: '#648264'

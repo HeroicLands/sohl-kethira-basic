@@ -1,0 +1,27 @@
+---
+aliases: []
+tags: []
+name:
+  full: Conjure
+  aliases: []
+description: ""
+id: IXxyNHy1It9Og2VG
+slug: conjure
+img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+shortcode: conjure
+type: mysticalability
+pack: mysteries
+package: kethira
+sohl:
+  kbcat: null
+  archetype: 0
+  subType: arcaneincantation
+  assocSkillCode: pvarism
+  assocAffiliationCode: odivshe
+  levelBase: 6
+  masteryLevelBase: 0
+  charges:
+    value: null
+    max: null
+folder: 7ccHolMvySyG8laH
+---
