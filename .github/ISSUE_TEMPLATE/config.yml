@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+    - name: Report a security vulnerability (private)
+      url: https://github.com/HeroicLands/sohl-kethira-basic/security/advisories/new
+      about: Exploitable weaknesses must be reported privately as a security advisory — never as a public issue. See the Security Policy and issue-reporting §7.
+    - name: An issue with the SoHL system itself
+      url: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/issues/new/choose
+      about: This tracker is for the Kethira content module. System code, sheets, and rules automation are tracked in the system repository.
+    - name: Question or discussion
+      url: https://bit.ly/44vZ10j
+      about: For questions and general discussion, use the SoHL Discord.
