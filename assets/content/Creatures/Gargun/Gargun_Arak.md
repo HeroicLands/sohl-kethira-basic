@@ -13,7 +13,7 @@ shortcode: arak
 slug: gargun-arak
 img: systems/sohl/assets/icons/game-icons/delapouite/orc-head.svg
 portrait: ""
-type: creature
+type: being
 package: kethira
 sohl:
   archetype: 0

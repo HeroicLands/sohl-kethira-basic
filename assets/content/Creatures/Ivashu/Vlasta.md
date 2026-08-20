@@ -13,7 +13,7 @@ shortcode: vlasta
 slug: vlasta
 img: systems/sohl/assets/icons/game-icons/lorc/bird-claw.svg
 portrait: ""
-type: creature
+type: being
 package: kethira
 sohl:
   archetype: 0
