@@ -26,6 +26,6 @@
         "build:cleandb": "content-build package clean"
     },
     "devDependencies": {
-        "@heroiclands/content-build": "^0.2.0"
+        "@heroiclands/content-build": "^0.3.0"
     }
 }

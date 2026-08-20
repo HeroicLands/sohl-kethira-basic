@@ -36,15 +36,41 @@
       "sorting": "m",
       "color": "#008000",
       "packs": [
-        "items"
+        "characters",
+        "characteristics",
+        "mysteries"
       ]
     }
   ],
   "packs": [
     {
-      "label": "Items",
-      "name": "items",
-      "path": "packs/items",
+      "label": "Characters",
+      "name": "characters",
+      "path": "packs/characters",
+      "type": "Actor",
+      "flags": {},
+      "system": "sohl",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Characteristics",
+      "name": "characteristics",
+      "path": "packs/characteristics",
+      "type": "Item",
+      "flags": {},
+      "system": "sohl",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Mysteries",
+      "name": "mysteries",
+      "path": "packs/mysteries",
       "type": "Item",
       "flags": {},
       "system": "sohl",
