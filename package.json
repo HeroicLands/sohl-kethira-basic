@@ -11,21 +11,25 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/toastygm/sohl-kethira-basic.git"
+        "url": "git+https://github.com/HeroicLands/sohl-kethira-basic.git"
     },
     "bugs": {
-        "url": "https://github.com/toastygm/sohl-kethira-basic/issues"
+        "url": "https://github.com/HeroicLands/sohl-kethira-basic/issues"
     },
     "engines": {
         "node": ">=24.0.0"
     },
     "scripts": {
+        "prepare": "git config core.hooksPath .githooks || true",
         "build": "npm run build:compiledb",
         "build:compiledb": "content-build package compile",
         "build:unpackdb": "content-build package unpack",
-        "build:cleandb": "content-build package clean"
+        "build:cleandb": "content-build package clean",
+        "lint": "npm run lint:labels",
+        "lint:labels": "node utils/check-labels.mjs"
     },
     "devDependencies": {
-        "@heroiclands/content-build": "^0.3.0"
+        "@heroiclands/content-build": "^0.3.0",
+        "yaml": "^2.9.0"
     }
 }
