@@ -29,7 +29,7 @@
         "lint:labels": "node utils/check-labels.mjs"
     },
     "devDependencies": {
-        "@heroiclands/content-build": "^0.6.0",
+        "@heroiclands/content-build": "^0.7.0",
         "yaml": "^2.9.0"
     }
 }
