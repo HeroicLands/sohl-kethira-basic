@@ -1,0 +1,213 @@
+# This repository's build configuration — the whole of its pack toolchain, and
+# everything `@heroiclands/package-build` needs to assemble the shipped module
+# (#26).
+#
+# **One file, two packages.** `@heroiclands/content-build` reads the top level
+# and validates the reserved `packageBuild:` section only as a mapping;
+# `@heroiclands/package-build` validates what is inside it. Neither learns the
+# other's schema, and no fact is stated twice.
+#
+# **This file is the source; `module.json` is generated from it.** That arrow
+# used to point the other way — `module.json` was hand-authored, held the pack
+# list and the Foundry range a second time, and the build read
+# `compatibility.minimum` back out of it. A hand-maintained manifest drifts:
+# this one advertised a `download` for a version the module no longer claimed.
+# It is no longer committed.
+#
+# **What is absent is derived, not forgotten.** `rootDir` is the directory this
+# file sits in; `foundryPackage` is the `name` of the `package.json` beside it;
+# `stats.systemVersion` is the `compatibility.verified` of the system this
+# module declares a relationship with. Authoring any of them is an error, not
+# an override.
+
+# The distribution unit a note declares in its `package:` frontmatter. The pack
+# compilers select their entries by it; a note declaring any other package is
+# skipped.
+contentPackage: kethira
+
+# Kethira ships as a Foundry *module* — hence a generated `module.json` rather
+# than a system manifest, and `modules/sohl-kethira-basic/assets/...` as the
+# served root a note's `img: images/…` resolves against.
+packageKind: modules
+
+# Stamped into every compiled document's `_stats`. `systemId` names the game
+# system the content is *for*, which this module — shipping SoHL content —
+# declares as "sohl".
+#
+# `coreVersion` and `systemVersion` are both deliberately absent. `coreVersion`
+# is read from `compatibility.minimum` below; `systemVersion` from the `sohl`
+# relationship's `compatibility.verified`, because this package's own
+# `package.json` version is the *module's* and stamping it would claim a SoHL
+# version that never existed.
+stats:
+    systemId: sohl
+    lastModifiedBy: kethirabuild0000
+
+# The **Foundry core** range this module supports. `minimum` is stamped into
+# every compiled document as `_stats.coreVersion`. Moved verbatim out of the
+# retired hand-authored `module.json`; correcting it is #16's job, not this
+# file's arrival.
+compatibility:
+    minimum: "14"
+    verified: "14"
+
+# The **game system** range — a different subject wearing the same key. Its
+# `verified` is additionally what `_stats.systemVersion` is stamped from, so
+# this is the one place the answer to "which SoHL does this module target"
+# lives, and the three disagreeing copies of #16 collapse to it.
+#
+# **`verified` must track the released `sohl` version.** It is what every
+# compiled document is stamped with, so a stale value makes each shipped entry
+# claim to have been built against a system that has not existed for four
+# minors — which is what `0.4.3` here and `0.6.0` in the retired configuration
+# each did. It is *not* derived from this package's own `package.json` version:
+# that is the module's, and stamping it would name a SoHL release that never
+# existed. Nothing bumps it automatically, so raising it is a release-time step
+# — see #16.
+#
+# `minimum` is the floor this module claims to run on. It read `0.4.0`, which
+# was not merely stale but impossible: sohl 0.4.0-0.5.6 declare Foundry
+# `compatibility.minimum: "12"`, and this module requires Foundry 14, so no
+# Foundry exists that could load the pair. sohl 0.7.0 is the first Foundry-14
+# release.
+#
+# The floor is `0.8.0` rather than `0.7.0` because that is where the Item model
+# this module's documents are shaped for begins: 0.8.0 removed the `lineage`,
+# `trait` and `combattechnique` types and gave `mystery` the `subType` field
+# every mystery note here carries, which 0.7.0's model does not define. Checked
+# by comparing each compiled document's `system` keys against the schema of
+# each tagged release; the `skill` pack (66 items) is clean from 0.8.0 on.
+relationships:
+    systems:
+        - id: sohl
+          type: system
+          manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/latest/download/system.json
+          compatibility:
+              minimum: "0.8.0"
+              verified: "0.8.2"
+
+# Which content types compile into Items, and what builds each one's `system`
+# block. Kethira's items are SoHL items, so it names the toolchain's SoHL
+# registry. It is a *name* rather than a table: the registry is code, and a data
+# configuration cannot carry code.
+itemBuilders: sohl
+
+# The Python-era Item packs, restored (#1566). The #1513 migration collapsed
+# them into a single `items` pack because the pipeline then ran one pass per
+# document type; that is a breaking change for every existing world, because a
+# compendium UUID carries its pack name
+# (`Compendium.sohl-kethira-basic.characteristics.Item.<id>`).
+#
+# Folders are per-pack: the two sets are disjoint (the skill tree on one side,
+# the philosophy/spell tree on the other), and a folder id declared for one pack
+# does not exist in the other.
+#
+# Two packs share the `Item` type. The `type` selects the *compiler*; a note's
+# `pack:` frontmatter selects *which pack of that type* receives its document.
+# Neither Item pack is marked `default: true`, and that is deliberate: with
+# several packs of a type and no default, a note that declares no `pack:` routes
+# nowhere and **fails the build, naming the note**. A default here would
+# silently absorb a typo'd or forgotten declaration into the wrong compendium —
+# the exact silent-misrouting failure this layout exists to prevent.
+#
+# `characters` is an Actor pack and is deliberately **absent**. A Kethira
+# being's embedded items are addressed by shortcode (`attribute:str`,
+# `skill:init`, `mysticalability:fate`) and almost all of them are defined by
+# the **`sohl` package**, which this repository does not hold; the retired
+# Python generator resolved them by reading a sibling checkout of the system
+# repository's *built* packs. An unresolved embedded item is a hard error in the
+# shared compiler, and because generation refuses to compile *any* pack from
+# incomplete output, configuring the Actor pass took the two working Item packs
+# down with it.
+#
+# **What changed when the manifest became generated.** This list is now also
+# the manifest's `packs` array, so omitting `characters` no longer merely skips
+# a compile — it withdraws the compendium *declaration* too. The retired
+# hand-authored `module.json` declared it and shipped it empty, and its comment
+# in the previous configuration reasoned from that: the declaration survives
+# omission here. It no longer does, and there is no way to keep it —
+# `packageBuild.manifest.packs` is refused precisely because it would be
+# overwritten, and listing the pack fails the whole build (1057 unresolved
+# embedded items, taking the two working Item packs down with it).
+#
+# So the empty `characters` compendium is gone from the shipped module. Nothing
+# resolved *through* it — it has always shipped with no documents — but a stored
+# `Compendium.sohl-kethira-basic.characters.Actor.<id>` now names a pack that
+# does not exist rather than one that is empty. `actor-folders.yaml` and the 28
+# `being` notes stay complete against the day the `sohl` item catalog is
+# available at build time; enabling the pass is then this list and nothing else.
+# Tracked in #28.
+packs:
+    - { name: characteristics, label: Characteristics, type: Item, folders: item-folders.yaml }
+    - { name: mysteries, label: Mysteries, type: Item, folders: mystery-folders.yaml }
+
+# Publishing is a matrix, and this module sits at its most restrictive corner.
+# It renders no knowledgebase or website pages, and it publishes no link
+# manifest: emitting `kethira.json` would be the dependency edge that stops the
+# module being withdrawable, which is a licensing decision rather than a
+# consequence of having no site (#1385/#1446, and this repository's CLAUDE.md).
+# It still **consumes** the manifests of the packages its notes cite, so those
+# addresses resolve; vendored manifests live in `assets/manifests/`.
+#
+# `publish.address` is new in content-build 1.4.0 and is deliberately not
+# declared: it frames generated pages and a published manifest, and this
+# repository emits neither.
+publish:
+    site: false
+    manifests: { publish: false, consume: true }
+
+# Everything `@heroiclands/package-build` needs. It reads this same file rather
+# than one of its own, because `packageKind` and the package id above are two of
+# the values it wants and restating them would be two places for one fact.
+packageBuild:
+    # Staged into `build/stage` (the default), so each `to:` is the path *within*
+    # the shipped module — which is also where the compiled packs land, and what
+    # `package-build release` zips.
+    assets:
+        - { from: assets/artwork, to: assets/artwork }
+        - { from: assets/images, to: assets/images }
+        - { from: assets/simple-calendar, to: assets/simple-calendar }
+        - { from: lang, to: lang }
+        - { from: LICENSE, to: LICENSE }
+        - { from: README.md, to: README.md }
+
+    lang:
+        sources: lang/*.json
+        help: >-
+            A dotted-prefix collision makes foundry.utils.expandObject throw, and
+            Foundry then drops the whole translation file. Make each key a leaf
+            OR a branch, never both.
+
+    # The Foundry module manifest, generated into the build stage by
+    # `package-build manifest`. Emitted as declared — `id`, `version`, the four
+    # release addresses, `compatibility`, `relationships` and `packs` are
+    # derived and must not appear here.
+    #
+    # Moved verbatim out of the retired hand-authored `module.json`, except
+    # `languages`, which it never carried: `lang/en.json` has shipped
+    # undeclared, and therefore unloaded, since it was added (#29).
+    manifest:
+        title: HarnMaster Kethira Basic Items
+        description: Basic items needed for playing Song of Heroic Lands in the world of Kethira
+        authors:
+            - name: Toasty
+              discord: toasty#8538
+              flags: {}
+        license: LICENSE
+        readme: README.md
+        languages:
+            - lang: en
+              name: English
+              path: lang/en.json
+        packFolders:
+            - name: HarnMaster Kethira Basic
+              sorting: m
+              color: "#008000"
+              # `characters` is deliberately absent: the pack it named is no
+              # longer declared (see `packs:` above and #28), and a pack folder
+              # naming a compendium that does not exist is a dangling reference.
+              packs:
+                  - characteristics
+                  - mysteries
+        flags:
+            allowBugReporter: true

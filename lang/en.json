@@ -1,4 +1,4 @@
-[
+{
     "KETHBAS.Calendar.Tuzyn.BeforeEraAbbr": "BTR",
     "KETHBAS.Calendar.Tuzyn.BeforeEraName": "Before Tuzyn Reckoning",
     "KETHBAS.Calendar.Tuzyn.EraAbbr": "TR",
@@ -55,4 +55,4 @@
     "KETHBAS.Calendar.Tuzyn.Weekday.8.label": "Nineday",
     "KETHBAS.Calendar.Tuzyn.Weekday.9.abbr": "10d",
     "KETHBAS.Calendar.Tuzyn.Weekday.9.label": "Tenday"
-]
+}
