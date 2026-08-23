@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-enth
 tags: []
 name:
   full: Enthral

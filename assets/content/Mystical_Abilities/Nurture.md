@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-nurture
 tags: []
 name:
   full: Nurture

@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-gate
 tags: []
 name:
   full: Gate

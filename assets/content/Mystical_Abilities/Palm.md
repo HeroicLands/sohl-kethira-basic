@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-palm
 tags: []
 name:
   full: Palm

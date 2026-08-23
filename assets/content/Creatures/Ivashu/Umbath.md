@@ -4,6 +4,7 @@ aliases:
   - Umbathri
   - Bearer of the Mask
   - Gargoyle
+  - being-umbath
 tags:
   - creature
 name:

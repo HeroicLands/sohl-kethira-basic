@@ -1,6 +1,7 @@
 ---
 aliases:
   - Sávè-K'nôr
+  - skill-saveknor
 tags: []
 name:
     full: Sávè-K'nôr

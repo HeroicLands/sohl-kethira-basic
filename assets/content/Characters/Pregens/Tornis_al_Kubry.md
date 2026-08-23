@@ -1,6 +1,7 @@
 ---
 aliases:
     - Tórnis al Kúbrý
+    - being-tornisalkubry
 tags: []
 name:
     full: Tórnis al Kúbrý

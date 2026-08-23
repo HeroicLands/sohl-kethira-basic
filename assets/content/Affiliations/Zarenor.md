@@ -1,6 +1,7 @@
 ---
 aliases:
   - Zârenor
+  - affiliation-zarenor
 tags: []
 name:
     full: Zârenor

@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-aegis
 tags: []
 name:
   full: Aegis

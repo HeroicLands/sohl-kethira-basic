@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-syncope
 tags: []
 name:
   full: Syncope

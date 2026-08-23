@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-sprt
 tags: []
 name:
   full: Spirit

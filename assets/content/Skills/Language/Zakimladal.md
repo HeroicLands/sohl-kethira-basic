@@ -1,6 +1,7 @@
 ---
 aliases:
   - Zâkimladal
+  - skill-zakimladal
 tags: []
 name:
     full: Zâkimladal

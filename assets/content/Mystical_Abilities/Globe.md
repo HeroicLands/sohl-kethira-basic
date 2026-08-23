@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-globe
 tags: []
 name:
   full: Globe

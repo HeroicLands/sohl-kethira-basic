@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-pall
 tags: []
 name:
   full: Pall

@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-suggestion
 tags: []
 name:
   full: Suggestion

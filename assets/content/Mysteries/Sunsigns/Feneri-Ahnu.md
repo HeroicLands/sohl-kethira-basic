@@ -1,6 +1,7 @@
 ---
 aliases:
   - Fenéri-Áhnù
+  - mystery-feneriahnu
 tags: []
 name:
     full: Fenéri-Áhnù

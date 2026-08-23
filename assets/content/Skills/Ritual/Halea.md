@@ -1,6 +1,7 @@
 ---
 aliases:
   - Haléa
+  - skill-halea
 tags: []
 name:
     full: Haléa

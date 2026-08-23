@@ -1,6 +1,7 @@
 ---
 aliases:
   - Fenéri
+  - mystery-feneri
 tags: []
 name:
     full: Fenéri

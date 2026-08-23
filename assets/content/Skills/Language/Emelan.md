@@ -1,6 +1,7 @@
 ---
 aliases:
   - Emélan
+  - skill-emelan
 tags: []
 name:
     full: Emélan

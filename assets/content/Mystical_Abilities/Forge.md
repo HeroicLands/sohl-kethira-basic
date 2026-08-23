@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-forge
 tags: []
 name:
   full: Forge

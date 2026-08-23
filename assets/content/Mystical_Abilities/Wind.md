@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-wind
 tags: []
 name:
   full: Wind

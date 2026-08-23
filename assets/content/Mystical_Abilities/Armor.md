@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-armor
 tags: []
 name:
   full: Armor

@@ -1,6 +1,7 @@
 ---
 aliases:
     - Bandit 1
+    - being-bandit1
 tags: []
 name:
     full: Bandit 1

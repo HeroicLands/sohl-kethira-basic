@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-basalm
 tags: []
 name:
   full: Basalm

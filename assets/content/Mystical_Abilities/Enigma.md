@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-enigma
 tags: []
 name:
   full: Enigma

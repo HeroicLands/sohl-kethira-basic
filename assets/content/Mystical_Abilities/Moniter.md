@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-moniter
 tags: []
 name:
   full: Moniter

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Gáranik
+  - affiliation-garanik
 tags: []
 name:
     full: Gáranik

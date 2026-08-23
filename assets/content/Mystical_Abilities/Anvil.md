@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-anvil
 tags: []
 name:
   full: Anvil

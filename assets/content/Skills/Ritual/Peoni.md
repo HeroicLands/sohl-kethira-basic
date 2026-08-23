@@ -1,6 +1,7 @@
 ---
 aliases:
   - Peóni
+  - skill-peoni
 tags: []
 name:
     full: Peóni

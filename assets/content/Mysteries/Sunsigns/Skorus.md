@@ -1,6 +1,7 @@
 ---
 aliases:
   - Skôrus
+  - mystery-skorus
 tags: []
 name:
     full: Skôrus

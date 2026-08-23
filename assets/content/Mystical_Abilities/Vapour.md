@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-vapour
 tags: []
 name:
   full: Vapour

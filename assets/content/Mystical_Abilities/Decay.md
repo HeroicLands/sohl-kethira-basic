@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-decay
 tags: []
 name:
   full: Decay

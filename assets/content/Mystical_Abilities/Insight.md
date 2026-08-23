@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-insight
 tags: []
 name:
   full: Insight

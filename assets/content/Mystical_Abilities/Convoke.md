@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-convoke
 tags: []
 name:
   full: Convoke

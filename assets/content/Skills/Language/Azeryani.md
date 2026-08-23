@@ -1,6 +1,7 @@
 ---
 aliases:
   - Àzeryáni
+  - skill-azeryani
 tags: []
 name:
     full: Àzeryáni

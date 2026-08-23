@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-calm
 tags: []
 name:
   full: Calm

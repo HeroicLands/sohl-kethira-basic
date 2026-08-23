@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-victual
 tags: []
 name:
   full: Victual

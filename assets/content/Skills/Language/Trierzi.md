@@ -1,6 +1,7 @@
 ---
 aliases:
   - Tríerzi
+  - skill-trierzi
 tags: []
 name:
     full: Tríerzi

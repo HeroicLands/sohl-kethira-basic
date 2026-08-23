@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-meteor
 tags: []
 name:
   full: Meteor

@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-beacon
 tags: []
 name:
   full: Beacon

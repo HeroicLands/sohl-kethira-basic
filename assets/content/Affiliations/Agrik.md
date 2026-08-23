@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ágrik
+  - affiliation-agrik
 tags: []
 name:
     full: Ágrik

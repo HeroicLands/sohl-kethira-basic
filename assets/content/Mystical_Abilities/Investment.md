@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-investment
 tags: []
 name:
   full: Investment

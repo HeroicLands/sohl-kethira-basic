@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-beckon
 tags: []
 name:
   full: Beckon

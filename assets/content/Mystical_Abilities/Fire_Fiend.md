@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-firefiend
 tags: []
 name:
   full: Fire Fiend

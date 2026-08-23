@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-tone
 tags: []
 name:
   full: Tone

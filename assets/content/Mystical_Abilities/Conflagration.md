@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-conflagration
 tags: []
 name:
   full: Conflagration

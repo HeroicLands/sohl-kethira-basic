@@ -1,6 +1,7 @@
 ---
 aliases:
   - Zârenor
+  - skill-zarenor
 tags: []
 name:
     full: Zârenor

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Lyáhvi
+  - skill-lyahvi
 tags: []
 name:
     full: Lyáhvi

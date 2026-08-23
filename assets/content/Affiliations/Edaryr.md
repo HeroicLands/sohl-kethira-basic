@@ -1,6 +1,7 @@
 ---
 aliases:
   - Edâryr
+  - affiliation-edaryr
 tags: []
 name:
     full: Edâryr
