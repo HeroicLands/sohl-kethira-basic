@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-cecity
 tags: []
 name:
   full: Cecity

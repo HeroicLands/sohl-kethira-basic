@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ládo-Ùlándus
+  - mystery-ladoulandus
 tags: []
 name:
     full: Ládo-Ùlándus

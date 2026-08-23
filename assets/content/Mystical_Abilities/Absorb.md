@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-absorb
 tags: []
 name:
   full: Absorb

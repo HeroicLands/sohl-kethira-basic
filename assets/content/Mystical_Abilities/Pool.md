@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-pool
 tags: []
 name:
   full: Pool

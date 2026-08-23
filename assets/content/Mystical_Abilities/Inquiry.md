@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-inquiry
 tags: []
 name:
   full: Inquiry

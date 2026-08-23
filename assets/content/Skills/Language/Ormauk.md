@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ormauk
+  - skill-ormauk
 tags: []
 name:
     full: Ormauk

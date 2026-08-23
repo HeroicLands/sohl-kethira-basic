@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-mend
 tags: []
 name:
   full: Mend

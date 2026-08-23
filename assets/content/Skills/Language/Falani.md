@@ -1,6 +1,7 @@
 ---
 aliases:
   - Faláni
+  - skill-falani
 tags: []
 name:
     full: Faláni

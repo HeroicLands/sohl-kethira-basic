@@ -1,6 +1,7 @@
 ---
 aliases:
   - Búqdin
+  - skill-buqdin
 tags: []
 name:
     full: Búqdin

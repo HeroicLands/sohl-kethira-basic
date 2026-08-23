@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-diversion
 tags: []
 name:
   full: Diversion

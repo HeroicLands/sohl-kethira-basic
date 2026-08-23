@@ -1,6 +1,7 @@
 ---
 aliases:
   - Fývria
+  - skill-fyvria
 tags: []
 name:
     full: Fývria

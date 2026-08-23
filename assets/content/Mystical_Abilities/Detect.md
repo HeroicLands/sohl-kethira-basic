@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-detect
 tags: []
 name:
   full: Detect

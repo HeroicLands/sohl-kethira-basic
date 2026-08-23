@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-unveiling
 tags: []
 name:
   full: Unveiling

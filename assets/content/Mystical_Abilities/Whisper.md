@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-whisper
 tags: []
 name:
   full: Whisper

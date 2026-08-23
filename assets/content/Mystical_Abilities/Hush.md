@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-hush
 tags: []
 name:
   full: Hush

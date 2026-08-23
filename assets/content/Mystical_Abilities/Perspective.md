@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-perspective
 tags: []
 name:
   full: Perspective

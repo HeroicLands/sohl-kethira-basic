@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-panic
 tags: []
 name:
   full: Panic

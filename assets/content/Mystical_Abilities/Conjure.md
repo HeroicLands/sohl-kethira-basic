@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-conjure
 tags: []
 name:
   full: Conjure

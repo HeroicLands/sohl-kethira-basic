@@ -1,6 +1,7 @@
 ---
 aliases:
   - Siém
+  - skill-siem
 tags: []
 name:
     full: Siém

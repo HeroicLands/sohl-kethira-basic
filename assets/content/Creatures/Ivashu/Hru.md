@@ -2,6 +2,7 @@
 aliases:
   - Hrú
   - Rock Giant
+  - being-hru
 tags:
   - creature
 name:

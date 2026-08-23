@@ -1,6 +1,7 @@
 ---
 aliases:
   - Dálken
+  - skill-dalken
 tags: []
 name:
     full: Dálken

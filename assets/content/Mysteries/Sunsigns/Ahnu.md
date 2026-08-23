@@ -1,6 +1,7 @@
 ---
 aliases:
   - Áhnù
+  - mystery-ahnu
 tags: []
 name:
     full: Áhnù

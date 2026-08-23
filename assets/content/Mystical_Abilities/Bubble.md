@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-bubble
 tags: []
 name:
   full: Bubble

@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-growth
 tags: []
 name:
   full: Growth

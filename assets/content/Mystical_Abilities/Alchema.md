@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-alchema
 tags: []
 name:
   full: Alchema

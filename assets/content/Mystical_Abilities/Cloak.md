@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-cloak
 tags: []
 name:
   full: Cloak

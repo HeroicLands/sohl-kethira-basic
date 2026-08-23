@@ -1,6 +1,7 @@
 ---
 aliases:
   - Tai
+  - mystery-tai
 tags: []
 name:
     full: Tai

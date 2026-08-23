@@ -1,6 +1,7 @@
 ---
 aliases:
     - Bandit Archer 1
+    - being-banditarcher1
 tags: []
 name:
     full: Bandit Archer 1

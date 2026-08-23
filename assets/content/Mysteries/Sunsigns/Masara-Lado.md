@@ -1,6 +1,7 @@
 ---
 aliases:
   - Masâra-Ládo
+  - mystery-masaralado
 tags: []
 name:
     full: Masâra-Ládo

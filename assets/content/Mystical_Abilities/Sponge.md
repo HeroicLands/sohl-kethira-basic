@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-sponge
 tags: []
 name:
   full: Sponge

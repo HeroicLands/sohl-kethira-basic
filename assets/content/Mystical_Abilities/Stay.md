@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-stay
 tags: []
 name:
   full: Stay

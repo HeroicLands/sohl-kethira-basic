@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-dispel
 tags: []
 name:
   full: Dispel

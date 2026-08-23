@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-slumber
 tags: []
 name:
   full: Slumber

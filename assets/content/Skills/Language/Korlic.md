@@ -1,6 +1,7 @@
 ---
 aliases:
   - Kôrlic
+  - skill-korlic
 tags: []
 name:
     full: Kôrlic

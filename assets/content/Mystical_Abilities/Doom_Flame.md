@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-doomflame
 tags: []
 name:
   full: Doom Flame

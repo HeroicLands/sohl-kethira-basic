@@ -39,7 +39,7 @@
         "deploy:dev": "run-s build push:dev",
         "deploy:prod": "run-s build push:prod",
         "deploy:release": "run-s build build:pack-release",
-        "lint": "run-s lint:lang lint:content-links lint:labels",
+        "lint": "run-s lint:lang lint:addresses lint:content-links lint:labels",
         "lint:lang": "package-build lang check",
         "lint:addresses": "content-build lint",
         "lint:content-links": "content-build links",

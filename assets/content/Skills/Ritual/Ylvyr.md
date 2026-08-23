@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ylvýr
+  - skill-ylvyr
 tags: []
 name:
     full: Ylvýr

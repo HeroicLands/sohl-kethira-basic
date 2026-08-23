@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-curtain
 tags: []
 name:
   full: Curtain

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Áklash
+  - being-aklash
 tags:
   - creature
 name:

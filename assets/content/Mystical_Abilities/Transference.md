@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-trnsf
 tags: []
 name:
   full: Transference

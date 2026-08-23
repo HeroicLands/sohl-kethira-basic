@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-tube
 tags: []
 name:
   full: Tube

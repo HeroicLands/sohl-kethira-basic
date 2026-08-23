@@ -1,6 +1,7 @@
 ---
 aliases:
   - Quârphic
+  - skill-quarphic
 tags: []
 name:
     full: Quârphic

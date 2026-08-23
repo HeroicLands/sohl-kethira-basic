@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-pocket
 tags: []
 name:
   full: Pocket

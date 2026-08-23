@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-shootingstar
 tags: []
 name:
   full: Shooting Star

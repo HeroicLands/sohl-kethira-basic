@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-rampart
 tags: []
 name:
   full: Rampart

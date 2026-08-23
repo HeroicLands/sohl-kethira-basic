@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-balm
 tags: []
 name:
   full: Balm

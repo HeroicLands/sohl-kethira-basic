@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ùlándus-Arálius
+  - mystery-ulandusaralius
 tags: []
 name:
     full: Ùlándus-Arálius

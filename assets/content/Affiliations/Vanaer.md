@@ -1,6 +1,7 @@
 ---
 aliases:
   - Vanáer
+  - affiliation-vanaer
 tags: []
 name:
     full: Vanáer

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Masâra
+  - mystery-masara
 tags: []
 name:
     full: Masâra

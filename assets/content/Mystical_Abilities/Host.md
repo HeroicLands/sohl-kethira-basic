@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-host
 tags: []
 name:
   full: Host

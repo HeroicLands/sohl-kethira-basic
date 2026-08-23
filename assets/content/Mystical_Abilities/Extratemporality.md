@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-xtratemp
 tags: []
 name:
   full: Extratemporality

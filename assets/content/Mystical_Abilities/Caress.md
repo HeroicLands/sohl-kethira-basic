@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-caress
 tags: []
 name:
   full: Caress

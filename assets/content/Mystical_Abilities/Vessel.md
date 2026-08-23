@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-vessel
 tags: []
 name:
   full: Vessel

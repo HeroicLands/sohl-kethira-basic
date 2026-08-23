@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-beam
 tags: []
 name:
   full: Beam

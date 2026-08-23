@@ -2,6 +2,7 @@
 aliases:
   - Gârgún Hyéka
   - Brown Gârgún
+  - being-hyeka
 tags:
   - folk
   - gargun

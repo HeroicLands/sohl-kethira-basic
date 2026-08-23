@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ágrik
+  - skill-agrik
 tags: []
 name:
     full: Ágrik

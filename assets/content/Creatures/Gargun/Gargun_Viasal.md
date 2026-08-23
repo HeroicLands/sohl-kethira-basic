@@ -2,6 +2,7 @@
 aliases:
   - Gârgún Viásal
   - Red Gârgún
+  - being-viasal
 tags:
   - folk
   - gargun

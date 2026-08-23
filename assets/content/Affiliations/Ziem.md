@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ziém
+  - affiliation-ziem
 tags: []
 name:
     full: Ziém

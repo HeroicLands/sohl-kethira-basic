@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-vsnm
 tags: []
 name:
   full: Visnomy

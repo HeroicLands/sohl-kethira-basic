@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-auralblast
 tags: []
 name:
   full: Aural Blast
