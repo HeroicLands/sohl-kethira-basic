@@ -4,8 +4,8 @@ aliases:
   - affiliation-halea
 tags: []
 name:
-    full: Haléa
-    aliases: []
+  full: Haléa
+  aliases: []
 description: ""
 id: urYK2XuIjOlxb0qm
 slug: halea
@@ -15,12 +15,12 @@ type: affiliation
 pack: mysteries
 package: kethira
 sohl:
-    kbcat: affiliation
-    subType: divine
-    archetype: 0
-    society: ""
-    office: ""
-    title: ""
-    level: 1
+  kbcat: affiliation
+  subType: divine
+  archetype: 0
+  society: ""
+  office: ""
+  title: ""
+  level: 1
 folder: 0pBXQXg3toSZ51hX
 ---

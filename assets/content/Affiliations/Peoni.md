@@ -4,8 +4,8 @@ aliases:
   - affiliation-peoni
 tags: []
 name:
-    full: Peóni
-    aliases: []
+  full: Peóni
+  aliases: []
 description: ""
 id: SYhFAPfzIucCQ5bO
 slug: peoni
@@ -15,12 +15,12 @@ type: affiliation
 pack: mysteries
 package: kethira
 sohl:
-    kbcat: affiliation
-    subType: divine
-    archetype: 0
-    society: ""
-    office: ""
-    title: ""
-    level: 1
+  kbcat: affiliation
+  subType: divine
+  archetype: 0
+  society: ""
+  office: ""
+  title: ""
+  level: 1
 folder: 0pBXQXg3toSZ51hX
 ---

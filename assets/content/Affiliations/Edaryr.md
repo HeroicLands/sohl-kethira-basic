@@ -4,8 +4,8 @@ aliases:
   - affiliation-edaryr
 tags: []
 name:
-    full: Edâryr
-    aliases: []
+  full: Edâryr
+  aliases: []
 description: ""
 id: q8FnkJCKHBiX9SMQ
 slug: edaryr
@@ -15,12 +15,12 @@ type: affiliation
 pack: mysteries
 package: kethira
 sohl:
-    kbcat: affiliation
-    subType: divine
-    archetype: 0
-    society: ""
-    office: ""
-    title: ""
-    level: 1
+  kbcat: affiliation
+  subType: divine
+  archetype: 0
+  society: ""
+  office: ""
+  title: ""
+  level: 1
 folder: 0pBXQXg3toSZ51hX
 ---

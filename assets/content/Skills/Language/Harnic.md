@@ -4,8 +4,8 @@ aliases:
   - skill-harnic
 tags: []
 name:
-    full: Hârnic
-    aliases: []
+  full: Hârnic
+  aliases: []
 description: ""
 id: woFaMUgznLPQREME
 slug: harnic
@@ -15,18 +15,18 @@ type: skill
 pack: characteristics
 package: kethira
 sohl:
-    kbcat: language
-    archetype: 0
-    subType: language
-    skillBaseFormula: "sb(attr.elo, attr.rea)"
-    assocAffiliationCode: null
-    combatCategory: none
-    parentSkillCode: ""
-    initSkillMult: 0
-    masteryLevelBase: 0
-    improveFlag: false
-    impairedByRoles:
-        - vital
-        - core
+  kbcat: language
+  archetype: 0
+  subType: language
+  skillBaseFormula: "sb(attr.elo, attr.rea)"
+  assocAffiliationCode: null
+  combatCategory: none
+  parentSkillCode: ""
+  initSkillMult: 0
+  masteryLevelBase: 0
+  improveFlag: false
+  impairedByRoles:
+    - vital
+    - core
 folder: evxGl6bHAVpxkHmN
 ---

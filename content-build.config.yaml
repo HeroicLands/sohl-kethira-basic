@@ -138,8 +138,18 @@ itemBuilders: sohl
 # available at build time; enabling the pass is then this list and nothing else.
 # Tracked in #28.
 packs:
-    - { name: characteristics, label: Characteristics, type: Item, folders: item-folders.yaml }
-    - { name: mysteries, label: Mysteries, type: Item, folders: mystery-folders.yaml }
+    - {
+          name: characteristics,
+          label: Characteristics,
+          type: Item,
+          folders: item-folders.yaml,
+      }
+    - {
+          name: mysteries,
+          label: Mysteries,
+          type: Item,
+          folders: mystery-folders.yaml,
+      }
 
 # Publishing is a matrix, and this module sits at its most restrictive corner.
 # It renders no knowledgebase or website pages, and it publishes no link

@@ -4,8 +4,8 @@ aliases:
   - affiliation-cultcovenant
 tags: []
 name:
-    full: Cult of the Covenant
-    aliases: []
+  full: Cult of the Covenant
+  aliases: []
 description: ""
 id: biynYaIWdpHXUw8O
 slug: cult-of-the-covenant
@@ -15,12 +15,12 @@ type: affiliation
 pack: mysteries
 package: kethira
 sohl:
-    kbcat: affiliation
-    subType: divine
-    archetype: 0
-    society: ""
-    office: ""
-    title: ""
-    level: 1
+  kbcat: affiliation
+  subType: divine
+  archetype: 0
+  society: ""
+  office: ""
+  title: ""
+  level: 1
 folder: 0pBXQXg3toSZ51hX
 ---

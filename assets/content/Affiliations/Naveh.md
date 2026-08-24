@@ -4,8 +4,8 @@ aliases:
   - affiliation-naveh
 tags: []
 name:
-    full: Navéh
-    aliases: []
+  full: Navéh
+  aliases: []
 description: ""
 id: 2wuZBbaRam4wY03W
 slug: naveh
@@ -15,12 +15,12 @@ type: affiliation
 pack: mysteries
 package: kethira
 sohl:
-    kbcat: affiliation
-    subType: divine
-    archetype: 0
-    society: ""
-    office: ""
-    title: ""
-    level: 1
+  kbcat: affiliation
+  subType: divine
+  archetype: 0
+  society: ""
+  office: ""
+  title: ""
+  level: 1
 folder: 0pBXQXg3toSZ51hX
 ---

@@ -4,8 +4,8 @@ aliases:
   - skill-ayaran
 tags: []
 name:
-    full: Ayâran
-    aliases: []
+  full: Ayâran
+  aliases: []
 description: ""
 id: kAI2d1vXajl7XdD7
 slug: ayaran
@@ -15,19 +15,19 @@ type: skill
 pack: characteristics
 package: kethira
 sohl:
-    kbcat: script
-    archetype: 0
-    subType: script
-    skillBaseFormula: "sb(attr.rea, attr.per)"
-    assocAffiliationCode: null
-    combatCategory: none
-    parentSkillCode: ""
-    initSkillMult: 0
-    masteryLevelBase: 0
-    improveFlag: false
-    impairedByRoles:
-        - vital
-        - core
-        - manipulator
+  kbcat: script
+  archetype: 0
+  subType: script
+  skillBaseFormula: "sb(attr.rea, attr.per)"
+  assocAffiliationCode: null
+  combatCategory: none
+  parentSkillCode: ""
+  initSkillMult: 0
+  masteryLevelBase: 0
+  improveFlag: false
+  impairedByRoles:
+    - vital
+    - core
+    - manipulator
 folder: mvjb3irIVg3kk1HY
 ---

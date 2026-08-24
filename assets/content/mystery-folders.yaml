@@ -8,15 +8,15 @@
 - name: Philosophies
   id: XnLMIFiDq8uM4fMi
   parentFolderId: ""
-  color: '#008F00'
+  color: "#008F00"
 - name: Spells
   id: 5ZF66wXiv8vDffS9
   parentFolderId: ""
-  color: '#800000'
+  color: "#800000"
 - name: Arcane Talents
   id: erU4UqfJtaHDk7YU
   parentFolderId: ""
-  color: '#801000'
+  color: "#801000"
 # Sunsigns and Affiliations post-date the pre-#1513 pack source, so unlike the
 # folders above their ids are not restored from it — they are the ids the notes
 # themselves already carry, adopted here rather than reassigned, so no note is
@@ -24,36 +24,36 @@
 - name: Sunsigns
   id: doIwpD92J7NodK9W
   parentFolderId: ""
-  color: '#B8860B'
+  color: "#B8860B"
 - name: Affiliations
   id: 0pBXQXg3toSZ51hX
   parentFolderId: ""
-  color: '#4B0082'
+  color: "#4B0082"
 - name: Odívshè
   id: 7ccHolMvySyG8laH
   parentFolderId: 5ZF66wXiv8vDffS9
-  color: '#8b4513'
+  color: "#8b4513"
 - name: Sàvôrya
   id: OEPLCztBIC7QgLkl
   parentFolderId: 5ZF66wXiv8vDffS9
-  color: '#a9a9a9'
+  color: "#a9a9a9"
 - name: Lyáhvi
   id: Akw3ICeogWX6wv1p
   parentFolderId: 5ZF66wXiv8vDffS9
-  color: '#00bfff'
+  color: "#00bfff"
 - name: Neutral
   id: tenkqzeQTszpAWXu
   parentFolderId: 5ZF66wXiv8vDffS9
-  color: '#5c5c5c'
+  color: "#5c5c5c"
 - name: Pèleáhn
   id: KIHoq1ccl3Nhostl
   parentFolderId: 5ZF66wXiv8vDffS9
-  color: '#0000ff'
+  color: "#0000ff"
 - name: Jmôrvi
   id: LeWjP4bk9xkAOcza
   parentFolderId: 5ZF66wXiv8vDffS9
-  color: '#ff0000'
+  color: "#ff0000"
 - name: Fývria
   id: BcdoPpsdCvuV98RV
   parentFolderId: 5ZF66wXiv8vDffS9
-  color: '#648264'
+  color: "#648264"

@@ -4,8 +4,8 @@ aliases:
   - affiliation-zarenor
 tags: []
 name:
-    full: Zârenor
-    aliases: []
+  full: Zârenor
+  aliases: []
 description: ""
 id: e5vQ9Bfcnpp8UxG0
 slug: zarenor
@@ -15,12 +15,12 @@ type: affiliation
 pack: mysteries
 package: kethira
 sohl:
-    kbcat: affiliation
-    subType: divine
-    archetype: 0
-    society: ""
-    office: ""
-    title: ""
-    level: 1
+  kbcat: affiliation
+  subType: divine
+  archetype: 0
+  society: ""
+  office: ""
+  title: ""
+  level: 1
 folder: 0pBXQXg3toSZ51hX
 ---

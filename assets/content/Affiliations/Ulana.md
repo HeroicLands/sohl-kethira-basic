@@ -4,8 +4,8 @@ aliases:
   - affiliation-ulana
 tags: []
 name:
-    full: Úlana
-    aliases: []
+  full: Úlana
+  aliases: []
 description: ""
 id: 8ZPDqhKo3jD1kBt1
 slug: ulana
@@ -15,12 +15,12 @@ type: affiliation
 pack: mysteries
 package: kethira
 sohl:
-    kbcat: affiliation
-    subType: divine
-    archetype: 0
-    society: ""
-    office: ""
-    title: ""
-    level: 1
+  kbcat: affiliation
+  subType: divine
+  archetype: 0
+  society: ""
+  office: ""
+  title: ""
+  level: 1
 folder: 0pBXQXg3toSZ51hX
 ---

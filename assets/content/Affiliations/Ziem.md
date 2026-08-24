@@ -4,8 +4,8 @@ aliases:
   - affiliation-ziem
 tags: []
 name:
-    full: Ziém
-    aliases: []
+  full: Ziém
+  aliases: []
 description: ""
 id: D9WPXgjPJFJbHdu3
 slug: ziem
@@ -15,12 +15,12 @@ type: affiliation
 pack: mysteries
 package: kethira
 sohl:
-    kbcat: affiliation
-    subType: divine
-    archetype: 0
-    society: ""
-    office: ""
-    title: ""
-    level: 1
+  kbcat: affiliation
+  subType: divine
+  archetype: 0
+  society: ""
+  office: ""
+  title: ""
+  level: 1
 folder: 0pBXQXg3toSZ51hX
 ---

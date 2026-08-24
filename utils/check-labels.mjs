@@ -37,40 +37,40 @@ const DOC = ".github/ISSUE_REPORTING.md";
  * rather than mid-sync against the GitHub API.
  */
 function registryNames() {
-  const list = parse(readFileSync(resolve(".github/labels.yml"), "utf8"));
-  const tooLong = list.filter(
-    (l) => (l.description ?? "").length > MAX_DESCRIPTION,
-  );
-  if (tooLong.length) {
-    console.error(
-      `check-labels: label description exceeds ${MAX_DESCRIPTION} chars (GitHub's limit):`,
+    const list = parse(readFileSync(resolve(".github/labels.yml"), "utf8"));
+    const tooLong = list.filter(
+        (l) => (l.description ?? "").length > MAX_DESCRIPTION,
     );
-    for (const l of tooLong) {
-      console.error(`  ${l.name} — ${l.description.length} chars`);
+    if (tooLong.length) {
+        console.error(
+            `check-labels: label description exceeds ${MAX_DESCRIPTION} chars (GitHub's limit):`,
+        );
+        for (const l of tooLong) {
+            console.error(`  ${l.name} — ${l.description.length} chars`);
+        }
+        process.exit(1);
     }
-    process.exit(1);
-  }
-  return new Set(list.map((l) => l.name));
+    return new Set(list.map((l) => l.name));
 }
 
 /** Label names listed in the §3 table of the issue-reporting doc. */
 function docNames() {
-  const md = readFileSync(resolve(DOC), "utf8").split("\n");
-  const start = md.findIndex((l) => /^##\s+3\./.test(l));
-  if (start < 0) throw new Error(`Could not find §3 in ${DOC}`);
-  const end = md.findIndex((l, i) => i > start && /^##\s+\d/.test(l));
-  const section = md.slice(start, end < 0 ? md.length : end);
-  const names = new Set();
-  for (const line of section) {
-    // A registry row is a table row whose first cell is `` `label-name` ``.
-    const m = line.match(/^\|\s*`([a-z][a-z-]*)`\s*\|/);
-    if (m) names.add(m[1]);
-  }
-  return names;
+    const md = readFileSync(resolve(DOC), "utf8").split("\n");
+    const start = md.findIndex((l) => /^##\s+3\./.test(l));
+    if (start < 0) throw new Error(`Could not find §3 in ${DOC}`);
+    const end = md.findIndex((l, i) => i > start && /^##\s+\d/.test(l));
+    const section = md.slice(start, end < 0 ? md.length : end);
+    const names = new Set();
+    for (const line of section) {
+        // A registry row is a table row whose first cell is `` `label-name` ``.
+        const m = line.match(/^\|\s*`([a-z][a-z-]*)`\s*\|/);
+        if (m) names.add(m[1]);
+    }
+    return names;
 }
 
 function diff(a, b) {
-  return [...a].filter((x) => !b.has(x));
+    return [...a].filter((x) => !b.has(x));
 }
 
 const registry = registryNames();
@@ -80,15 +80,17 @@ const missingFromDoc = diff(registry, doc);
 const missingFromRegistry = diff(doc, registry);
 
 if (missingFromDoc.length || missingFromRegistry.length) {
-  console.error(`check-labels: .github/labels.yml and ${DOC} §3 disagree.`);
-  if (missingFromDoc.length)
-    console.error(`  in labels.yml but not §3: ${missingFromDoc.join(", ")}`);
-  if (missingFromRegistry.length)
-    console.error(
-      `  in §3 but not labels.yml: ${missingFromRegistry.join(", ")}`,
-    );
-  console.error(`Edit both when changing the registry (see ${DOC} §3).`);
-  process.exit(1);
+    console.error(`check-labels: .github/labels.yml and ${DOC} §3 disagree.`);
+    if (missingFromDoc.length)
+        console.error(
+            `  in labels.yml but not §3: ${missingFromDoc.join(", ")}`,
+        );
+    if (missingFromRegistry.length)
+        console.error(
+            `  in §3 but not labels.yml: ${missingFromRegistry.join(", ")}`,
+        );
+    console.error(`Edit both when changing the registry (see ${DOC} §3).`);
+    process.exit(1);
 }
 
 console.log(`check-labels: registry and §3 agree (${registry.size} labels).`);
