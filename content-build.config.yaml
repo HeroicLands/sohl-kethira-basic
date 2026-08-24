@@ -8,8 +8,8 @@ stats:
     lastModifiedBy: kethirabuild0000
 
 compatibility:
-    minimum: "14"
-    verified: "14"
+    minimum: "14.356"
+    verified: "14.356"
 
 relationships:
     systems:
