@@ -1,6 +1,7 @@
 ---
 aliases:
   - Neutral
+  - skill-neutral
 tags: []
 name:
     full: Neutral

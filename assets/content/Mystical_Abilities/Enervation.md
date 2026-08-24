@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-enervation
 tags: []
 name:
   full: Enervation

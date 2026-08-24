@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-aspect
 tags: []
 name:
   full: Aspect

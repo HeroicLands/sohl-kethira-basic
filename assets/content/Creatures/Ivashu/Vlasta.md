@@ -3,6 +3,7 @@ aliases:
   - Vlásta
   - Swift One
   - Eater of Eyes
+  - being-vlasta
 tags:
   - creature
 name:

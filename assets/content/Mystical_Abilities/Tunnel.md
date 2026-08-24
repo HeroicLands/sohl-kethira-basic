@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-tunnel
 tags: []
 name:
   full: Tunnel

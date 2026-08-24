@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-waterwalk
 tags: []
 name:
   full: Waterwalk

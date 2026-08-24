@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-brand
 tags: []
 name:
   full: Brand

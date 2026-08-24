@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-call
 tags: []
 name:
   full: Call

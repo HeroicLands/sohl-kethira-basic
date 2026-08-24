@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-cooling
 tags: []
 name:
   full: Cooling

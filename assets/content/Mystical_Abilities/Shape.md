@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-shape
 tags: []
 name:
   full: Shape

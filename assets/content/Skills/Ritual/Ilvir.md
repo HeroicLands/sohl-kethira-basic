@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ilvîr
+  - skill-ilvir
 tags: []
 name:
     full: Ilvîr

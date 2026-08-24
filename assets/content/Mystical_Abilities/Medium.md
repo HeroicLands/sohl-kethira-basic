@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-medm
 tags: []
 name:
   full: Medium

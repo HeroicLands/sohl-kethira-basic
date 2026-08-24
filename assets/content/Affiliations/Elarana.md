@@ -1,6 +1,7 @@
 ---
 aliases:
   - Elarána
+  - affiliation-elarana
 tags: []
 name:
     full: Elarána

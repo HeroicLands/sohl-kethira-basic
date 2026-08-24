@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-petrification
 tags: []
 name:
   full: Petrification

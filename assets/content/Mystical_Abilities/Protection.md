@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-protection
 tags: []
 name:
   full: Protection

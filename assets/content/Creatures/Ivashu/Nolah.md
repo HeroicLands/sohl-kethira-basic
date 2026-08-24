@@ -3,6 +3,7 @@ aliases:
   - Nólah
   - Nolahrin
   - Dank Stalker
+  - being-nolah
 tags:
   - creature
 name:

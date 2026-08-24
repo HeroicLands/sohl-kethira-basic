@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-dowsing
 tags: []
 name:
   full: Dowsing

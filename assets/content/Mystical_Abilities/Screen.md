@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-screen
 tags: []
 name:
   full: Screen

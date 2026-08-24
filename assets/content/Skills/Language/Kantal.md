@@ -1,6 +1,7 @@
 ---
 aliases:
   - Kántâl
+  - skill-kantal
 tags: []
 name:
     full: Kántâl

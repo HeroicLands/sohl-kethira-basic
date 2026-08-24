@@ -1,6 +1,7 @@
 ---
 aliases:
   - Môrdar
+  - affiliation-mordar
 tags: []
 name:
     full: Môrdar

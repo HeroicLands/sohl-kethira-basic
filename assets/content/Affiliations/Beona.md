@@ -1,6 +1,7 @@
 ---
 aliases:
   - Beóna
+  - affiliation-beona
 tags: []
 name:
     full: Beóna

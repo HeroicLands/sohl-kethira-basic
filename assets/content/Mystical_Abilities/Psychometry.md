@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-phyc
 tags: []
 name:
   full: Psychometry

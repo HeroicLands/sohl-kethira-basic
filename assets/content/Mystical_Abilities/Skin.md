@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-skin
 tags: []
 name:
   full: Skin

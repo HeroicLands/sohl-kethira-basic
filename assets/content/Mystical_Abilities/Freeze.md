@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-freeze
 tags: []
 name:
   full: Freeze

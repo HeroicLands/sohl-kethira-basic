@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-view
 tags: []
 name:
   full: View

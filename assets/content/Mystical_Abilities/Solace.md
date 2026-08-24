@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-solace
 tags: []
 name:
   full: Solace

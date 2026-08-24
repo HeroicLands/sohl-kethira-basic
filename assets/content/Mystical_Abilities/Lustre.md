@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-lustre
 tags: []
 name:
   full: Lustre

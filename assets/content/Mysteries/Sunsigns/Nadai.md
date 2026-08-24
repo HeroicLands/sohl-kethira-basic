@@ -1,6 +1,7 @@
 ---
 aliases:
   - Nadái
+  - mystery-nadai
 tags: []
 name:
     full: Nadái

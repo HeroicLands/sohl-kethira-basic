@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ayâran
+  - skill-ayaran
 tags: []
 name:
     full: Ayâran

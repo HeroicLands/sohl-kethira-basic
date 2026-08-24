@@ -1,6 +1,7 @@
 ---
 aliases:
   - Jârin
+  - skill-jarin
 tags: []
 name:
     full: Jârin

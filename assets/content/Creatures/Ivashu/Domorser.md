@@ -2,6 +2,7 @@
 aliases:
   - Dómôrsèr
   - Nightcrawler
+  - being-domorser
 tags:
   - creature
 name:

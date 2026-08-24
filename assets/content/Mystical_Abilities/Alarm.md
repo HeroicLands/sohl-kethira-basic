@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-alarm
 tags: []
 name:
   full: Alarm

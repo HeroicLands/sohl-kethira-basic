@@ -1,6 +1,7 @@
 ---
 aliases:
   - Gáranik
+  - skill-garanik
 tags: []
 name:
     full: Gáranik

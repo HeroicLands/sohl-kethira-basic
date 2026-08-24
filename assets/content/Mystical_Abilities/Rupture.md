@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-rupture
 tags: []
 name:
   full: Rupture

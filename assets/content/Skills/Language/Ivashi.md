@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ivashi
+  - skill-ivashi
 tags: []
 name:
     full: Ivashi

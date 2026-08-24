@@ -1,6 +1,7 @@
 ---
 aliases:
   - Selénian
+  - skill-selenian
 tags: []
 name:
     full: Selénian

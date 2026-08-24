@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-prism
 tags: []
 name:
   full: Prism

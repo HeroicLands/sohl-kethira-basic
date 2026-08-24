@@ -1,6 +1,7 @@
 ---
 aliases:
   - Sináin
+  - skill-sinain
 tags: []
 name:
     full: Sináin

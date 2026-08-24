@@ -21,15 +21,34 @@
     },
     "scripts": {
         "prepare": "git config core.hooksPath .githooks || true",
-        "build": "npm run build:compiledb",
+        "clean": "package-build clean",
+        "distclean": "package-build clean --distclean",
+        "build": "npm ci && npm run build:noci",
+        "build:local": "npm i && npm run build:noci",
+        "build:noci": "run-s lint build:db build:module",
+        "build:db": "run-s build:assets build:compiledb",
+        "build:assets": "package-build assets",
         "build:compiledb": "content-build package compile",
         "build:unpackdb": "content-build package unpack",
-        "build:cleandb": "content-build package clean",
-        "lint": "npm run lint:labels",
+        "build:module": "package-build manifest",
+        "build:pack-release": "package-build release",
+        "push:dev": "package-build deploy dev",
+        "push:qa": "package-build deploy qa",
+        "push:prod": "package-build deploy prod",
+        "deploy:qa": "run-s build push:qa",
+        "deploy:dev": "run-s build push:dev",
+        "deploy:prod": "run-s build push:prod",
+        "deploy:release": "run-s build build:pack-release",
+        "lint": "run-s lint:lang lint:addresses lint:content-links lint:labels",
+        "lint:lang": "package-build lang check",
+        "lint:addresses": "content-build lint",
+        "lint:content-links": "content-build links",
         "lint:labels": "node utils/check-labels.mjs"
     },
     "devDependencies": {
-        "@heroiclands/content-build": "^0.7.0",
+        "@heroiclands/content-build": "^1.4.0",
+        "@heroiclands/package-build": "^0.6.0",
+        "npm-run-all": "^4.1.5",
         "yaml": "^2.9.0"
     }
 }

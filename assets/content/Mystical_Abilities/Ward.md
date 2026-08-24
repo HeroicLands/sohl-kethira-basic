@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-ward
 tags: []
 name:
   full: Ward

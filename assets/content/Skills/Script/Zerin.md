@@ -1,6 +1,7 @@
 ---
 aliases:
   - Zérin
+  - skill-zerin
 tags: []
 name:
     full: Zérin

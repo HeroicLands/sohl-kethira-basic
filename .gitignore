@@ -40,6 +40,9 @@ AI.md
 build/
 _source/
 venv/
+# Legacy: the compiled LevelDB packs landed at the repository root until the
+# packs moved into the build stage (#26). Kept so a checkout that still carries
+# the old directory does not report it as untracked.
 /packs
 
 # Distrubution files

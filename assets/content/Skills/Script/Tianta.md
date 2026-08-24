@@ -1,6 +1,7 @@
 ---
 aliases:
   - Tiánta
+  - skill-tianta
 tags: []
 name:
     full: Tiánta

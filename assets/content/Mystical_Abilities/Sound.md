@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-sound
 tags: []
 name:
   full: Sound

@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-swordbreaker
 tags: []
 name:
   full: Swordbreaker

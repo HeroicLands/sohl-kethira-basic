@@ -1,6 +1,7 @@
 ---
 aliases:
   - Úlana
+  - affiliation-ulana
 tags: []
 name:
     full: Úlana

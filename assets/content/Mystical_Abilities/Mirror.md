@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-mirror
 tags: []
 name:
   full: Mirror

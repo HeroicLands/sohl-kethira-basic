@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - mysticalability-candor
 tags: []
 name:
   full: Candor
