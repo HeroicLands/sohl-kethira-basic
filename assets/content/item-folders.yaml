@@ -1,25 +1,24 @@
 - name: Skills
   id: I7NdWG9IXkYkhYci
   parentFolderId: ""
-  color: '#2337c9'
+  color: "#2337c9"
 - name: Esoteric
   id: 5ZTScnOxLg4we0Zo
   parentFolderId: "I7NdWG9IXkYkhYci"
-  color: '#ca3232'
+  color: "#ca3232"
 - name: Languages
   id: evxGl6bHAVpxkHmN
   parentFolderId: "I7NdWG9IXkYkhYci"
-  color: '#007a6c'
+  color: "#007a6c"
 - name: Scripts
   id: mvjb3irIVg3kk1HY
   parentFolderId: "I7NdWG9IXkYkhYci"
-  color: '#007a6c'
+  color: "#007a6c"
 - name: Rituals
   id: 7ndtuoO1haJpQbgf
   parentFolderId: "I7NdWG9IXkYkhYci"
-  color: '#ca3232'
+  color: "#ca3232"
 - name: Traits
   id: lmtaalJfoq7ywWz5
   parentFolderId: ""
-  color: '#800080'
-
+  color: "#800080"

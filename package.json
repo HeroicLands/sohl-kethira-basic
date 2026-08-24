@@ -39,7 +39,12 @@
         "deploy:dev": "run-s build push:dev",
         "deploy:prod": "run-s build push:prod",
         "deploy:release": "run-s build build:pack-release",
-        "lint": "run-s lint:lang lint:addresses lint:content-links lint:labels",
+        "format": "content-build format --write",
+        "format:check": "content-build format",
+        "lint": "run-s lint:format lint:markdown lint:lang lint:addresses lint:content-links lint:labels",
+        "lint:format": "content-build format",
+        "lint:markdown": "content-build markdown",
+        "lint:markdown:fix": "content-build markdown --fix",
         "lint:lang": "package-build lang check",
         "lint:addresses": "content-build lint",
         "lint:content-links": "content-build links",
@@ -50,7 +55,7 @@
     },
     "devDependencies": {
         "@changesets/cli": "^3.0.1",
-        "@heroiclands/content-build": "^1.4.0",
+        "@heroiclands/content-build": "^1.7.0",
         "@heroiclands/package-build": "^0.6.0",
         "npm-run-all": "^4.1.5",
         "yaml": "^2.9.0"

@@ -2,31 +2,31 @@ name: Bug
 description: Existing behavior is broken — an error, crash, wrong result, or regression.
 type: Bug
 body:
-  - type: textarea
-    id: description
-    attributes:
-      label: Description
-      description: Describe the problem fully so it can be reproduced. Do not propose a fix here — put fix ideas in a comment. Exploitable weaknesses must be reported privately, never as a public issue.
-      value: |
-        ## Summary
-        One sentence: what's wrong.
+    - type: textarea
+      id: description
+      attributes:
+          label: Description
+          description: Describe the problem fully so it can be reproduced. Do not propose a fix here — put fix ideas in a comment. Exploitable weaknesses must be reported privately, never as a public issue.
+          value: |
+              ## Summary
+              One sentence: what's wrong.
 
-        ## Steps to reproduce
-        1. …
-        2. …
+              ## Steps to reproduce
+              1. …
+              2. …
 
-        ## Expected vs. actual
-        Expected: …
-        Actual: …
+              ## Expected vs. actual
+              Expected: …
+              Actual: …
 
-        ## Acceptance criteria
-        - [ ] Observable condition 1
-        - [ ] Observable condition 2
+              ## Acceptance criteria
+              - [ ] Observable condition 1
+              - [ ] Observable condition 2
 
-        ## Environment
-        Foundry version · SoHL system version · module version · browser/OS if relevant
+              ## Environment
+              Foundry version · SoHL system version · module version · browser/OS if relevant
 
-        ## Notes
-        Stack traces, console output, suspected cause.
-    validations:
-      required: true
+              ## Notes
+              Stack traces, console output, suspected cause.
+      validations:
+          required: true

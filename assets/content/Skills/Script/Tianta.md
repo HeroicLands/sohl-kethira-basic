@@ -4,8 +4,8 @@ aliases:
   - skill-tianta
 tags: []
 name:
-    full: Tiánta
-    aliases: []
+  full: Tiánta
+  aliases: []
 description: ""
 id: HZQuPFugy024lS8y
 slug: tianta
@@ -15,19 +15,19 @@ type: skill
 pack: characteristics
 package: kethira
 sohl:
-    kbcat: script
-    archetype: 0
-    subType: script
-    skillBaseFormula: "sb(attr.rea, attr.per)"
-    assocAffiliationCode: null
-    combatCategory: none
-    parentSkillCode: ""
-    initSkillMult: 0
-    masteryLevelBase: 0
-    improveFlag: false
-    impairedByRoles:
-        - vital
-        - core
-        - manipulator
+  kbcat: script
+  archetype: 0
+  subType: script
+  skillBaseFormula: "sb(attr.rea, attr.per)"
+  assocAffiliationCode: null
+  combatCategory: none
+  parentSkillCode: ""
+  initSkillMult: 0
+  masteryLevelBase: 0
+  improveFlag: false
+  impairedByRoles:
+    - vital
+    - core
+    - manipulator
 folder: mvjb3irIVg3kk1HY
 ---

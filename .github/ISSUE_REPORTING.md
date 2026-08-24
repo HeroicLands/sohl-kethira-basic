@@ -106,19 +106,19 @@ registry describes only what that repository can hold. `system`, `tests`, `site`
 and `thalorna` are absent here: this repository ships no system code, no test
 suite, and no website, and every issue in it is Kethira by definition.
 
-| Label             | Scope                                                                                                                        |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| `content`         | Kethira material — notes, compendium packs, actors, items, journals, scenes, artwork.                                        |
-| `documentation`   | Documentation about this repository — README, CLAUDE.md, process, authoring guides.                                          |
-| `devops`          | Build, tooling, pack pipeline, release, repo config.                                                                         |
+| Label             | Scope                                                                                                                         |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| `content`         | Kethira material — notes, compendium packs, actors, items, journals, scenes, artwork.                                         |
+| `documentation`   | Documentation about this repository — README, CLAUDE.md, process, authoring guides.                                           |
+| `devops`          | Build, tooling, pack pipeline, release, repo config.                                                                          |
 | `security`        | Touches an attack surface: data integrity, macro/script execution, injection, or anything warranting private disclosure (§7). |
-| `tech-debt`       | Restructuring or cleanup of working content or tooling; refactors.                                                           |
-| `regression`      | Something that previously worked and stopped. Pairs with type `bug`.                                                         |
-| `breaking-change` | Alters a shortcode, document ID, or pack compatibility in a way existing worlds will notice.                                 |
-| `blocked`         | Cannot proceed until an external dependency or another issue clears.                                                         |
-| `duplicate`       | This issue or pull request already exists.                                                                                   |
-| `question`        | Further information is requested.                                                                                            |
-| `wontfix`         | This will not be worked on.                                                                                                  |
+| `tech-debt`       | Restructuring or cleanup of working content or tooling; refactors.                                                            |
+| `regression`      | Something that previously worked and stopped. Pairs with type `bug`.                                                          |
+| `breaking-change` | Alters a shortcode, document ID, or pack compatibility in a way existing worlds will notice.                                  |
+| `blocked`         | Cannot proceed until an external dependency or another issue clears.                                                          |
+| `duplicate`       | This issue or pull request already exists.                                                                                    |
+| `question`        | Further information is requested.                                                                                             |
+| `wontfix`         | This will not be worked on.                                                                                                   |
 
 > **No capability-gate labels.** Progress toward a capability is tracked by
 > **milestones** (§4), not labels. Do not add `bestiary`-style or `v1.0`-style labels

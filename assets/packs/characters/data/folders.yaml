@@ -1,12 +1,12 @@
 - name: Pregens
   id: XeWWMLibGrFUwlMs
   parentFolderId: ""
-  color: '#d35400'
+  color: "#d35400"
 - name: Prototypes
   id: J6VZmyYIePnhutut
   parentFolderId: ""
-  color: '#007a6c'
+  color: "#007a6c"
 - name: Samples
   id: FNtXaRapCPXYBQtP
   parentFolderId: ""
-  color: '#ca3232'
+  color: "#ca3232"

@@ -4,8 +4,8 @@ aliases:
   - affiliation-vanaer
 tags: []
 name:
-    full: Vanáer
-    aliases: []
+  full: Vanáer
+  aliases: []
 description: ""
 id: TN9l8hCE4UTrrWnG
 slug: vanaer
@@ -15,12 +15,12 @@ type: affiliation
 pack: mysteries
 package: kethira
 sohl:
-    kbcat: affiliation
-    subType: divine
-    archetype: 0
-    society: ""
-    office: ""
-    title: ""
-    level: 1
+  kbcat: affiliation
+  subType: divine
+  archetype: 0
+  society: ""
+  office: ""
+  title: ""
+  level: 1
 folder: 0pBXQXg3toSZ51hX
 ---

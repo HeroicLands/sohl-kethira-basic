@@ -4,8 +4,8 @@ aliases:
   - affiliation-agrik
 tags: []
 name:
-    full: Ágrik
-    aliases: []
+  full: Ágrik
+  aliases: []
 description: ""
 id: c5pKrlG8INCVvy19
 slug: agrik
@@ -15,12 +15,12 @@ type: affiliation
 pack: mysteries
 package: kethira
 sohl:
-    kbcat: affiliation
-    subType: divine
-    archetype: 0
-    society: ""
-    office: ""
-    title: ""
-    level: 1
+  kbcat: affiliation
+  subType: divine
+  archetype: 0
+  society: ""
+  office: ""
+  title: ""
+  level: 1
 folder: 0pBXQXg3toSZ51hX
 ---

@@ -4,8 +4,8 @@ aliases:
   - skill-edaryr
 tags: []
 name:
-    full: Edâryr
-    aliases: []
+  full: Edâryr
+  aliases: []
 description: ""
 id: 7tUvpdHzkI7ISVQx
 slug: edaryr
@@ -15,17 +15,17 @@ type: skill
 pack: characteristics
 package: kethira
 sohl:
-    kbcat: ritual
-    archetype: 0
-    subType: mystical
-    skillBaseFormula: "sb(attr.wil, attr.rea)"
-    assocAffiliationCode: edaryr
-    combatCategory: none
-    parentSkillCode: ""
-    initSkillMult: 0
-    masteryLevelBase: 0
-    improveFlag: false
-    impairedByRoles:
-        - vital
+  kbcat: ritual
+  archetype: 0
+  subType: mystical
+  skillBaseFormula: "sb(attr.wil, attr.rea)"
+  assocAffiliationCode: edaryr
+  combatCategory: none
+  parentSkillCode: ""
+  initSkillMult: 0
+  masteryLevelBase: 0
+  improveFlag: false
+  impairedByRoles:
+    - vital
 folder: 7ndtuoO1haJpQbgf
 ---

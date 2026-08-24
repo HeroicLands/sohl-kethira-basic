@@ -61,4 +61,3 @@ export const TUZYN_RECKONING: BuiltinCalendarData = {
         },
     },
 };
-

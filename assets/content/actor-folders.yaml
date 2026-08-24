@@ -5,15 +5,15 @@
 - name: Pregens
   id: XeWWMLibGrFUwlMs
   parentFolderId: ""
-  color: '#d35400'
+  color: "#d35400"
 - name: Prototypes
   id: J6VZmyYIePnhutut
   parentFolderId: ""
-  color: '#007a6c'
+  color: "#007a6c"
 - name: Samples
   id: FNtXaRapCPXYBQtP
   parentFolderId: ""
-  color: '#ca3232'
+  color: "#ca3232"
 # The `Characters` folder post-dates the pre-#1513 pack source, so unlike the
 # three above its id is not restored from it — it is the id all 17 character
 # notes already carry, adopted here rather than reassigned. The `characters`
@@ -24,4 +24,4 @@
 - name: Characters
   id: wDgcy5cLIaLoFogp
   parentFolderId: ""
-  color: '#2337c9'
+  color: "#2337c9"
