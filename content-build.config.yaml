@@ -1,10 +1,4 @@
-# This repository's build configuration, read by `@heroiclands/content-build`
-# and — for the reserved `packageBuild:` section — `@heroiclands/package-build`.
-#
-# Every field, and which values are derived rather than authored, is documented
-# in those packages' READMEs. Comments here are limited to what they cannot
-# tell you: the things about *this* module that would otherwise read as
-# accidents.
+# See `@heroiclands/content-build` for the full documentation.
 
 contentPackage: kethira
 packageKind: modules
@@ -13,28 +7,10 @@ stats:
     systemId: sohl
     lastModifiedBy: kethirabuild0000
 
-# ⚠️ The **Foundry** range, moved verbatim out of the retired hand-authored
-# `module.json`. Correcting it is #16's job.
 compatibility:
     minimum: "14"
     verified: "14"
 
-# The **system** range — a different subject wearing the same key.
-#
-# `minimum` is `0.8.0` because that is where the Item model these documents are
-# shaped for begins: 0.8.0 removed the `lineage`, `trait` and `combattechnique`
-# types and gave `mystery` the `subType` field every mystery note here carries,
-# which 0.7.0's model does not define. Established by comparing each compiled
-# document's `system` keys against the schema of each tagged release — the
-# `skill` pack (66 items) is clean from 0.8.0 on. (0.7.0 is the first Foundry-14
-# release, so anything earlier is not merely stale but unloadable: sohl
-# 0.4.0–0.5.6 declare Foundry `minimum: "12"` while this module requires 14.)
-#
-# **`verified` must track the released `sohl` version.** It is what every
-# compiled document is stamped with as `_stats.systemVersion`, so a stale value
-# makes each shipped entry claim to have been built against a system that has
-# not existed for four minors. Nothing bumps it automatically — raising it is a
-# release-time step (#16).
 relationships:
     systems:
         - id: sohl
@@ -46,27 +22,18 @@ relationships:
 
 itemBuilders: sohl
 
-# **Two packs share the `Item` type, and neither is `default: true`.** That is
-# deliberate: with several packs of a type and no default, a note declaring no
-# `pack:` routes nowhere and **fails the build, naming the note**. A default
-# would silently absorb a typo'd or forgotten declaration into the wrong
+# **Neither Item pack is `default: true`, deliberately.** With several packs of
+# a type and no default, a note declaring no `pack:` routes nowhere and fails
+# the build naming the note, rather than being silently absorbed into the wrong
 # compendium.
 #
-# The two pack names are load-bearing and cannot be merged: a compendium UUID
-# carries its pack name
-# (`Compendium.sohl-kethira-basic.characteristics.Item.<id>`), so collapsing
-# them breaks every existing world. Folders are per-pack because the two sets
-# are disjoint.
-#
-# **`characters` (Actor) is deliberately absent**, and omitting it here now
-# withdraws the compendium *declaration* as well as the compile — this list is
-# also the manifest's `packs` array. A Kethira being's embedded items are
-# addressed by shortcode (`attribute:str`, `skill:init`) and almost all belong
-# to the **`sohl` package**, which this repository does not hold; an unresolved
-# embedded item is a hard error, and configuring the pass fails all 1,057 of
-# them, taking the two working Item packs down with it. `actor-folders.yaml`
-# and the 28 `being` notes stay complete against the day that catalog is
-# available at build time. Tracked in #28.
+# **`characters` (Actor) is deliberately absent.** A Kethira being's embedded
+# items are addressed by shortcode and almost all belong to the `sohl` package,
+# which this repository does not hold; configuring the pass fails on all 1,057
+# of them and takes the two working Item packs down with it. Note that omitting
+# it here withdraws the compendium *declaration* too, since this list is also
+# the manifest's `packs` array. `actor-folders.yaml` and the 28 `being` notes
+# stay complete against the day that catalog is available (#28).
 packs:
     - {
           name: characteristics,
@@ -81,11 +48,9 @@ packs:
           folders: mystery-folders.yaml,
       }
 
-# This module publishes **no link manifest**, and that is a licensing decision
-# rather than a consequence of having no site: emitting `kethira.json` would be
-# the dependency edge that stops the module being withdrawable (#1385/#1446,
-# and this repository's CLAUDE.md). It still consumes the manifests of packages
-# its notes cite, vendored in `assets/manifests/`.
+# Publishing **no** link manifest is a licensing decision, not a consequence of
+# having no site: emitting `kethira.json` would be the dependency edge that
+# stops the module being withdrawable (#1385/#1446).
 publish:
     site: false
     manifests: { publish: false, consume: true }
