@@ -43,9 +43,13 @@
         "lint:lang": "package-build lang check",
         "lint:addresses": "content-build lint",
         "lint:content-links": "content-build links",
-        "lint:labels": "node utils/check-labels.mjs"
+        "lint:labels": "node utils/check-labels.mjs",
+        "changeset": "changeset",
+        "changeset:version": "changeset version && npm install --package-lock-only",
+        "changeset:check": "changeset status --since=origin/main"
     },
     "devDependencies": {
+        "@changesets/cli": "^3.0.1",
         "@heroiclands/content-build": "^1.4.0",
         "@heroiclands/package-build": "^0.6.0",
         "npm-run-all": "^4.1.5",
