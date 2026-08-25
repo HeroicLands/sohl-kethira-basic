@@ -668,7 +668,7 @@ sohl:
 | **Companions**             |                                   |
 | **Other obvious features** | a tattoo of a serpent on the back |
 
-### Physical Description
+## Physical Description
 
 Age 29, 6'1", 170 lbs, Hazel eyes, Brown bowl cut hair, with a tattoo of a serpent on the back.
 

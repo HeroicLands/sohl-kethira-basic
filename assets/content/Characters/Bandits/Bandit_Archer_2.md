@@ -676,7 +676,7 @@ sohl:
 | **Companions**             |                                      |
 | **Other obvious features** | a scar on the right side of the face |
 
-### Physical Description
+## Physical Description
 
 Age 29, 5'10", 158 lbs, Brown eyes, Black close-cropped hair, with a scar on the right side of the face.
 

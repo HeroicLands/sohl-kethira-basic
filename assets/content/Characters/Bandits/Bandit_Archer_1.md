@@ -656,7 +656,7 @@ sohl:
 
 # Appearance {#appearance}
 
-### Physical Description
+## Physical Description
 
 Age 23, 5'11", 155 lbs, Brown eyes, Black with pixie-style cut hair.
 

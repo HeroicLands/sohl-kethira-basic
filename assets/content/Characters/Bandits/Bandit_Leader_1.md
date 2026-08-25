@@ -668,7 +668,7 @@ sohl:
 | **Companions**             |                         |
 | **Other obvious features** | a scar on the left foot |
 
-### Physical Description
+## Physical Description
 
 Age 27, 6'2", 183 lbs, Grey eyes, Blonde with single braid hair, with a scar on the left foot.
 

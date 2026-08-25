@@ -650,6 +650,6 @@ sohl:
 
 # Appearance {#appearance}
 
-### Physical Description
+## Physical Description
 
 # Dossier {#dossier}

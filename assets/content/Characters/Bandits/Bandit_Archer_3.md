@@ -676,7 +676,7 @@ sohl:
 | **Companions**             |                                   |
 | **Other obvious features** | a scar running down the right leg |
 
-### Physical Description
+## Physical Description
 
 Age 28, 5'11", 168 lbs, Brown eyes, Black with shaved sides hair, with a scar running down the right leg.
 
