@@ -332,7 +332,7 @@ file it as a public `bug`.
 
 **Task, Low**
 
-> **Title:** Bump @heroiclands/content-build to the current release
+> **Title:** Bump @heroiclands/package-build to the current release
 > **Type:** task · **Priority:** Low · **Labels:** `devops` · **Milestone:** _(unset)_
 > Body: routine maintenance, deferrable → Low.
 
