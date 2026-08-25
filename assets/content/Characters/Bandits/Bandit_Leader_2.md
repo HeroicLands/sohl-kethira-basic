@@ -668,7 +668,7 @@ sohl:
 | **Companions**             |                                      |
 | **Other obvious features** | a scar across the bridge of the nose |
 
-### Physical Description
+## Physical Description
 
 Age 31, 6'1", 172 lbs, Green eyes, Blonde with low ponytail hair, with a scar across the bridge of the nose.
 
