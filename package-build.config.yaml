@@ -1,4 +1,4 @@
-# See `@heroiclands/content-build` for the full documentation.
+# See `@heroiclands/package-build` for the full documentation.
 
 contentPackage: kethira
 packageKind: modules
