@@ -631,7 +631,7 @@ sohl:
     - shortcode: LBw125
       type: weapongear
     - shortcode: ArwHBrd
-      type: weapongear
+      type: projectilegear
       system:
         quantity: 12
     - shortcode: ShrtSwd

@@ -19,6 +19,14 @@ relationships:
           compatibility:
               minimum: "0.8.0"
               verified: "0.8.2"
+          # The `characters` pass resolves a being's embedded items by
+          # `(type, shortcode)`, and almost every one of them — `attribute:str`,
+          # `skill:init` — belongs to `sohl` rather than to this repository. This
+          # opts into extracting that release's Item packs as a resolution source
+          # (content-build#82). `npm run build:deps` fetches it; a compile with a
+          # cold cache fails naming that command rather than reaching the network
+          # itself. The download is pinned to `verified` above, not to `latest`.
+          itemCatalog: true
 
 itemBuilders: sohl
 
@@ -27,14 +35,19 @@ itemBuilders: sohl
 # the build naming the note, rather than being silently absorbed into the wrong
 # compendium.
 #
-# **`characters` (Actor) is deliberately absent.** A Kethira being's embedded
-# items are addressed by shortcode and almost all belong to the `sohl` package,
-# which this repository does not hold; configuring the pass fails on all 1,057
-# of them and takes the two working Item packs down with it. Note that omitting
-# it here withdraws the compendium *declaration* too, since this list is also
-# the manifest's `packs` array. `actor-folders.yaml` and the 28 `being` notes
-# stay complete against the day that catalog is available (#28).
+# **`characters` (Actor) is listed again as of #28.** It was absent for as long
+# as a being's `sohl`-package items could not be resolved here — the pass failed
+# on all 1,057 of them and, because generation refuses to compile any pack from
+# incomplete output, took the two working Item packs down with it. `itemCatalog`
+# above is what changed. Note that this list is also the manifest's `packs`
+# array, so a pack is either compiled and declared, or neither.
 packs:
+    - {
+          name: characters,
+          label: Characters,
+          type: Actor,
+          folders: actor-folders.yaml,
+      }
     - {
           name: characteristics,
           label: Characteristics,
@@ -88,9 +101,8 @@ packageBuild:
             - name: HarnMaster Kethira Basic
               sorting: m
               color: "#008000"
-              # `characters` is absent here too: a pack folder naming a
-              # compendium that is no longer declared is a dangling reference.
               packs:
+                  - characters
                   - characteristics
                   - mysteries
         flags:
