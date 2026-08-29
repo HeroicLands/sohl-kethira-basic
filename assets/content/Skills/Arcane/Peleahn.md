@@ -13,7 +13,6 @@ img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: peleahn
 type: skill
 pack: characteristics
-package: kethira
 sohl:
   kbcat: arcane
   archetype: 0

@@ -13,7 +13,6 @@ img: images/kp-morgath.webp
 shortcode: morgath
 type: affiliation
 pack: mysteries
-package: kethira
 sohl:
   kbcat: affiliation
   subType: divine

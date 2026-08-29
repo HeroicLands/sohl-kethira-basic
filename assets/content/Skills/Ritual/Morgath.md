@@ -13,7 +13,6 @@ img: images/kp-morgath.webp
 shortcode: morgath
 type: skill
 pack: characteristics
-package: kethira
 sohl:
   kbcat: ritual
   archetype: 0

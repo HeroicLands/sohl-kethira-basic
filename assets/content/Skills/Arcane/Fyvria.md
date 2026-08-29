@@ -13,7 +13,6 @@ img: systems/sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: fyvria
 type: skill
 pack: characteristics
-package: kethira
 sohl:
   kbcat: arcane
   archetype: 0

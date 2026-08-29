@@ -13,7 +13,6 @@ img: images/kp-peoni.webp
 shortcode: peoni
 type: affiliation
 pack: mysteries
-package: kethira
 sohl:
   kbcat: affiliation
   subType: divine

@@ -13,7 +13,6 @@ img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: cultcovenant
 type: affiliation
 pack: mysteries
-package: kethira
 sohl:
   kbcat: affiliation
   subType: divine

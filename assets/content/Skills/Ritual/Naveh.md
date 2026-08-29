@@ -13,7 +13,6 @@ img: images/kp-naveh.webp
 shortcode: naveh
 type: skill
 pack: characteristics
-package: kethira
 sohl:
   kbcat: ritual
   archetype: 0

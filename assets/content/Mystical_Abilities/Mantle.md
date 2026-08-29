@@ -12,7 +12,6 @@ img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: mantle
 type: mysticalability
 pack: mysteries
-package: kethira
 sohl:
   kbcat: null
   archetype: 0

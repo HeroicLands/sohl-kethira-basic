@@ -13,7 +13,6 @@ img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: savorya
 type: skill
 pack: characteristics
-package: kethira
 sohl:
   kbcat: arcane
   archetype: 0

@@ -12,7 +12,6 @@ img: systems/sohl/assets/icons/noun/psionics.svg
 shortcode: snst
 type: mysticalability
 pack: mysteries
-package: kethira
 sohl:
   kbcat: null
   archetype: 0

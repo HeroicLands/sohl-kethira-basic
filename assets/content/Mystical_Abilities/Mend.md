@@ -12,7 +12,6 @@ img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: mend
 type: mysticalability
 pack: mysteries
-package: kethira
 sohl:
   kbcat: null
   archetype: 0

@@ -13,7 +13,6 @@ img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: cultcovenant
 type: skill
 pack: characteristics
-package: kethira
 sohl:
   kbcat: ritual
   archetype: 0

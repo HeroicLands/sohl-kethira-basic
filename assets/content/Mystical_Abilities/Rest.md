@@ -12,7 +12,6 @@ img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: rest
 type: mysticalability
 pack: mysteries
-package: kethira
 sohl:
   kbcat: null
   archetype: 0

@@ -13,7 +13,6 @@ img: systems/sohl/assets/icons/noun/circle.svg
 shortcode: edaryr
 type: affiliation
 pack: mysteries
-package: kethira
 sohl:
   kbcat: affiliation
   subType: divine

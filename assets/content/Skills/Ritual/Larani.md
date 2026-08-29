@@ -13,7 +13,6 @@ img: images/kp-larani.webp
 shortcode: larani
 type: skill
 pack: characteristics
-package: kethira
 sohl:
   kbcat: ritual
   archetype: 0

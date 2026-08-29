@@ -12,7 +12,6 @@ img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: caress
 type: mysticalability
 pack: mysteries
-package: kethira
 sohl:
   kbcat: null
   archetype: 0

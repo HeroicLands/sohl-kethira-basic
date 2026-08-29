@@ -13,7 +13,6 @@ img: systems/sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
 shortcode: selenian
 type: skill
 pack: characteristics
-package: kethira
 sohl:
   kbcat: script
   archetype: 0

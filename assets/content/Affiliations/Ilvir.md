@@ -13,7 +13,6 @@ img: images/kp-ilvir.webp
 shortcode: ilvir
 type: affiliation
 pack: mysteries
-package: kethira
 sohl:
   kbcat: affiliation
   subType: divine

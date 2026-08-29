@@ -13,7 +13,6 @@ img: images/kp-peoni.webp
 shortcode: peoni
 type: skill
 pack: characteristics
-package: kethira
 sohl:
   kbcat: ritual
   archetype: 0
