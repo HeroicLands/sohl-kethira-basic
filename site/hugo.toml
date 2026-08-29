@@ -1,0 +1,154 @@
+# HârnMaster Kethira Basic — this package's homepage, and nothing else (#59).
+#
+# This repository publishes ONE page. That is a licensing boundary, not a
+# preference: the module is unofficial Hârn fan material under Keléstia's Fan
+# Material Guidelines, so it ships the game-mechanical pieces and none of the
+# prose, artwork or compiled notes that explain them. `publish.site: homepage`
+# in `package-build.config.yaml` is the structural fence — `buildSite` returns
+# before the content tree is ever walked for pages, so the 364 notes here can
+# only yield `content/_index.md`. This file renders that one page; it does not
+# decide how many there are, and it must never be given a reason to render more.
+#
+# `baseURL` is the one place the site's address is written down. It carries the
+# `/kethira/` prefix, so every href, asset URL and redirect Hugo spells is
+# already mounted under it; the router resolves `/kethira/` to
+# `kethira.pkg.heroiclands.org` by convention and needs no entry of its own.
+baseURL = "https://www.heroiclands.org/kethira/"
+locale = "en-us"
+title = "HârnMaster Kethira Basic"
+
+# The output is published *with* the prefix — `build/site/kethira/` — and the
+# deploy uploads `build/site`, whose root is the hosting project's origin. So
+# the deployment is byte-for-byte what www serves: it can be checked at the
+# project's own address before any routing points at it, and it leaves the
+# routing layer a path-preserving pass-through rather than a rewriter. The
+# shared deploy workflow requires exactly this shape.
+#
+# Relative to the Hugo root, which is this directory — not the repository root.
+publishDir = "../build/site/kethira"
+
+# Brand chrome, the landing layout and the "page not found" page come from the
+# shared theme, so this page reads as one whole with www, the SoHL
+# knowledgebase and Thalorna.
+#
+# It arrives through `npm ci`. Hugo looks for `<themesDir>/<theme>`, so the
+# package's scope is the themes directory and its name is the theme name —
+# nothing is copied and no module mounts are needed. `themesDir` is likewise
+# relative to the Hugo root; the lockfile that installed it is one level up.
+themesDir = "../node_modules/@heroiclands"
+theme = "hugo-theme"
+
+# Written by `npm run build:site-content` (`content-build site`) from
+# `assets/content/homepage.md`. The directory is a build artifact — wiped and
+# rewritten on every run — and is gitignored.
+contentDir = "content"
+
+# One page, and Hugo must be told so explicitly. Left to its defaults it also
+# renders a taxonomy root and a term page for `tags` and `categories` whether or
+# not anything is tagged, an RSS feed advertising updates a one-page site cannot
+# have, and a sitemap. Each is another published page, and the page count here is
+# a Fan Material Guidelines boundary enforced by the shared deploy workflow,
+# which fixes the bound at exactly one. Closed here rather than left to whether a
+# term happens to exist.
+disableKinds = ["section", "taxonomy", "term", "RSS", "sitemap"]
+
+[params]
+  description = "A Song of Heroic Lands module carrying the basic mechanical pieces for play in the world of Kethira."
+  author = "Tom Rodriguez"
+
+  # The theme carries layout, not addresses, so every site-specific URL it
+  # renders is supplied here. See the theme's README for the full contract.
+  cdnBaseURL = "https://cdn.heroiclands.org"
+
+  [params.brand]
+    logo       = "images/brand/sohl-icon-white.webp"
+    licenseURL = "https://www.heroiclands.org/license/"
+    discordURL = "https://discord.gg/EwMfkNd3az"
+
+  # The "page not found" page. Cloudflare Pages serves it with a real 404 for
+  # any unmatched path; without one it falls back to the site root, which is a
+  # soft 404 — a 200 carrying this landing — and reads as success to every link
+  # checker there is. Its template is the theme's, since every consumer needs
+  # one; the wording and the routes back are ours.
+  #
+  # A one-page site has no section of its own to route a lost reader to, so
+  # every route here leaves for a sibling site. That is the honest answer
+  # rather than a padded one.
+  [params.notfound]
+    tagline  = "This module has one page, and it is not at"
+    sitenoun = "module"
+
+    [[params.notfound.links]]
+      title = "HârnMaster Kethira Basic"
+      url   = "/"
+      text  = "What this module carries, and how to install it."
+    [[params.notfound.links]]
+      title = "Song of Heroic Lands"
+      url   = "https://www.heroiclands.org/sohl/"
+      text  = "The Foundry VTT system this module is content for."
+    [[params.notfound.links]]
+      title = "Keléstia Productions"
+      url   = "https://www.kelestia.com/harnmaster"
+      text  = "Where HârnMaster Kethira itself is bought."
+
+# The brand nav. Absolute URLs so this header matches the one every other site
+# renders; defined here rather than in the shared theme, which carries no
+# addresses of its own. It is also the only way off a one-page site, so it is
+# not optional chrome here.
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "https://www.heroiclands.org/"
+    weight = 1
+  [[menu.main]]
+    name = "Song of Heroic Lands"
+    url = "https://www.heroiclands.org/projects/song-of-heroic-lands/"
+    weight = 2
+    identifier = "sohl"
+  [[menu.main]]
+    name = "Knowledgebase"
+    url = "https://kb.heroiclands.org/"
+    weight = 1
+    parent = "sohl"
+  [[menu.main]]
+    name = "API Documentation"
+    url = "https://api.heroiclands.org/"
+    weight = 2
+    parent = "sohl"
+  [[menu.main]]
+    name = "Thalorna"
+    url = "https://www.heroiclands.org/thalorna/world/thalorna/"
+    weight = 3
+  [[menu.main]]
+    name = "HârnMaster 3"
+    url = "https://www.heroiclands.org/projects/hm3/"
+    weight = 4
+  [[menu.main]]
+    name = "Modules"
+    url = "https://www.heroiclands.org/projects/modules/"
+    weight = 5
+  [[menu.main]]
+    name = "License"
+    url = "https://www.heroiclands.org/license/"
+    weight = 6
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      # No autolinking of bare URLs. Most of this page is Keléstia's trademark
+      # notice, reproduced VERBATIM because the Fan Material Guidelines require
+      # it — which is also why `MD034` is disabled around it in the note rather
+      # than the bare URLs rewritten as markdown links, since that would edit
+      # the notice. Goldmark's GFM autolinker edits it anyway: it swallows the
+      # closing parenthesis of `(https://www.kelestia.com/)` into the href,
+      # publishing a required legal notice whose every link points somewhere
+      # the notice does not name. The notice is text, so it is left as text;
+      # the authored prose above it carries a working link to the same place.
+      linkify = false
+
+    [markup.goldmark.renderer]
+      # The homepage reproduces Keléstia's trademark notice verbatim from
+      # LICENSE, wrapped in the `markdownlint-disable` comments that let its
+      # bare URLs stand unedited. Without this Goldmark replaces every raw HTML
+      # node — those comments included — with a placeholder of its own.
+      unsafe = true

@@ -45,9 +45,15 @@ venv/
 # the old directory does not report it as untracked.
 /packs
 
-# Site build output. `site.out` in package-build.config.yaml — the tree is a
-# build artifact, wiped and rewritten on every `content-build site` run.
+# The website: `site/` holds the Hugo configuration, and nothing else that is
+# authored. The one page comes from `assets/content/homepage.md` via
+# `content-build site` (`site.out` in package-build.config.yaml), Hugo's caches
+# and lock are its own, and the rendered output goes to `build/site/kethira/`,
+# which `build/` above already covers.
 /site/content/
+/site/public/
+/site/resources/
+/site/.hugo_build.lock
 
 # Distrubution files
 dist/
