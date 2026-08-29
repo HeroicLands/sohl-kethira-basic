@@ -45,6 +45,10 @@ venv/
 # the old directory does not report it as untracked.
 /packs
 
+# Site build output. `site.out` in package-build.config.yaml — the tree is a
+# build artifact, wiped and rewritten on every `content-build site` run.
+/site/content/
+
 # Distrubution files
 dist/
 
