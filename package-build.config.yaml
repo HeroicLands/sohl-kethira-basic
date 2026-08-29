@@ -41,13 +41,16 @@ itemBuilders: sohl
 # incomplete output, took the two working Item packs down with it. `itemCatalog`
 # above is what changed. Note that this list is also the manifest's `packs`
 # array, so a pack is either compiled and declared, or neither.
+#
+# **Order is load-bearing, and that is why `characters` is last** (#56). Passes
+# run in the order declared here, and the actors pass resolves a being's
+# embedded items against the *output* of the item passes — not against the
+# content tree — so both Item packs must compile before it. Declared first, the
+# Actor pass aborted the build on a cold `build/` ("Items source directory …
+# does not exist — actors must be generated after items") and only appeared to
+# work on a warm one, where a previous run had left the item output behind.
+# `build/` is gitignored, so every fresh checkout is cold.
 packs:
-    - {
-          name: characters,
-          label: Characters,
-          type: Actor,
-          folders: actor-folders.yaml,
-      }
     - {
           name: characteristics,
           label: Characteristics,
@@ -59,6 +62,12 @@ packs:
           label: Mysteries,
           type: Item,
           folders: mystery-folders.yaml,
+      }
+    - {
+          name: characters,
+          label: Characters,
+          type: Actor,
+          folders: actor-folders.yaml,
       }
 
 # Two separate decisions, easily conflated.
