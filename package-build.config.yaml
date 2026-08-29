@@ -61,9 +61,28 @@ packs:
           folders: mystery-folders.yaml,
       }
 
-# Publishing **no** link manifest is a licensing decision, not a consequence of
-# having no site: emitting `kethira.json` would be the dependency edge that
-# stops the module being withdrawable (#1385/#1446).
+# Two separate decisions, easily conflated.
+#
+# **What is withheld is content, not the module's existence.** Item
+# descriptions, journal text, artwork and compiled notes are never published to
+# the web, for the same Fan Material Guidelines reason the `description` fields
+# throughout this repository are deliberately empty: this module carries the
+# game-mechanical pieces and none of the prose that explains them, so it cannot
+# stand in for the book. That constraint is absolute and must not be weakened
+# here. It does not reach a hand-authored homepage —
+# https://www.heroiclands.org/kethira/ says what the module is, which system it
+# needs, that HârnMaster Kethira must be bought from Keléstia, and carries the
+# trademark notice. That discloses nothing licensed, and announcing the module
+# is both fine and appropriate.
+#
+# **Publishing no link manifest is about withdrawability.** Emitting
+# `kethira.json` is the dependency edge — it invites other packages to resolve
+# their links against this one, and every such link is something that breaks if
+# Keléstia ever objects and the module is withdrawn (#1385/#1446). Consuming
+# foreign manifests creates no such edge, so it stays on. A homepage is not
+# that edge either: it is one row in a routing table, removable in a commit. So
+# the site and the manifest do not stand or fall together — do not read a
+# change to one as licence to change the other.
 publish:
     site: false
     manifests: { publish: false, consume: true }
