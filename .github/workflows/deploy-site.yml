@@ -1,0 +1,55 @@
+# Build and deploy /kethira — this package's homepage, and nothing else (#59).
+#
+# The runner, the completeness guard, the hosting project, the custom domain and
+# the upload are identical for every package that publishes a subtree of
+# www.heroiclands.org, so they live once in `HeroicLands/.github` and this file
+# calls them (HeroicLands/.github#5). What stays here is the trigger and the two
+# facts only this repository knows: which Pages project hosts it, and which
+# credentials to hand over.
+#
+# The build itself is also this repository's — the shared workflow runs
+# `npm run build:site` and knows nothing about what that script does. It only
+# requires the tree land under `build/site/kethira/`, which is what
+# `site/hugo.toml`'s `publishDir` arranges.
+#
+# NO `min-pages` / `max-pages`. `package-build.config.yaml` declares
+# `publish.site: homepage`, and in that mode the shared workflow fixes the bound
+# at exactly one page and FAILS THE RUN if either input is passed. That is
+# deliberate: publishing this repository's content would breach Keléstia's Fan
+# Material Guidelines, so "exactly one page" is a licensing boundary, and a
+# boundary a caller could widen with an input is not a boundary. The mode is read
+# from the same config the toolchain builds from, so the guard and the build
+# cannot come to disagree about what this package publishes.
+#
+# NO `_headers` file in this repository either. Pages reads it only at the
+# deployment root, to mark the project's own *.pages.dev and
+# kethira.pkg.heroiclands.org hostnames noindex so they do not compete with the
+# canonical address — and since that content is the same for every package, the
+# shared workflow writes the default when a build produces none
+# (HeroicLands/.github#7).
+name: Deploy the Kethira site to Cloudflare Pages
+
+on:
+    # Every push to `main` republishes the page. No path filter: a rebuild is
+    # cheap next to how quietly a hand-maintained path list goes stale, and a
+    # push that changes nothing the site serves merely republishes the same
+    # bytes.
+    push:
+        branches: [main]
+    workflow_dispatch:
+
+permissions:
+    contents: read
+
+jobs:
+    deploy:
+        uses: HeroicLands/.github/.github/workflows/deploy-package-site.yml@main
+        with:
+            # Not derived from the package name: renaming a live Pages project
+            # to fit a convention would break its deployment history.
+            project: sohl-kethira-basic
+        # By name, never `secrets: inherit` — inheriting would hand a workflow in
+        # another repository every secret this one holds for a job that needs two.
+        secrets:
+            CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+            CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
