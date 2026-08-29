@@ -15,7 +15,6 @@ slug: gargun-kyani
 img: systems/sohl/assets/icons/game-icons/delapouite/orc-head.svg
 portrait: ""
 type: being
-package: kethira
 sohl:
   archetype: 0
   attributes:

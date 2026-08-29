@@ -13,7 +13,6 @@ img: images/kp-larani.webp
 shortcode: larani
 type: affiliation
 pack: mysteries
-package: kethira
 sohl:
   kbcat: affiliation
   subType: divine

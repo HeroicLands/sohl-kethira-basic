@@ -13,7 +13,6 @@ img: images/kp-siem.webp
 shortcode: siem
 type: affiliation
 pack: mysteries
-package: kethira
 sohl:
   kbcat: affiliation
   subType: divine

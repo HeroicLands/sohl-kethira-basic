@@ -13,7 +13,6 @@ img: images/kp-naveh.webp
 shortcode: naveh
 type: affiliation
 pack: mysteries
-package: kethira
 sohl:
   kbcat: affiliation
   subType: divine

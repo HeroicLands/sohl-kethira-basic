@@ -13,7 +13,6 @@ img: systems/sohl/assets/icons/noun/circle.svg
 shortcode: mordar
 type: affiliation
 pack: mysteries
-package: kethira
 sohl:
   kbcat: affiliation
   subType: divine

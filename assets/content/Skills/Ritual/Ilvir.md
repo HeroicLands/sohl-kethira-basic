@@ -13,7 +13,6 @@ img: images/kp-ilvir.webp
 shortcode: ilvir
 type: skill
 pack: characteristics
-package: kethira
 sohl:
   kbcat: ritual
   archetype: 0

@@ -13,7 +13,6 @@ img: images/kp-agrik.webp
 shortcode: agrik
 type: affiliation
 pack: mysteries
-package: kethira
 sohl:
   kbcat: affiliation
   subType: divine

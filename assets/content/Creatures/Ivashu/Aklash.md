@@ -13,7 +13,6 @@ slug: aklash
 img: systems/sohl/assets/icons/game-icons/skoll/troll.svg
 portrait: ""
 type: being
-package: kethira
 sohl:
   archetype: 0
   attributes:

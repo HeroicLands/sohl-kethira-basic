@@ -13,7 +13,6 @@ img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: korlic
 type: skill
 pack: characteristics
-package: kethira
 sohl:
   kbcat: language
   archetype: 0

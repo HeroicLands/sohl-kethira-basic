@@ -15,7 +15,6 @@ slug: nolah
 img: systems/sohl/assets/icons/game-icons/lorc/spectre.svg
 portrait: ""
 type: being
-package: kethira
 sohl:
   archetype: 0
   attributes:

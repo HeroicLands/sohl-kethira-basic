@@ -13,7 +13,6 @@ img: images/kp-sarajin.webp
 shortcode: sarajin
 type: skill
 pack: characteristics
-package: kethira
 sohl:
   kbcat: ritual
   archetype: 0

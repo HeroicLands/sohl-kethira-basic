@@ -13,7 +13,6 @@ img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: odivshe
 type: skill
 pack: characteristics
-package: kethira
 sohl:
   kbcat: arcane
   archetype: 0

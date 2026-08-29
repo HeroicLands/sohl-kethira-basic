@@ -13,7 +13,6 @@ img: systems/sohl/assets/icons/noun/circle.svg
 shortcode: beona
 type: skill
 pack: characteristics
-package: kethira
 sohl:
   kbcat: ritual
   archetype: 0

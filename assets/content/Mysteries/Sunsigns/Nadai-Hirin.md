@@ -13,7 +13,6 @@ img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: nadaihirin
 type: mystery
 pack: mysteries
-package: kethira
 sohl:
   kbcat: sunsign
   archetype: 0

@@ -13,7 +13,6 @@ img: images/kp-agrik.webp
 shortcode: agrik
 type: skill
 pack: characteristics
-package: kethira
 sohl:
   kbcat: ritual
   archetype: 0

@@ -13,7 +13,6 @@ img: images/kp-saveknor.webp
 shortcode: saveknor
 type: skill
 pack: characteristics
-package: kethira
 sohl:
   kbcat: ritual
   archetype: 0

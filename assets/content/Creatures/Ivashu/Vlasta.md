@@ -15,7 +15,6 @@ slug: vlasta
 img: systems/sohl/assets/icons/game-icons/lorc/bird-claw.svg
 portrait: ""
 type: being
-package: kethira
 sohl:
   archetype: 0
   attributes:

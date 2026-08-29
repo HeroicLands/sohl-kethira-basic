@@ -13,7 +13,6 @@ img: images/kp-halea.webp
 shortcode: halea
 type: skill
 pack: characteristics
-package: kethira
 sohl:
   kbcat: ritual
   archetype: 0

@@ -13,7 +13,6 @@ img: images/kp-siem.webp
 shortcode: siem
 type: skill
 pack: characteristics
-package: kethira
 sohl:
   kbcat: ritual
   archetype: 0

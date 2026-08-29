@@ -13,7 +13,6 @@ img: images/kp-saveknor.webp
 shortcode: saveknor
 type: affiliation
 pack: mysteries
-package: kethira
 sohl:
   kbcat: affiliation
   subType: divine
