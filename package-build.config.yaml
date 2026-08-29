@@ -75,6 +75,15 @@ packs:
 # trademark notice. That discloses nothing licensed, and announcing the module
 # is both fine and appropriate.
 #
+# **`site: homepage` is what enforces that, structurally** (#57,
+# package-build#55). It is not a switch that happens to be off: `buildSite`
+# returns before the content tree is ever walked for pages, so `sections`,
+# `trees`, `landing` and `backfillSections` emit nothing *even when they are
+# declared*. The 363 notes here can only ever yield the one authored homepage
+# below. That matters because the failure mode of a mere switch is silent — a
+# `site:` block added later would have started shipping licensed content with
+# nobody noticing. Do not write `site: content` here.
+#
 # **Publishing no link manifest is about withdrawability.** Emitting
 # `kethira.json` is the dependency edge — it invites other packages to resolve
 # their links against this one, and every such link is something that breaks if
@@ -84,8 +93,18 @@ packs:
 # the site and the manifest do not stand or fall together — do not read a
 # change to one as licence to change the other.
 publish:
-    site: false
+    site: homepage
     manifests: { publish: false, consume: true }
+
+# Where the homepage is written. Only `out` is meaningful in `homepage` mode —
+# every other key here is fenced off — but `out` is required all the same and is
+# deliberately not defaulted: the directory is wiped on every run, and an unset
+# value would resolve to the repository root. `resolveOutputRoot` refuses that
+# rather than resolving it, which is why there is a `site:` block in a package
+# that publishes a single page. The path matches the sibling convention
+# (`sohl-thalorna`); the tree is a build artifact and is gitignored.
+site:
+    out: site/content
 
 packageBuild:
     assets:
