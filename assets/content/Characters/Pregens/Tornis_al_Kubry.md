@@ -688,22 +688,22 @@ sohl:
       type: weapongear
     - shortcode: Dgr
       type: weapongear
-    - shortcode: Taburi
+    - shortcode: Tabri
       type: weapongear
       name: Tabûri 1
       system:
         shortcode: Taburi1
-    - shortcode: Taburi
+    - shortcode: Tabri
       type: weapongear
       name: Tabûri 2
       system:
         shortcode: Taburi2
-    - shortcode: Taburi
+    - shortcode: Tabri
       type: weapongear
       name: Tabûri 3
       system:
         shortcode: Taburi3
-    - shortcode: Taburi
+    - shortcode: Tabri
       type: weapongear
       name: Tabûri 4
       system:
