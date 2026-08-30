@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-hand
+aliases: []
 tags: []
 name:
   full: Hand

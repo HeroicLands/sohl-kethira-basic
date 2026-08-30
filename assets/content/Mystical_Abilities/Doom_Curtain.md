@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-doomcurtain
+aliases: []
 tags: []
 name:
   full: Doom Curtain

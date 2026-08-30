@@ -1,7 +1,6 @@
 ---
 aliases:
   - Hácherian
-  - skill-hacherian
 tags: []
 name:
   full: Hácherian

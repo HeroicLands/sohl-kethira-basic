@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-earthwork
+aliases: []
 tags: []
 name:
   full: Earthwork

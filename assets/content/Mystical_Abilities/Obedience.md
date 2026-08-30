@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-obedience
+aliases: []
 tags: []
 name:
   full: Obedience

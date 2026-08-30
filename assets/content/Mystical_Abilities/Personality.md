@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-personality
+aliases: []
 tags: []
 name:
   full: Personality

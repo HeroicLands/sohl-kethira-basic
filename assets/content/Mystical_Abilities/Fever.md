@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-fever
+aliases: []
 tags: []
 name:
   full: Fever

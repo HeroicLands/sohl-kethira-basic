@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-assemble
+aliases: []
 tags: []
 name:
   full: Assemble

@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-resolve
+aliases: []
 tags: []
 name:
   full: Resolve

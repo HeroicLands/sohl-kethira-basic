@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-mold
+aliases: []
 tags: []
 name:
   full: Mold

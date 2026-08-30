@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-key
+aliases: []
 tags: []
 name:
   full: Key

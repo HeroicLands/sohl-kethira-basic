@@ -1,7 +1,6 @@
 ---
 aliases:
   - Bandit Leader 2
-  - being-banditleader2
 tags: []
 name:
   full: Bandit Leader 2

@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-thought
+aliases: []
 tags: []
 name:
   full: Thought

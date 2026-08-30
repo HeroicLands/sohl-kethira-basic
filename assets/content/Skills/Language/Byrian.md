@@ -1,7 +1,6 @@
 ---
 aliases:
   - Býrian
-  - skill-byrian
 tags: []
 name:
   full: Býrian

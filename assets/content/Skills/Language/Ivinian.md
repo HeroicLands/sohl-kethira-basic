@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ivínian
-  - skill-ivinian
 tags: []
 name:
   full: Ivínian

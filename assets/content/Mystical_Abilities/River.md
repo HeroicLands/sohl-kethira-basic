@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-river
+aliases: []
 tags: []
 name:
   full: River

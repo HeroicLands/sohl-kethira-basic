@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-link
+aliases: []
 tags: []
 name:
   full: Link

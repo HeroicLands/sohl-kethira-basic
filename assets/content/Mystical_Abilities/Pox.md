@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-pox
+aliases: []
 tags: []
 name:
   full: Pox

@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-focus
+aliases: []
 tags: []
 name:
   full: Focus

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Môrgath
-  - affiliation-morgath
 tags: []
 name:
   full: Môrgath

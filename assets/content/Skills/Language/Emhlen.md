@@ -1,7 +1,6 @@
 ---
 aliases:
   - Émhlèn
-  - skill-emhlen
 tags: []
 name:
   full: Émhlèn

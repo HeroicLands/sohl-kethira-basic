@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-missive
+aliases: []
 tags: []
 name:
   full: Missive

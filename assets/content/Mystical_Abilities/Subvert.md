@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-subvert
+aliases: []
 tags: []
 name:
   full: Subvert

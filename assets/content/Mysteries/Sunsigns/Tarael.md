@@ -1,7 +1,6 @@
 ---
 aliases:
   - Táræl
-  - mystery-tarael
 tags: []
 name:
   full: Táræl

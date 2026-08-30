@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-motes
+aliases: []
 tags: []
 name:
   full: Motes

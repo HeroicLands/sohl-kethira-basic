@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-sight
+aliases: []
 tags: []
 name:
   full: Sight

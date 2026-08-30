@@ -1,7 +1,6 @@
 ---
 aliases:
   - Beóna
-  - skill-beona
 tags: []
 name:
   full: Beóna

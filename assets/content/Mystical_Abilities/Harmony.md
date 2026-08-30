@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-harmony
+aliases: []
 tags: []
 name:
   full: Harmony

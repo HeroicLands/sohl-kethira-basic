@@ -1,7 +1,6 @@
 ---
 aliases:
   - Thónian
-  - skill-thonian
 tags: []
 name:
   full: Thónian

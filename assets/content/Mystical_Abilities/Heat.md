@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-heat
+aliases: []
 tags: []
 name:
   full: Heat

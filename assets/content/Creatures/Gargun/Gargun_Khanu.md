@@ -2,7 +2,6 @@
 aliases:
   - Gârgún Khánu
   - Great Gârgún
-  - being-khanu
 tags:
   - folk
   - gargun

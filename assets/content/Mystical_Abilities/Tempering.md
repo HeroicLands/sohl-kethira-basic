@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-tempering
+aliases: []
 tags: []
 name:
   full: Tempering

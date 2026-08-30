@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-hex
+aliases: []
 tags: []
 name:
   full: Hex

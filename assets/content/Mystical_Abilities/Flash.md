@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-flash
+aliases: []
 tags: []
 name:
   full: Flash

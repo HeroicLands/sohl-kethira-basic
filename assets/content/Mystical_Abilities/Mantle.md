@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-mantle
+aliases: []
 tags: []
 name:
   full: Mantle

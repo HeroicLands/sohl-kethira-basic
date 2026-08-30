@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ùlándus
-  - mystery-ulandus
 tags: []
 name:
   full: Ùlándus

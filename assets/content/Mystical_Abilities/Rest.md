@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-rest
+aliases: []
 tags: []
 name:
   full: Rest

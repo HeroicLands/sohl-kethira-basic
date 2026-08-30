@@ -1,7 +1,6 @@
 ---
 aliases:
   - Môrdar
-  - skill-mordar
 tags: []
 name:
   full: Môrdar

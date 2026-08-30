@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-veil
+aliases: []
 tags: []
 name:
   full: Veil

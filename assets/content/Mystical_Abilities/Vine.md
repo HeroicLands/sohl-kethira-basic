@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-vine
+aliases: []
 tags: []
 name:
   full: Vine

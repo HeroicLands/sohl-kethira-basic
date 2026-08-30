@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-dart
+aliases: []
 tags: []
 name:
   full: Dart

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Bandit 3
-  - being-bandit3
 tags: []
 name:
   full: Bandit 3

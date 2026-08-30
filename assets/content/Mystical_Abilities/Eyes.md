@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-eyes
+aliases: []
 tags: []
 name:
   full: Eyes

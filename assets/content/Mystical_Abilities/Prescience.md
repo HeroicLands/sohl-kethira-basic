@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-psnc
+aliases: []
 tags: []
 name:
   full: Prescience

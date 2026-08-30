@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-burn
+aliases: []
 tags: []
 name:
   full: Burn

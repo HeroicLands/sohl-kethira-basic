@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-lens
+aliases: []
 tags: []
 name:
   full: Lens

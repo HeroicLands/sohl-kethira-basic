@@ -1,7 +1,6 @@
 ---
 aliases:
   - Chéler
-  - skill-cheler
 tags: []
 name:
   full: Chéler

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Jmôrvi
-  - skill-jmorvi
 tags: []
 name:
   full: Jmôrvi

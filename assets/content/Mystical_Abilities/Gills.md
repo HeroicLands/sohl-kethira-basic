@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-gills
+aliases: []
 tags: []
 name:
   full: Gills

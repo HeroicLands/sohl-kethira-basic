@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-condensation
+aliases: []
 tags: []
 name:
   full: Condensation

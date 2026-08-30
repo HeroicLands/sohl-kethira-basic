@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-warp
+aliases: []
 tags: []
 name:
   full: Warp

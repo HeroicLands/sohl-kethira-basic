@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-meld
+aliases: []
 tags: []
 name:
   full: Meld

@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-wave
+aliases: []
 tags: []
 name:
   full: Wave

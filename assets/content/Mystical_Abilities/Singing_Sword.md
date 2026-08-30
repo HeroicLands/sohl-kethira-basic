@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-singingsword
+aliases: []
 tags: []
 name:
   full: Singing Sword

@@ -1,7 +1,6 @@
 ---
 aliases:
   - HMK Basic Folk
-  - being-hmkbasicfolk
 tags: []
 name:
   full: HMK Basic Folk

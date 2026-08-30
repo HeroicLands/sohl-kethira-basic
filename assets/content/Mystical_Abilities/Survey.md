@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-survey
+aliases: []
 tags: []
 name:
   full: Survey

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Edâryr
-  - skill-edaryr
 tags: []
 name:
   full: Edâryr

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sárajìn
-  - affiliation-sarajin
 tags: []
 name:
   full: Sárajìn

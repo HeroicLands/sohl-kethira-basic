@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-spoon
+aliases: []
 tags: []
 name:
   full: Spoon

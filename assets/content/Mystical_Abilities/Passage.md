@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-passage
+aliases: []
 tags: []
 name:
   full: Passage

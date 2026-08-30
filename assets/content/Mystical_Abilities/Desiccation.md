@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-desiccation
+aliases: []
 tags: []
 name:
   full: Desiccation

@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-envelope
+aliases: []
 tags: []
 name:
   full: Envelope

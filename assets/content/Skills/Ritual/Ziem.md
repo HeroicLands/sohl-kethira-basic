@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ziém
-  - skill-ziem
 tags: []
 name:
   full: Ziém

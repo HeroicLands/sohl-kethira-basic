@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-sensation
+aliases: []
 tags: []
 name:
   full: Sensation

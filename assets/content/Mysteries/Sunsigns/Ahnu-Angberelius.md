@@ -1,7 +1,6 @@
 ---
 aliases:
   - Áhnù-Angberélius
-  - mystery-ahnuangberelius
 tags: []
 name:
   full: Áhnù-Angberélius

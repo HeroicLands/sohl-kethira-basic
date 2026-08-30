@@ -1,7 +1,6 @@
 ---
 aliases:
   - Alánta
-  - skill-alanta
 tags: []
 name:
   full: Alánta

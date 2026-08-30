@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-charge
+aliases: []
 tags: []
 name:
   full: Charge

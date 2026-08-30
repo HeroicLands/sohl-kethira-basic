@@ -1,7 +1,6 @@
 ---
 aliases:
   - Odívshè
-  - skill-odivshe
 tags: []
 name:
   full: Odívshè

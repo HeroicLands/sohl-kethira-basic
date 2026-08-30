@@ -1,7 +1,6 @@
 ---
 aliases:
   - Bandit 2
-  - being-bandit2
 tags: []
 name:
   full: Bandit 2

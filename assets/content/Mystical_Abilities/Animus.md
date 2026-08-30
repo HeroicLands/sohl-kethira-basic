@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-animus
+aliases: []
 tags: []
 name:
   full: Animus

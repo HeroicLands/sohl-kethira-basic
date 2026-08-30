@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-figure
+aliases: []
 tags: []
 name:
   full: Figure

@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-immolation
+aliases: []
 tags: []
 name:
   full: Immolation

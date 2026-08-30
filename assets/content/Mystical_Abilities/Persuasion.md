@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-persuasion
+aliases: []
 tags: []
 name:
   full: Persuasion

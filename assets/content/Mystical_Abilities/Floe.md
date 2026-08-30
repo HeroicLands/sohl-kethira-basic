@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-floe
+aliases: []
 tags: []
 name:
   full: Floe

@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-distort
+aliases: []
 tags: []
 name:
   full: Distort

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Hîrin
-  - mystery-hirin
 tags: []
 name:
   full: Hîrin

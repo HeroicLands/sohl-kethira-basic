@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-tide
+aliases: []
 tags: []
 name:
   full: Tide

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Orbáaler
-  - skill-orbaaler
 tags: []
 name:
   full: Orbáaler

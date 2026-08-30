@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-imbue
+aliases: []
 tags: []
 name:
   full: Imbue

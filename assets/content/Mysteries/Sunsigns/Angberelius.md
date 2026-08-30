@@ -1,7 +1,6 @@
 ---
 aliases:
   - Angberélius
-  - mystery-angberelius
 tags: []
 name:
   full: Angberélius

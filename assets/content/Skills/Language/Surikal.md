@@ -1,7 +1,6 @@
 ---
 aliases:
   - Surikal
-  - skill-surikal
 tags: []
 name:
   full: Surikal

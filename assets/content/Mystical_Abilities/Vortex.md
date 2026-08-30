@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-vortex
+aliases: []
 tags: []
 name:
   full: Vortex

@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-fist
+aliases: []
 tags: []
 name:
   full: Fist

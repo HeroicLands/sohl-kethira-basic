@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-icewalk
+aliases: []
 tags: []
 name:
   full: Icewalk

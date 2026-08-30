@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-enrichment
+aliases: []
 tags: []
 name:
   full: Enrichment

@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-glamour
+aliases: []
 tags: []
 name:
   full: Glamour

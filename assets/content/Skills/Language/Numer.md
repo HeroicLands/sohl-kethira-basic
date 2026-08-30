@@ -1,7 +1,6 @@
 ---
 aliases:
   - Númer
-  - skill-numer
 tags: []
 name:
   full: Númer

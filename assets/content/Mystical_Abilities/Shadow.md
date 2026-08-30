@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-shadow
+aliases: []
 tags: []
 name:
   full: Shadow

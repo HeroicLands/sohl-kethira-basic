@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sávè-K'nôr
-  - affiliation-saveknor
 tags: []
 name:
   full: Sávè-K'nôr

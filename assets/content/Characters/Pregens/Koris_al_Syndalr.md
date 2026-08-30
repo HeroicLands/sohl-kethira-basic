@@ -1,7 +1,6 @@
 ---
 aliases:
   - Kôris al Sýndalr
-  - being-korisalsyndalr
 tags: []
 name:
   full: Kôris al Sýndalr

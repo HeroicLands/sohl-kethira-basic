@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-converse
+aliases: []
 tags: []
 name:
   full: Converse

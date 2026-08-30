@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ládo
-  - mystery-lado
 tags: []
 name:
   full: Ládo

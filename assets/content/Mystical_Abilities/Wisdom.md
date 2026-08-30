@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-wisdom
+aliases: []
 tags: []
 name:
   full: Wisdom

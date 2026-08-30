@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ilvîr
-  - affiliation-ilvir
 tags: []
 name:
   full: Ilvîr
