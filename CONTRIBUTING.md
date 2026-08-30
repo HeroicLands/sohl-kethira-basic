@@ -40,7 +40,10 @@ request.
 3. **Make the change**, keeping it small and focused — one feature, one fix, or one
    documentation improvement per pull request.
 4. **Verify it.** `npm run lint` must pass, and `npm run build` must compile every
-   note into its pack.
+   note into its pack. The **Lint** check runs most of that chain on the pull
+   request itself; it leaves out `lint:addresses` while #41's backlog stands, and
+   does not yet run the build, so a green check is not a substitute for running
+   both locally.
 5. **Commit** in Conventional-Commits style, and **open a pull request** with
    `Closes #<n>` and a what/why description.
 
