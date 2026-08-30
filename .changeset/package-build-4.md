@@ -52,6 +52,7 @@ the item passes' output, and `characters` is declared first. It works only on a
 warm tree, and `build/` is gitignored, so every fresh checkout is a cold one. It
 behaves identically on 3.3.0, 3.4.0 and 4.0.0, so it is neither caused nor cured by
 this bump; the before/after compiles above were both taken past it the same way, by
-compiling the two Item packs by name first.
+compiling the two Item packs by name first. _package-build#73 has since been fixed,
+and 6.0.0 carries the fix — see #65, in this same release._
 
 No content note was touched.
