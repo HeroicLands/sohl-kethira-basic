@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-metal
+aliases: []
 tags: []
 name:
   full: Metal

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Peóni
-  - affiliation-peoni
 tags: []
 name:
   full: Peóni

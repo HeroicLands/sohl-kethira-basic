@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-quill
+aliases: []
 tags: []
 name:
   full: Quill

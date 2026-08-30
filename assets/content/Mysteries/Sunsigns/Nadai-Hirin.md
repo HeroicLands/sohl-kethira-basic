@@ -1,7 +1,6 @@
 ---
 aliases:
   - Nadái-Hîrin
-  - mystery-nadaihirin
 tags: []
 name:
   full: Nadái-Hîrin

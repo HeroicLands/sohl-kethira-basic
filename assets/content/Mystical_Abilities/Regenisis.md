@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-regenisis
+aliases: []
 tags: []
 name:
   full: Regenisis

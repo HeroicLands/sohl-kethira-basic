@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-floatation
+aliases: []
 tags: []
 name:
   full: Floatation

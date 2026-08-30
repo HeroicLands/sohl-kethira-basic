@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-mephitis
+aliases: []
 tags: []
 name:
   full: Mephitis

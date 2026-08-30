@@ -1,7 +1,6 @@
 ---
 aliases:
   - Arálius
-  - mystery-aralius
 tags: []
 name:
   full: Arálius

@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-sanctum
+aliases: []
 tags: []
 name:
   full: Sanctum

@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-recollection
+aliases: []
 tags: []
 name:
   full: Recollection

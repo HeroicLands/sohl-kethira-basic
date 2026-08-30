@@ -1,7 +1,6 @@
 ---
 aliases:
   - Bandit Archer 3
-  - being-banditarcher3
 tags: []
 name:
   full: Bandit Archer 3

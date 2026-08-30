@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-charm
+aliases: []
 tags: []
 name:
   full: Charm

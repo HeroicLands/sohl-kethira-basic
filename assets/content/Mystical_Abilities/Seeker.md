@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-seeker
+aliases: []
 tags: []
 name:
   full: Seeker

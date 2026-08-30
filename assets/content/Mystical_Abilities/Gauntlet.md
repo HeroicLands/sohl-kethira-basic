@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-gauntlet
+aliases: []
 tags: []
 name:
   full: Gauntlet

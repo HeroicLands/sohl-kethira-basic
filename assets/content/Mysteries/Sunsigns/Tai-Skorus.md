@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tai-Skôrus
-  - mystery-taiskorus
 tags: []
 name:
   full: Tai-Skôrus

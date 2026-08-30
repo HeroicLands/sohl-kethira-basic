@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ylvýr
-  - affiliation-ylvyr
 tags: []
 name:
   full: Ylvýr

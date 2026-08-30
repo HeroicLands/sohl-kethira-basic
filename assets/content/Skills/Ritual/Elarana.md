@@ -1,7 +1,6 @@
 ---
 aliases:
   - Elarána
-  - skill-elarana
 tags: []
 name:
   full: Elarána

@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-voice
+aliases: []
 tags: []
 name:
   full: Voice

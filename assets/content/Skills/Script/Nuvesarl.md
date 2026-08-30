@@ -1,7 +1,6 @@
 ---
 aliases:
   - Nuvesarl
-  - skill-nuvesarl
 tags: []
 name:
   full: Nuvesarl

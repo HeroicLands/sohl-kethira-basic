@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-fervor
+aliases: []
 tags: []
 name:
   full: Fervor

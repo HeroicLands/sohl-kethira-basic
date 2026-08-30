@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sárajìn
-  - skill-sarajin
 tags: []
 name:
   full: Sárajìn

@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-transfer
+aliases: []
 tags: []
 name:
   full: Transfer

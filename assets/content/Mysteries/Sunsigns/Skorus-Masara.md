@@ -1,7 +1,6 @@
 ---
 aliases:
   - Skôrus-Masâra
-  - mystery-skorusmasara
 tags: []
 name:
   full: Skôrus-Masâra

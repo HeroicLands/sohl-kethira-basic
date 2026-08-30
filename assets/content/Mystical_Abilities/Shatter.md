@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-shatter
+aliases: []
 tags: []
 name:
   full: Shatter

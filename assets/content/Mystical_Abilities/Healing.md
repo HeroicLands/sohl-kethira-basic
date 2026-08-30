@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-heal
+aliases: []
 tags: []
 name:
   full: Healing

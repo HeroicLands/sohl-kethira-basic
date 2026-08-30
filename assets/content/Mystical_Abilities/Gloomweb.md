@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-gloomweb
+aliases: []
 tags: []
 name:
   full: Gloomweb

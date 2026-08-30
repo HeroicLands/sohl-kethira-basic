@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-wasting
+aliases: []
 tags: []
 name:
   full: Wasting

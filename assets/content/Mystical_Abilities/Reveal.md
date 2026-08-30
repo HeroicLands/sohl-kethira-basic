@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-reveal
+aliases: []
 tags: []
 name:
   full: Reveal

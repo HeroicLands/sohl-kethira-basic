@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-redoubt
+aliases: []
 tags: []
 name:
   full: Redoubt

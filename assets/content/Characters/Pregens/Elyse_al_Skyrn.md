@@ -1,7 +1,6 @@
 ---
 aliases:
   - Elýsè al Skýrn
-  - being-elysealskyrn
 tags: []
 name:
   full: Elýsè al Skýrn

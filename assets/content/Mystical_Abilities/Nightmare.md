@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-nightmare
+aliases: []
 tags: []
 name:
   full: Nightmare

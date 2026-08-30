@@ -2,7 +2,6 @@
 aliases:
   - Gârgún Kyáni
   - White Gârgún
-  - being-kyani
 tags:
   - folk
   - gargun

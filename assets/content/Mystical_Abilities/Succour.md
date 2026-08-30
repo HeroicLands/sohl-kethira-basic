@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-succour
+aliases: []
 tags: []
 name:
   full: Succour

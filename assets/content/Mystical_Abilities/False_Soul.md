@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-falsesoul
+aliases: []
 tags: []
 name:
   full: False Soul

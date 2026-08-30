@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-resurge
+aliases: []
 tags: []
 name:
   full: Resurge

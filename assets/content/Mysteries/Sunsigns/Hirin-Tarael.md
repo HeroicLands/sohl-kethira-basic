@@ -1,7 +1,6 @@
 ---
 aliases:
   - Hîrin-Táræl
-  - mystery-hirintarael
 tags: []
 name:
   full: Hîrin-Táræl

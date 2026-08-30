@@ -1,7 +1,6 @@
 ---
 aliases:
   - Bandit 4
-  - being-bandit4
 tags: []
 name:
   full: Bandit 4

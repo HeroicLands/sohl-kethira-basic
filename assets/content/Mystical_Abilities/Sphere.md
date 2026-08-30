@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-sphere
+aliases: []
 tags: []
 name:
   full: Sphere

@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-crystals
+aliases: []
 tags: []
 name:
   full: Crystals

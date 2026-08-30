@@ -1,7 +1,6 @@
 ---
 aliases:
   - Vanáer
-  - skill-vanaer
 tags: []
 name:
   full: Vanáer

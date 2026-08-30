@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-image
+aliases: []
 tags: []
 name:
   full: Image

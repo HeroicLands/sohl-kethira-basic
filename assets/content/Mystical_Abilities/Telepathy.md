@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-telp
+aliases: []
 tags: []
 name:
   full: Telepathy

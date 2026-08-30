@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-trigger
+aliases: []
 tags: []
 name:
   full: Trigger

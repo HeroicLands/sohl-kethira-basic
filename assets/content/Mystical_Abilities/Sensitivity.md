@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-snst
+aliases: []
 tags: []
 name:
   full: Sensitivity

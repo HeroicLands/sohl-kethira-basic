@@ -2,7 +2,6 @@
 aliases:
   - Gârgún Arák
   - Small Gârgún
-  - being-arak
 tags:
   - folk
   - gargun

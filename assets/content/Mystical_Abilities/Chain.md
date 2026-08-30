@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-chain
+aliases: []
 tags: []
 name:
   full: Chain

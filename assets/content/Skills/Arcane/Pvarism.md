@@ -1,7 +1,6 @@
 ---
 aliases:
   - Pvârism
-  - skill-pvarism
 tags: []
 name:
   full: Pvârism

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sàvôrya
-  - skill-savorya
 tags: []
 name:
   full: Sàvôrya

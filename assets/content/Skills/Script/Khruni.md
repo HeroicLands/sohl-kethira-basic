@@ -1,7 +1,6 @@
 ---
 aliases:
   - Khrúni
-  - skill-khruni
 tags: []
 name:
   full: Khrúni

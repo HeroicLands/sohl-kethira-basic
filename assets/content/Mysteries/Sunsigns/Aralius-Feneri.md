@@ -1,7 +1,6 @@
 ---
 aliases:
   - Arálius-Fenéri
-  - mystery-araliusfeneri
 tags: []
 name:
   full: Arálius-Fenéri

@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-muffle
+aliases: []
 tags: []
 name:
   full: Muffle

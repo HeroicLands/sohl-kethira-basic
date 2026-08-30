@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-wall
+aliases: []
 tags: []
 name:
   full: Wall

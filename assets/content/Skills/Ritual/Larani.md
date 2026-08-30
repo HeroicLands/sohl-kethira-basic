@@ -1,7 +1,6 @@
 ---
 aliases:
   - Laráni
-  - skill-larani
 tags: []
 name:
   full: Laráni

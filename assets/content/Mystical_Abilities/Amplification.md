@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-ampl
+aliases: []
 tags: []
 name:
   full: Amplification

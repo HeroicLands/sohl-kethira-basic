@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-thirst
+aliases: []
 tags: []
 name:
   full: Thirst

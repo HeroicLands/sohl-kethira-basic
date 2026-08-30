@@ -1,7 +1,6 @@
 ---
 aliases:
   - Hârbáaler
-  - skill-harbaaler
 tags: []
 name:
   full: Hârbáaler

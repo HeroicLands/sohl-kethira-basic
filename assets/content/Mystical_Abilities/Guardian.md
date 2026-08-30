@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-guardian
+aliases: []
 tags: []
 name:
   full: Guardian

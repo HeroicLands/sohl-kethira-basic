@@ -1,7 +1,6 @@
 ---
 aliases:
   - Haléa
-  - affiliation-halea
 tags: []
 name:
   full: Haléa

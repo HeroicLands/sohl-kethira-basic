@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-counter
+aliases: []
 tags: []
 name:
   full: Counter

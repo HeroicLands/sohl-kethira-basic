@@ -1,7 +1,6 @@
 ---
 aliases:
   - Shôrka
-  - skill-shorka
 tags: []
 name:
   full: Shôrka

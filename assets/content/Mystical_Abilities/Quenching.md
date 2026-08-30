@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-quenching
+aliases: []
 tags: []
 name:
   full: Quenching

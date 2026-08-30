@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-attune
+aliases: []
 tags: []
 name:
   full: Attune

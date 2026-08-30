@@ -1,7 +1,6 @@
 ---
 aliases:
   - Úlana
-  - skill-ulana
 tags: []
 name:
   full: Úlana

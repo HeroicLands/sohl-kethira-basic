@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-snowball
+aliases: []
 tags: []
 name:
   full: Snowball

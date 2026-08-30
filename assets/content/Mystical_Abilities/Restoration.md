@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-restoration
+aliases: []
 tags: []
 name:
   full: Restoration

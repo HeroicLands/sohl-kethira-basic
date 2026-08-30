@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-fireworks
+aliases: []
 tags: []
 name:
   full: Fireworks

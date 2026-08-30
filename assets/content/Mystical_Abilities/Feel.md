@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-feel
+aliases: []
 tags: []
 name:
   full: Feel

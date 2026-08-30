@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-hunger
+aliases: []
 tags: []
 name:
   full: Hunger

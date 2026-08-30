@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-physique
+aliases: []
 tags: []
 name:
   full: Physique

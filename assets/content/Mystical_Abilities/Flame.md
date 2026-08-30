@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-flame
+aliases: []
 tags: []
 name:
   full: Flame

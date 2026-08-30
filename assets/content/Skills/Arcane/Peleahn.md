@@ -1,7 +1,6 @@
 ---
 aliases:
   - Pèleáhn
-  - skill-peleahn
 tags: []
 name:
   full: Pèleáhn

@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-clrv
+aliases: []
 tags: []
 name:
   full: Clairvoyance

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Kúzhan
-  - skill-kuzhan
 tags: []
 name:
   full: Kúzhan

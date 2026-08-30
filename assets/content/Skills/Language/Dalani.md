@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dálani
-  - skill-dalani
 tags: []
 name:
   full: Dálani

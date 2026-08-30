@@ -1,7 +1,6 @@
 ---
 aliases:
   - Hârnic
-  - skill-harnic
 tags: []
 name:
   full: Hârnic

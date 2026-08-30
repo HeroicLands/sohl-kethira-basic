@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-tremor
+aliases: []
 tags: []
 name:
   full: Tremor

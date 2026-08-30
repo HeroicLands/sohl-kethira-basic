@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-diagnosis
+aliases: []
 tags: []
 name:
   full: Diagnosis

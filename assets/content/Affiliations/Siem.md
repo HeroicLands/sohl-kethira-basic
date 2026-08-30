@@ -1,7 +1,6 @@
 ---
 aliases:
   - Siém
-  - affiliation-siem
 tags: []
 name:
   full: Siém

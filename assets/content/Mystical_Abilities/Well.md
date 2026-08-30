@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-well
+aliases: []
 tags: []
 name:
   full: Well

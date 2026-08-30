@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-reverse
+aliases: []
 tags: []
 name:
   full: Reverse

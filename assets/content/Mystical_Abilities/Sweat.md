@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-sweat
+aliases: []
 tags: []
 name:
   full: Sweat

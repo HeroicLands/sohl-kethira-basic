@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-breathofdhivu
+aliases: []
 tags: []
 name:
   full: Breath of Dhivu

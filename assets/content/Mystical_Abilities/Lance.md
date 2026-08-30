@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-lance
+aliases: []
 tags: []
 name:
   full: Lance

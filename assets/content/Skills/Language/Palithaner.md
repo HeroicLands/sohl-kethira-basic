@@ -1,7 +1,6 @@
 ---
 aliases:
   - Pálithàner
-  - skill-palithaner
 tags: []
 name:
   full: Pálithàner

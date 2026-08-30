@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-shroud
+aliases: []
 tags: []
 name:
   full: Shroud

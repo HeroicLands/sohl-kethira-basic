@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-pyre
+aliases: []
 tags: []
 name:
   full: Pyre

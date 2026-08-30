@@ -1,7 +1,6 @@
 ---
 aliases:
   - Môrgath
-  - skill-morgath
 tags: []
 name:
   full: Môrgath

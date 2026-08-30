@@ -1,7 +1,6 @@
 ---
 aliases:
   - Navéh
-  - skill-naveh
 tags: []
 name:
   full: Navéh

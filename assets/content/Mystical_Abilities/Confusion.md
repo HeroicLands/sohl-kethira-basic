@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-confusion
+aliases: []
 tags: []
 name:
   full: Confusion

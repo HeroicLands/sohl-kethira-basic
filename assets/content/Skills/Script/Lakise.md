@@ -1,7 +1,6 @@
 ---
 aliases:
   - Lakíse
-  - skill-lakise
 tags: []
 name:
   full: Lakíse

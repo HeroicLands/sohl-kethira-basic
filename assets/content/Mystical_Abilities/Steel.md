@@ -1,6 +1,5 @@
 ---
-aliases:
-  - mysticalability-steel
+aliases: []
 tags: []
 name:
   full: Steel

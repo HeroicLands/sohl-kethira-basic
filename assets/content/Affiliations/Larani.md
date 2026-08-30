@@ -1,7 +1,6 @@
 ---
 aliases:
   - Laráni
-  - affiliation-larani
 tags: []
 name:
   full: Laráni
