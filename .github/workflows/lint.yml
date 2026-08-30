@@ -1,0 +1,98 @@
+# Run the checks on the pull request that broke them, not on the release
+# afterwards (#44).
+#
+# Until this landed, the only check a pull request here got was **No AI
+# attribution**. `npm run lint` and the build did run, but only inside
+# `build:noci` in `release.yml` — and only on the push to `main` that actually
+# cuts a release. So every gate this repository had fired after the merge that
+# broke it, and reported as a failed release rather than a failed pull request.
+#
+# ## What runs, and what does not
+#
+# This runs **five of the six checks `npm run lint` chains**, as named steps so a
+# failure says which one. The omission is measured, not incidental. On the commit
+# that added this file:
+#
+# | check               | state on `main`                          |
+# | ------------------- | ---------------------------------------- |
+# | `lint:format`       | clean — 405 files                        |
+# | `lint:markdown`     | clean                                    |
+# | `lint:lang`         | clean — 1 localization file              |
+# | `lint:content-links`| clean — 364 notes, every anchor lands    |
+# | `lint:labels`       | clean — registry and §3 agree, 11 labels |
+# | `lint:addresses`    | **270 findings across 364 notes** (#41)  |
+#
+# `lint:addresses` is left out because a gate that cannot go green is worse than
+# no gate: it trains people to merge past a red check, and then the red check
+# stops meaning anything. Its backlog is #41 — 66 skills carrying
+# `assocAffiliationCode` and the rest — and it is pre-existing content, put there
+# by nobody in the pull request being blocked. When #41 clears, delete the five
+# steps below and run `npm run lint`, which already chains all six.
+#
+# ## The build is not gated here yet
+#
+# The issue asks for `build:db` too, so a note that lints clean but fails to
+# compile is caught on the pull request. It is not here for the same reason:
+# `main` does not compile from a cold `build/` today. The Actor pack is declared
+# before the Item packs it resolves against, so the actors pass aborts with
+# "Items source directory … does not exist" (#56). The fix is open as #61 and
+# touches only the pack order; once it merges, add a second job that runs
+# `npm run build:db`, which was verified green against that branch.
+name: Lint
+
+on:
+    pull_request:
+        types: [opened, reopened, synchronize]
+    # Post-merge signal too: `release.yml` runs the lint chain only on a push
+    # that actually releases, so `main` otherwise goes unchecked between
+    # releases.
+    push:
+        branches: [main]
+    workflow_dispatch:
+
+permissions:
+    contents: read
+
+jobs:
+    lint:
+        name: Content, prose, and registry checks
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v7
+
+            - name: Setup Node
+              uses: actions/setup-node@v7
+              with:
+                  node-version: 24
+                  cache: npm
+
+            # Every check below reads the tracked tree and needs only the
+            # toolchain: nothing here fetches a dependency catalogue, compiles a
+            # pack, or reaches the network.
+            - name: Install dependencies
+              run: npm ci
+
+            # Prettier over the whole tree.
+            - name: Check formatting
+              run: npm run lint:format
+
+            # markdownlint: document structure, and links that do not link.
+            - name: Check markdown
+              run: npm run lint:markdown
+
+            # No dotted-prefix collision in `lang/*.json`. A key that is both a
+            # leaf and a branch makes `foundry.utils.expandObject` throw, and
+            # Foundry then drops the whole translation file.
+            - name: Check localization files
+              run: npm run lint:lang
+
+            # Every anchor link lands and every qualified address resolves.
+            - name: Check content links
+              run: npm run lint:content-links
+
+            # `.github/labels.yml` and the §3 table in
+            # `.github/ISSUE_REPORTING.md` still name the same closed set.
+            - name: Check label registry
+              run: npm run lint:labels
