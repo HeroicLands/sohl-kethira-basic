@@ -41,9 +41,10 @@ request.
    documentation improvement per pull request.
 4. **Verify it.** `npm run lint` must pass, and `npm run build` must compile every
    note into its pack. The **Lint** check runs most of that chain on the pull
-   request itself; it leaves out `lint:addresses` while #41's backlog stands, and
-   does not yet run the build, so a green check is not a substitute for running
-   both locally.
+   request itself, and its **Content pack compile** job compiles all three packs
+   from a cold `build/`; it still leaves out `lint:addresses` while #41's backlog
+   stands, so a green check is not a substitute for running `npm run lint`
+   locally.
 5. **Commit** in Conventional-Commits style, and **open a pull request** with
    `Closes #<n>` and a what/why description.
 
