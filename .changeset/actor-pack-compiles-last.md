@@ -36,3 +36,10 @@ difference is the generated manifest's `packs` array, which is derived from this
 list and now reads `characteristics, mysteries, characters`; pack resolution is
 by name, and the compendium sidebar grouping comes from the separately authored
 `packFolders`, which is untouched.
+
+**Superseded in the same release, and the rule above no longer holds.** Adopting
+`@heroiclands/package-build` 6.0.0 (#65) makes the build derive the compile order
+from what each pass reads, so `packs:` order stops deciding it. The declaration
+here is still the one you want — it is the manifest's `packs` array, read by
+people — but it is no longer load-bearing, and the error quoted above is
+unreachable from a whole-package build.

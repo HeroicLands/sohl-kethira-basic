@@ -42,14 +42,34 @@ itemBuilders: sohl
 # above is what changed. Note that this list is also the manifest's `packs`
 # array, so a pack is either compiled and declared, or neither.
 #
-# **Order is load-bearing, and that is why `characters` is last** (#56). Passes
-# run in the order declared here, and the actors pass resolves a being's
-# embedded items against the *output* of the item passes — not against the
-# content tree — so both Item packs must compile before it. Declared first, the
-# Actor pass aborted the build on a cold `build/` ("Items source directory …
-# does not exist — actors must be generated after items") and only appeared to
-# work on a warm one, where a previous run had left the item output behind.
-# `build/` is gitignored, so every fresh checkout is cold.
+# **This order is presentation, not a compile constraint** (#65,
+# package-build#73). The dependency it used to encode is real and has not gone
+# anywhere: the actors pass resolves a being's embedded items against the
+# *output* of the item passes, not against the content tree, so both Item packs
+# genuinely must compile before `characters`. What changed in
+# `@heroiclands/package-build` 6.0.0 is who works that out. The build now
+# derives the compile order from what each pass reads and reorders itself, so
+# this list no longer has to encode it, and #56 — which put `characters` last
+# for exactly that reason — no longer describes a rule anyone can break here.
+#
+# Measured both ways rather than taken on trust: with `characters` moved to the
+# top of this list, a cold `build:db` exits 0 on 6.0.0, compiling the Item packs
+# first regardless, and exits 1 on 5.0.0 with "Items source directory … does not
+# exist — actors must be generated after items". Same tree, same config, only
+# the toolchain differs.
+#
+# So order this list for a reader, not for the compiler: it is also the
+# manifest's `packs` array, which is the sequence Foundry lists the compendiums
+# in. It currently yields `characteristics, mysteries, characters` — the two
+# reference packs, then the actors that draw on them. `characters` stays last
+# because that reads well.
+#
+# One caveat, and it is about a command rather than about this list. The
+# ordering is derived for a *whole-package* build; a run restricted to one pack
+# (`content-build package compile characters`) cannot conjure the passes it left
+# out, and refuses, naming them: "reads the compiled output of the Item pack
+# "characteristics", which this run does not compile … compile the whole
+# package, or compile "characteristics" first".
 packs:
     - {
           name: characteristics,
