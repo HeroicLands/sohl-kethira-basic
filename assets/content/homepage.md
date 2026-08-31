@@ -3,7 +3,7 @@ type: homepage
 title: HârnMaster Kethira Basic
 ---
 
-A module for the [Song of Heroic Lands](https://www.heroiclands.org/sohl/) system
+A module for the [Song of Heroic Lands](/sohl/) system
 for Foundry VTT, carrying the basic mechanical pieces — skills, spells, sunsigns,
 convocations and gods — needed to play in the world of Kethira.
 
@@ -17,7 +17,7 @@ hardback or the PDF from Keléstia:
 ## Installing
 
 The module requires the
-[Song of Heroic Lands](https://www.heroiclands.org/sohl/) system for Foundry VTT.
+[Song of Heroic Lands](/sohl/) system for Foundry VTT.
 Install it from Foundry's **Add-on Modules → Install Module** screen, using this
 manifest URL:
 
