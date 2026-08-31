@@ -1,67 +1,67 @@
 {
-    "name": "sohl-kethira-basic",
-    "private": true,
-    "version": "0.5.3",
-    "description": "HârnMaster Kethira content for the Song of Heroic Lands system for Foundry VTT",
-    "type": "module",
-    "license": "SEE LICENSE IN LICENSE",
-    "author": {
-        "name": "Tom Rodriguez",
-        "email": "toasty@heroiclands.org"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/HeroicLands/sohl-kethira-basic.git"
-    },
-    "bugs": {
-        "url": "https://github.com/HeroicLands/sohl-kethira-basic/issues"
-    },
-    "engines": {
-        "node": ">=24.0.0"
-    },
-    "scripts": {
-        "prepare": "git config core.hooksPath .githooks || true",
-        "clean": "package-build clean",
-        "distclean": "package-build clean --distclean",
-        "build": "npm ci && npm run build:noci",
-        "build:local": "npm i && npm run build:noci",
-        "build:noci": "run-s lint build:db build:module",
-        "build:db": "run-s build:deps build:assets build:compiledb",
-        "build:deps": "content-build deps fetch",
-        "build:assets": "package-build assets",
-        "build:compiledb": "content-build package compile",
-        "build:unpackdb": "content-build package unpack",
-        "build:module": "package-build manifest",
-        "build:site": "run-s build:site-content build:site-html",
-        "build:site-content": "content-build site",
-        "build:site-html": "hugo --source site --minify --gc --cleanDestinationDir",
-        "build:pack-release": "package-build release",
-        "push:dev": "package-build deploy dev",
-        "push:qa": "package-build deploy qa",
-        "push:prod": "package-build deploy prod",
-        "deploy:qa": "run-s build push:qa",
-        "deploy:dev": "run-s build push:dev",
-        "deploy:prod": "run-s build push:prod",
-        "deploy:release": "run-s build build:pack-release",
-        "format": "content-build format --write",
-        "format:check": "content-build format",
-        "lint": "run-s lint:format lint:markdown lint:lang lint:addresses lint:content-links lint:labels",
-        "lint:format": "content-build format",
-        "lint:markdown": "content-build markdown",
-        "lint:markdown:fix": "content-build markdown --fix",
-        "lint:lang": "package-build lang check",
-        "lint:addresses": "content-build lint",
-        "lint:content-links": "content-build links",
-        "lint:labels": "node utils/check-labels.mjs",
-        "changeset": "changeset",
-        "changeset:version": "changeset version && npm install --package-lock-only",
-        "changeset:check": "changeset status --since=origin/main"
-    },
-    "devDependencies": {
-        "@changesets/cli": "^3.0.1",
-        "@heroiclands/hugo-theme": "^0.2.0",
-        "@heroiclands/package-build": "^7.0.0",
-        "npm-run-all": "^4.1.5",
-        "yaml": "^2.9.0"
-    }
+  "name": "sohl-kethira-basic",
+  "private": true,
+  "version": "0.5.3",
+  "description": "HârnMaster Kethira content for the Song of Heroic Lands system for Foundry VTT",
+  "type": "module",
+  "license": "SEE LICENSE IN LICENSE",
+  "author": {
+    "name": "Tom Rodriguez",
+    "email": "toasty@heroiclands.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeroicLands/sohl-kethira-basic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HeroicLands/sohl-kethira-basic/issues"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "prepare": "git config core.hooksPath .githooks || true",
+    "clean": "package-build clean",
+    "distclean": "package-build clean --distclean",
+    "build": "npm ci && npm run build:noci",
+    "build:local": "npm i && npm run build:noci",
+    "build:noci": "run-s lint build:db build:module",
+    "build:db": "run-s build:deps build:assets build:compiledb",
+    "build:deps": "content-build deps fetch",
+    "build:assets": "package-build assets",
+    "build:compiledb": "content-build package compile",
+    "build:unpackdb": "content-build package unpack",
+    "build:module": "package-build manifest",
+    "build:site": "run-s build:site-content build:site-html",
+    "build:site-content": "content-build site",
+    "build:site-html": "hugo --source site --minify --gc --cleanDestinationDir",
+    "build:pack-release": "package-build release",
+    "push:dev": "package-build deploy dev",
+    "push:qa": "package-build deploy qa",
+    "push:prod": "package-build deploy prod",
+    "deploy:qa": "run-s build push:qa",
+    "deploy:dev": "run-s build push:dev",
+    "deploy:prod": "run-s build push:prod",
+    "deploy:release": "run-s build build:pack-release",
+    "format": "content-build format --write",
+    "format:check": "content-build format",
+    "lint": "run-s lint:format lint:markdown lint:lang lint:addresses lint:content-links lint:labels",
+    "lint:format": "content-build format",
+    "lint:markdown": "content-build markdown",
+    "lint:markdown:fix": "content-build markdown --fix",
+    "lint:lang": "package-build lang check",
+    "lint:addresses": "content-build lint",
+    "lint:content-links": "content-build links",
+    "lint:labels": "node utils/check-labels.mjs",
+    "changeset": "changeset",
+    "changeset:version": "changeset version && npm install --package-lock-only",
+    "changeset:check": "changeset status --since=origin/main"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^3.0.1",
+    "@heroiclands/hugo-theme": "^0.2.0",
+    "@heroiclands/package-build": "^9.0.0",
+    "npm-run-all": "^4.1.5",
+    "yaml": "^2.9.0"
+  }
 }

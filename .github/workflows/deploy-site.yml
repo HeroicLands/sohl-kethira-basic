@@ -30,26 +30,26 @@
 name: Deploy the Kethira site to Cloudflare Pages
 
 on:
-    # Every push to `main` republishes the page. No path filter: a rebuild is
-    # cheap next to how quietly a hand-maintained path list goes stale, and a
-    # push that changes nothing the site serves merely republishes the same
-    # bytes.
-    push:
-        branches: [main]
-    workflow_dispatch:
+  # Every push to `main` republishes the page. No path filter: a rebuild is
+  # cheap next to how quietly a hand-maintained path list goes stale, and a
+  # push that changes nothing the site serves merely republishes the same
+  # bytes.
+  push:
+    branches: [main]
+  workflow_dispatch:
 
 permissions:
-    contents: read
+  contents: read
 
 jobs:
-    deploy:
-        uses: HeroicLands/.github/.github/workflows/deploy-package-site.yml@main
-        with:
-            # Not derived from the package name: renaming a live Pages project
-            # to fit a convention would break its deployment history.
-            project: sohl-kethira-basic
-        # By name, never `secrets: inherit` — inheriting would hand a workflow in
-        # another repository every secret this one holds for a job that needs two.
-        secrets:
-            CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-            CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+  deploy:
+    uses: HeroicLands/.github/.github/workflows/deploy-package-site.yml@main
+    with:
+      # Not derived from the package name: renaming a live Pages project
+      # to fit a convention would break its deployment history.
+      project: sohl-kethira-basic
+    # By name, never `secrets: inherit` — inheriting would hand a workflow in
+    # another repository every secret this one holds for a job that needs two.
+    secrets:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

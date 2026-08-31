@@ -14,18 +14,6 @@ portrait: ""
 type: being
 sohl:
   archetype: 0
-  attributes:
-    str: 24
-    end: 18
-    dex: 10
-    agl: 8
-    per: 7
-    aur: 5
-    wil: 14
-    rea: 4
-    cre: 2
-    emp: 3
-    elo: 2
   attrRollFormula:
     str: 1d6+21
     end: 1d6+15
@@ -294,34 +282,28 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 88
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 27
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 40
-    - shortcode: trak
-      type: skill
-      system:
-        masteryLevelBase: 25
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 40
+    - { shortcode: str, type: attribute, system: { scoreBase: 24 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 5 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 4 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 2 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 3 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 2 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 88 } }
+    - {
+        shortcode: sprt,
+        type: mysticalability,
+        system: { masteryLevelBase: 27 },
+      }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 40 } }
+    - { shortcode: trak, type: skill, system: { masteryLevelBase: 25 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 40 } }
     - name: Claw
       type: skill
       system:

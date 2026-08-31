@@ -2,21 +2,21 @@ name: Task
 description: Necessary work that is neither a defect nor a new capability — a chore, refactor, tooling, docs, or release.
 type: Task
 body:
-    - type: markdown
-      attributes:
-          value: |
-              A **task** is maintenance/chore work (a defect is a **Bug**; new capability is a **Feature**; exploratory work with an uncertain outcome is a **Spike**). A behavior-preserving refactor is a task tagged `tech-debt`. See the [issue-reporting standard](https://github.com/HeroicLands/sohl-kethira-basic/blob/main/.github/ISSUE_REPORTING.md).
-    - type: textarea
-      id: what
-      attributes:
-          label: What
-          description: The work to be done.
-      validations:
-          required: true
-    - type: textarea
-      id: why
-      attributes:
-          label: Why
-          description: The reason it's needed (keeps chores from looking arbitrary).
-      validations:
-          required: true
+  - type: markdown
+    attributes:
+      value: |
+        A **task** is maintenance/chore work (a defect is a **Bug**; new capability is a **Feature**; exploratory work with an uncertain outcome is a **Spike**). A behavior-preserving refactor is a task tagged `tech-debt`. See the [issue-reporting standard](https://github.com/HeroicLands/sohl-kethira-basic/blob/main/.github/ISSUE_REPORTING.md).
+  - type: textarea
+    id: what
+    attributes:
+      label: What
+      description: The work to be done.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: The reason it's needed (keeps chores from looking arbitrary).
+    validations:
+      required: true

@@ -22,139 +22,139 @@ name: Version and Release
 # checks for updates against.
 
 on:
-    push:
-        branches: [main]
-    # Manual recovery: re-runs the decision for a version that is merged and
-    # versioned but never got its release. Cutting an existing tag is skipped
-    # rather than duplicated, so running this is safe.
-    workflow_dispatch:
+  push:
+    branches: [main]
+  # Manual recovery: re-runs the decision for a version that is merged and
+  # versioned but never got its release. Cutting an existing tag is skipped
+  # rather than duplicated, so running this is safe.
+  workflow_dispatch:
 
 # contents: write      -> push the version branch, create the tag and Release
 # pull-requests: write -> open and update the Version Packages pull request
 permissions:
-    contents: write
-    pull-requests: write
+  contents: write
+  pull-requests: write
 
 # Two pushes to main must never race on the version pull request or the tag.
 concurrency:
-    group: release
-    cancel-in-progress: false
+  group: release
+  cancel-in-progress: false
 
 jobs:
-    release:
-        name: Version and release sohl-kethira-basic
-        runs-on: ubuntu-latest
+  release:
+    name: Version and release sohl-kethira-basic
+    runs-on: ubuntu-latest
 
-        steps:
-            - name: Checkout code
-              uses: actions/checkout@v7
-              with:
-                  # `changeset version` reads the history to build the
-                  # changelog, and the decision below asks the remote for
-                  # existing tags.
-                  fetch-depth: 0
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v7
+        with:
+          # `changeset version` reads the history to build the
+          # changelog, and the decision below asks the remote for
+          # existing tags.
+          fetch-depth: 0
 
-            - name: Setup Node
-              uses: actions/setup-node@v7
-              with:
-                  node-version: 24
-                  cache: npm
+      - name: Setup Node
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
 
-            - name: Install dependencies
-              run: npm ci
+      - name: Install dependencies
+        run: npm ci
 
-            # With changesets pending: opens or updates the Version Packages
-            # pull request and stops. With none pending — the state right after
-            # that pull request merges — `has-changesets` is false, which is the
-            # signal that a freshly-versioned commit just landed.
-            #
-            # This package is `private: true`, so `.changeset/config.json`
-            # declares `privatePackages.version` — without it changesets 3
-            # versions nothing and reports success.
-            - name: Create or update the Version Packages PR
-              id: changesets
-              uses: changesets/action@v2
-              with:
-                  # The repository's own script, not a second spelling of it.
-                  # It must stay ONE command: this input is tokenized and
-                  # exec'd, never handed to a shell, so a `&&` chain written
-                  # here would be read as arguments to the first command. That
-                  # is exactly what broke every release in
-                  # `@heroiclands/content-build` (content-build#74) — an npm
-                  # script is the seam that does get a shell.
-                  version-script: npm run changeset:version
-                  commit-message: "chore(release): version packages"
-                  pr-title: "chore(release): version packages"
-              env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # With changesets pending: opens or updates the Version Packages
+      # pull request and stops. With none pending — the state right after
+      # that pull request merges — `has-changesets` is false, which is the
+      # signal that a freshly-versioned commit just landed.
+      #
+      # This package is `private: true`, so `.changeset/config.json`
+      # declares `privatePackages.version` — without it changesets 3
+      # versions nothing and reports success.
+      - name: Create or update the Version Packages PR
+        id: changesets
+        uses: changesets/action@v2
+        with:
+          # The repository's own script, not a second spelling of it.
+          # It must stay ONE command: this input is tokenized and
+          # exec'd, never handed to a shell, so a `&&` chain written
+          # here would be read as arguments to the first command. That
+          # is exactly what broke every release in
+          # `@heroiclands/content-build` (content-build#74) — an npm
+          # script is the seam that does get a shell.
+          version-script: npm run changeset:version
+          commit-message: "chore(release): version packages"
+          pr-title: "chore(release): version packages"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-            # Release only when the version pull request has merged: no
-            # changesets remain AND this version has not already been tagged.
-            # Both halves are needed — the first says a bump just landed, the
-            # second keeps an ordinary push (or a re-run) from cutting the same
-            # release twice, and is what makes the hand-cut tags up to v0.5.3
-            # safe to inherit.
-            #
-            # The output is `has-changesets`, kebab-case: changesets/action v2
-            # renamed it from v1's `has-changesets`. Reading the old name yields
-            # an empty string, `'' == 'false'` is false, and every release step
-            # below is skipped forever — the workflow runs green and cuts
-            # nothing. Bracket notation is required too, because a hyphen in a
-            # property name is parsed as subtraction.
-            - name: Decide whether to release
-              id: decide
-              if: steps.changesets.outputs['has-changesets'] == 'false'
-              run: |
-                  VERSION=$(node -p "require('./package.json').version")
-                  TAG="v$VERSION"
-                  if git ls-remote --exit-code --tags origin "refs/tags/$TAG" >/dev/null 2>&1; then
-                      echo "Tag $TAG already exists — nothing to release."
-                      echo "release=false" >> "$GITHUB_OUTPUT"
-                  else
-                      echo "Version $VERSION is untagged — releasing $TAG."
-                      echo "release=true" >> "$GITHUB_OUTPUT"
-                      echo "tag=$TAG" >> "$GITHUB_OUTPUT"
-                  fi
+      # Release only when the version pull request has merged: no
+      # changesets remain AND this version has not already been tagged.
+      # Both halves are needed — the first says a bump just landed, the
+      # second keeps an ordinary push (or a re-run) from cutting the same
+      # release twice, and is what makes the hand-cut tags up to v0.5.3
+      # safe to inherit.
+      #
+      # The output is `has-changesets`, kebab-case: changesets/action v2
+      # renamed it from v1's `has-changesets`. Reading the old name yields
+      # an empty string, `'' == 'false'` is false, and every release step
+      # below is skipped forever — the workflow runs green and cuts
+      # nothing. Bracket notation is required too, because a hyphen in a
+      # property name is parsed as subtraction.
+      - name: Decide whether to release
+        id: decide
+        if: steps.changesets.outputs['has-changesets'] == 'false'
+        run: |
+          VERSION=$(node -p "require('./package.json').version")
+          TAG="v$VERSION"
+          if git ls-remote --exit-code --tags origin "refs/tags/$TAG" >/dev/null 2>&1; then
+              echo "Tag $TAG already exists — nothing to release."
+              echo "release=false" >> "$GITHUB_OUTPUT"
+          else
+              echo "Version $VERSION is untagged — releasing $TAG."
+              echo "release=true" >> "$GITHUB_OUTPUT"
+              echo "tag=$TAG" >> "$GITHUB_OUTPUT"
+          fi
 
-            # `build:noci` rather than `build`, which begins with its own
-            # `npm ci` — the dependencies are already installed above. It runs
-            # the lint chain and the pack compile, so a release cannot be cut
-            # from a tree that does not build or does not lint.
-            - name: Build module
-              if: steps.decide.outputs.release == 'true'
-              run: npm run build:noci
+      # `build:noci` rather than `build`, which begins with its own
+      # `npm ci` — the dependencies are already installed above. It runs
+      # the lint chain and the pack compile, so a release cannot be cut
+      # from a tree that does not build or does not lint.
+      - name: Build module
+        if: steps.decide.outputs.release == 'true'
+        run: npm run build:noci
 
-            - name: Package module
-              if: steps.decide.outputs.release == 'true'
-              run: npm run build:pack-release
+      - name: Package module
+        if: steps.decide.outputs.release == 'true'
+        run: npm run build:pack-release
 
-            # Written to a file rather than a step output: a version's section
-            # can be very large when many changesets have accumulated between
-            # releases, and passing that much text through an action input
-            # delivers it via the process environment, which the runner will
-            # refuse to spawn past a certain size. `body_path` reads the file
-            # directly.
-            - name: Read changelog section for this version
-              id: changelog
-              if: steps.decide.outputs.release == 'true'
-              run: |
-                  mkdir -p build
-                  # Everything between the first "## " heading and the next
-                  # one, excluding the version header itself — the release
-                  # title already shows it.
-                  awk '/^## /{c++; if (c>=2) exit; next} c==1{print}' CHANGELOG.md > build/release-notes.md
+      # Written to a file rather than a step output: a version's section
+      # can be very large when many changesets have accumulated between
+      # releases, and passing that much text through an action input
+      # delivers it via the process environment, which the runner will
+      # refuse to spawn past a certain size. `body_path` reads the file
+      # directly.
+      - name: Read changelog section for this version
+        id: changelog
+        if: steps.decide.outputs.release == 'true'
+        run: |
+          mkdir -p build
+          # Everything between the first "## " heading and the next
+          # one, excluding the version header itself — the release
+          # title already shows it.
+          awk '/^## /{c++; if (c>=2) exit; next} c==1{print}' CHANGELOG.md > build/release-notes.md
 
-            # Creates the v<version> tag and the GitHub Release, attaching the
-            # two assets Foundry installs and updates from.
-            - name: Create GitHub Release
-              if: steps.decide.outputs.release == 'true'
-              uses: softprops/action-gh-release@v3
-              with:
-                  tag_name: ${{ steps.decide.outputs.tag }}
-                  name: Release ${{ steps.decide.outputs.tag }}
-                  body_path: build/release-notes.md
-                  files: |
-                      build/dist/module.zip
-                      build/dist/module.json
-              env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Creates the v<version> tag and the GitHub Release, attaching the
+      # two assets Foundry installs and updates from.
+      - name: Create GitHub Release
+        if: steps.decide.outputs.release == 'true'
+        uses: softprops/action-gh-release@v3
+        with:
+          tag_name: ${{ steps.decide.outputs.tag }}
+          name: Release ${{ steps.decide.outputs.tag }}
+          body_path: build/release-notes.md
+          files: |
+            build/dist/module.zip
+            build/dist/module.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

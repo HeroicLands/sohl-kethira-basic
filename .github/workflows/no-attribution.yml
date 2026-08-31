@@ -10,19 +10,19 @@ name: No Attribution
 # into the action — those two are the pair to keep in sync, and the only pair.
 
 on:
-    pull_request:
-        types: [opened, edited, reopened, synchronize]
+  pull_request:
+    types: [opened, edited, reopened, synchronize]
 
 permissions:
-    contents: read
-    pull-requests: read
+  contents: read
+  pull-requests: read
 
 jobs:
-    no-attribution:
-        name: No AI attribution
-        runs-on: ubuntu-latest
-        steps:
-            # Needs no checkout: the subjects are the pull request, not the tree.
-            - uses: HeroicLands/.github/actions/no-attribution@main
-              with:
-                  token: ${{ github.token }}
+  no-attribution:
+    name: No AI attribution
+    runs-on: ubuntu-latest
+    steps:
+      # Needs no checkout: the subjects are the pull request, not the tree.
+      - uses: HeroicLands/.github/actions/no-attribution@main
+        with:
+          token: ${{ github.token }}

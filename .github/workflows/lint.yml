@@ -59,83 +59,83 @@
 name: Lint
 
 on:
-    pull_request:
-        types: [opened, reopened, synchronize]
-    # Post-merge signal too: `release.yml` runs the lint chain only on a push
-    # that actually releases, so `main` otherwise goes unchecked between
-    # releases.
-    push:
-        branches: [main]
-    workflow_dispatch:
+  pull_request:
+    types: [opened, reopened, synchronize]
+  # Post-merge signal too: `release.yml` runs the lint chain only on a push
+  # that actually releases, so `main` otherwise goes unchecked between
+  # releases.
+  push:
+    branches: [main]
+  workflow_dispatch:
 
 permissions:
-    contents: read
+  contents: read
 
 jobs:
-    lint:
-        name: Content, prose, and registry checks
-        runs-on: ubuntu-latest
+  lint:
+    name: Content, prose, and registry checks
+    runs-on: ubuntu-latest
 
-        steps:
-            - name: Checkout code
-              uses: actions/checkout@v7
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v7
 
-            - name: Setup Node
-              uses: actions/setup-node@v7
-              with:
-                  node-version: 24
-                  cache: npm
+      - name: Setup Node
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
 
-            # Every check below reads the tracked tree and needs only the
-            # toolchain: nothing here fetches a dependency catalogue, compiles a
-            # pack, or reaches the network.
-            - name: Install dependencies
-              run: npm ci
+      # Every check below reads the tracked tree and needs only the
+      # toolchain: nothing here fetches a dependency catalogue, compiles a
+      # pack, or reaches the network.
+      - name: Install dependencies
+        run: npm ci
 
-            # Prettier over the whole tree.
-            - name: Check formatting
-              run: npm run lint:format
+      # Prettier over the whole tree.
+      - name: Check formatting
+        run: npm run lint:format
 
-            # markdownlint: document structure, and links that do not link.
-            - name: Check markdown
-              run: npm run lint:markdown
+      # markdownlint: document structure, and links that do not link.
+      - name: Check markdown
+        run: npm run lint:markdown
 
-            # No dotted-prefix collision in `lang/*.json`. A key that is both a
-            # leaf and a branch makes `foundry.utils.expandObject` throw, and
-            # Foundry then drops the whole translation file.
-            - name: Check localization files
-              run: npm run lint:lang
+      # No dotted-prefix collision in `lang/*.json`. A key that is both a
+      # leaf and a branch makes `foundry.utils.expandObject` throw, and
+      # Foundry then drops the whole translation file.
+      - name: Check localization files
+        run: npm run lint:lang
 
-            # Every anchor link lands and every qualified address resolves.
-            - name: Check content links
-              run: npm run lint:content-links
+      # Every anchor link lands and every qualified address resolves.
+      - name: Check content links
+        run: npm run lint:content-links
 
-            # `.github/labels.yml` and the §3 table in
-            # `.github/ISSUE_REPORTING.md` still name the same closed set.
-            - name: Check label registry
-              run: npm run lint:labels
+      # `.github/labels.yml` and the §3 table in
+      # `.github/ISSUE_REPORTING.md` still name the same closed set.
+      - name: Check label registry
+        run: npm run lint:labels
 
-    build:
-        name: Content pack compile
-        runs-on: ubuntu-latest
+  build:
+    name: Content pack compile
+    runs-on: ubuntu-latest
 
-        steps:
-            - name: Checkout code
-              uses: actions/checkout@v7
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v7
 
-            - name: Setup Node
-              uses: actions/setup-node@v7
-              with:
-                  node-version: 24
-                  cache: npm
+      - name: Setup Node
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
 
-            - name: Install dependencies
-              run: npm ci
+      - name: Install dependencies
+        run: npm ci
 
-            # `build:deps` fetches the pinned `sohl` release, `build:assets`
-            # stages the static tree, and `build:compiledb` compiles all three
-            # packs — resolving every being's embedded items — to LevelDB.
-            # Nothing is cached into `build/`, so this is the cold compile a tree
-            # that has already built once cannot perform on itself.
-            - name: Compile the content packs
-              run: npm run build:db
+      # `build:deps` fetches the pinned `sohl` release, `build:assets`
+      # stages the static tree, and `build:compiledb` compiles all three
+      # packs — resolving every being's embedded items — to LevelDB.
+      # Nothing is cached into `build/`, so this is the cold compile a tree
+      # that has already built once cannot perform on itself.
+      - name: Compile the content packs
+        run: npm run build:db

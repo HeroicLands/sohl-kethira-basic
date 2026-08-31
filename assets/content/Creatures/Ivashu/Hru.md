@@ -15,18 +15,6 @@ portrait: ""
 type: being
 sohl:
   archetype: 0
-  attributes:
-    str: 50
-    end: 40
-    dex: 8
-    agl: 6
-    per: 8
-    aur: 6
-    wil: 12
-    rea: 10
-    cre: 4
-    emp: 6
-    elo: 1
   attrRollFormula:
     str: 1d6+47
     end: 1d6+37
@@ -294,30 +282,27 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 90
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 27
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 21
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 35
+    - { shortcode: str, type: attribute, system: { scoreBase: 50 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 40 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 4 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 1 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 90 } }
+    - {
+        shortcode: sprt,
+        type: mysticalability,
+        system: { masteryLevelBase: 27 },
+      }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 21 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 35 } }
     - name: Kick
       type: skill
       system:

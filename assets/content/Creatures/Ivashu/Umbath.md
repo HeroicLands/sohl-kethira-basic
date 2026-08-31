@@ -17,11 +17,6 @@ portrait: ""
 type: being
 sohl:
   archetype: 0
-  attributes:
-    aur: 19
-    wil: 12
-    rea: 13
-    cre: 16
   attrRollFormula:
     aur: 1d6+16
     wil: 1d6+9
@@ -71,18 +66,17 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 80
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 70
+    - { shortcode: aur, type: attribute, system: { scoreBase: 19 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 65 } }
+    - {
+        shortcode: sprt,
+        type: mysticalability,
+        system: { masteryLevelBase: 80 },
+      }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 70 } }
 ---
 
 # Appearance {#appearance}

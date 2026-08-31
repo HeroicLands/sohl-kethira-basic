@@ -9,26 +9,26 @@ name: Sync labels
 # writes nothing, so that deletion is seen in review rather than after the fact.
 
 on:
-    pull_request:
-        paths: [".github/labels.yml"]
-    push:
-        branches: [main]
-        paths: [".github/labels.yml"]
-    workflow_dispatch:
+  pull_request:
+    paths: [".github/labels.yml"]
+  push:
+    branches: [main]
+    paths: [".github/labels.yml"]
+  workflow_dispatch:
 
 permissions:
-    issues: write
+  issues: write
 
 concurrency:
-    group: labels-sync
-    cancel-in-progress: false
+  group: labels-sync
+  cancel-in-progress: false
 
 jobs:
-    sync:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: actions/checkout@v7
-            - uses: HeroicLands/.github/actions/labels@main
-              with:
-                  mode: ${{ github.event_name == 'pull_request' && 'check' || 'sync' }}
-                  token: ${{ secrets.GITHUB_TOKEN }}
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: HeroicLands/.github/actions/labels@main
+        with:
+          mode: ${{ github.event_name == 'pull_request' && 'check' || 'sync' }}
+          token: ${{ secrets.GITHUB_TOKEN }}

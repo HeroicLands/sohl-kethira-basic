@@ -16,19 +16,6 @@ portrait: ""
 type: being
 sohl:
   archetype: 0
-  attributes:
-    str: 11
-    end: 11
-    dex: 12
-    agl: 9
-    per: 11
-    aur: 7
-    wil: 11
-    rea: 9
-    cre: 6
-    emp: 5
-    elo: 9
-    mor: 6
   attrRollFormula:
     str: 1d6+8
     end: 1d6+8
@@ -318,46 +305,32 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 27
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: srvl
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: anmcft
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: mtlc
-      type: skill
-      system:
-        masteryLevelBase: 66
-    - shortcode: mnrl
-      type: skill
-      system:
-        masteryLevelBase: 70
+    - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 7 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 5 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 6 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 30 } }
+    - {
+        shortcode: sprt,
+        type: mysticalability,
+        system: { masteryLevelBase: 27 },
+      }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 66 } }
+    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 70 } }
     - name: Punch
       type: skill
       system:
