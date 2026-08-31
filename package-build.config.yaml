@@ -4,7 +4,6 @@ contentPackage: kethira
 packageKind: modules
 
 stats:
-    systemId: sohl
     lastModifiedBy: kethirabuild0000
 
 compatibility:
