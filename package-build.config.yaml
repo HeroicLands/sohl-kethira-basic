@@ -4,28 +4,28 @@ contentPackage: kethira
 packageKind: modules
 
 stats:
-  lastModifiedBy: kethirabuild0000
+    lastModifiedBy: kethirabuild0000
 
 compatibility:
-  minimum: "14.356"
-  verified: "14.356"
+    minimum: "14.356"
+    verified: "14.356"
 
 relationships:
-  systems:
-    - id: sohl
-      type: system
-      manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/latest/download/system.json
-      compatibility:
-        minimum: "0.8.0"
-        verified: "0.8.2"
-      # The `characters` pass resolves a being's embedded items by
-      # `(type, shortcode)`, and almost every one of them — `attribute:str`,
-      # `skill:init` — belongs to `sohl` rather than to this repository. This
-      # opts into extracting that release's Item packs as a resolution source
-      # (content-build#82). `npm run build:deps` fetches it; a compile with a
-      # cold cache fails naming that command rather than reaching the network
-      # itself. The download is pinned to `verified` above, not to `latest`.
-      itemCatalog: true
+    systems:
+        - id: sohl
+          type: system
+          manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/latest/download/system.json
+          compatibility:
+              minimum: "0.8.0"
+              verified: "0.8.2"
+          # The `characters` pass resolves a being's embedded items by
+          # `(type, shortcode)`, and almost every one of them — `attribute:str`,
+          # `skill:init` — belongs to `sohl` rather than to this repository. This
+          # opts into extracting that release's Item packs as a resolution source
+          # (content-build#82). `npm run build:deps` fetches it; a compile with a
+          # cold cache fails naming that command rather than reaching the network
+          # itself. The download is pinned to `verified` above, not to `latest`.
+          itemCatalog: true
 
 itemBuilders: sohl
 
@@ -70,24 +70,9 @@ itemBuilders: sohl
 # "characteristics", which this run does not compile … compile the whole
 # package, or compile "characteristics" first".
 packs:
-  - {
-      name: characteristics,
-      label: Characteristics,
-      type: Item,
-      folders: item-folders.yaml,
-    }
-  - {
-      name: mysteries,
-      label: Mysteries,
-      type: Item,
-      folders: mystery-folders.yaml,
-    }
-  - {
-      name: characters,
-      label: Characters,
-      type: Actor,
-      folders: actor-folders.yaml,
-    }
+    - { name: characteristics, label: Characteristics, type: Item, folders: item-folders.yaml }
+    - { name: mysteries, label: Mysteries, type: Item, folders: mystery-folders.yaml }
+    - { name: characters, label: Characters, type: Actor, folders: actor-folders.yaml }
 
 # Two separate decisions, easily conflated.
 #
@@ -121,8 +106,8 @@ packs:
 # the site and the manifest do not stand or fall together — do not read a
 # change to one as licence to change the other.
 publish:
-  site: homepage
-  manifests: { publish: false, consume: true }
+    site: homepage
+    manifests: { publish: false, consume: true }
 
 # Where the homepage is written. Only `out` is meaningful in `homepage` mode —
 # every other key here is fenced off — but `out` is required all the same and is
@@ -132,44 +117,44 @@ publish:
 # that publishes a single page. The path matches the sibling convention
 # (`sohl-thalorna`); the tree is a build artifact and is gitignored.
 site:
-  out: site/content
+    out: site/content
 
 packageBuild:
-  assets:
-    - { from: assets/artwork, to: assets/artwork }
-    - { from: assets/images, to: assets/images }
-    - { from: assets/simple-calendar, to: assets/simple-calendar }
-    - { from: lang, to: lang }
-    - { from: LICENSE, to: LICENSE }
-    - { from: README.md, to: README.md }
+    assets:
+        - { from: assets/artwork, to: assets/artwork }
+        - { from: assets/images, to: assets/images }
+        - { from: assets/simple-calendar, to: assets/simple-calendar }
+        - { from: lang, to: lang }
+        - { from: LICENSE, to: LICENSE }
+        - { from: README.md, to: README.md }
 
-  lang:
-    sources: lang/*.json
-    help: >-
-      A dotted-prefix collision makes foundry.utils.expandObject throw, and
-      Foundry then drops the whole translation file. Make each key a leaf
-      OR a branch, never both.
+    lang:
+        sources: lang/*.json
+        help: >-
+            A dotted-prefix collision makes foundry.utils.expandObject throw, and
+            Foundry then drops the whole translation file. Make each key a leaf
+            OR a branch, never both.
 
-  manifest:
-    title: HarnMaster Kethira Basic Items
-    description: Basic items needed for playing Song of Heroic Lands in the world of Kethira
-    authors:
-      - name: Toasty
-        discord: toasty#8538
-        flags: {}
-    license: LICENSE
-    readme: README.md
-    languages:
-      - lang: en
-        name: English
-        path: lang/en.json
-    packFolders:
-      - name: HarnMaster Kethira Basic
-        sorting: m
-        color: "#008000"
-        packs:
-          - characters
-          - characteristics
-          - mysteries
-    flags:
-      allowBugReporter: true
+    manifest:
+        title: HarnMaster Kethira Basic Items
+        description: Basic items needed for playing Song of Heroic Lands in the world of Kethira
+        authors:
+            - name: Toasty
+              discord: toasty#8538
+              flags: {}
+        license: LICENSE
+        readme: README.md
+        languages:
+            - lang: en
+              name: English
+              path: lang/en.json
+        packFolders:
+            - name: HarnMaster Kethira Basic
+              sorting: m
+              color: "#008000"
+              packs:
+                  - characters
+                  - characteristics
+                  - mysteries
+        flags:
+            allowBugReporter: true

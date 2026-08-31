@@ -296,11 +296,7 @@ sohl:
     - { shortcode: awar, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: init, type: skill, system: { masteryLevelBase: 55 } }
     - { shortcode: shok, type: skill, system: { masteryLevelBase: 90 } }
-    - {
-        shortcode: sprt,
-        type: mysticalability,
-        system: { masteryLevelBase: 27 },
-      }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 27 } }
     - { shortcode: stlth, type: skill, system: { masteryLevelBase: 21 } }
     - { shortcode: dge, type: skill, system: { masteryLevelBase: 35 } }
     - name: Kick

@@ -2,20 +2,20 @@ name: Feature
 description: A new capability or enhancement that does not exist yet, shippable as one unit of value.
 type: Feature
 body:
-  - type: textarea
-    id: description
-    attributes:
-      label: Description
-      description: Describe the problem to be solved or the gap addressed. Sketch the approach if known.
-      value: |
-        ## Problem / motivation
-        What need or gap this addresses.
+    - type: textarea
+      id: description
+      attributes:
+          label: Description
+          description: Describe the problem to be solved or the gap addressed. Sketch the approach if known.
+          value: |
+              ## Problem / motivation
+              What need or gap this addresses.
 
-        ## Proposed solution
-        What to build. Sketch the approach if known.
+              ## Proposed solution
+              What to build. Sketch the approach if known.
 
-        ## Acceptance criteria
-        - [ ] Observable condition 1
-        - [ ] Observable condition 2
-    validations:
-      required: true
+              ## Acceptance criteria
+              - [ ] Observable condition 1
+              - [ ] Observable condition 2
+      validations:
+          required: true

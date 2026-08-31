@@ -561,30 +561,10 @@ sohl:
     - { shortcode: LtGlove, type: armorgear, system: { isWorn: true } }
     - { shortcode: BrdSwd, type: weapongear }
     - { shortcode: Dgr, type: weapongear }
-    - {
-        shortcode: Tabri,
-        type: weapongear,
-        name: Tabûri 1,
-        system: { shortcode: Taburi1 },
-      }
-    - {
-        shortcode: Tabri,
-        type: weapongear,
-        name: Tabûri 2,
-        system: { shortcode: Taburi2 },
-      }
-    - {
-        shortcode: Tabri,
-        type: weapongear,
-        name: Tabûri 3,
-        system: { shortcode: Taburi3 },
-      }
-    - {
-        shortcode: Tabri,
-        type: weapongear,
-        name: Tabûri 4,
-        system: { shortcode: Taburi4 },
-      }
+    - { shortcode: Tabri, type: weapongear, name: Tabûri 1, system: { shortcode: Taburi1 } }
+    - { shortcode: Tabri, type: weapongear, name: Tabûri 2, system: { shortcode: Taburi2 } }
+    - { shortcode: Tabri, type: weapongear, name: Tabûri 3, system: { shortcode: Taburi3 } }
+    - { shortcode: Tabri, type: weapongear, name: Tabûri 4, system: { shortcode: Taburi4 } }
     - { shortcode: LBw100, type: weapongear }
     - { shortcode: ArwLBrd, type: projectilegear, system: { quantity: 12 } }
     - { shortcode: quiversmsh, type: containergear }

@@ -297,11 +297,7 @@ sohl:
     - { shortcode: awar, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: init, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: shok, type: skill, system: { masteryLevelBase: 80 } }
-    - {
-        shortcode: sprt,
-        type: mysticalability,
-        system: { masteryLevelBase: 52 },
-      }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 52 } }
     - { shortcode: stlth, type: skill, system: { masteryLevelBase: 75 } }
     - { shortcode: dge, type: skill, system: { masteryLevelBase: 75 } }
     - name: Grab

@@ -548,11 +548,7 @@ sohl:
     - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 36 } }
     - { shortcode: math, type: skill, system: { masteryLevelBase: 42 } }
-    - {
-        shortcode: alch,
-        type: mysticalability,
-        system: { masteryLevelBase: 80 },
-      }
+    - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 80 } }
     - { shortcode: palithaner, type: skill, system: { masteryLevelBase: 60 } }
     - { shortcode: trierzi, type: skill, system: { masteryLevelBase: 36 } }
     - { shortcode: emelan, type: skill, system: { masteryLevelBase: 60 } }
