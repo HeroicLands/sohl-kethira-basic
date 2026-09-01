@@ -16,17 +16,6 @@ portrait: ""
 type: being
 sohl:
   archetype: 0
-  attributes:
-    str: 4
-    end: 10
-    dex: 16
-    agl: 20
-    per: 17
-    snt: 3
-    aur: 3
-    wil: 10
-    rea: 2
-    cre: 4
   attrRollFormula:
     str: 1d4+2
     end: 1d6+7
@@ -214,34 +203,23 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: shok
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: sprt
-      type: mysticalability
-      system:
-        masteryLevelBase: 18
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 54
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 95
+    - { shortcode: str, type: attribute, system: { scoreBase: 4 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 20 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: snt, type: attribute, system: { scoreBase: 3 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 3 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 2 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 4 } }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: shok, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 18 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 54 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 95 } }
     - name: Bite
       type: skill
       system:

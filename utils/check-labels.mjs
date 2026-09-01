@@ -38,9 +38,7 @@ const DOC = ".github/ISSUE_REPORTING.md";
  */
 function registryNames() {
     const list = parse(readFileSync(resolve(".github/labels.yml"), "utf8"));
-    const tooLong = list.filter(
-        (l) => (l.description ?? "").length > MAX_DESCRIPTION,
-    );
+    const tooLong = list.filter((l) => (l.description ?? "").length > MAX_DESCRIPTION);
     if (tooLong.length) {
         console.error(
             `check-labels: label description exceeds ${MAX_DESCRIPTION} chars (GitHub's limit):`,
@@ -82,13 +80,9 @@ const missingFromRegistry = diff(doc, registry);
 if (missingFromDoc.length || missingFromRegistry.length) {
     console.error(`check-labels: .github/labels.yml and ${DOC} §3 disagree.`);
     if (missingFromDoc.length)
-        console.error(
-            `  in labels.yml but not §3: ${missingFromDoc.join(", ")}`,
-        );
+        console.error(`  in labels.yml but not §3: ${missingFromDoc.join(", ")}`);
     if (missingFromRegistry.length)
-        console.error(
-            `  in §3 but not labels.yml: ${missingFromRegistry.join(", ")}`,
-        );
+        console.error(`  in §3 but not labels.yml: ${missingFromRegistry.join(", ")}`);
     console.error(`Edit both when changing the registry (see ${DOC} §3).`);
     process.exit(1);
 }

@@ -70,24 +70,9 @@ itemBuilders: sohl
 # "characteristics", which this run does not compile … compile the whole
 # package, or compile "characteristics" first".
 packs:
-    - {
-          name: characteristics,
-          label: Characteristics,
-          type: Item,
-          folders: item-folders.yaml,
-      }
-    - {
-          name: mysteries,
-          label: Mysteries,
-          type: Item,
-          folders: mystery-folders.yaml,
-      }
-    - {
-          name: characters,
-          label: Characters,
-          type: Actor,
-          folders: actor-folders.yaml,
-      }
+    - { name: characteristics, label: Characteristics, type: Item, folders: item-folders.yaml }
+    - { name: mysteries, label: Mysteries, type: Item, folders: mystery-folders.yaml }
+    - { name: characters, label: Characters, type: Actor, folders: actor-folders.yaml }
 
 # Two separate decisions, easily conflated.
 #

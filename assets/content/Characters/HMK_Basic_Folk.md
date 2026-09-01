@@ -36,21 +36,6 @@ traits:
     extra_features: []
 sohl:
   archetype: 100
-  attributes:
-    str: 10
-    end: 10
-    dex: 10
-    agl: 10
-    per: 10
-    cml: 10
-    aur: 10
-    wil: 10
-    rea: 10
-    cre: 10
-    emp: 10
-    elo: 10
-    mor: 10
-    voi: 10
   body:
     structure:
       zones:
@@ -510,62 +495,48 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: chrm
-      type: skill
-    - shortcode: cmd
-      type: skill
-    - shortcode: dscr
-      type: skill
-    - shortcode: guil
-      type: skill
-    - shortcode: intr
-      type: skill
-    - shortcode: thtcs
-      type: skill
-    - shortcode: srvl
-      type: skill
-    - shortcode: sing
-      type: skill
-    - shortcode: draw
-      type: skill
-    - shortcode: cook
-      type: skill
-    - shortcode: folklr
-      type: skill
-    - shortcode: pysn
-      type: skill
-    - shortcode: awar
-      type: skill
-    - shortcode: clmb
-      type: skill
-    - shortcode: dnce
-      type: skill
-    - shortcode: jump
-      type: skill
-    - shortcode: ridg
-      type: skill
-    - shortcode: stlth
-      type: skill
-    - shortcode: swim
-      type: skill
-    - shortcode: init
-      type: skill
-    - shortcode: shok
-      type: skill
-    - shortcode: melee
-      type: skill
-    - shortcode: dge
-      type: skill
-    - shortcode: archery
-      type: skill
-    - shortcode: thro
-      type: skill
-    - shortcode: fate
-      type: mysticalability
-    - shortcode: sprt
-      type: mysticalability
-    - shortcode: pence
-      type: miscgear
+    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: chrm, type: skill }
+    - { shortcode: cmd, type: skill }
+    - { shortcode: dscr, type: skill }
+    - { shortcode: guil, type: skill }
+    - { shortcode: intr, type: skill }
+    - { shortcode: thtcs, type: skill }
+    - { shortcode: srvl, type: skill }
+    - { shortcode: sing, type: skill }
+    - { shortcode: draw, type: skill }
+    - { shortcode: cook, type: skill }
+    - { shortcode: folklr, type: skill }
+    - { shortcode: pysn, type: skill }
+    - { shortcode: awar, type: skill }
+    - { shortcode: clmb, type: skill }
+    - { shortcode: dnce, type: skill }
+    - { shortcode: jump, type: skill }
+    - { shortcode: ridg, type: skill }
+    - { shortcode: stlth, type: skill }
+    - { shortcode: swim, type: skill }
+    - { shortcode: init, type: skill }
+    - { shortcode: shok, type: skill }
+    - { shortcode: melee, type: skill }
+    - { shortcode: dge, type: skill }
+    - { shortcode: archery, type: skill }
+    - { shortcode: thro, type: skill }
+    - { shortcode: fate, type: mysticalability }
+    - { shortcode: sprt, type: mysticalability }
+    - { shortcode: pence, type: miscgear }
 ---
 
 # Appearance {#appearance}

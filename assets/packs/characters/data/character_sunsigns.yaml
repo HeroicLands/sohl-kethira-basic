@@ -417,8 +417,7 @@
       armor: ""
       weapons: ""
       other_equipment: ""
-      physical_description:
-          Age 41, 5'8", 145 lbs, Brown eyes, Black parted down the
+      physical_description: Age 41, 5'8", 145 lbs, Brown eyes, Black parted down the
           middle hair.
       attributes:
           strength: 11
@@ -898,8 +897,7 @@
       armor: ""
       weapons: ""
       other_equipment: ""
-      physical_description:
-          Age 25, 5'10", 168 lbs, Brown eyes, Black with side braid
+      physical_description: Age 25, 5'10", 168 lbs, Brown eyes, Black with side braid
           hair.
       attributes:
           strength: 14
@@ -1379,8 +1377,7 @@
       armor: ""
       weapons: ""
       other_equipment: ""
-      physical_description:
-          Age 44, 6'0", 158 lbs, Brown eyes, Black parted down the
+      physical_description: Age 44, 6'0", 158 lbs, Brown eyes, Black parted down the
           middle hair.
       attributes:
           strength: 11
@@ -1859,8 +1856,7 @@
       armor: ""
       weapons: ""
       other_equipment: ""
-      physical_description:
-          Age 29, 5'6", 130 lbs, Brown eyes, Black with wrapped braid
+      physical_description: Age 29, 5'6", 130 lbs, Brown eyes, Black with wrapped braid
           hair.
       attributes:
           strength: 8
@@ -2336,8 +2332,7 @@
       armor: ""
       weapons: ""
       other_equipment: ""
-      physical_description:
-          Age 43, 6'0", 167 lbs, Brown eyes, Black with pixie-style
+      physical_description: Age 43, 6'0", 167 lbs, Brown eyes, Black with pixie-style
           cut hair, with a tattoo of a horse on the thigh.
       attributes:
           strength: 13
@@ -2818,8 +2813,7 @@
       armor: ""
       weapons: ""
       other_equipment: ""
-      physical_description:
-          Age 23, 5'11", 155 lbs, Brown eyes, Black with pixie-style
+      physical_description: Age 23, 5'11", 155 lbs, Brown eyes, Black with pixie-style
           cut hair.
       attributes:
           strength: 10
@@ -3297,8 +3291,7 @@
       armor: ""
       weapons: ""
       other_equipment: ""
-      physical_description:
-          Age 29, 5'10", 158 lbs, Brown eyes, Black close-cropped
+      physical_description: Age 29, 5'10", 158 lbs, Brown eyes, Black close-cropped
           hair, with a scar on the right side of the face.
       attributes:
           strength: 12
@@ -3774,8 +3767,7 @@
       armor: ""
       weapons: ""
       other_equipment: ""
-      physical_description:
-          Age 28, 5'11", 168 lbs, Brown eyes, Black with shaved sides
+      physical_description: Age 28, 5'11", 168 lbs, Brown eyes, Black with shaved sides
           hair, with a scar running down the right leg.
       attributes:
           strength: 12
@@ -4253,8 +4245,7 @@
       armor: ""
       weapons: ""
       other_equipment: ""
-      physical_description:
-          Age 27, 6'2", 183 lbs, Grey eyes, Blonde with single braid
+      physical_description: Age 27, 6'2", 183 lbs, Grey eyes, Blonde with single braid
           hair, with a scar on the left foot.
       attributes:
           strength: 13
@@ -4734,8 +4725,7 @@
       armor: ""
       weapons: ""
       other_equipment: ""
-      physical_description:
-          Age 31, 6'1", 172 lbs, Green eyes, Blonde with low ponytail
+      physical_description: Age 31, 6'1", 172 lbs, Green eyes, Blonde with low ponytail
           hair, with a scar across the bridge of the nose.
       attributes:
           strength: 12
@@ -5218,8 +5208,7 @@
       armor: ""
       weapons: ""
       other_equipment: ""
-      physical_description:
-          Age 29, 6'1", 170 lbs, Hazel eyes, Brown bowl cut hair,
+      physical_description: Age 29, 6'1", 170 lbs, Hazel eyes, Brown bowl cut hair,
           with a tattoo of a serpent on the back.
       attributes:
           strength: 13
