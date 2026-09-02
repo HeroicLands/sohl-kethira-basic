@@ -37,6 +37,13 @@ request.
 2. **Branch off current `main`**, named `<type>/<issue_#>_<short-kebab-summary>` —
    e.g. `feat/12_western-kingdoms`, `bug/19_dead-deity-link`. Issue-free
    housekeeping is `chore/<slug>`.
+
+   **Git refuses a commit on `main`.** Hooks in `.githooks/` — `pre-commit`
+   and `pre-merge-commit` — decline it, so the mistake surfaces before the
+   commit exists rather than at push time. `npm install` activates them. To
+   commit on `main` anyway, `git commit --no-verify`; to opt this checkout out
+   entirely, `git config hooks.allowCommitOnMain true`.
+
 3. **Make the change**, keeping it small and focused — one feature, one fix, or one
    documentation improvement per pull request.
 4. **Verify it.** `npm run lint` must pass, and `npm run build` must compile every
