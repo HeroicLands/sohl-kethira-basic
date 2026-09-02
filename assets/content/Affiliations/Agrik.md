@@ -11,10 +11,10 @@ slug: agrik
 img: images/kp-agrik.webp
 shortcode: agrik
 type: affiliation
+subType: faithtradition
 pack: mysteries
 sohl:
   kbcat: affiliation
-  subType: divine
   archetype: 0
   society: ""
   office: ""

@@ -10,11 +10,11 @@ slug: chain
 img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: chain
 type: mysticalability
+subType: arcaneincantation
 pack: mysteries
 sohl:
   kbcat: null
   archetype: 0
-  subType: arcaneincantation
   assocSkillCode: pvarism
   assocAffiliationCode: neutral
   levelBase: 4

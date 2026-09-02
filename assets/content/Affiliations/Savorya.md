@@ -11,10 +11,10 @@ slug: savorya
 img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: savorya
 type: affiliation
+subType: arcanetradition
 pack: mysteries
 sohl:
   kbcat: affiliation
-  subType: arcane
   archetype: 0
   society: ""
   office: ""

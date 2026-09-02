@@ -11,11 +11,11 @@ slug: buqdin
 img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: buqdin
 type: skill
+subType: language
 pack: characteristics
 sohl:
   kbcat: language
   archetype: 0
-  subType: language
   skillBaseFormula: "sb(attr.elo, attr.rea)"
   combatCategory: none
   parentSkillCode: ""

@@ -11,10 +11,10 @@ slug: morgath
 img: images/kp-morgath.webp
 shortcode: morgath
 type: affiliation
+subType: faithtradition
 pack: mysteries
 sohl:
   kbcat: affiliation
-  subType: divine
   archetype: 0
   society: ""
   office: ""

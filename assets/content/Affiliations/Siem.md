@@ -11,10 +11,10 @@ slug: siem
 img: images/kp-siem.webp
 shortcode: siem
 type: affiliation
+subType: faithtradition
 pack: mysteries
 sohl:
   kbcat: affiliation
-  subType: divine
   archetype: 0
   society: ""
   office: ""

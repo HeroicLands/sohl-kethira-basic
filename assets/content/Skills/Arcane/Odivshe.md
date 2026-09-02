@@ -11,11 +11,11 @@ slug: odivshe
 img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: odivshe
 type: skill
+subType: mystical
 pack: characteristics
 sohl:
   kbcat: arcane
   archetype: 0
-  subType: mystical
   skillBaseFormula: "sb(attr.aur, attr.rea)"
   combatCategory: none
   parentSkillCode: ""

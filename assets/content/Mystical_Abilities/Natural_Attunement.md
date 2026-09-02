@@ -10,11 +10,11 @@ slug: natural-attunement
 img: systems/sohl/assets/icons/noun/psionics.svg
 shortcode: natn
 type: mysticalability
+subType: arcanetalent
 pack: mysteries
 sohl:
   kbcat: null
   archetype: 0
-  subType: arcanetalent
   assocSkillCode: null
   assocAffiliationCode: null
   levelBase: 0

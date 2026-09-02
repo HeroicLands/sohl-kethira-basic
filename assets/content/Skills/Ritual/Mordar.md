@@ -11,11 +11,11 @@ slug: mordar
 img: systems/sohl/assets/icons/noun/circle.svg
 shortcode: mordar
 type: skill
+subType: mystical
 pack: characteristics
 sohl:
   kbcat: ritual
   archetype: 0
-  subType: mystical
   skillBaseFormula: "sb(attr.wil, attr.rea)"
   combatCategory: none
   parentSkillCode: ""

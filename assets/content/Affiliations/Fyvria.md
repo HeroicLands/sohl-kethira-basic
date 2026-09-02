@@ -11,10 +11,10 @@ slug: fyvria
 img: systems/sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: fyvria
 type: affiliation
+subType: arcanetradition
 pack: mysteries
 sohl:
   kbcat: affiliation
-  subType: arcane
   archetype: 0
   society: ""
   office: ""

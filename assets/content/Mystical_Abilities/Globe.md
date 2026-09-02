@@ -10,11 +10,11 @@ slug: globe
 img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: globe
 type: mysticalability
+subType: arcaneincantation
 pack: mysteries
 sohl:
   kbcat: null
   archetype: 0
-  subType: arcaneincantation
   assocSkillCode: pvarism
   assocAffiliationCode: lyahvi
   levelBase: 3

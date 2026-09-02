@@ -11,10 +11,10 @@ slug: halea
 img: images/kp-halea.webp
 shortcode: halea
 type: affiliation
+subType: faithtradition
 pack: mysteries
 sohl:
   kbcat: affiliation
-  subType: divine
   archetype: 0
   society: ""
   office: ""

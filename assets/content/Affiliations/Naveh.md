@@ -11,10 +11,10 @@ slug: naveh
 img: images/kp-naveh.webp
 shortcode: naveh
 type: affiliation
+subType: faithtradition
 pack: mysteries
 sohl:
   kbcat: affiliation
-  subType: divine
   archetype: 0
   society: ""
   office: ""

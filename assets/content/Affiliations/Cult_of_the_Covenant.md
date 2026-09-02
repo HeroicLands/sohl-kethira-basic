@@ -11,10 +11,10 @@ slug: cult-of-the-covenant
 img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: cultcovenant
 type: affiliation
+subType: faithtradition
 pack: mysteries
 sohl:
   kbcat: affiliation
-  subType: divine
   archetype: 0
   society: ""
   office: ""

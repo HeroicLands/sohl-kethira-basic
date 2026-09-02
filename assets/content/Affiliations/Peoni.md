@@ -11,10 +11,10 @@ slug: peoni
 img: images/kp-peoni.webp
 shortcode: peoni
 type: affiliation
+subType: faithtradition
 pack: mysteries
 sohl:
   kbcat: affiliation
-  subType: divine
   archetype: 0
   society: ""
   office: ""

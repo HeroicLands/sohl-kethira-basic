@@ -11,11 +11,11 @@ slug: save-k-nor
 img: images/kp-saveknor.webp
 shortcode: saveknor
 type: skill
+subType: mystical
 pack: characteristics
 sohl:
   kbcat: ritual
   archetype: 0
-  subType: mystical
   skillBaseFormula: "sb(attr.wil, attr.rea)"
   combatCategory: none
   parentSkillCode: ""
