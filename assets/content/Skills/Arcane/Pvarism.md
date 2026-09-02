@@ -17,7 +17,6 @@ sohl:
   archetype: 0
   subType: mystical
   skillBaseFormula: "sb(attr.aur, attr.rea)"
-  assocAffiliationCode: null
   combatCategory: none
   parentSkillCode: ""
   initSkillMult: 0
