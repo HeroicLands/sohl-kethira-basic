@@ -17,7 +17,6 @@ sohl:
   archetype: 0
   subType: mystical
   skillBaseFormula: "sb(attr.wil, attr.rea)"
-  assocAffiliationCode: ylvyr
   combatCategory: none
   parentSkillCode: ""
   initSkillMult: 0

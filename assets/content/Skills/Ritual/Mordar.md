@@ -17,7 +17,6 @@ sohl:
   archetype: 0
   subType: mystical
   skillBaseFormula: "sb(attr.wil, attr.rea)"
-  assocAffiliationCode: mordar
   combatCategory: none
   parentSkillCode: ""
   initSkillMult: 0
