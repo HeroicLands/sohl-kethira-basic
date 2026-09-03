@@ -1,5 +1,6 @@
 ---
 type: homepage
+shortcode: root
 title: HârnMaster Kethira Basic
 ---
 

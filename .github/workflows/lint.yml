@@ -20,14 +20,15 @@
 # | `lint:lang`         | clean — 1 localization file              |
 # | `lint:content-links`| clean — 364 notes, every anchor lands    |
 # | `lint:labels`       | clean — registry and §3 agree, 11 labels |
-# | `lint:addresses`    | **270 findings across 364 notes** (#41)  |
+# | `lint:addresses`    | clean — 371 addresses (#41 closed)       |
 #
-# `lint:addresses` is left out because a gate that cannot go green is worse than
-# no gate: it trains people to merge past a red check, and then the red check
-# stops meaning anything. Its backlog is #41 — 66 skills carrying
-# `assocAffiliationCode` and the rest — and it is pre-existing content, put there
-# by nobody in the pull request being blocked. When #41 clears, delete the five
-# steps below and run `npm run lint`, which already chains all six.
+# `lint:addresses` was once left out, because a gate that cannot go green is
+# worse than no gate: it trains people to merge past a red check, and then the
+# red check stops meaning anything. Its backlog was #41, which is now closed —
+# the findings were the content-format conversion meeting a package-build pin
+# that predated the format, and taking 11.0.0 cleared all 342 with no note
+# edited. So the chain runs whole, as this file said it should when that day
+# came.
 #
 # ## The build, and why it is a second job
 #
@@ -92,28 +93,14 @@ jobs:
             - name: Install dependencies
               run: npm ci
 
-            # Prettier over the whole tree.
-            - name: Check formatting
-              run: npm run lint:format
-
-            # markdownlint: document structure, and links that do not link.
-            - name: Check markdown
-              run: npm run lint:markdown
-
-            # No dotted-prefix collision in `lang/*.json`. A key that is both a
-            # leaf and a branch makes `foundry.utils.expandObject` throw, and
-            # Foundry then drops the whole translation file.
-            - name: Check localization files
-              run: npm run lint:lang
-
-            # Every anchor link lands and every qualified address resolves.
-            - name: Check content links
-              run: npm run lint:content-links
-
-            # `.github/labels.yml` and the §3 table in
-            # `.github/ISSUE_REPORTING.md` still name the same closed set.
-            - name: Check label registry
-              run: npm run lint:labels
+            # The whole chain: formatting, markdown, localization, content
+            # links, the label registry, and addresses. `lint:addresses` was
+            # left out while #41 stood, on the reasoning that a gate which
+            # cannot go green is worse than no gate. #41 is closed and the
+            # check is clean, so the chain runs whole again — which is what
+            # this file said to do when that day came.
+            - name: Lint
+              run: npm run lint
 
     build:
         name: Content pack compile
