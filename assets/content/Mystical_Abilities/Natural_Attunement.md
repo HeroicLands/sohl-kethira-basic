@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Natural Attunement
-  aliases: []
 description: ""
 id: zM3QEMALDimIYvac
 slug: natural-attunement

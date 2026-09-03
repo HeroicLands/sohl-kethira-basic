@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Úlana
 tags: []
 name:
   full: Úlana
-  aliases: []
 description: ""
 id: 8ZPDqhKo3jD1kBt1
 slug: ulana

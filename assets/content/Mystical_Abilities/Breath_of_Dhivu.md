@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Breath of Dhivu
-  aliases: []
 description: ""
 id: 8SSaJWbQlr3LDRUM
 slug: breath-of-dhivu

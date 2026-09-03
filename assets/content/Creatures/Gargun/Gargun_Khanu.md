@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Gârgún Khánu
-  - Great Gârgún
 tags:
   - folk
   - gargun
 name:
   full: Gârgún Khánu
-  aliases: []
 id: Ga0rgunKhanu01A
 shortcode: khanu
 slug: gargun-khanu

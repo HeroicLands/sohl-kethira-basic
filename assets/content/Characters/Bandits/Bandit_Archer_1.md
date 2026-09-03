@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Bandit Archer 1
 tags: []
 name:
   full: Bandit Archer 1
-  aliases: []
 id: tz1msZ1ltyMU6lzC
 folder: wDgcy5cLIaLoFogp
 shortcode: banditarcher1

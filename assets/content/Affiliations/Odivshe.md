@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Odívshè
 tags: []
 name:
   full: Odívshè
-  aliases: []
 description: ""
 id: w4irqtfGtI8KHcb9
 slug: odivshe

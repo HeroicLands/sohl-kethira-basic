@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Gáranik
 tags: []
 name:
   full: Gáranik
-  aliases: []
 description: ""
 id: eBaySyirY4dbHlRi
 slug: garanik

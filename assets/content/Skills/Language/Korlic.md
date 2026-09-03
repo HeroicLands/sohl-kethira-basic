@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Kôrlic
 tags: []
 name:
   full: Kôrlic
-  aliases: []
 description: ""
 id: dCsXmYoIUfKtrtzg
 slug: korlic

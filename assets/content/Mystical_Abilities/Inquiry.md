@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Inquiry
-  aliases: []
 description: ""
 id: dA2o3DXEJpdvk1a8
 slug: inquiry

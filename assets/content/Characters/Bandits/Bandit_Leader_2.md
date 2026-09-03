@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Bandit Leader 2
 tags: []
 name:
   full: Bandit Leader 2
-  aliases: []
 id: jdISJzggKnlX5LAn
 folder: wDgcy5cLIaLoFogp
 shortcode: banditleader2

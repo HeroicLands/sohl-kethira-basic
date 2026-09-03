@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Bandit Archer 3
 tags: []
 name:
   full: Bandit Archer 3
-  aliases: []
 id: kaZVZSgYiMluKbD3
 folder: wDgcy5cLIaLoFogp
 shortcode: banditarcher3

@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Image
-  aliases: []
 description: ""
 id: 7vZBy2CoXLnkn6zL
 slug: image

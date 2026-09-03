@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Alchema
-  aliases: []
 description: ""
 id: fHOhMqgMbewSXuXT
 slug: alchema

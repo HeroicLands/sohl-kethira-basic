@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Pálithàner
 tags: []
 name:
   full: Pálithàner
-  aliases: []
 description: ""
 id: N21J8mDOazsflqZR
 slug: palithaner

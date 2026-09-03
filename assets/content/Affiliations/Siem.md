@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Siém
 tags: []
 name:
   full: Siém
-  aliases: []
 description: ""
 id: wWta7yv10NiPZ4kU
 slug: siem

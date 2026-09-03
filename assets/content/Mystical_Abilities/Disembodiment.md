@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Disembodiment
-  aliases: []
 description: ""
 id: q282j5zXN7yLMo70
 slug: disembodiment

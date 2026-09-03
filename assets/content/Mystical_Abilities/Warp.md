@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Warp
-  aliases: []
 description: ""
 id: 4WSxiA5ySlf6jb1A
 slug: warp

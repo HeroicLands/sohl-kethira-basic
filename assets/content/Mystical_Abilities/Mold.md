@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Mold
-  aliases: []
 description: ""
 id: DHxJc5j9BztOJEzY
 slug: mold

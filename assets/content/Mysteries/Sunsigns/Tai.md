@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Tai
 tags: []
 name:
   full: Tai
-  aliases: []
 description: ""
 id: BA1LewIR8VJMqbag
 slug: tai

@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Tremor
-  aliases: []
 description: ""
 id: SiEUZZSQnVGG44Dm
 slug: tremor

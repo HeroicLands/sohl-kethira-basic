@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Ágrik
 tags: []
 name:
   full: Ágrik
-  aliases: []
 description: ""
 id: sMgbqUmp3LA4W6Ob
 slug: agrik

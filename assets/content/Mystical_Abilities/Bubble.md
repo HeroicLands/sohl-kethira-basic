@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Bubble
-  aliases: []
 description: ""
 id: 8Iy5mdmNztwkGPXg
 slug: bubble

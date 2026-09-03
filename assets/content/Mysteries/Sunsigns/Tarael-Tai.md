@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Táræl-Tai
 tags: []
 name:
   full: Táræl-Tai
-  aliases: []
 description: ""
 id: tdc6S9CPTVAHpccG
 slug: tarael-tai

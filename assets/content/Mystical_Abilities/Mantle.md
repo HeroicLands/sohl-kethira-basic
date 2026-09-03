@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Mantle
-  aliases: []
 description: ""
 id: hHgnNsLcgLXjmioB
 slug: mantle

@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Rampart
-  aliases: []
 description: ""
 id: RLfQpp8hmujnbKf0
 slug: rampart

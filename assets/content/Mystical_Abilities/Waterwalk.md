@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Waterwalk
-  aliases: []
 description: ""
 id: 9r3e5WaHU9WK97yX
 slug: waterwalk

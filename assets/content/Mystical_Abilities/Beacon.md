@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Beacon
-  aliases: []
 description: ""
 id: SNZXHUNn7ZJuoyYR
 slug: beacon

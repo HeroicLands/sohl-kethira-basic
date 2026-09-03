@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Conflagration
-  aliases: []
 description: ""
 id: HKWL5hJh4F4UKQGt
 slug: conflagration

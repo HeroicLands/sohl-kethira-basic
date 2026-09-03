@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Aspect
-  aliases: []
 description: ""
 id: 5NBX1wp4qSgXFLuU
 slug: aspect

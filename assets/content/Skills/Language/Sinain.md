@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Sináin
 tags: []
 name:
   full: Sináin
-  aliases: []
 description: ""
 id: LWeU0oyWUWd6KM9V
 slug: sinain

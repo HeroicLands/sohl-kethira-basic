@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Panic
-  aliases: []
 description: ""
 id: pnj7TncorSyRuvdL
 slug: panic

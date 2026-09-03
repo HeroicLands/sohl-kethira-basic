@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Swordbreaker
-  aliases: []
 description: ""
 id: LEFwZkpUz9kdwQOA
 slug: swordbreaker

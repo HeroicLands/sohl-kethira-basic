@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Fount
-  aliases: []
 description: ""
 id: D7AmEtkHmw6J82C7
 slug: fount

@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Animus
-  aliases: []
 description: ""
 id: CY6DBviTrF8kHSS3
 slug: animus

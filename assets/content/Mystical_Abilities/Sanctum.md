@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Sanctum
-  aliases: []
 description: ""
 id: wwA0PHaLfDFUwVMz
 slug: sanctum

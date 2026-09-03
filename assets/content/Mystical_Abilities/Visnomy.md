@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Visnomy
-  aliases: []
 description: ""
 id: lPKkHezbjh7kymzb
 slug: visnomy

@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Sárajìn
 tags: []
 name:
   full: Sárajìn
-  aliases: []
 description: ""
 id: aR5OppO1KB3vAJVl
 slug: sarajin

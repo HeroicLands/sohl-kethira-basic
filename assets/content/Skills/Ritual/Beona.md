@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Beóna
 tags: []
 name:
   full: Beóna
-  aliases: []
 description: ""
 id: wfKOgAMkZRBgrkfN
 slug: beona

@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Ládo
 tags: []
 name:
   full: Ládo
-  aliases: []
 description: ""
 id: c6TTc2Ax2tjiyWcV
 slug: lado

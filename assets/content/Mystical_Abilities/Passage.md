@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Passage
-  aliases: []
 description: ""
 id: mkLoQdUZm8T0i841
 slug: passage

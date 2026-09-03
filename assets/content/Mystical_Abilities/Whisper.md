@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Whisper
-  aliases: []
 description: ""
 id: vm5f8mrpSO1q3BbV
 slug: whisper

@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Lens
-  aliases: []
 description: ""
 id: JnwmH3vGjqd2wudU
 slug: lens

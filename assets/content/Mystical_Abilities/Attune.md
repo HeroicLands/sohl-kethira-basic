@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Attune
-  aliases: []
 description: ""
 id: 9cCLFKO2RETwPPuc
 slug: attune

@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Haléa
 tags: []
 name:
   full: Haléa
-  aliases: []
 description: ""
 id: urYK2XuIjOlxb0qm
 slug: halea

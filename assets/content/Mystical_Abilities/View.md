@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: View
-  aliases: []
 description: ""
 id: XOlCvcR8a001X93n
 slug: view

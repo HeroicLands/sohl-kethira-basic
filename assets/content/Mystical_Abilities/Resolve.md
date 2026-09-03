@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Resolve
-  aliases: []
 description: ""
 id: Zb4XmgAkGUClnt42
 slug: resolve

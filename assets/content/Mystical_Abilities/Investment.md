@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Investment
-  aliases: []
 description: ""
 id: HKLL5igfb4FumAtR
 slug: investment

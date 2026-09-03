@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Sphere
-  aliases: []
 description: ""
 id: kkFwQo9vfwEjpZqh
 slug: sphere

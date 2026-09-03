@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Survey
-  aliases: []
 description: ""
 id: qyTJ6DQxlh2lYx83
 slug: survey

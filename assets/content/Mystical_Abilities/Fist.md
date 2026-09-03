@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Fist
-  aliases: []
 description: ""
 id: xblfM9oiHccCQ8I4
 slug: fist

@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Nuvesarl
 tags: []
 name:
   full: Nuvesarl
-  aliases: []
 description: ""
 id: hYBL1FYt6tnueT95
 slug: nuvesarl

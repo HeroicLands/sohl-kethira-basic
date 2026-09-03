@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Trigger
-  aliases: []
 description: ""
 id: ZmUxLCHuzUPdPfrm
 slug: trigger

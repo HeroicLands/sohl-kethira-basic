@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Amplification
-  aliases: []
 description: ""
 id: f2kNbG0MoglMLN31
 slug: amplification

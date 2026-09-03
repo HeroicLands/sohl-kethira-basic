@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Tai-Skôrus
 tags: []
 name:
   full: Tai-Skôrus
-  aliases: []
 description: ""
 id: RkYBc011zgoDKlc9
 slug: tai-skorus

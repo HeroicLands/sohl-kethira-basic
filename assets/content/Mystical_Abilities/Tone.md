@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Tone
-  aliases: []
 description: ""
 id: R4lKLay2mZcbJ18A
 slug: tone

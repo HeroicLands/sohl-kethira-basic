@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Crystals
-  aliases: []
 description: ""
 id: JFyKL4GouBLYOoza
 slug: crystals

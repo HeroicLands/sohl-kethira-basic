@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Shooting Star
-  aliases: []
 description: ""
 id: sAuSt7Xy13syOFJz
 slug: shooting-star

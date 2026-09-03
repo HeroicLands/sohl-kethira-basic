@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Ùlándus-Arálius
 tags: []
 name:
   full: Ùlándus-Arálius
-  aliases: []
 description: ""
 id: Cx98NqPIY4BNzuja
 slug: ulandus-aralius

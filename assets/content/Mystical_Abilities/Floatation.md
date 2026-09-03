@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Floatation
-  aliases: []
 description: ""
 id: ZP4o5LVcv9L5IJeA
 slug: floatation

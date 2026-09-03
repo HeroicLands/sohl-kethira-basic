@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Enervation
-  aliases: []
 description: ""
 id: NNuUGcCZk1FgGUlb
 slug: enervation

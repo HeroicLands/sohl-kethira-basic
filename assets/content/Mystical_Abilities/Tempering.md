@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Tempering
-  aliases: []
 description: ""
 id: ftyx0YdxOBcXppkF
 slug: tempering

@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Emélan
 tags: []
 name:
   full: Emélan
-  aliases: []
 description: ""
 id: xNVWK8WcTKT0J9M7
 slug: emelan

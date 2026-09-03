@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Fervor
-  aliases: []
 description: ""
 id: GEPXDZDxV5P6bu0Y
 slug: fervor

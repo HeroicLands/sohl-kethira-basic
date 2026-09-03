@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Pall
-  aliases: []
 description: ""
 id: 2PD424q1BTHukOyS
 slug: pall

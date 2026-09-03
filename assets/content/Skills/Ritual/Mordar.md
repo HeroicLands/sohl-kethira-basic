@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Môrdar
 tags: []
 name:
   full: Môrdar
-  aliases: []
 description: ""
 id: NEDzhnOXJNI5Rskh
 slug: mordar

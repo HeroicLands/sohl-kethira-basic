@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Hîrin-Táræl
 tags: []
 name:
   full: Hîrin-Táræl
-  aliases: []
 description: ""
 id: 5NYNbAPWe43ymyKZ
 slug: hirin-tarael

@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Petrification
-  aliases: []
 description: ""
 id: ylSLZHWmNiiO270N
 slug: petrification

@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Áklash
 tags:
   - creature
 name:
   full: Áklash
-  aliases: []
 id: AklashChokeWind
 shortcode: aklash
 slug: aklash

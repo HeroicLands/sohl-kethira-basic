@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Ylvýr
 tags: []
 name:
   full: Ylvýr
-  aliases: []
 description: ""
 id: XexYQNbusggd0AMs
 slug: ylvyr

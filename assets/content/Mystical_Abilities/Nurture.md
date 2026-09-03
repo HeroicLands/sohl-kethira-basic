@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Nurture
-  aliases: []
 description: ""
 id: jCURkbYXXmNa2JuE
 slug: nurture

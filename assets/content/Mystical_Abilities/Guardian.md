@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Guardian
-  aliases: []
 description: ""
 id: atwfc9lM9OnT4lKv
 slug: guardian

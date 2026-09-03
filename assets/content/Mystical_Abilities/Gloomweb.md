@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Gloomweb
-  aliases: []
 description: ""
 id: 54KaLINTGG19HNCU
 slug: gloomweb

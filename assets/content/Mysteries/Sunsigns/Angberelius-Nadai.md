@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Angberélius-Nadái
 tags: []
 name:
   full: Angberélius-Nadái
-  aliases: []
 description: ""
 id: TdjxTKZFnadjcNx8
 slug: angberelius-nadai

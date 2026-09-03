@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Lance
-  aliases: []
 description: ""
 id: 9HMnaGx1T7bMTRos
 slug: lance

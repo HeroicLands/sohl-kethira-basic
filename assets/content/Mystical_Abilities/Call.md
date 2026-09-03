@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Call
-  aliases: []
 description: ""
 id: PXULYbMmLbbrMg9w
 slug: call

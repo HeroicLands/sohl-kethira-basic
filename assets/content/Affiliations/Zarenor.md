@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Zârenor
 tags: []
 name:
   full: Zârenor
-  aliases: []
 description: ""
 id: e5vQ9Bfcnpp8UxG0
 slug: zarenor

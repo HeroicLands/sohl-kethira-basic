@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Rupture
-  aliases: []
 description: ""
 id: TvEMzoTWZzhN8IBc
 slug: rupture

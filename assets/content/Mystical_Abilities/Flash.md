@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Flash
-  aliases: []
 description: ""
 id: T2b97OcmVQaPPvDU
 slug: flash

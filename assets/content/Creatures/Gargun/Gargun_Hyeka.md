@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Gârgún Hyéka
-  - Brown Gârgún
 tags:
   - folk
   - gargun
 name:
   full: Gârgún Hyéka
-  aliases: []
 id: Ga0rgunHyeka01A
 shortcode: hyeka
 slug: gargun-hyeka

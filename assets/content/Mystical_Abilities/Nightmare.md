@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Nightmare
-  aliases: []
 description: ""
 id: R7yrj8szcqUFX8nv
 slug: nightmare

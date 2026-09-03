@@ -1,12 +1,8 @@
 ---
-aliases:
-  - Hrú
-  - Rock Giant
 tags:
   - creature
 name:
   full: Hrú
-  aliases: []
 id: HruRockGiant001
 shortcode: hru
 slug: hru

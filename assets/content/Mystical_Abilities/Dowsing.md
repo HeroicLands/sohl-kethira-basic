@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Dowsing
-  aliases: []
 description: ""
 id: A68qXZ5QfGVD3hix
 slug: dowsing

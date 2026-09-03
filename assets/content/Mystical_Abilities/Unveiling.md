@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Unveiling
-  aliases: []
 description: ""
 id: MeDHn0pUNiYUxExG
 slug: unveiling

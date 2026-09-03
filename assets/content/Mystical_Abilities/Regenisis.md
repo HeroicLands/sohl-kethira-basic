@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Regenisis
-  aliases: []
 description: ""
 id: qQAh0uz82XptjugF
 slug: regenisis

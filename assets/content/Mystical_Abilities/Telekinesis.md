@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Telekinesis
-  aliases: []
 description: ""
 id: NDRL0yD5OPELKNBM
 slug: telekinesis

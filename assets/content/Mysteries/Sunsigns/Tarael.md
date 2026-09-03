@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Táræl
 tags: []
 name:
   full: Táræl
-  aliases: []
 description: ""
 id: OM8f6ntS6Ro08wSH
 slug: tarael

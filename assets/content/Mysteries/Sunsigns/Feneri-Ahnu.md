@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Fenéri-Áhnù
 tags: []
 name:
   full: Fenéri-Áhnù
-  aliases: []
 description: ""
 id: HBe2jEz45xImY3X6
 slug: feneri-ahnu

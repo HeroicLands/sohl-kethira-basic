@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Counter
-  aliases: []
 description: ""
 id: Dyw5wQ6omn2ar1sG
 slug: counter

@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Lakíse
 tags: []
 name:
   full: Lakíse
-  aliases: []
 description: ""
 id: DiFLbQpEF1ZJm262
 slug: lakise

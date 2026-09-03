@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Heat
-  aliases: []
 description: ""
 id: 4LJHumuc2RoXuuzU
 slug: heat

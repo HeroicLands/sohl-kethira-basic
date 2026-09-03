@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Hand
-  aliases: []
 description: ""
 id: hcsvUzdZZErbPF1H
 slug: hand

@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Detect
-  aliases: []
 description: ""
 id: w3gqLC16lNGXIkwm
 slug: detect

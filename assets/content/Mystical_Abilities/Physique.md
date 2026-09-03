@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Physique
-  aliases: []
 description: ""
 id: hfrErdURk7bVOstR
 slug: physique

@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Protection
-  aliases: []
 description: ""
 id: 7NvRLREmWG5n5IP3
 slug: protection

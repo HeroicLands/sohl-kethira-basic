@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Wisdom
-  aliases: []
 description: ""
 id: mqWpROliaDMNGjp9
 slug: wisdom

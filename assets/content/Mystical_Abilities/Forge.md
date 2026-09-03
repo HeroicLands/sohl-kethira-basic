@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Forge
-  aliases: []
 description: ""
 id: L1TwJzKMsqdFmynJ
 slug: forge

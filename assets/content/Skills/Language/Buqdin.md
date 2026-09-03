@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Búqdin
 tags: []
 name:
   full: Búqdin
-  aliases: []
 description: ""
 id: jiZ1XFCAywuCSzav
 slug: buqdin

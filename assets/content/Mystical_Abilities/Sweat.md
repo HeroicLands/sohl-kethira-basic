@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Sweat
-  aliases: []
 description: ""
 id: 9vcb21xBdKxEfT8j
 slug: sweat

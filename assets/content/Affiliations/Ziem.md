@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Ziém
 tags: []
 name:
   full: Ziém
-  aliases: []
 description: ""
 id: D9WPXgjPJFJbHdu3
 slug: ziem

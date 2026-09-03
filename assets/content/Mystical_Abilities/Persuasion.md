@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Persuasion
-  aliases: []
 description: ""
 id: eo3Ea0xBMZmqBhBg
 slug: persuasion

@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Býrian
 tags: []
 name:
   full: Býrian
-  aliases: []
 description: ""
 id: GOKBR8YjJPMz4XrM
 slug: byrian

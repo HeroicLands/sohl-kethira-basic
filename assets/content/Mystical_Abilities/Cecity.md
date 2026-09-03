@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Cecity
-  aliases: []
 description: ""
 id: q20iSXHQBL1h42TY
 slug: cecity

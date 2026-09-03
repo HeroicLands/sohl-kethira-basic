@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Orbáaler
 tags: []
 name:
   full: Orbáaler
-  aliases: []
 description: ""
 id: pkfOMri14HCwlxt2
 slug: orbaaler

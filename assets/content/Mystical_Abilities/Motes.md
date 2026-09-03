@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Motes
-  aliases: []
 description: ""
 id: U8Tfw6JUQZqF6P7Z
 slug: motes

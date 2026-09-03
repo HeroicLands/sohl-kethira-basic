@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Freeze
-  aliases: []
 description: ""
 id: BH8BdFUkA6lWOdnu
 slug: freeze

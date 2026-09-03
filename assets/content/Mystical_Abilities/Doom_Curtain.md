@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Doom Curtain
-  aliases: []
 description: ""
 id: MxDw4xt3jVBJQ7DX
 slug: doom-curtain

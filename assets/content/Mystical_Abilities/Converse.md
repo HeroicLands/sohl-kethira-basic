@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Converse
-  aliases: []
 description: ""
 id: MvTVrdynlQF2CqkE
 slug: converse

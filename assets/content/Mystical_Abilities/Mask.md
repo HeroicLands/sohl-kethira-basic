@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Mask
-  aliases: []
 description: ""
 id: BKyySEZ0VurkgFaW
 slug: mask

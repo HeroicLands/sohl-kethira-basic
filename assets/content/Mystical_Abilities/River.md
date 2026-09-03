@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: River
-  aliases: []
 description: ""
 id: UnOrHN4Lmfq26Cpn
 slug: river

@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Bandit 2
 tags: []
 name:
   full: Bandit 2
-  aliases: []
 id: apRBncJbSCYQswQc
 folder: wDgcy5cLIaLoFogp
 shortcode: bandit2

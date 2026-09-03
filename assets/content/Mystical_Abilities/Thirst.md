@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Thirst
-  aliases: []
 description: ""
 id: rDBOa919PgsSBlUQ
 slug: thirst

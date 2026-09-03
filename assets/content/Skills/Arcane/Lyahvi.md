@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Lyáhvi
 tags: []
 name:
   full: Lyáhvi
-  aliases: []
 description: ""
 id: XvFX3BgxHF2MVCwj
 slug: lyahvi

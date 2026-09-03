@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Sensitivity
-  aliases: []
 description: ""
 id: GvNrbskSwZjdAamV
 slug: sensitivity

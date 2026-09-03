@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Sávè-K'nôr
 tags: []
 name:
   full: Sávè-K'nôr
-  aliases: []
 description: ""
 id: gO8X0Xri4b3f3tId
 slug: save-k-nor

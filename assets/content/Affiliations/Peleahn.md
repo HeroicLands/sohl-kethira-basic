@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Pèleáhn
 tags: []
 name:
   full: Pèleáhn
-  aliases: []
 description: ""
 id: riP3Gs6iOTTR5Wx5
 slug: peleahn

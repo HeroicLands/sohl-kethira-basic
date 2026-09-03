@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Victual
-  aliases: []
 description: ""
 id: DAD2bDrEe7pGrhew
 slug: victual

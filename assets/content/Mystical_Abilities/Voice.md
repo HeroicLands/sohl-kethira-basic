@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Voice
-  aliases: []
 description: ""
 id: Gkl82efMX2SCkGhF
 slug: voice

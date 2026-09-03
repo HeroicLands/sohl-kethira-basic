@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Palm
-  aliases: []
 description: ""
 id: 8hM5dok9IkReGrcF
 slug: palm

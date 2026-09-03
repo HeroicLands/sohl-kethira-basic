@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Ládo-Ùlándus
 tags: []
 name:
   full: Ládo-Ùlándus
-  aliases: []
 description: ""
 id: lXWpXFfh9Dbw3vJt
 slug: lado-ulandus

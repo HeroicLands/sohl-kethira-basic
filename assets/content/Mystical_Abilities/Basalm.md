@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Basalm
-  aliases: []
 description: ""
 id: DUdQb72xTCsBlYBo
 slug: basalm

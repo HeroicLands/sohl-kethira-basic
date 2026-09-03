@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Imbue
-  aliases: []
 description: ""
 id: jW93Z3QMGkU4Zzg7
 slug: imbue

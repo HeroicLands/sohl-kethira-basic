@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Prescience
-  aliases: []
 description: ""
 id: wFQGHGOjYdp98VlC
 slug: prescience

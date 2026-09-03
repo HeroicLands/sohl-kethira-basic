@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Peóni
 tags: []
 name:
   full: Peóni
-  aliases: []
 description: ""
 id: SYhFAPfzIucCQ5bO
 slug: peoni

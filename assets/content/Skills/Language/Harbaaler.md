@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Hârbáaler
 tags: []
 name:
   full: Hârbáaler
-  aliases: []
 description: ""
 id: kTgzDSQNKt4bUBwl
 slug: harbaaler

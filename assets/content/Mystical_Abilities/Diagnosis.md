@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Diagnosis
-  aliases: []
 description: ""
 id: yJA2ul6TSfeAABnf
 slug: diagnosis

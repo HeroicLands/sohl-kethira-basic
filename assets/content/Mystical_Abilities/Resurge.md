@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Resurge
-  aliases: []
 description: ""
 id: UvR8MDjZlg8I3GEX
 slug: resurge

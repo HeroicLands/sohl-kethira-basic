@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Hush
-  aliases: []
 description: ""
 id: I6Lu7Q89YzepDFge
 slug: hush

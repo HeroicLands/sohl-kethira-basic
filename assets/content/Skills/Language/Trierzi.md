@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Tríerzi
 tags: []
 name:
   full: Tríerzi
-  aliases: []
 description: ""
 id: JPmWxj9EyWMMEusI
 slug: trierzi

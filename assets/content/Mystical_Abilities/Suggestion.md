@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Suggestion
-  aliases: []
 description: ""
 id: MKFGj6l9AyUHpb19
 slug: suggestion

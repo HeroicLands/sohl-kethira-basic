@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Host
-  aliases: []
 description: ""
 id: QPBV1eStrVM4gUJq
 slug: host

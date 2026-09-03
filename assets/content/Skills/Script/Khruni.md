@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Khrúni
 tags: []
 name:
   full: Khrúni
-  aliases: []
 description: ""
 id: Soq0vRso2XXolGH7
 slug: khruni

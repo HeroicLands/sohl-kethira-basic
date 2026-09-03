@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Kántâl
 tags: []
 name:
   full: Kántâl
-  aliases: []
 description: ""
 id: fUDhikuD8BfYKQ6s
 slug: kantal

@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Chain
-  aliases: []
 description: ""
 id: ZZV4FwkGo9IWvRBi
 slug: chain

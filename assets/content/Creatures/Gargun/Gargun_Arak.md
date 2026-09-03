@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Gârgún Arák
-  - Small Gârgún
 tags:
   - folk
   - gargun
 name:
   full: Gârgún Arák
-  aliases: []
 id: Ga0rgunArak01AA
 shortcode: arak
 slug: gargun-arak

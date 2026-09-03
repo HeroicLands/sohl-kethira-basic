@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Ilvîr
 tags: []
 name:
   full: Ilvîr
-  aliases: []
 description: ""
 id: BL0SMfIJsWRVDXsP
 slug: ilvir

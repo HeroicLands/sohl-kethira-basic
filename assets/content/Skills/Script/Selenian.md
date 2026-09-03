@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Selénian
 tags: []
 name:
   full: Selénian
-  aliases: []
 description: ""
 id: uHUQlGqPrqR9LKhu
 slug: selenian

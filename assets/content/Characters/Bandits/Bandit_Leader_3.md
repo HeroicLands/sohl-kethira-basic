@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Bandit Leader 3
 tags: []
 name:
   full: Bandit Leader 3
-  aliases: []
 id: 7ivelsuPSdm9OHrv
 folder: wDgcy5cLIaLoFogp
 shortcode: banditleader3

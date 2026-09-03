@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Shôrka
 tags: []
 name:
   full: Shôrka
-  aliases: []
 description: ""
 id: QFYAhhyRtZ48RlFQ
 slug: shorka

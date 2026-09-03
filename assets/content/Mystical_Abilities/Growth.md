@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Growth
-  aliases: []
 description: ""
 id: osBJntGxM8K2V9NP
 slug: growth

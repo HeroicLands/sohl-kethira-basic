@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Insight
-  aliases: []
 description: ""
 id: fn4UG5yA494XzOMd
 slug: insight

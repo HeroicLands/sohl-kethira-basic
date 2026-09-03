@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Burn
-  aliases: []
 description: ""
 id: u8hT18FgSkLY19ez
 slug: burn

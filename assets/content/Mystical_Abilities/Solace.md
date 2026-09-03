@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Solace
-  aliases: []
 description: ""
 id: PyuWTWox3Qo2oVfF
 slug: solace

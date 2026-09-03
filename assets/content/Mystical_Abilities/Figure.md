@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Figure
-  aliases: []
 description: ""
 id: r6Tsn2wZpjCV9BL7
 slug: figure

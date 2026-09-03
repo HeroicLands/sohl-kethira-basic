@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Stay
-  aliases: []
 description: ""
 id: KL07NqGaYSDnzTtK
 slug: stay

@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Restoration
-  aliases: []
 description: ""
 id: KUGAAtAfER0lzBYy
 slug: restoration

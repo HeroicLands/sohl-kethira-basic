@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Dart
-  aliases: []
 description: ""
 id: oMwdl70b2uP8XE1y
 slug: dart

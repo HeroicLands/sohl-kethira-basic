@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Ùlándus
 tags: []
 name:
   full: Ùlándus
-  aliases: []
 description: ""
 id: N8Ne5Vh4PPOLUTlM
 slug: ulandus

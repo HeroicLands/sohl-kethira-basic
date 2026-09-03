@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Vine
-  aliases: []
 description: ""
 id: BJGJ2aitu2rIsbzb
 slug: vine

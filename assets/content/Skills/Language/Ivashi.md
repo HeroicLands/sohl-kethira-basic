@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Ivashi
 tags: []
 name:
   full: Ivashi
-  aliases: []
 description: ""
 id: dA4dgGTRAcDuXRBI
 slug: ivashi

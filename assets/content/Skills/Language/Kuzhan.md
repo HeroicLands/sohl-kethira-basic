@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Kúzhan
 tags: []
 name:
   full: Kúzhan
-  aliases: []
 description: ""
 id: 2bTEKOeV2DQCdcYc
 slug: kuzhan

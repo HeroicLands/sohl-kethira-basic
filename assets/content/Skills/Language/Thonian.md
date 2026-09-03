@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Thónian
 tags: []
 name:
   full: Thónian
-  aliases: []
 description: ""
 id: TdCA6SMBfNGAPgDZ
 slug: thonian

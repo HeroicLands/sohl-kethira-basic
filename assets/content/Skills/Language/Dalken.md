@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Dálken
 tags: []
 name:
   full: Dálken
-  aliases: []
 description: ""
 id: eaXFpnZVvDPacga0
 slug: dalken

@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Môrgath
 tags: []
 name:
   full: Môrgath
-  aliases: []
 description: ""
 id: 8C7DlJGxOcDBQNmB
 slug: morgath

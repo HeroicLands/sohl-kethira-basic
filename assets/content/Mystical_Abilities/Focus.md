@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Focus
-  aliases: []
 description: ""
 id: KEjp3ERVc82yK72o
 slug: focus

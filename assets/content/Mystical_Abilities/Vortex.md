@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Vortex
-  aliases: []
 description: ""
 id: RGeAyOdiU5RHLGfB
 slug: vortex

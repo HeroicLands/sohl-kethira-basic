@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Subvert
-  aliases: []
 description: ""
 id: DOuooLC1vmHMC5By
 slug: subvert

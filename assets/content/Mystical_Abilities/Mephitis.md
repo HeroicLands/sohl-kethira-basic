@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Mephitis
-  aliases: []
 description: ""
 id: ZOmP9gt2NWEp1j02
 slug: mephitis

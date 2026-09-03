@@ -1,9 +1,7 @@
 ---
-aliases: []
 tags: []
 name:
   full: Wall
-  aliases: []
 description: ""
 id: Da3ERtYbqZrjaeov
 slug: wall
