@@ -11,10 +11,10 @@ slug: peleahn
 img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: peleahn
 type: affiliation
+subType: arcanetradition
 pack: mysteries
 sohl:
   kbcat: affiliation
-  subType: arcane
   archetype: 0
   society: ""
   office: ""

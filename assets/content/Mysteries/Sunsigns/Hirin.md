@@ -11,11 +11,11 @@ slug: hirin
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: hirin
 type: mystery
+subType: birthsign
 pack: mysteries
 sohl:
   kbcat: sunsign
   archetype: 0
-  subType: other
   assocSkillCode: null
   assocAffiliationCode: null
   levelBase: null

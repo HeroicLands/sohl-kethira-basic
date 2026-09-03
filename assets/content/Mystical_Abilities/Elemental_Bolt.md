@@ -10,11 +10,11 @@ slug: elemental-bolt
 img: systems/sohl/assets/icons/noun/psionics.svg
 shortcode: eblt
 type: mysticalability
+subType: arcanetalent
 pack: mysteries
 sohl:
   kbcat: null
   archetype: 0
-  subType: arcanetalent
   assocSkillCode: null
   assocAffiliationCode: null
   levelBase: 0

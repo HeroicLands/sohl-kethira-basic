@@ -10,11 +10,11 @@ slug: tube
 img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: tube
 type: mysticalability
+subType: arcaneincantation
 pack: mysteries
 sohl:
   kbcat: null
   archetype: 0
-  subType: arcaneincantation
   assocSkillCode: pvarism
   assocAffiliationCode: lyahvi
   levelBase: 5

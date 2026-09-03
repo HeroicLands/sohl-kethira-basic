@@ -10,11 +10,11 @@ slug: redoubt
 img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: redoubt
 type: mysticalability
+subType: arcaneincantation
 pack: mysteries
 sohl:
   kbcat: null
   archetype: 0
-  subType: arcaneincantation
   assocSkillCode: pvarism
   assocAffiliationCode: jmorvi
   levelBase: 2

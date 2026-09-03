@@ -11,11 +11,11 @@ slug: savorya
 img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: savorya
 type: skill
+subType: mystical
 pack: characteristics
 sohl:
   kbcat: arcane
   archetype: 0
-  subType: mystical
   skillBaseFormula: "sb(attr.aur, attr.rea)"
   combatCategory: none
   parentSkillCode: ""

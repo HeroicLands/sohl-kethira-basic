@@ -11,10 +11,10 @@ slug: beona
 img: systems/sohl/assets/icons/noun/circle.svg
 shortcode: beona
 type: affiliation
+subType: faithtradition
 pack: mysteries
 sohl:
   kbcat: affiliation
-  subType: divine
   archetype: 0
   society: ""
   office: ""

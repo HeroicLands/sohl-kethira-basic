@@ -10,11 +10,11 @@ slug: regenisis
 img: systems/sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: regenisis
 type: mysticalability
+subType: arcaneincantation
 pack: mysteries
 sohl:
   kbcat: null
   archetype: 0
-  subType: arcaneincantation
   assocSkillCode: pvarism
   assocAffiliationCode: fyvria
   levelBase: 6

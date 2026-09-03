@@ -11,11 +11,11 @@ slug: hirin-tarael
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: hirintarael
 type: mystery
+subType: birthsign
 pack: mysteries
 sohl:
   kbcat: sunsign
   archetype: 0
-  subType: other
   assocSkillCode: null
   assocAffiliationCode: null
   levelBase: null

@@ -11,11 +11,11 @@ slug: morgath
 img: images/kp-morgath.webp
 shortcode: morgath
 type: skill
+subType: mystical
 pack: characteristics
 sohl:
   kbcat: ritual
   archetype: 0
-  subType: mystical
   skillBaseFormula: "sb(attr.wil, attr.rea)"
   combatCategory: none
   parentSkillCode: ""

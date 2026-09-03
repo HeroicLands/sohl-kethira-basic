@@ -11,11 +11,11 @@ slug: masara
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: masara
 type: mystery
+subType: birthsign
 pack: mysteries
 sohl:
   kbcat: sunsign
   archetype: 0
-  subType: other
   assocSkillCode: null
   assocAffiliationCode: null
   levelBase: null

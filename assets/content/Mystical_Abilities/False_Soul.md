@@ -10,11 +10,11 @@ slug: false-soul
 img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: falsesoul
 type: mysticalability
+subType: arcaneincantation
 pack: mysteries
 sohl:
   kbcat: null
   archetype: 0
-  subType: arcaneincantation
   assocSkillCode: pvarism
   assocAffiliationCode: neutral
   levelBase: 3

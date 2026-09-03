@@ -10,11 +10,11 @@ slug: charm
 img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: charm
 type: mysticalability
+subType: arcaneincantation
 pack: mysteries
 sohl:
   kbcat: null
   archetype: 0
-  subType: arcaneincantation
   assocSkillCode: pvarism
   assocAffiliationCode: jmorvi
   levelBase: 3

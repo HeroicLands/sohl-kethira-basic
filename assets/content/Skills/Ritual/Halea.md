@@ -11,11 +11,11 @@ slug: halea
 img: images/kp-halea.webp
 shortcode: halea
 type: skill
+subType: mystical
 pack: characteristics
 sohl:
   kbcat: ritual
   archetype: 0
-  subType: mystical
   skillBaseFormula: "sb(attr.wil, attr.rea)"
   combatCategory: none
   parentSkillCode: ""

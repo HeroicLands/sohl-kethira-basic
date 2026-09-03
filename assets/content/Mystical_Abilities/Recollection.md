@@ -10,11 +10,11 @@ slug: recollection
 img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: recollection
 type: mysticalability
+subType: arcaneincantation
 pack: mysteries
 sohl:
   kbcat: null
   archetype: 0
-  subType: arcaneincantation
   assocSkillCode: pvarism
   assocAffiliationCode: savorya
   levelBase: 4

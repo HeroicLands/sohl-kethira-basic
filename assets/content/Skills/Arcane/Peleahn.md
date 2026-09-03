@@ -11,11 +11,11 @@ slug: peleahn
 img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: peleahn
 type: skill
+subType: mystical
 pack: characteristics
 sohl:
   kbcat: arcane
   archetype: 0
-  subType: mystical
   skillBaseFormula: "sb(attr.aur, attr.rea)"
   combatCategory: none
   parentSkillCode: ""

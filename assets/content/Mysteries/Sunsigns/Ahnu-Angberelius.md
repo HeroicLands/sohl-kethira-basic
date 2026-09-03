@@ -11,11 +11,11 @@ slug: ahnu-angberelius
 img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: ahnuangberelius
 type: mystery
+subType: birthsign
 pack: mysteries
 sohl:
   kbcat: sunsign
   archetype: 0
-  subType: other
   assocSkillCode: null
   assocAffiliationCode: null
   levelBase: null

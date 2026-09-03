@@ -10,11 +10,11 @@ slug: perspective
 img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: perspective
 type: mysticalability
+subType: arcaneincantation
 pack: mysteries
 sohl:
   kbcat: null
   archetype: 0
-  subType: arcaneincantation
   assocSkillCode: pvarism
   assocAffiliationCode: savorya
   levelBase: 5

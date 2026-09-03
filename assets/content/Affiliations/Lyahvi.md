@@ -11,10 +11,10 @@ slug: lyahvi
 img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: lyahvi
 type: affiliation
+subType: arcanetradition
 pack: mysteries
 sohl:
   kbcat: affiliation
-  subType: arcane
   archetype: 0
   society: ""
   office: ""

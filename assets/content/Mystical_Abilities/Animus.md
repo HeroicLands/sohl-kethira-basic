@@ -10,11 +10,11 @@ slug: animus
 img: systems/sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: animus
 type: mysticalability
+subType: arcaneincantation
 pack: mysteries
 sohl:
   kbcat: null
   archetype: 0
-  subType: arcaneincantation
   assocSkillCode: pvarism
   assocAffiliationCode: fyvria
   levelBase: 5

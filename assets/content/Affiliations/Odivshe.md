@@ -11,10 +11,10 @@ slug: odivshe
 img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: odivshe
 type: affiliation
+subType: arcanetradition
 pack: mysteries
 sohl:
   kbcat: affiliation
-  subType: arcane
   archetype: 0
   society: ""
   office: ""

@@ -11,10 +11,10 @@ slug: jmorvi
 img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: jmorvi
 type: affiliation
+subType: arcanetradition
 pack: mysteries
 sohl:
   kbcat: affiliation
-  subType: arcane
   archetype: 0
   society: ""
   office: ""

@@ -11,10 +11,10 @@ slug: save-k-nor
 img: images/kp-saveknor.webp
 shortcode: saveknor
 type: affiliation
+subType: faithtradition
 pack: mysteries
 sohl:
   kbcat: affiliation
-  subType: divine
   archetype: 0
   society: ""
   office: ""

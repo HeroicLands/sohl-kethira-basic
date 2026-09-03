@@ -11,10 +11,10 @@ slug: larani
 img: images/kp-larani.webp
 shortcode: larani
 type: affiliation
+subType: faithtradition
 pack: mysteries
 sohl:
   kbcat: affiliation
-  subType: divine
   archetype: 0
   society: ""
   office: ""
