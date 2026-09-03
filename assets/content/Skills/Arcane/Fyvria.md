@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fývria
 tags: []
 name:
   full: Fývria

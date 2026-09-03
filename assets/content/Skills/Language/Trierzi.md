@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tríerzi
 tags: []
 name:
   full: Tríerzi

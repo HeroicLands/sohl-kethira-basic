@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tiánta
 tags: []
 name:
   full: Tiánta

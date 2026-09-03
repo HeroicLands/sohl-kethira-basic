@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Býrian
 tags: []
 name:
   full: Býrian

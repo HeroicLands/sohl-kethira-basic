@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sàvôrya
 tags: []
 name:
   full: Sàvôrya

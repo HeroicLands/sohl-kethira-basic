@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ilvîr
 tags: []
 name:
   full: Ilvîr

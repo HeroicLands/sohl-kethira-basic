@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shôrka
 tags: []
 name:
   full: Shôrka

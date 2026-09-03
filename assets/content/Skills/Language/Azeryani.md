@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Àzeryáni
 tags: []
 name:
   full: Àzeryáni

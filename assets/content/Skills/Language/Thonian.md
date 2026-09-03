@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thónian
 tags: []
 name:
   full: Thónian

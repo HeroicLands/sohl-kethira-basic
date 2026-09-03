@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ylvýr
 tags: []
 name:
   full: Ylvýr

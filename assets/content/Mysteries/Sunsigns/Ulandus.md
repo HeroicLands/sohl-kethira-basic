@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ùlándus
 tags: []
 name:
   full: Ùlándus

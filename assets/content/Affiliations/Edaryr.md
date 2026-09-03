@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Edâryr
 tags: []
 name:
   full: Edâryr

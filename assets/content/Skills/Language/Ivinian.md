@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ivínian
 tags: []
 name:
   full: Ivínian

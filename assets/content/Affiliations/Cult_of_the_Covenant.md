@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cult of the Covenant
 tags: []
 name:
   full: Cult of the Covenant

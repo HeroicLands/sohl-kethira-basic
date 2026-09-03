@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bandit 1
 tags: []
 name:
   full: Bandit 1

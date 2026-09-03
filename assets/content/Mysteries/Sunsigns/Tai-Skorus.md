@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tai-Skôrus
 tags: []
 name:
   full: Tai-Skôrus

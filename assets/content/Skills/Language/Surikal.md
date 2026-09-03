@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Surikal
 tags: []
 name:
   full: Surikal

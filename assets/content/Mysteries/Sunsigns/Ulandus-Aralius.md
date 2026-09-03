@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ùlándus-Arálius
 tags: []
 name:
   full: Ùlándus-Arálius

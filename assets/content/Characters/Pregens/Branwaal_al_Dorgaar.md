@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Brànwâal al Dôrgaar
 tags: []
 name:
   full: Brànwâal al Dôrgaar

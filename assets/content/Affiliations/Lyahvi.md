@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lyáhvi
 tags: []
 name:
   full: Lyáhvi

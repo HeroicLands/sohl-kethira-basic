@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bandit 3
 tags: []
 name:
   full: Bandit 3

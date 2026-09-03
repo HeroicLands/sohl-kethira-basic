@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kôrlic
 tags: []
 name:
   full: Kôrlic

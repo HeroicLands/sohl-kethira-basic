@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dálken
 tags: []
 name:
   full: Dálken

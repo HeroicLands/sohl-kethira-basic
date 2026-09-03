@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chéler
 tags: []
 name:
   full: Chéler

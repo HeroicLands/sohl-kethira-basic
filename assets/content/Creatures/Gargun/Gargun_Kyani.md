@@ -1,13 +1,11 @@
 ---
-aliases:
-  - Gârgún Kyáni
-  - White Gârgún
 tags:
   - folk
   - gargun
 name:
   full: Gârgún Kyáni
-  aliases: []
+  aliases:
+    - White Gârgún
 id: Ga0rgunKyani01A
 shortcode: kyani
 slug: gargun-kyani

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hîrin-Táræl
 tags: []
 name:
   full: Hîrin-Táræl

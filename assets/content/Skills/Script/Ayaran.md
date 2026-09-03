@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ayâran
 tags: []
 name:
   full: Ayâran

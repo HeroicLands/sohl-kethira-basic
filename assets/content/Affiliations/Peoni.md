@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Peóni
 tags: []
 name:
   full: Peóni

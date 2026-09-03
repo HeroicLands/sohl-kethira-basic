@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hârnic
 tags: []
 name:
   full: Hârnic

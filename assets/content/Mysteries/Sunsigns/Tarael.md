@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Táræl
 tags: []
 name:
   full: Táræl

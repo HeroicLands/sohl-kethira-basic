@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kántâl
 tags: []
 name:
   full: Kántâl

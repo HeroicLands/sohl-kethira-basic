@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vanáer
 tags: []
 name:
   full: Vanáer

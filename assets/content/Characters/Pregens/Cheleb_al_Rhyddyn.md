@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chéleb al Rhýddyn
 tags: []
 name:
   full: Chéleb al Rhýddyn

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hácherian
 tags: []
 name:
   full: Hácherian

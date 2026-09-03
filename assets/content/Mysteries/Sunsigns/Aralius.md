@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arálius
 tags: []
 name:
   full: Arálius

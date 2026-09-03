@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pvârism
 tags: []
 name:
   full: Pvârism

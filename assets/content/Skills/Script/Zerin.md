@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zérin
 tags: []
 name:
   full: Zérin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Siém
 tags: []
 name:
   full: Siém

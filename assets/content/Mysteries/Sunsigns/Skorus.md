@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Skôrus
 tags: []
 name:
   full: Skôrus

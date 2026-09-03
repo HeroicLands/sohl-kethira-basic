@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zârenor
 tags: []
 name:
   full: Zârenor

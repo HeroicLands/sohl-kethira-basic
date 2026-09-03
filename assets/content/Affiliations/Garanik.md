@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gáranik
 tags: []
 name:
   full: Gáranik

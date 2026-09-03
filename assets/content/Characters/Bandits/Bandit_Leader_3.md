@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bandit Leader 3
 tags: []
 name:
   full: Bandit Leader 3

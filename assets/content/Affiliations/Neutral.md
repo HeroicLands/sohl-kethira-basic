@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Neutral
 tags: []
 name:
   full: Neutral

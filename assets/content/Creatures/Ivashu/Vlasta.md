@@ -1,13 +1,11 @@
 ---
-aliases:
-  - Vlásta
-  - Swift One
-  - Eater of Eyes
 tags:
   - creature
 name:
   full: Vlásta
-  aliases: []
+  aliases:
+    - Swift One
+    - Eater of Eyes
 id: VlastaSwiftOne1
 shortcode: vlasta
 slug: vlasta

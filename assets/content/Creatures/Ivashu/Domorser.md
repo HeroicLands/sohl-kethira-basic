@@ -1,12 +1,10 @@
 ---
-aliases:
-  - Dómôrsèr
-  - Nightcrawler
 tags:
   - creature
 name:
   full: Dómôrsèr
-  aliases: []
+  aliases:
+    - Nightcrawler
 id: DomorserNghtcrw
 shortcode: domorser
 slug: domorser

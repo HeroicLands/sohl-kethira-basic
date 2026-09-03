@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Alánta
 tags: []
 name:
   full: Alánta

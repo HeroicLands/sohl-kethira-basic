@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Búqdin
 tags: []
 name:
   full: Búqdin

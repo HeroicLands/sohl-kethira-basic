@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Úlana
 tags: []
 name:
   full: Úlana

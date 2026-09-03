@@ -1,13 +1,11 @@
 ---
-aliases:
-  - Gârgún Viásal
-  - Red Gârgún
 tags:
   - folk
   - gargun
 name:
   full: Gârgún Viásal
-  aliases: []
+  aliases:
+    - Red Gârgún
 id: Ga0rgunViasal0A
 shortcode: viasal
 slug: gargun-viasal

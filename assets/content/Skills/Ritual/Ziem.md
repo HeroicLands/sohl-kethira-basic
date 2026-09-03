@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ziém
 tags: []
 name:
   full: Ziém

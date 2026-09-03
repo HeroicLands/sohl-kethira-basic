@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sárajìn
 tags: []
 name:
   full: Sárajìn

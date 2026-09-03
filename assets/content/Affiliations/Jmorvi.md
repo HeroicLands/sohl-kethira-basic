@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jmôrvi
 tags: []
 name:
   full: Jmôrvi

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hârbáaler
 tags: []
 name:
   full: Hârbáaler

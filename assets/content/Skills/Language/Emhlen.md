@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Émhlèn
 tags: []
 name:
   full: Émhlèn

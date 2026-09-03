@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dálani
 tags: []
 name:
   full: Dálani

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bandit 5
 tags: []
 name:
   full: Bandit 5

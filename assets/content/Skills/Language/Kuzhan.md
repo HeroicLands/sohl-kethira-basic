@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kúzhan
 tags: []
 name:
   full: Kúzhan

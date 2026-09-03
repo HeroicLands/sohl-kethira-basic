@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hîrin
 tags: []
 name:
   full: Hîrin

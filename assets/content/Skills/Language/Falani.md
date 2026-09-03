@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Faláni
 tags: []
 name:
   full: Faláni

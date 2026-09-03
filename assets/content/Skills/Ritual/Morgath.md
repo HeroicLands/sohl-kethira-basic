@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Môrgath
 tags: []
 name:
   full: Môrgath

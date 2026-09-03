@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sávè-K'nôr
 tags: []
 name:
   full: Sávè-K'nôr

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tórnis al Kúbrý
 tags: []
 name:
   full: Tórnis al Kúbrý

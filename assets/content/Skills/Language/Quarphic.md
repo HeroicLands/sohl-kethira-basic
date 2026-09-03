@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Quârphic
 tags: []
 name:
   full: Quârphic

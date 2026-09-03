@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nadái-Hîrin
 tags: []
 name:
   full: Nadái-Hîrin

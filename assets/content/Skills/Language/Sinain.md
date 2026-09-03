@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sináin
 tags: []
 name:
   full: Sináin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fenéri-Áhnù
 tags: []
 name:
   full: Fenéri-Áhnù

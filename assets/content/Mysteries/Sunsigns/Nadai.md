@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nadái
 tags: []
 name:
   full: Nadái

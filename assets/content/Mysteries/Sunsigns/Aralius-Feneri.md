@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arálius-Fenéri
 tags: []
 name:
   full: Arálius-Fenéri

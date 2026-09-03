@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jârin
 tags: []
 name:
   full: Jârin

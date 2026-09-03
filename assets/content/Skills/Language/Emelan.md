@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Emélan
 tags: []
 name:
   full: Emélan

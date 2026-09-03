@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bandit Leader 1
 tags: []
 name:
   full: Bandit Leader 1

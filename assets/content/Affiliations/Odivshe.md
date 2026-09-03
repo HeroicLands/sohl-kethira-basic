@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Odívshè
 tags: []
 name:
   full: Odívshè

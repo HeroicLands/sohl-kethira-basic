@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Skôrus-Masâra
 tags: []
 name:
   full: Skôrus-Masâra

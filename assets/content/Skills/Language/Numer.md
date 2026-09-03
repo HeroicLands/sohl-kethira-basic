@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Númer
 tags: []
 name:
   full: Númer

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ormauk
 tags: []
 name:
   full: Ormauk

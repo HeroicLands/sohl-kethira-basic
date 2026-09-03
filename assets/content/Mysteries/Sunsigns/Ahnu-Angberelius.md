@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Áhnù-Angberélius
 tags: []
 name:
   full: Áhnù-Angberélius

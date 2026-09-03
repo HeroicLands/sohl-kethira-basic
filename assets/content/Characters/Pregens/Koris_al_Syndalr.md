@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kôris al Sýndalr
 tags: []
 name:
   full: Kôris al Sýndalr

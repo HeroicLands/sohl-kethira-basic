@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Táræl-Tai
 tags: []
 name:
   full: Táræl-Tai

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Angberélius-Nadái
 tags: []
 name:
   full: Angberélius-Nadái

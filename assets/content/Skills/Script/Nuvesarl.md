@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nuvesarl
 tags: []
 name:
   full: Nuvesarl

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ládo-Ùlándus
 tags: []
 name:
   full: Ládo-Ùlándus

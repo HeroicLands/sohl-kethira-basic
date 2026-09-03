@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Khrúni
 tags: []
 name:
   full: Khrúni

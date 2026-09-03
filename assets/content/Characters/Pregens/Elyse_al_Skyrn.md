@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elýsè al Skýrn
 tags: []
 name:
   full: Elýsè al Skýrn

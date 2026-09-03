@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Masâra
 tags: []
 name:
   full: Masâra

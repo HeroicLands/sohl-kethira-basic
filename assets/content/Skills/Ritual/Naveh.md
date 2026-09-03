@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Navéh
 tags: []
 name:
   full: Navéh

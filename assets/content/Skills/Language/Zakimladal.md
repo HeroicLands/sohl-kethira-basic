@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zâkimladal
 tags: []
 name:
   full: Zâkimladal

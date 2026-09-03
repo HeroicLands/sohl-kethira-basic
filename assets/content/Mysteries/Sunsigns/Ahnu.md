@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Áhnù
 tags: []
 name:
   full: Áhnù

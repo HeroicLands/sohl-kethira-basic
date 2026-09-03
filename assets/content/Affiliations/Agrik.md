@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ágrik
 tags: []
 name:
   full: Ágrik

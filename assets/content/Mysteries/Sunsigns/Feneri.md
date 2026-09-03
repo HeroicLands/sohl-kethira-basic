@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fenéri
 tags: []
 name:
   full: Fenéri

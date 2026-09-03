@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Angberélius
 tags: []
 name:
   full: Angberélius

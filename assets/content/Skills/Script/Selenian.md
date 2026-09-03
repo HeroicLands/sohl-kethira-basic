@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Selénian
 tags: []
 name:
   full: Selénian

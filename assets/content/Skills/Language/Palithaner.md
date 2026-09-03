@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pálithàner
 tags: []
 name:
   full: Pálithàner

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tai
 tags: []
 name:
   full: Tai

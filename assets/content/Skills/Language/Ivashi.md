@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ivashi
 tags: []
 name:
   full: Ivashi

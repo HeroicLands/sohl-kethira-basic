@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Áklash
 tags:
   - creature
 name:

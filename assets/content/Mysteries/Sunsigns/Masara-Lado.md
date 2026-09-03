@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Masâra-Ládo
 tags: []
 name:
   full: Masâra-Ládo

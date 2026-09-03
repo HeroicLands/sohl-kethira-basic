@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Môrdar
 tags: []
 name:
   full: Môrdar

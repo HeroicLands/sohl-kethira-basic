@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lakíse
 tags: []
 name:
   full: Lakíse

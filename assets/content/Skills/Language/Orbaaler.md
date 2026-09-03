@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Orbáaler
 tags: []
 name:
   full: Orbáaler

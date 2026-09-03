@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ládo
 tags: []
 name:
   full: Ládo
