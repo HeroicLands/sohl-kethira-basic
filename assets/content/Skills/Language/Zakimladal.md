@@ -17,7 +17,6 @@ sohl:
   archetype: 100
   subType: language
   skillBaseFormula: "sb(attr.elo, attr.rea)"
-  assocAffiliationCode: null
   combatCategory: none
   parentSkillCode: ""
   initSkillMult: 0

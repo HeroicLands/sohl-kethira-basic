@@ -17,7 +17,6 @@ sohl:
   archetype: 0
   subType: script
   skillBaseFormula: "sb(attr.rea, attr.per)"
-  assocAffiliationCode: null
   combatCategory: none
   parentSkillCode: ""
   initSkillMult: 0
