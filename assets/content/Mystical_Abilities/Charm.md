@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Charm
+  aliases: []
 description: ""
 id: CI9E4FD108ZM2CnU
 slug: charm

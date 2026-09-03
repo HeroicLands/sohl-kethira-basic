@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Nadái
+  aliases: []
 description: ""
 id: 8Tp4mlHIyLSiiibp
 slug: nadai

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Steel
+  aliases: []
 description: ""
 id: bNuxM9BBWfGMcg9k
 slug: steel

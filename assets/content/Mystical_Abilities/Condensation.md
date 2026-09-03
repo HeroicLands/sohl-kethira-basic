@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Condensation
+  aliases: []
 description: ""
 id: YZ8ZCQnQibeONXc5
 slug: condensation

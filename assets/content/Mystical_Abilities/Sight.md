@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Sight
+  aliases: []
 description: ""
 id: uEnxf7vF4YmL2S58
 slug: sight

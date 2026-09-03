@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Fire Fiend
+  aliases: []
 description: ""
 id: i8TCVZ58VDyZHwoV
 slug: fire-fiend

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Zâkimladal
+  aliases: []
 description: ""
 id: CsdzvLOYIrnU1Fre
 slug: zakimladal

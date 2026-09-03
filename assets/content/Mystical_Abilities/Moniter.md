@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Moniter
+  aliases: []
 description: ""
 id: 7BlPspbVilTiVqyL
 slug: moniter

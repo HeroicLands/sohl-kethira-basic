@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Absorb
+  aliases: []
 description: ""
 id: 4cklnUPcocTdOXWu
 slug: absorb

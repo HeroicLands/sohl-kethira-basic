@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Telepathy
+  aliases: []
 description: ""
 id: 1yyCbhSjbki38JNd
 slug: telepathy

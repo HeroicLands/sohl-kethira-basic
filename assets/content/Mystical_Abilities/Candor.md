@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Candor
+  aliases: []
 description: ""
 id: 1nZ5JLdUKzxDC5J0
 slug: candor

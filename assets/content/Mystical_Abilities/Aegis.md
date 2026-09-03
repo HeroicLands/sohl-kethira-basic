@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Aegis
+  aliases: []
 description: ""
 id: 4rWnT58B2YitcEfB
 slug: aegis

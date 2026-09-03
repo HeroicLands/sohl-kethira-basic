@@ -4,6 +4,8 @@ tags:
   - gargun
 name:
   full: Gârgún Viásal
+  aliases:
+    - Red Gârgún
 id: Ga0rgunViasal0A
 shortcode: viasal
 slug: gargun-viasal

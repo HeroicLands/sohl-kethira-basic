@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Gauntlet
+  aliases: []
 description: ""
 id: a9upgqjJgZVDy0b0
 slug: gauntlet

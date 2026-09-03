@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Dispel
+  aliases: []
 description: ""
 id: t3WjLPazVJ2txXW2
 slug: dispel

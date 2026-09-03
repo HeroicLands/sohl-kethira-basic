@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Rest
+  aliases: []
 description: ""
 id: vkhu5G6CqNzMHHAO
 slug: rest

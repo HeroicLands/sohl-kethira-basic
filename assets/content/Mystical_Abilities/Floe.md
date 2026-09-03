@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Floe
+  aliases: []
 description: ""
 id: 1AL3MdbG3qboSQ9o
 slug: floe

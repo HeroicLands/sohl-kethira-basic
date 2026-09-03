@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Gate
+  aliases: []
 description: ""
 id: n5wh31TKs62PrALm
 slug: gate

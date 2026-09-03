@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Vanáer
+  aliases: []
 description: ""
 id: CcO0l7xmPd61kQqP
 slug: vanaer

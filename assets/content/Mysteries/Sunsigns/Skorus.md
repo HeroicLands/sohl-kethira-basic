@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Skôrus
+  aliases: []
 description: ""
 id: klMQI7Di94TBMgQR
 slug: skorus

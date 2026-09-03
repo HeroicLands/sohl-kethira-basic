@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Sàvôrya
+  aliases: []
 description: ""
 id: mw1tSeSda9RtkB2E
 slug: savorya

@@ -4,6 +4,8 @@ tags:
   - gargun
 name:
   full: Gârgún Kyáni
+  aliases:
+    - White Gârgún
 id: Ga0rgunKyani01A
 shortcode: kyani
 slug: gargun-kyani

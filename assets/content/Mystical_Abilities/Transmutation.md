@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Transmutation
+  aliases: []
 description: ""
 id: mW6pCO4zFiwfJFhA
 slug: transmutation

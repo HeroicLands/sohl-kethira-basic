@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Môrdar
+  aliases: []
 description: ""
 id: 6F5tTXhN0gqs5EnG
 slug: mordar

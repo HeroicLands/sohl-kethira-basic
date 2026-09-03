@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Bandit Leader 1
+  aliases: []
 id: WN1Z4BNdEXWuSWNz
 folder: wDgcy5cLIaLoFogp
 shortcode: banditleader1

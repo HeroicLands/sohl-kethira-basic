@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Pyre
+  aliases: []
 description: ""
 id: cy1KEa0UjiRfqea3
 slug: pyre

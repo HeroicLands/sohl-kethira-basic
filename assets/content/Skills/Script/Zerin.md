@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Zérin
+  aliases: []
 description: ""
 id: 998DjObybFjZPcgN
 slug: zerin

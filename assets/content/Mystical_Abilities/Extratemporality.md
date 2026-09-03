@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Extratemporality
+  aliases: []
 description: ""
 id: GRInCl46OtvsjWRe
 slug: extratemporality

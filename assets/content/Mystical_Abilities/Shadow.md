@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Shadow
+  aliases: []
 description: ""
 id: kRjDRbd8bDVcrTBv
 slug: shadow

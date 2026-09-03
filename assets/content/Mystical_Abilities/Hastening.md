@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Hastening
+  aliases: []
 description: ""
 id: j2lXh9gJQAPcH7rU
 slug: hastening

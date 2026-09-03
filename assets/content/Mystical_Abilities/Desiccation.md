@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Desiccation
+  aliases: []
 description: ""
 id: rtiWd0bR7EyLXHfB
 slug: desiccation

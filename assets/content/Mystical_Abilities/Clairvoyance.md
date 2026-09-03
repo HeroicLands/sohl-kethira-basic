@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Clairvoyance
+  aliases: []
 description: ""
 id: N2SuuuRJq86wgYy6
 slug: clairvoyance

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Negation
+  aliases: []
 description: ""
 id: ABd6DgjjBbcN8FjE
 slug: negation

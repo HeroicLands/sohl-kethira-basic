@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Skin
+  aliases: []
 description: ""
 id: p5lbEKLL77uX7IjS
 slug: skin

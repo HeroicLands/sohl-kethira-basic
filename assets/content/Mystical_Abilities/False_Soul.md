@@ -2,6 +2,7 @@
 tags: []
 name:
   full: False Soul
+  aliases: []
 description: ""
 id: 06VXNQr0zZAkUDQj
 slug: false-soul

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Alánta
+  aliases: []
 description: ""
 id: 2IWu6lZ30D6ioTkp
 slug: alanta

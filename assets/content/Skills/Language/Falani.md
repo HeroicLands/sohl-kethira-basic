@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Faláni
+  aliases: []
 description: ""
 id: IT9AYKb2ELFlJkJf
 slug: falani

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Fenéri
+  aliases: []
 description: ""
 id: 0rUilHMn9WsYi9Hn
 slug: feneri

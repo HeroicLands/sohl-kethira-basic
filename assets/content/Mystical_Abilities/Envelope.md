@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Envelope
+  aliases: []
 description: ""
 id: PJ2Z5nmj9flqfBnL
 slug: envelope

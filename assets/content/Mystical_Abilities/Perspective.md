@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Perspective
+  aliases: []
 description: ""
 id: oxRe09hrasyj8auL
 slug: perspective

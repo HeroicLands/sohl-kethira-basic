@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Redoubt
+  aliases: []
 description: ""
 id: o2f53g7hqpHCUAOH
 slug: redoubt

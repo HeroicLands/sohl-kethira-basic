@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Bandit 4
+  aliases: []
 id: TNcBgsbpfb4Fv0C8
 folder: wDgcy5cLIaLoFogp
 shortcode: bandit4

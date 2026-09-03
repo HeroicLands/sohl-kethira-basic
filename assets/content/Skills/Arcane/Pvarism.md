@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Pvârism
+  aliases: []
 description: ""
 id: K5XmdHDxovuKxcxQ
 slug: pvarism

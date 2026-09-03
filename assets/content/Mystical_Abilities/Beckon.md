@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Beckon
+  aliases: []
 description: ""
 id: IhZX7McIszH92nPQ
 slug: beckon

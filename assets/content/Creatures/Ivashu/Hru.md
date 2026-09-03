@@ -3,6 +3,8 @@ tags:
   - creature
 name:
   full: Hrú
+  aliases:
+    - Rock Giant
 id: HruRockGiant001
 shortcode: hru
 slug: hru
@@ -376,7 +378,7 @@ By day, an inert pile of rocks or a large boulder, indistinguishable from the sc
 
 # Dossier {#dossier}
 
-Groups of up to forty Hru — the _Rock Giants_ — lie strewn across high mountain wastes through the daylight hours. They remain peaceful unless their stony fastness is defiled or threatened.
+Groups of up to forty Hru lie strewn across high mountain wastes through the daylight hours. They remain peaceful unless their stony fastness is defiled or threatened.
 
 **Rumble.** At night Hru converse with each other through strange, rumbling songs. The register is so deep that it causes discomfort in other beings: any non-Hru within a league must test Endurance at the start of each turn or suffer −20 to all actions for one round.
 

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Laráni
+  aliases: []
 description: ""
 id: TmoI0ZlgvYJHuy29
 slug: larani

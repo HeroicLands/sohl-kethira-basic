@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Thought
+  aliases: []
 description: ""
 id: zLzo8ELZGI8qVdw0
 slug: thought

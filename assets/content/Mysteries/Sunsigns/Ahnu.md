@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Áhnù
+  aliases: []
 description: ""
 id: hKLc4IN1kA86hA15
 slug: ahnu

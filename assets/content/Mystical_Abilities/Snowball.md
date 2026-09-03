@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Snowball
+  aliases: []
 description: ""
 id: c6yEvNaz2gvhCzSH
 slug: snowball

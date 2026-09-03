@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Link
+  aliases: []
 description: ""
 id: qUJbuBXZzC1nbovf
 slug: link

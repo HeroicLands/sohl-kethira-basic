@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Sárajìn
+  aliases: []
 description: ""
 id: 4N4tdZFvVVXQeNcq
 slug: sarajin

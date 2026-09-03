@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Bane
+  aliases: []
 description: ""
 id: KOpWN5lb4ia3cHo9
 slug: bane

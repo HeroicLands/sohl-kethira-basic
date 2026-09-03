@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Fireworks
+  aliases: []
 description: ""
 id: XZTdBIZ4IvRSdYQ1
 slug: fireworks

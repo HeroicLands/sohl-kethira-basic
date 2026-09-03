@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Ward
+  aliases: []
 description: ""
 id: 7MdmH180C57trJ1m
 slug: ward

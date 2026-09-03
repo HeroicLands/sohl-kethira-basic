@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Beóna
+  aliases: []
 description: ""
 id: JYh1o1V8Gg5PQlov
 slug: beona

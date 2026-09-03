@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Surikal
+  aliases: []
 description: ""
 id: j8hikYNaljD8eqz1
 slug: surikal

@@ -4,6 +4,8 @@ tags:
   - gargun
 name:
   full: Gârgún Hyéka
+  aliases:
+    - Brown Gârgún
 id: Ga0rgunHyeka01A
 shortcode: hyeka
 slug: gargun-hyeka

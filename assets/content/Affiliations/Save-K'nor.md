@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Sávè-K'nôr
+  aliases: []
 description: ""
 id: KreoPNkvT6zOFDEp
 slug: save-k-nor

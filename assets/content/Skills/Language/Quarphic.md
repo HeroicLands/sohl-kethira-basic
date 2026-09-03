@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Quârphic
+  aliases: []
 description: ""
 id: wnncuSLQr1RkNprN
 slug: quarphic

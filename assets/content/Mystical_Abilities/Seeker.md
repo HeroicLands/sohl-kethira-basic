@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Seeker
+  aliases: []
 description: ""
 id: r6nslXZcWo7AUpGQ
 slug: seeker

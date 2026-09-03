@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Personality
+  aliases: []
 description: ""
 id: tRiLtQ7C5EKYVZIu
 slug: personality

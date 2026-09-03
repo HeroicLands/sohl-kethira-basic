@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Bandit Archer 2
+  aliases: []
 id: ZiazKvY6oIARxx3b
 folder: wDgcy5cLIaLoFogp
 shortcode: banditarcher2

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Elarána
+  aliases: []
 description: ""
 id: Hq5ElECJNU3ebG7P
 slug: elarana

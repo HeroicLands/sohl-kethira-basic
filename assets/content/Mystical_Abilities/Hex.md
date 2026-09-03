@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Hex
+  aliases: []
 description: ""
 id: Iz2Lf8bESdZVpPZJ
 slug: hex

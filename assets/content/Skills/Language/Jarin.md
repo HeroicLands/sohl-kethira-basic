@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Jârin
+  aliases: []
 description: ""
 id: MONOo4chhMcTu1pG
 slug: jarin

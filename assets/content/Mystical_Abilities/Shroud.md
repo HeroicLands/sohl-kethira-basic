@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Shroud
+  aliases: []
 description: ""
 id: 1cesq94m43S9eMQI
 slug: shroud

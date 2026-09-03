@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Reveal
+  aliases: []
 description: ""
 id: KMJWNFq4N9lyGhRS
 slug: reveal

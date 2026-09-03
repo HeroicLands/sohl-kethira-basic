@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Brand
+  aliases: []
 description: ""
 id: lII4PIV0ubNeG74j
 slug: brand

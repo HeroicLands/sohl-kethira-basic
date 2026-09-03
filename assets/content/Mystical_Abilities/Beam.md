@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Beam
+  aliases: []
 description: ""
 id: b5dYBcfSkfAO6skZ
 slug: beam

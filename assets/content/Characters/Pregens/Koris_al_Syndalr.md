@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Kôris al Sýndalr
+  aliases: []
 id: Nwxk1ehiccvUnhIZ
 folder: wDgcy5cLIaLoFogp
 shortcode: korisalsyndalr

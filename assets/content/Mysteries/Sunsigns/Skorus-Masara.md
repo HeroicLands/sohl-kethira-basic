@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Skôrus-Masâra
+  aliases: []
 description: ""
 id: Hjv8cFoLgH5ywN7B
 slug: skorus-masara

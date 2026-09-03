@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Prism
+  aliases: []
 description: ""
 id: GonumZZ1ih1BVGgW
 slug: prism

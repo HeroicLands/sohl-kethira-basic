@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Curtain
+  aliases: []
 description: ""
 id: LGmQXvPQtiaCyxSD
 slug: curtain

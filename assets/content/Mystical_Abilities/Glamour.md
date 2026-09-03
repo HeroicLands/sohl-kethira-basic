@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Glamour
+  aliases: []
 description: ""
 id: LDmZilHpqqFh1WZO
 slug: glamour

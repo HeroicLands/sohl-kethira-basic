@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Obedience
+  aliases: []
 description: ""
 id: kZ50t4Hak9jFKwEP
 slug: obedience

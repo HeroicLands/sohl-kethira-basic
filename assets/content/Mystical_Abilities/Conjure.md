@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Conjure
+  aliases: []
 description: ""
 id: IXxyNHy1It9Og2VG
 slug: conjure

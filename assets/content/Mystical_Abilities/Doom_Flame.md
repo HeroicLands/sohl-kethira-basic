@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Doom Flame
+  aliases: []
 description: ""
 id: v7FPUBi92oDck5UK
 slug: doom-flame

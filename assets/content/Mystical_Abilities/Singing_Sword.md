@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Singing Sword
+  aliases: []
 description: ""
 id: OpZ3MKsZQQncRe94
 slug: singing-sword

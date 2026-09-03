@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Transfer
+  aliases: []
 description: ""
 id: bffz8KJRcllW5dnJ
 slug: transfer

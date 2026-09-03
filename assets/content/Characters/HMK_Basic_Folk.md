@@ -2,6 +2,7 @@
 tags: []
 name:
   full: HMK Basic Folk
+  aliases: []
 id: Wa6qOUFVsckRKO6R
 folder: wDgcy5cLIaLoFogp
 shortcode: hmkbasicfolk

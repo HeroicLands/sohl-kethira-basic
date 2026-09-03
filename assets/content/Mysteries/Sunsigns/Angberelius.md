@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Angberélius
+  aliases: []
 description: ""
 id: hSyl2FBaJd2z4cBw
 slug: angberelius

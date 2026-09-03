@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Psychometry
+  aliases: []
 description: ""
 id: nh4gsSvE5XhQEQ5X
 slug: psychometry

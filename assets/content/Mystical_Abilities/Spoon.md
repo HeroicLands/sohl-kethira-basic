@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Spoon
+  aliases: []
 description: ""
 id: BE88Hbv0bK1RfujF
 slug: spoon

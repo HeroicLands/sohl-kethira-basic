@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Hârnic
+  aliases: []
 description: ""
 id: woFaMUgznLPQREME
 slug: harnic

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Arálius
+  aliases: []
 description: ""
 id: ob9DL9Qd3GZOaXIE
 slug: aralius

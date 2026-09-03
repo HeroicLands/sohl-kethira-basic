@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Hunger
+  aliases: []
 description: ""
 id: MrVTPN0oeMh8XLWj
 slug: hunger

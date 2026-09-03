@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Tórnis al Kúbrý
+  aliases: []
 id: QgVdOPUTxTLxEvBf
 folder: wDgcy5cLIaLoFogp
 shortcode: tornisalkubry

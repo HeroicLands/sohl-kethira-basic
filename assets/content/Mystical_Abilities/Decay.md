@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Decay
+  aliases: []
 description: ""
 id: Rn5TkoHUjQzy8xsL
 slug: decay

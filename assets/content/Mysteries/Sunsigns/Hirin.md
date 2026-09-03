@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Hîrin
+  aliases: []
 description: ""
 id: EeL7L3sh2RMj63fO
 slug: hirin

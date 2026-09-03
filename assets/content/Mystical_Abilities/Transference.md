@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Transference
+  aliases: []
 description: ""
 id: RPAfGBjZbNsYCfn8
 slug: transference

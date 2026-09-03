@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Wasting
+  aliases: []
 description: ""
 id: lsOd0Ta0cL0DoqOF
 slug: wasting

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Quenching
+  aliases: []
 description: ""
 id: 5DFpPv4FTZ0jwB7r
 slug: quenching

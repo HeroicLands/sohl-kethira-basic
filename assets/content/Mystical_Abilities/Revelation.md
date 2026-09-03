@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Revelation
+  aliases: []
 description: ""
 id: BBQgaHvKfgWP0J91
 slug: revelation

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Pocket
+  aliases: []
 description: ""
 id: LOL0hO2nhoIXVKyH
 slug: pocket

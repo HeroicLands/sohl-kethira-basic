@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Enrichment
+  aliases: []
 description: ""
 id: y05pfQtRevRkvwUc
 slug: enrichment

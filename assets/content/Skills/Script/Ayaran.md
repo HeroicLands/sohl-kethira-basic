@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Ayâran
+  aliases: []
 description: ""
 id: kAI2d1vXajl7XdD7
 slug: ayaran

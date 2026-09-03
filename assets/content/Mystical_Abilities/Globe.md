@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Globe
+  aliases: []
 description: ""
 id: NuNEPI3lHcrZkfrU
 slug: globe

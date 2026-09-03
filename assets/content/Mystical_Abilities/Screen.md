@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Screen
+  aliases: []
 description: ""
 id: jRy4NPaJyg9u3mJR
 slug: screen

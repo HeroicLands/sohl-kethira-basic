@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Wave
+  aliases: []
 description: ""
 id: UhMOQxXesBtvqePa
 slug: wave

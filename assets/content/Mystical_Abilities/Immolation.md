@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Immolation
+  aliases: []
 description: ""
 id: nomkk6fTJg8Iy4VX
 slug: immolation

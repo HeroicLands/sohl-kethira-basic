@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Wind
+  aliases: []
 description: ""
 id: bcss8Ae9ZrrgvDBU
 slug: wind

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Aural Blast
+  aliases: []
 description: ""
 id: 915ZpuLQM6j7Lmpu
 slug: aural-blast

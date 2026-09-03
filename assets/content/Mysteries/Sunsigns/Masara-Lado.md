@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Masâra-Ládo
+  aliases: []
 description: ""
 id: IxhlQpnsJvoz4FK5
 slug: masara-lado

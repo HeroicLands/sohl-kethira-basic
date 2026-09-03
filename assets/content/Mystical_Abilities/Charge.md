@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Charge
+  aliases: []
 description: ""
 id: jvYYWVvROqBNx4xx
 slug: charge

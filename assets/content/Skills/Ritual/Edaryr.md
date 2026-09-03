@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Edâryr
+  aliases: []
 description: ""
 id: 7tUvpdHzkI7ISVQx
 slug: edaryr

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Medium
+  aliases: []
 description: ""
 id: 1en6JNnWt9zGfQxn
 slug: medium

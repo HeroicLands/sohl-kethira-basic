@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Cooling
+  aliases: []
 description: ""
 id: 2M689o5LuNZUd2bE
 slug: cooling

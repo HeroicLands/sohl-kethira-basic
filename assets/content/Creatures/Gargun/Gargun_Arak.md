@@ -4,6 +4,8 @@ tags:
   - gargun
 name:
   full: Gârgún Arák
+  aliases:
+    - Small Gârgún
 id: Ga0rgunArak01AA
 shortcode: arak
 slug: gargun-arak

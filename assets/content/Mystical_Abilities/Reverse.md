@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Reverse
+  aliases: []
 description: ""
 id: 0W8glgkZ21C9NvQM
 slug: reverse

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Spirit
+  aliases: []
 description: ""
 id: lKVbkvzIGDFCC3UI
 slug: spirit

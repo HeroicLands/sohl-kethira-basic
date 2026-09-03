@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Assemble
+  aliases: []
 description: ""
 id: Fxg6egfBMgjnNS0C
 slug: assemble

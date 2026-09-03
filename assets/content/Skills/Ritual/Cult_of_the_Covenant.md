@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Cult of the Covenant
+  aliases: []
 description: ""
 id: liCBbVMwqkxXvutz
 slug: cult-of-the-covenant

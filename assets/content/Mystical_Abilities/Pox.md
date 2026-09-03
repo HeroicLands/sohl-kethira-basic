@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Pox
+  aliases: []
 description: ""
 id: UkIh8mL8MngvvBxZ
 slug: pox

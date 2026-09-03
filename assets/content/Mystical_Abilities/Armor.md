@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Armor
+  aliases: []
 description: ""
 id: Zt3TZ2L5r7lS8Ow1
 slug: armor

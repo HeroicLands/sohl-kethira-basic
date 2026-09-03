@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Númer
+  aliases: []
 description: ""
 id: ey308gnG0KhUpa25
 slug: numer

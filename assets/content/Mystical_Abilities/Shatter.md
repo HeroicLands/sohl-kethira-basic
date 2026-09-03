@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Shatter
+  aliases: []
 description: ""
 id: O0x7OTeI2EEon89p
 slug: shatter

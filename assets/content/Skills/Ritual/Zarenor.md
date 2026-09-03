@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Zârenor
+  aliases: []
 description: ""
 id: zovgjXFp3wWVLdgP
 slug: zarenor

@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Ivínian
+  aliases: []
 description: ""
 id: 2yfbMe6ZTqPR1nFb
 slug: ivinian

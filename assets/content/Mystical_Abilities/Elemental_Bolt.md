@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Elemental Bolt
+  aliases: []
 description: ""
 id: gDV7D2Cmb3Ww5sBe
 slug: elemental-bolt

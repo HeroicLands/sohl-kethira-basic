@@ -4,6 +4,8 @@ tags:
   - gargun
 name:
   full: Gârgún Khánu
+  aliases:
+    - Great Gârgún
 id: Ga0rgunKhanu01A
 shortcode: khanu
 slug: gargun-khanu

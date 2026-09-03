@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Metal
+  aliases: []
 description: ""
 id: 2o9BR3Yq5dIFaxYd
 slug: metal

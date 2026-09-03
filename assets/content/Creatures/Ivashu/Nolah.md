@@ -3,6 +3,9 @@ tags:
   - creature
 name:
   full: Nólah
+  aliases:
+    - Nolahrin
+    - Dank Stalker
 id: NolahDankStalkr
 shortcode: nolah
 slug: nolah

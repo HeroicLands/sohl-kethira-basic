@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Fever
+  aliases: []
 description: ""
 id: QUIc42B44yo3yuy0
 slug: fever

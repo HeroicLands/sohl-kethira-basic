@@ -3,6 +3,10 @@ tags:
   - creature
 name:
   full: Umbáth
+  aliases:
+    - Umbathri
+    - Bearer of the Mask
+    - Gargoyle
 id: UmbathBearerMsk
 shortcode: umbath
 slug: umbath

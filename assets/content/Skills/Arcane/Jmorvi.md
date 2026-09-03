@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Jmôrvi
+  aliases: []
 description: ""
 id: Yk66XLvMNm6RD7ON
 slug: jmorvi

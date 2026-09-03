@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Syncope
+  aliases: []
 description: ""
 id: HddpzPlLN7K5RU8v
 slug: syncope

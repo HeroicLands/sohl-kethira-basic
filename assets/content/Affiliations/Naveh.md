@@ -2,6 +2,7 @@
 tags: []
 name:
   full: Navéh
+  aliases: []
 description: ""
 id: 2wuZBbaRam4wY03W
 slug: naveh
