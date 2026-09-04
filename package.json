@@ -59,8 +59,8 @@
     },
     "devDependencies": {
         "@changesets/cli": "^3.0.1",
-        "@heroiclands/hugo-theme": "^0.2.0",
-        "@heroiclands/package-build": "^13.0.0",
+        "@heroiclands/hugo-theme": "^0.4.0",
+        "@heroiclands/package-build": "^14.0.0",
         "npm-run-all": "^4.1.5",
         "yaml": "^2.9.0"
     }
