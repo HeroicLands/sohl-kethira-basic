@@ -17,7 +17,7 @@ relationships:
           manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/latest/download/system.json
           compatibility:
               minimum: "0.8.0"
-              verified: "0.8.2"
+              verified: "0.8.3"
           # The `characters` pass resolves a being's embedded items by
           # `(type, shortcode)`, and almost every one of them — `attribute:str`,
           # `skill:init` — belongs to `sohl` rather than to this repository. This
