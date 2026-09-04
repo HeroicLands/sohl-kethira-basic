@@ -21,12 +21,23 @@
 # from the same config the toolchain builds from, so the guard and the build
 # cannot come to disagree about what this package publishes.
 #
-# NO `_headers` file in this repository either. Pages reads it only at the
-# deployment root, to mark the project's own *.pages.dev and
-# kethira.pkg.heroiclands.org hostnames noindex so they do not compete with the
-# canonical address — and since that content is the same for every package, the
-# shared workflow writes the default when a build produces none
-# (HeroicLands/.github#7).
+# `_headers` AND `_redirects` ARE THIS REPOSITORY'S, as of #83 — written into
+# the deployment root by `utils/build-site-root.mjs`, which `npm run build:site`
+# runs last. Pages reads both files only at that root, never inside the package
+# prefix.
+#
+# The workflow writes a default `_headers` — the *.pages.dev and
+# kethira.pkg.heroiclands.org noindex rules, identical for every package
+# (HeroicLands/.github#7) — but ONLY when a build produces no `_headers` at all;
+# it never merges into one. Since package-build 15 published the landing at
+# `/kethira/homepage-root/`, `/kethira/` has to redirect there with a pinned
+# `Cache-Control`, and a header has nowhere to live but `_headers`. So this
+# build now writes that file, the default no longer fires, and the noindex rules
+# are carried in the script alongside the cache rules. Read its comments before
+# changing either half.
+#
+# A redirect is not a page: neither file is an `index.html`, so the tally below
+# is untouched and this package still publishes exactly one page.
 name: Deploy the Kethira site to Cloudflare Pages
 
 on:
