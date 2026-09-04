@@ -10,7 +10,7 @@ id: Ga0rgunHyeka01A
 shortcode: hyeka
 slug: gargun-hyeka
 img: systems/sohl/assets/icons/game-icons/delapouite/orc-head.svg
-portrait: ""
+portrait: null
 type: being
 sohl:
   archetype: 0

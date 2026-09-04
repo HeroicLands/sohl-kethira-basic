@@ -8,7 +8,7 @@ id: AklashChokeWind
 shortcode: aklash
 slug: aklash
 img: systems/sohl/assets/icons/game-icons/skoll/troll.svg
-portrait: ""
+portrait: null
 type: being
 sohl:
   archetype: 0

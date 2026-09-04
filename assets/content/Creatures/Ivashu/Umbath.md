@@ -11,7 +11,7 @@ id: UmbathBearerMsk
 shortcode: umbath
 slug: umbath
 img: systems/sohl/assets/icons/game-icons/delapouite/gargoyle.svg
-portrait: ""
+portrait: null
 type: being
 sohl:
   archetype: 0

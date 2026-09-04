@@ -10,7 +10,7 @@ id: NolahDankStalkr
 shortcode: nolah
 slug: nolah
 img: systems/sohl/assets/icons/game-icons/lorc/spectre.svg
-portrait: ""
+portrait: null
 type: being
 sohl:
   archetype: 0

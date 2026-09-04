@@ -9,7 +9,7 @@ id: HruRockGiant001
 shortcode: hru
 slug: hru
 img: systems/sohl/assets/icons/game-icons/delapouite/rock-golem.svg
-portrait: ""
+portrait: null
 type: being
 sohl:
   archetype: 0
