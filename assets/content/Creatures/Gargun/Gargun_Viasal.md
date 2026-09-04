@@ -10,7 +10,7 @@ id: Ga0rgunViasal0A
 shortcode: viasal
 slug: gargun-viasal
 img: systems/sohl/assets/icons/game-icons/delapouite/orc-head.svg
-portrait: ""
+portrait: null
 type: being
 sohl:
   archetype: 0

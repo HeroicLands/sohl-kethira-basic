@@ -9,7 +9,7 @@ id: DomorserNghtcrw
 shortcode: domorser
 slug: domorser
 img: systems/sohl/assets/icons/game-icons/lorc/wolf-head.svg
-portrait: ""
+portrait: null
 type: being
 sohl:
   archetype: 0
