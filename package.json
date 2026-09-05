@@ -53,7 +53,7 @@
         "lint:lang": "package-build lang check",
         "lint:addresses": "content-build lint",
         "lint:content-links": "content-build links",
-        "lint:labels": "node utils/check-labels.mjs",
+        "lint:labels": "package-build labels check",
         "changeset": "changeset",
         "changeset:version": "changeset version && npm install --package-lock-only",
         "changeset:check": "changeset status --since=origin/main",
