@@ -1,70 +1,37 @@
 # Run the checks on the pull request that broke them, not on the release
-# afterwards (#44).
+# afterwards.
 #
-# Until this landed, the only check a pull request here got was **No AI
-# attribution**. `npm run lint` and the build did run, but only inside
-# `build:noci` in `release.yml` — and only on the push to `main` that actually
-# cuts a release. So every gate this repository had fired after the merge that
-# broke it, and reported as a failed release rather than a failed pull request.
+# The four content repositories run this same file. What differs between them
+# is only what they have to check: `lint:lang` appears where there is a
+# `lang/` tree and not otherwise, because a step with nothing to check is not
+# parity — it is a green tick that means nothing.
 #
-# ## What runs, and what does not
+# ## Named steps, not one `npm run lint`
 #
-# This runs **five of the six checks `npm run lint` chains**, as named steps so a
-# failure says which one. The omission is measured, not incidental. On the commit
-# that added this file:
+# The chain is `run-s`, which stops at the first failure, so a single step
+# would report whichever check failed first and say nothing about the rest.
+# That is how two of these repositories had checks whose state nobody knew: the
+# chain never reached them. Each step runs under `if: \${{ !cancelled() }}`,
+# so one failure does not hide the others, and a red run is a worklist rather
+# than a wall.
 #
-# | check               | state on `main`                          |
-# | ------------------- | ---------------------------------------- |
-# | `lint:format`       | clean — 405 files                        |
-# | `lint:markdown`     | clean                                    |
-# | `lint:lang`         | clean — 1 localization file              |
-# | `lint:content-links`| clean — 364 notes, every anchor lands    |
-# | `lint:labels`       | clean — registry and §3 agree, 11 labels |
-# | `lint:addresses`    | clean — 371 addresses (#41 closed)       |
+# ## The compile is a second job
 #
-# `lint:addresses` was once left out, because a gate that cannot go green is
-# worse than no gate: it trains people to merge past a red check, and then the
-# red check stops meaning anything. Its backlog was #41, which is now closed —
-# the findings were the content-format conversion meeting a package-build pin
-# that predated the format, and taking 11.0.0 cleared all 342 with no note
-# edited. So the chain runs whole, as this file said it should when that day
-# came.
+# It is the only check here that reaches the network — a satellite fetches the
+# pinned system release its actors resolve against — so it has a failure surface
+# none of the lint steps have, and mixing the two would make a third party's
+# outage read as a content failure. And a compile failure and a lint failure are
+# both worth seeing in one run, rather than whichever comes first hiding the
+# other.
 #
-# ## The build, and why it is a second job
-#
-# `build` runs `npm run build:db`, so a note that lints clean but fails to
-# *compile* is caught on the pull request rather than on the release after it
-# (#63). It waited on #56/#61, which fixed the pack order `main` did not compile
-# cold with; that has merged.
-#
-# It is a separate job rather than a sixth step for two reasons. It is the only
-# check here that reaches the network — `build:deps` downloads the pinned `sohl`
-# release the actors pass resolves a being's embedded items against — so it has a
-# failure surface none of the lint steps have, and mixing the two would make a
-# third party's outage read as a content failure. And a compile failure and a
-# lint failure are both worth seeing in one run, rather than whichever comes
-# first hiding the other.
-#
-# **Every run here is cold**, which is the case that matters. `build/` is
-# gitignored and holds the dependency catalogue too (`build/cache/foreign`), so a
-# runner starts with nothing; #56 was green on every local tree that had built
-# once and red only on a fresh checkout. On the commit that added this job a cold
-# `npm run build:db` exits 0, compiling 66 items, 269 items and 28 actors.
-#
-# `build:module` — the manifest pass, and the rest of what `build:noci` runs — is
-# deliberately not here. It writes the manifest from configuration and the staged
-# tree, so it answers for an edit to `package-build.config.yaml` rather than for
-# anything a content note can do, and that is what this gate is for.
-# `@heroiclands/package-build` 6.0.0 moves a real check into it (`packFolders`,
-# package-build#81); adopting that version is the point to reconsider.
+# Every run is cold: `build/` is gitignored and holds the dependency catalogue
+# too, so a runner starts with nothing.
 name: Lint
 
 on:
     pull_request:
         types: [opened, reopened, synchronize]
-    # Post-merge signal too: `release.yml` runs the lint chain only on a push
-    # that actually releases, so `main` otherwise goes unchecked between
-    # releases.
+    # Post-merge signal too: nothing else checks `main` between releases.
     push:
         branches: [main]
     workflow_dispatch:
@@ -93,14 +60,37 @@ jobs:
             - name: Install dependencies
               run: npm ci
 
-            # The whole chain: formatting, markdown, localization, content
-            # links, the label registry, and addresses. `lint:addresses` was
-            # left out while #41 stood, on the reasoning that a gate which
-            # cannot go green is worse than no gate. #41 is closed and the
-            # check is clean, so the chain runs whole again — which is what
-            # this file said to do when that day came.
-            - name: Lint
-              run: npm run lint
+            # Prettier over the whole tree.
+            - name: Check formatting
+              run: npm run lint:format
+
+            # markdownlint: document structure, and links that do not link.
+            - name: Check markdown
+              if: ${{ !cancelled() }}
+              run: npm run lint:markdown
+
+            # No dotted-prefix collision in `lang/*.json`. A key that is both a
+            # leaf and a branch makes `foundry.utils.expandObject` throw, and
+            # Foundry then drops the whole translation file.
+            - name: Check localization files
+              if: ${{ !cancelled() }}
+              run: npm run lint:lang
+
+            # Frontmatter against the schema each note's type declares.
+            - name: Check addresses and frontmatter
+              if: ${{ !cancelled() }}
+              run: npm run lint:addresses
+
+            # Every anchor link lands and every qualified address resolves.
+            - name: Check content links
+              if: ${{ !cancelled() }}
+              run: npm run lint:content-links
+
+            # `.github/labels.yml` and the §3 table of the issue-reporting doc
+            # still name the same closed set.
+            - name: Check label registry
+              if: ${{ !cancelled() }}
+              run: npm run lint:labels
 
     build:
         name: Content pack compile
@@ -119,10 +109,8 @@ jobs:
             - name: Install dependencies
               run: npm ci
 
-            # `build:deps` fetches the pinned `sohl` release, `build:assets`
-            # stages the static tree, and `build:compiledb` compiles all three
-            # packs — resolving every being's embedded items — to LevelDB.
-            # Nothing is cached into `build/`, so this is the cold compile a tree
-            # that has already built once cannot perform on itself.
+            # Stages the tree, compiles every pack, and emits the content index
+            # — the cold build a tree that has already built once cannot
+            # perform on itself.
             - name: Compile the content packs
               run: npm run build:db
