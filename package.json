@@ -26,7 +26,7 @@
         "build": "npm ci && npm run build:noci",
         "build:local": "npm i && npm run build:noci",
         "build:noci": "run-s lint build:db build:module",
-        "build:db": "run-s build:deps build:assets build:compiledb",
+        "build:db": "run-s build:deps build:assets build:compiledb build:content-index",
         "build:deps": "content-build deps fetch",
         "build:assets": "package-build assets",
         "build:compiledb": "content-build package compile",
@@ -56,7 +56,8 @@
         "lint:labels": "node utils/check-labels.mjs",
         "changeset": "changeset",
         "changeset:version": "changeset version && npm install --package-lock-only",
-        "changeset:check": "changeset status --since=origin/main"
+        "changeset:check": "changeset status --since=origin/main",
+        "build:content-index": "content-build content-index"
     },
     "devDependencies": {
         "@changesets/cli": "^3.0.1",
