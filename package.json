@@ -1,7 +1,7 @@
 {
     "name": "sohl-kethira-basic",
     "private": true,
-    "version": "0.5.3",
+    "version": "0.6.0",
     "description": "HârnMaster Kethira content for the Song of Heroic Lands system for Foundry VTT",
     "type": "module",
     "license": "SEE LICENSE IN LICENSE",
