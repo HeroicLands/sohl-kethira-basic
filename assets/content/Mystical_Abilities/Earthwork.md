@@ -6,7 +6,7 @@ name:
 description: ""
 id: gjCry74FtWuhBGGY
 slug: earthwork
-img: systems/sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
+img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: earthwork
 type: mysticalability
 subType: arcaneincantation

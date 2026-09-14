@@ -6,7 +6,7 @@ name:
 description: ""
 id: Zt3TZ2L5r7lS8Ow1
 slug: armor
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: armor
 type: mysticalability
 subType: arcaneincantation

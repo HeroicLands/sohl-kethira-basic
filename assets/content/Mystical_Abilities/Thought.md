@@ -6,7 +6,7 @@ name:
 description: ""
 id: zLzo8ELZGI8qVdw0
 slug: thought
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: thought
 type: mysticalability
 subType: arcaneincantation

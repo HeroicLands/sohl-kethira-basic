@@ -6,7 +6,7 @@ name:
 description: ""
 id: uEnxf7vF4YmL2S58
 slug: sight
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: sight
 type: mysticalability
 subType: arcaneincantation

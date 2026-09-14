@@ -6,7 +6,7 @@ name:
 description: ""
 id: CI9E4FD108ZM2CnU
 slug: charm
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: charm
 type: mysticalability
 subType: arcaneincantation

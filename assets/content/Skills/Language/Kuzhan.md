@@ -6,7 +6,7 @@ name:
 description: ""
 id: 2bTEKOeV2DQCdcYc
 slug: kuzhan
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: kuzhan
 type: skill
 subType: language

@@ -6,7 +6,7 @@ name:
 description: ""
 id: qXjITjPhnyoyJdDi
 slug: ormauk
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: ormauk
 type: skill
 subType: language

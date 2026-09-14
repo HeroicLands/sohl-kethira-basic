@@ -6,7 +6,7 @@ name:
 description: ""
 id: YZ8ZCQnQibeONXc5
 slug: condensation
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: condensation
 type: mysticalability
 subType: arcaneincantation

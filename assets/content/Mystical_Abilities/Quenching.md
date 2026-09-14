@@ -6,7 +6,7 @@ name:
 description: ""
 id: 5DFpPv4FTZ0jwB7r
 slug: quenching
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: quenching
 type: mysticalability
 subType: arcaneincantation

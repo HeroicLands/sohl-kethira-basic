@@ -6,7 +6,7 @@ name:
 description: ""
 id: 2M689o5LuNZUd2bE
 slug: cooling
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: cooling
 type: mysticalability
 subType: arcaneincantation

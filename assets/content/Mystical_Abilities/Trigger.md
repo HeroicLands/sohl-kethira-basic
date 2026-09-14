@@ -6,7 +6,7 @@ name:
 description: ""
 id: ZmUxLCHuzUPdPfrm
 slug: trigger
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: trigger
 type: mysticalability
 subType: arcaneincantation

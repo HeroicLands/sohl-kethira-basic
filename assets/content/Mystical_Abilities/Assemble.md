@@ -6,7 +6,7 @@ name:
 description: ""
 id: Fxg6egfBMgjnNS0C
 slug: assemble
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: assemble
 type: mysticalability
 subType: arcaneincantation

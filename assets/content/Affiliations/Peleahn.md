@@ -6,7 +6,7 @@ name:
 description: ""
 id: riP3Gs6iOTTR5Wx5
 slug: peleahn
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: peleahn
 type: affiliation
 subType: arcanetradition

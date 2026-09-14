@@ -6,7 +6,7 @@ name:
 description: ""
 id: uHUQlGqPrqR9LKhu
 slug: selenian
-img: systems/sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
+img: sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
 shortcode: selenian
 type: skill
 subType: script

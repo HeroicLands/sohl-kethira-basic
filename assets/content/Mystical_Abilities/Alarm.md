@@ -6,7 +6,7 @@ name:
 description: ""
 id: DeH9CgHtTradgQc2
 slug: alarm
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: alarm
 type: mysticalability
 subType: arcaneincantation

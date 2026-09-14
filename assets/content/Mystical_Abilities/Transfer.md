@@ -6,7 +6,7 @@ name:
 description: ""
 id: bffz8KJRcllW5dnJ
 slug: transfer
-img: systems/sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
+img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: transfer
 type: mysticalability
 subType: arcaneincantation

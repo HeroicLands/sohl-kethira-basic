@@ -6,7 +6,7 @@ name:
 description: ""
 id: eaXFpnZVvDPacga0
 slug: dalken
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: dalken
 type: skill
 subType: language

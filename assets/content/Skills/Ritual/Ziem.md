@@ -6,7 +6,7 @@ name:
 description: ""
 id: VapTwmCTNH03SfQe
 slug: ziem
-img: systems/sohl/assets/icons/noun/circle.svg
+img: sohl/assets/icons/noun/circle.svg
 shortcode: ziem
 type: skill
 subType: mystical

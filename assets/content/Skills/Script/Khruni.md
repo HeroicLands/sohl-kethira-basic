@@ -6,7 +6,7 @@ name:
 description: ""
 id: Soq0vRso2XXolGH7
 slug: khruni
-img: systems/sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
+img: sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
 shortcode: khruni
 type: skill
 subType: script

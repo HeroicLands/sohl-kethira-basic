@@ -6,7 +6,7 @@ name:
 description: ""
 id: tRiLtQ7C5EKYVZIu
 slug: personality
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: personality
 type: mysticalability
 subType: arcaneincantation

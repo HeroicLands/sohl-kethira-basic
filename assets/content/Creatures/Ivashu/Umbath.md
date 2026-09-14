@@ -10,7 +10,7 @@ name:
 id: UmbathBearerMsk
 shortcode: umbath
 slug: umbath
-img: systems/sohl/assets/icons/game-icons/delapouite/gargoyle.svg
+img: sohl/assets/icons/game-icons/delapouite/gargoyle.svg
 portrait: null
 type: being
 data:

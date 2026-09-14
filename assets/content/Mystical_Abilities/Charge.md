@@ -6,7 +6,7 @@ name:
 description: ""
 id: jvYYWVvROqBNx4xx
 slug: charge
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: charge
 type: mysticalability
 subType: arcaneincantation

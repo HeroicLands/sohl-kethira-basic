@@ -6,7 +6,7 @@ name:
 description: ""
 id: 5NBX1wp4qSgXFLuU
 slug: aspect
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: aspect
 type: mysticalability
 subType: arcaneincantation

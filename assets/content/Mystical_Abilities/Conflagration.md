@@ -6,7 +6,7 @@ name:
 description: ""
 id: HKWL5hJh4F4UKQGt
 slug: conflagration
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: conflagration
 type: mysticalability
 subType: arcaneincantation

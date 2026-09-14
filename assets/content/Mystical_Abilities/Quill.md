@@ -6,7 +6,7 @@ name:
 description: ""
 id: umSVwBGL3pIErzu8
 slug: quill
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: quill
 type: mysticalability
 subType: arcaneincantation

@@ -7,8 +7,8 @@ id: Wa6qOUFVsckRKO6R
 packFolder: characters
 shortcode: hmkbasicfolk
 slug: hmk-basic-folk
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
-portrait: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
+portrait: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 pack: characters
 social:

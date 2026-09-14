@@ -6,7 +6,7 @@ name:
 description: ""
 id: 0W8glgkZ21C9NvQM
 slug: reverse
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: reverse
 type: mysticalability
 subType: arcaneincantation

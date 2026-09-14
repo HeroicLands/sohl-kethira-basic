@@ -6,7 +6,7 @@ name:
 description: ""
 id: 7tUvpdHzkI7ISVQx
 slug: edaryr
-img: systems/sohl/assets/icons/noun/circle.svg
+img: sohl/assets/icons/noun/circle.svg
 shortcode: edaryr
 type: skill
 subType: mystical

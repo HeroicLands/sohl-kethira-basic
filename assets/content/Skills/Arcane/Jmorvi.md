@@ -6,7 +6,7 @@ name:
 description: ""
 id: Yk66XLvMNm6RD7ON
 slug: jmorvi
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: jmorvi
 type: skill
 subType: mystical

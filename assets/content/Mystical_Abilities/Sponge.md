@@ -6,7 +6,7 @@ name:
 description: ""
 id: ZMFOLOH2ycRK9sCj
 slug: sponge
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: sponge
 type: mysticalability
 subType: arcaneincantation

@@ -7,7 +7,7 @@ name:
 id: AklashChokeWind
 shortcode: aklash
 slug: aklash
-img: systems/sohl/assets/icons/game-icons/skoll/troll.svg
+img: sohl/assets/icons/game-icons/skoll/troll.svg
 portrait: null
 type: being
 data:

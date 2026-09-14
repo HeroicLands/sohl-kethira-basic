@@ -6,7 +6,7 @@ name:
 description: ""
 id: oxRe09hrasyj8auL
 slug: perspective
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: perspective
 type: mysticalability
 subType: arcaneincantation

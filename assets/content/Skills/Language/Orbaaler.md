@@ -6,7 +6,7 @@ name:
 description: ""
 id: pkfOMri14HCwlxt2
 slug: orbaaler
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: orbaaler
 type: skill
 subType: language

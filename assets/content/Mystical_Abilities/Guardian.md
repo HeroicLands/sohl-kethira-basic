@@ -6,7 +6,7 @@ name:
 description: ""
 id: atwfc9lM9OnT4lKv
 slug: guardian
-img: systems/sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
+img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: guardian
 type: mysticalability
 subType: arcaneincantation

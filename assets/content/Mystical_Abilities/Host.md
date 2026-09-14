@@ -6,7 +6,7 @@ name:
 description: ""
 id: QPBV1eStrVM4gUJq
 slug: host
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: host
 type: mysticalability
 subType: arcaneincantation

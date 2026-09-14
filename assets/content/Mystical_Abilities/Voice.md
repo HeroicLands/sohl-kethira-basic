@@ -6,7 +6,7 @@ name:
 description: ""
 id: Gkl82efMX2SCkGhF
 slug: voice
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: voice
 type: mysticalability
 subType: arcaneincantation

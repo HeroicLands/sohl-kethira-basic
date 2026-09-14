@@ -6,7 +6,7 @@ name:
 description: ""
 id: CsdzvLOYIrnU1Fre
 slug: zakimladal
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: zakimladal
 type: skill
 subType: language

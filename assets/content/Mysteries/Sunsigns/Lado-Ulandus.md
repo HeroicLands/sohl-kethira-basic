@@ -6,7 +6,7 @@ name:
 description: ""
 id: lXWpXFfh9Dbw3vJt
 slug: lado-ulandus
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: ladoulandus
 type: mystery
 subType: birthsign

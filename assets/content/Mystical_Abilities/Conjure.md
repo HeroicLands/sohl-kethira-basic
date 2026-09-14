@@ -6,7 +6,7 @@ name:
 description: ""
 id: IXxyNHy1It9Og2VG
 slug: conjure
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: conjure
 type: mysticalability
 subType: arcaneincantation

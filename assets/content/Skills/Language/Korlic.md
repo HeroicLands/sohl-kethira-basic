@@ -6,7 +6,7 @@ name:
 description: ""
 id: dCsXmYoIUfKtrtzg
 slug: korlic
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: korlic
 type: skill
 subType: language

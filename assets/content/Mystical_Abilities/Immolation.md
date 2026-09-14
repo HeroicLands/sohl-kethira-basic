@@ -6,7 +6,7 @@ name:
 description: ""
 id: nomkk6fTJg8Iy4VX
 slug: immolation
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: immolation
 type: mysticalability
 subType: arcaneincantation

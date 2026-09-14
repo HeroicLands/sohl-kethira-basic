@@ -6,7 +6,7 @@ name:
 description: ""
 id: N21J8mDOazsflqZR
 slug: palithaner
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: palithaner
 type: skill
 subType: language

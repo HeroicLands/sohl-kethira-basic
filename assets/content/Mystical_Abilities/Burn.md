@@ -6,7 +6,7 @@ name:
 description: ""
 id: u8hT18FgSkLY19ez
 slug: burn
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: burn
 type: mysticalability
 subType: arcaneincantation

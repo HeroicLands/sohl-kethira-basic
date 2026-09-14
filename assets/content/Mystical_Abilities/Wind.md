@@ -6,7 +6,7 @@ name:
 description: ""
 id: bcss8Ae9ZrrgvDBU
 slug: wind
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: wind
 type: mysticalability
 subType: arcaneincantation

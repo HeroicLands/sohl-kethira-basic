@@ -6,7 +6,7 @@ name:
 description: ""
 id: t3WjLPazVJ2txXW2
 slug: dispel
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: dispel
 type: mysticalability
 subType: arcaneincantation

@@ -6,7 +6,7 @@ name:
 description: ""
 id: BA1LewIR8VJMqbag
 slug: tai
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: tai
 type: mystery
 subType: birthsign

@@ -6,7 +6,7 @@ name:
 description: ""
 id: QT3FEq9aroxJPaP8
 slug: vessel
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: vessel
 type: mysticalability
 subType: arcaneincantation

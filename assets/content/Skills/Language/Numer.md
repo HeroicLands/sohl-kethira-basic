@@ -6,7 +6,7 @@ name:
 description: ""
 id: ey308gnG0KhUpa25
 slug: numer
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: numer
 type: skill
 subType: language

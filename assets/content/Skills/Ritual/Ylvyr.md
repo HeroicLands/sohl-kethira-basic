@@ -6,7 +6,7 @@ name:
 description: ""
 id: XexYQNbusggd0AMs
 slug: ylvyr
-img: systems/sohl/assets/icons/noun/circle.svg
+img: sohl/assets/icons/noun/circle.svg
 shortcode: ylvyr
 type: skill
 subType: mystical

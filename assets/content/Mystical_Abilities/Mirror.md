@@ -6,7 +6,7 @@ name:
 description: ""
 id: vbqeHTlmObvyegWR
 slug: mirror
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: mirror
 type: mysticalability
 subType: arcaneincantation

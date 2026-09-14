@@ -6,7 +6,7 @@ name:
 description: ""
 id: kkFwQo9vfwEjpZqh
 slug: sphere
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: sphere
 type: mysticalability
 subType: arcaneincantation

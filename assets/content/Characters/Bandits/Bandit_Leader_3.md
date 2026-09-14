@@ -7,8 +7,8 @@ id: 7ivelsuPSdm9OHrv
 packFolder: characters
 shortcode: banditleader3
 slug: bandit-leader-3
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
-portrait: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
+portrait: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 pack: characters
 social:

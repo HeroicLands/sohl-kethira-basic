@@ -6,7 +6,7 @@ name:
 description: ""
 id: DHxJc5j9BztOJEzY
 slug: mold
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: mold
 type: mysticalability
 subType: arcaneincantation

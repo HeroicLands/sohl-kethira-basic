@@ -6,7 +6,7 @@ name:
 description: ""
 id: NM3JB59VYMqlvi6K
 slug: neutral
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: neutral
 type: skill
 subType: mystical

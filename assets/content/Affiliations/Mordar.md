@@ -6,7 +6,7 @@ name:
 description: ""
 id: 6F5tTXhN0gqs5EnG
 slug: mordar
-img: systems/sohl/assets/icons/noun/circle.svg
+img: sohl/assets/icons/noun/circle.svg
 shortcode: mordar
 type: affiliation
 subType: faithtradition

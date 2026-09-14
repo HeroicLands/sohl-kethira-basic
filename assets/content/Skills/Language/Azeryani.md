@@ -6,7 +6,7 @@ name:
 description: ""
 id: sygNpMe0xKos6cYQ
 slug: azeryani
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: azeryani
 type: skill
 subType: language

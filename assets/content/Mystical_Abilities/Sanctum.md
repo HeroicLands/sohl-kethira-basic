@@ -6,7 +6,7 @@ name:
 description: ""
 id: wwA0PHaLfDFUwVMz
 slug: sanctum
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: sanctum
 type: mysticalability
 subType: arcaneincantation

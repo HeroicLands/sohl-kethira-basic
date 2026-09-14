@@ -7,8 +7,8 @@ id: Hxxja9eO46kDimGg
 packFolder: characters
 shortcode: elysealskyrn
 slug: elyse-al-skyrn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
-portrait: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
+portrait: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 pack: characters
 social:

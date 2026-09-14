@@ -6,7 +6,7 @@ name:
 description: ""
 id: mqWpROliaDMNGjp9
 slug: wisdom
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: wisdom
 type: mysticalability
 subType: arcaneincantation

@@ -6,7 +6,7 @@ name:
 description: ""
 id: KUGAAtAfER0lzBYy
 slug: restoration
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: restoration
 type: mysticalability
 subType: arcaneincantation

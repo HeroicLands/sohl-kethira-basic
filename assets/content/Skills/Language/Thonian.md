@@ -6,7 +6,7 @@ name:
 description: ""
 id: TdCA6SMBfNGAPgDZ
 slug: thonian
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: thonian
 type: skill
 subType: language

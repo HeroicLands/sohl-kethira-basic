@@ -6,7 +6,7 @@ name:
 description: ""
 id: klMQI7Di94TBMgQR
 slug: skorus
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: skorus
 type: mystery
 subType: birthsign

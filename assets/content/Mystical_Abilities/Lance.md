@@ -6,7 +6,7 @@ name:
 description: ""
 id: 9HMnaGx1T7bMTRos
 slug: lance
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: lance
 type: mysticalability
 subType: arcaneincantation

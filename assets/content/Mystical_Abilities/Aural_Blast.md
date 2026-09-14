@@ -6,7 +6,7 @@ name:
 description: ""
 id: 915ZpuLQM6j7Lmpu
 slug: aural-blast
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: auralblast
 type: mysticalability
 subType: arcaneincantation

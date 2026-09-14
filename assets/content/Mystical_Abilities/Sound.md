@@ -6,7 +6,7 @@ name:
 description: ""
 id: fOewhoOAuZfGeDsP
 slug: sound
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: sound
 type: mysticalability
 subType: arcaneincantation

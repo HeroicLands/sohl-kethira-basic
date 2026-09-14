@@ -6,7 +6,7 @@ name:
 description: ""
 id: BH8BdFUkA6lWOdnu
 slug: freeze
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: freeze
 type: mysticalability
 subType: arcaneincantation

@@ -7,8 +7,8 @@ id: apRBncJbSCYQswQc
 packFolder: characters
 shortcode: bandit2
 slug: bandit-2
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
-portrait: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
+portrait: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 pack: characters
 social:

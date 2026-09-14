@@ -6,7 +6,7 @@ name:
 description: ""
 id: LWeU0oyWUWd6KM9V
 slug: sinain
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: sinain
 type: skill
 subType: language

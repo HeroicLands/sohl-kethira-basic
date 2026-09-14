@@ -6,7 +6,7 @@ name:
 description: ""
 id: 7BlPspbVilTiVqyL
 slug: moniter
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: moniter
 type: mysticalability
 subType: arcaneincantation

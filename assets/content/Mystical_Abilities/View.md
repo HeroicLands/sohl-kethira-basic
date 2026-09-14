@@ -6,7 +6,7 @@ name:
 description: ""
 id: XOlCvcR8a001X93n
 slug: view
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: view
 type: mysticalability
 subType: arcaneincantation

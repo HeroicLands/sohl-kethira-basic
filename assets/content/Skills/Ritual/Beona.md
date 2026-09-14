@@ -6,7 +6,7 @@ name:
 description: ""
 id: wfKOgAMkZRBgrkfN
 slug: beona
-img: systems/sohl/assets/icons/noun/circle.svg
+img: sohl/assets/icons/noun/circle.svg
 shortcode: beona
 type: skill
 subType: mystical

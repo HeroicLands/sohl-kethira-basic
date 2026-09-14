@@ -6,7 +6,7 @@ name:
 description: ""
 id: wFQGHGOjYdp98VlC
 slug: prescience
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: psnc
 type: mysticalability
 subType: arcanetalent

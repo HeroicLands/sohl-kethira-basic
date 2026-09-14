@@ -6,7 +6,7 @@ name:
 description: ""
 id: UkIh8mL8MngvvBxZ
 slug: pox
-img: systems/sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
+img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: pox
 type: mysticalability
 subType: arcaneincantation

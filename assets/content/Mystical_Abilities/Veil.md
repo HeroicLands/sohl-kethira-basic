@@ -6,7 +6,7 @@ name:
 description: ""
 id: M3bBlyF39MtzQPSD
 slug: veil
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: veil
 type: mysticalability
 subType: arcaneincantation

@@ -6,7 +6,7 @@ name:
 description: ""
 id: KdM5KuVXmabFxqEc
 slug: neutral
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: neutral
 type: affiliation
 subType: arcanetradition

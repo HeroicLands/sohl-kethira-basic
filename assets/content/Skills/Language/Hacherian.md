@@ -6,7 +6,7 @@ name:
 description: ""
 id: oGdPt6gOeEEwBwec
 slug: hacherian
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: hacherian
 type: skill
 subType: language

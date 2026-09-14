@@ -6,7 +6,7 @@ name:
 description: ""
 id: IxhlQpnsJvoz4FK5
 slug: masara-lado
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: masaralado
 type: mystery
 subType: birthsign

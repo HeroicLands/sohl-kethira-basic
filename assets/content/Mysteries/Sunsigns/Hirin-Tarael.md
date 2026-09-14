@@ -6,7 +6,7 @@ name:
 description: ""
 id: 5NYNbAPWe43ymyKZ
 slug: hirin-tarael
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: hirintarael
 type: mystery
 subType: birthsign

@@ -6,7 +6,7 @@ name:
 description: ""
 id: XE7xdSOYuYse055V
 slug: well
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: well
 type: mysticalability
 subType: arcaneincantation

@@ -6,7 +6,7 @@ name:
 description: ""
 id: X9BIekcWvIEgvoJP
 slug: cloak
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: cloak
 type: mysticalability
 subType: arcaneincantation

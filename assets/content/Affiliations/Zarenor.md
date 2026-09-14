@@ -6,7 +6,7 @@ name:
 description: ""
 id: e5vQ9Bfcnpp8UxG0
 slug: zarenor
-img: systems/sohl/assets/icons/noun/circle.svg
+img: sohl/assets/icons/noun/circle.svg
 shortcode: zarenor
 type: affiliation
 subType: faithtradition

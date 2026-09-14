@@ -6,7 +6,7 @@ name:
 description: ""
 id: JnwmH3vGjqd2wudU
 slug: lens
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: lens
 type: mysticalability
 subType: arcaneincantation

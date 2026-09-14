@@ -6,7 +6,7 @@ name:
 description: ""
 id: ob9DL9Qd3GZOaXIE
 slug: aralius
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: aralius
 type: mystery
 subType: birthsign

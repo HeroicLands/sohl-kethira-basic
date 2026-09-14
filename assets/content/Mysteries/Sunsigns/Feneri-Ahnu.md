@@ -6,7 +6,7 @@ name:
 description: ""
 id: HBe2jEz45xImY3X6
 slug: feneri-ahnu
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: feneriahnu
 type: mystery
 subType: birthsign

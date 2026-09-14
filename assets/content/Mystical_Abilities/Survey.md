@@ -6,7 +6,7 @@ name:
 description: ""
 id: qyTJ6DQxlh2lYx83
 slug: survey
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: survey
 type: mysticalability
 subType: arcaneincantation

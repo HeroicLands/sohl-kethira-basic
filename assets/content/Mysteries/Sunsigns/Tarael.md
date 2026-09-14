@@ -6,7 +6,7 @@ name:
 description: ""
 id: OM8f6ntS6Ro08wSH
 slug: tarael
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: tarael
 type: mystery
 subType: birthsign

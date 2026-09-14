@@ -6,7 +6,7 @@ name:
 description: ""
 id: RkYBc011zgoDKlc9
 slug: tai-skorus
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: taiskorus
 type: mystery
 subType: birthsign

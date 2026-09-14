@@ -6,7 +6,7 @@ name:
 description: ""
 id: UhMOQxXesBtvqePa
 slug: wave
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: wave
 type: mysticalability
 subType: arcaneincantation

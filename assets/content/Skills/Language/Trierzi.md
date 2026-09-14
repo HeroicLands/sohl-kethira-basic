@@ -6,7 +6,7 @@ name:
 description: ""
 id: JPmWxj9EyWMMEusI
 slug: trierzi
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: trierzi
 type: skill
 subType: language

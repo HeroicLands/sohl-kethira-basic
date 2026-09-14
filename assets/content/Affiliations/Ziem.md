@@ -6,7 +6,7 @@ name:
 description: ""
 id: D9WPXgjPJFJbHdu3
 slug: ziem
-img: systems/sohl/assets/icons/noun/circle.svg
+img: sohl/assets/icons/noun/circle.svg
 shortcode: ziem
 type: affiliation
 subType: faithtradition

@@ -6,7 +6,7 @@ name:
 description: ""
 id: ZOmP9gt2NWEp1j02
 slug: mephitis
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: mephitis
 type: mysticalability
 subType: arcaneincantation

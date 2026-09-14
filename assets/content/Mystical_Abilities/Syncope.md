@@ -6,7 +6,7 @@ name:
 description: ""
 id: HddpzPlLN7K5RU8v
 slug: syncope
-img: systems/sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
+img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: syncope
 type: mysticalability
 subType: arcaneincantation

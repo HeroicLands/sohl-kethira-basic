@@ -6,7 +6,7 @@ name:
 description: ""
 id: eBaySyirY4dbHlRi
 slug: garanik
-img: systems/sohl/assets/icons/noun/circle.svg
+img: sohl/assets/icons/noun/circle.svg
 shortcode: garanik
 type: skill
 subType: mystical

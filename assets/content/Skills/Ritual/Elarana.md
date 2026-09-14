@@ -6,7 +6,7 @@ name:
 description: ""
 id: 1CIfdazeKD5unKwu
 slug: elarana
-img: systems/sohl/assets/icons/noun/circle.svg
+img: sohl/assets/icons/noun/circle.svg
 shortcode: elarana
 type: skill
 subType: mystical

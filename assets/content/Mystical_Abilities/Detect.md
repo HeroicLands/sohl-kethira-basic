@@ -6,7 +6,7 @@ name:
 description: ""
 id: w3gqLC16lNGXIkwm
 slug: detect
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: detect
 type: mysticalability
 subType: arcaneincantation

@@ -6,7 +6,7 @@ name:
 description: ""
 id: XvFX3BgxHF2MVCwj
 slug: lyahvi
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: lyahvi
 type: skill
 subType: mystical

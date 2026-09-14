@@ -6,7 +6,7 @@ name:
 description: ""
 id: UnOrHN4Lmfq26Cpn
 slug: river
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: river
 type: mysticalability
 subType: arcaneincantation

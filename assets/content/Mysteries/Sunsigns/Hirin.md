@@ -6,7 +6,7 @@ name:
 description: ""
 id: EeL7L3sh2RMj63fO
 slug: hirin
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: hirin
 type: mystery
 subType: birthsign

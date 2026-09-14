@@ -6,7 +6,7 @@ name:
 description: ""
 id: 1en6JNnWt9zGfQxn
 slug: medium
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: medm
 type: mysticalability
 subType: arcanetalent

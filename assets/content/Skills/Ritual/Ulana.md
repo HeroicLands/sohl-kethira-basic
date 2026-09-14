@@ -6,7 +6,7 @@ name:
 description: ""
 id: 66a9YrjEUqsOjyvc
 slug: ulana
-img: systems/sohl/assets/icons/noun/circle.svg
+img: sohl/assets/icons/noun/circle.svg
 shortcode: ulana
 type: skill
 subType: mystical

@@ -6,7 +6,7 @@ name:
 description: ""
 id: L1TwJzKMsqdFmynJ
 slug: forge
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: forge
 type: mysticalability
 subType: arcaneincantation

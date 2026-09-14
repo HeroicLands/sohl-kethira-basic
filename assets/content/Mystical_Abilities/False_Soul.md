@@ -6,7 +6,7 @@ name:
 description: ""
 id: 06VXNQr0zZAkUDQj
 slug: false-soul
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: falsesoul
 type: mysticalability
 subType: arcaneincantation

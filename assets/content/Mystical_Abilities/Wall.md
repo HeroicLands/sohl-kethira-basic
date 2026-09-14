@@ -6,7 +6,7 @@ name:
 description: ""
 id: Da3ERtYbqZrjaeov
 slug: wall
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: wall
 type: mysticalability
 subType: arcaneincantation

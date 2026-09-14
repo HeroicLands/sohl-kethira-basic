@@ -6,7 +6,7 @@ name:
 description: ""
 id: qLBwbW8AQBquZWz9
 slug: sensation
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: sensation
 type: mysticalability
 subType: arcaneincantation

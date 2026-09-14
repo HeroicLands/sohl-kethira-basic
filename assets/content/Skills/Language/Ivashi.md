@@ -6,7 +6,7 @@ name:
 description: ""
 id: dA4dgGTRAcDuXRBI
 slug: ivashi
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: ivashi
 type: skill
 subType: language

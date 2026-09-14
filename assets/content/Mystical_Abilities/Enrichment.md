@@ -6,7 +6,7 @@ name:
 description: ""
 id: y05pfQtRevRkvwUc
 slug: enrichment
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: enrichment
 type: mysticalability
 subType: arcaneincantation

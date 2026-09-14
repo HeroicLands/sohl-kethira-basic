@@ -6,7 +6,7 @@ name:
 description: ""
 id: jW93Z3QMGkU4Zzg7
 slug: imbue
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: imbue
 type: mysticalability
 subType: arcaneincantation

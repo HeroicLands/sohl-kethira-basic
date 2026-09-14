@@ -6,7 +6,7 @@ name:
 description: ""
 id: a9upgqjJgZVDy0b0
 slug: gauntlet
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: gauntlet
 type: mysticalability
 subType: arcaneincantation

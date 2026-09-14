@@ -6,7 +6,7 @@ name:
 description: ""
 id: IT9AYKb2ELFlJkJf
 slug: falani
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: falani
 type: skill
 subType: language

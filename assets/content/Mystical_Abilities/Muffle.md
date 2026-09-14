@@ -6,7 +6,7 @@ name:
 description: ""
 id: xM9jLJT7nDyy8dSl
 slug: muffle
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: muffle
 type: mysticalability
 subType: arcaneincantation

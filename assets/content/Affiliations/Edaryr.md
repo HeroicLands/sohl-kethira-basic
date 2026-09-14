@@ -6,7 +6,7 @@ name:
 description: ""
 id: q8FnkJCKHBiX9SMQ
 slug: edaryr
-img: systems/sohl/assets/icons/noun/circle.svg
+img: sohl/assets/icons/noun/circle.svg
 shortcode: edaryr
 type: affiliation
 subType: faithtradition

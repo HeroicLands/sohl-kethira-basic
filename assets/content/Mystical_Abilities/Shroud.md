@@ -6,7 +6,7 @@ name:
 description: ""
 id: 1cesq94m43S9eMQI
 slug: shroud
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: shroud
 type: mysticalability
 subType: arcaneincantation

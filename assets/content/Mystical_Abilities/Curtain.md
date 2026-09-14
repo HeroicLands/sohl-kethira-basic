@@ -6,7 +6,7 @@ name:
 description: ""
 id: LGmQXvPQtiaCyxSD
 slug: curtain
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: curtain
 type: mysticalability
 subType: arcaneincantation

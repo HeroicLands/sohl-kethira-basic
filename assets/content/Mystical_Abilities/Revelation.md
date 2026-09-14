@@ -6,7 +6,7 @@ name:
 description: ""
 id: BBQgaHvKfgWP0J91
 slug: revelation
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: revelation
 type: mysticalability
 subType: arcaneincantation

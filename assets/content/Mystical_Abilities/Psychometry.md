@@ -6,7 +6,7 @@ name:
 description: ""
 id: nh4gsSvE5XhQEQ5X
 slug: psychometry
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: phyc
 type: mysticalability
 subType: arcanetalent

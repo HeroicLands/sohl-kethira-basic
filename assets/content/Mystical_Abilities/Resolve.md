@@ -6,7 +6,7 @@ name:
 description: ""
 id: Zb4XmgAkGUClnt42
 slug: resolve
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: resolve
 type: mysticalability
 subType: arcaneincantation

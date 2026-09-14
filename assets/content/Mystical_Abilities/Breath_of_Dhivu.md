@@ -6,7 +6,7 @@ name:
 description: ""
 id: 8SSaJWbQlr3LDRUM
 slug: breath-of-dhivu
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: breathofdhivu
 type: mysticalability
 subType: arcaneincantation

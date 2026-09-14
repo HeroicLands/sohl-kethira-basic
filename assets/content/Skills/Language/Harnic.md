@@ -6,7 +6,7 @@ name:
 description: ""
 id: woFaMUgznLPQREME
 slug: harnic
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: harnic
 type: skill
 subType: language

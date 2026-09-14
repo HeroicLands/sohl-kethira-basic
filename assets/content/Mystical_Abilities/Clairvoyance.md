@@ -6,7 +6,7 @@ name:
 description: ""
 id: N2SuuuRJq86wgYy6
 slug: clairvoyance
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: clrv
 type: mysticalability
 subType: arcanetalent

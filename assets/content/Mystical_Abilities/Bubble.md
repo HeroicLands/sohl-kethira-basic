@@ -6,7 +6,7 @@ name:
 description: ""
 id: 8Iy5mdmNztwkGPXg
 slug: bubble
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: bubble
 type: mysticalability
 subType: arcaneincantation

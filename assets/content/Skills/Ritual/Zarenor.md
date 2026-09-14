@@ -6,7 +6,7 @@ name:
 description: ""
 id: zovgjXFp3wWVLdgP
 slug: zarenor
-img: systems/sohl/assets/icons/noun/circle.svg
+img: sohl/assets/icons/noun/circle.svg
 shortcode: zarenor
 type: skill
 subType: mystical

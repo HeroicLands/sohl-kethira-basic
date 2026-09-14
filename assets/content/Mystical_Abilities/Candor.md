@@ -6,7 +6,7 @@ name:
 description: ""
 id: 1nZ5JLdUKzxDC5J0
 slug: candor
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: candor
 type: mysticalability
 subType: arcaneincantation

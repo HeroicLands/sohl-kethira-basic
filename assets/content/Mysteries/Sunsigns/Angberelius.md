@@ -6,7 +6,7 @@ name:
 description: ""
 id: hSyl2FBaJd2z4cBw
 slug: angberelius
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: angberelius
 type: mystery
 subType: birthsign

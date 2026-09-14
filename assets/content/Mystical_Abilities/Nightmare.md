@@ -6,7 +6,7 @@ name:
 description: ""
 id: R7yrj8szcqUFX8nv
 slug: nightmare
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: nightmare
 type: mysticalability
 subType: arcaneincantation

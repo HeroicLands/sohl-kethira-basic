@@ -6,7 +6,7 @@ name:
 description: ""
 id: 4rWnT58B2YitcEfB
 slug: aegis
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: aegis
 type: mysticalability
 subType: arcaneincantation

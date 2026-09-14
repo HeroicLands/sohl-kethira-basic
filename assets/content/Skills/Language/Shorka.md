@@ -6,7 +6,7 @@ name:
 description: ""
 id: QFYAhhyRtZ48RlFQ
 slug: shorka
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: shorka
 type: skill
 subType: language

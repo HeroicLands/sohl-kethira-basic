@@ -6,7 +6,7 @@ name:
 description: ""
 id: fn4UG5yA494XzOMd
 slug: insight
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: insight
 type: mysticalability
 subType: arcaneincantation

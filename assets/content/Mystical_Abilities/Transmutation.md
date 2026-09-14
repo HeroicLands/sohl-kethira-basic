@@ -6,7 +6,7 @@ name:
 description: ""
 id: mW6pCO4zFiwfJFhA
 slug: transmutation
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: xmut
 type: mysticalability
 subType: arcanetalent

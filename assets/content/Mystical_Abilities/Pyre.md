@@ -6,7 +6,7 @@ name:
 description: ""
 id: cy1KEa0UjiRfqea3
 slug: pyre
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: pyre
 type: mysticalability
 subType: arcaneincantation

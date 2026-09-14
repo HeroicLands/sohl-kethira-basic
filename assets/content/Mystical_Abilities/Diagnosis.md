@@ -6,7 +6,7 @@ name:
 description: ""
 id: yJA2ul6TSfeAABnf
 slug: diagnosis
-img: systems/sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
+img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: diagnosis
 type: mysticalability
 subType: arcaneincantation

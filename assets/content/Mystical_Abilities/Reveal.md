@@ -6,7 +6,7 @@ name:
 description: ""
 id: KMJWNFq4N9lyGhRS
 slug: reveal
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: reveal
 type: mysticalability
 subType: arcaneincantation

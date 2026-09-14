@@ -6,7 +6,7 @@ name:
 description: ""
 id: fHOhMqgMbewSXuXT
 slug: alchema
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: alchema
 type: mysticalability
 subType: arcaneincantation

@@ -6,7 +6,7 @@ name:
 description: ""
 id: eK3LH3Yeuc73HdIn
 slug: tide
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: tide
 type: mysticalability
 subType: arcaneincantation

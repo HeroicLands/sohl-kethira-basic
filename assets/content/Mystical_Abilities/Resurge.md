@@ -6,7 +6,7 @@ name:
 description: ""
 id: UvR8MDjZlg8I3GEX
 slug: resurge
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: resurge
 type: mysticalability
 subType: arcaneincantation

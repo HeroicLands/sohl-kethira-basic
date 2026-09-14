@@ -6,7 +6,7 @@ name:
 description: ""
 id: ftyx0YdxOBcXppkF
 slug: tempering
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: tempering
 type: mysticalability
 subType: arcaneincantation

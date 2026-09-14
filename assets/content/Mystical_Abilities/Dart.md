@@ -6,7 +6,7 @@ name:
 description: ""
 id: oMwdl70b2uP8XE1y
 slug: dart
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: dart
 type: mysticalability
 subType: arcaneincantation

@@ -6,7 +6,7 @@ name:
 description: ""
 id: p5lbEKLL77uX7IjS
 slug: skin
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: skin
 type: mysticalability
 subType: arcaneincantation

@@ -6,7 +6,7 @@ name:
 description: ""
 id: YIs3bURpEHC54DcM
 slug: meteor
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: meteor
 type: mysticalability
 subType: arcaneincantation

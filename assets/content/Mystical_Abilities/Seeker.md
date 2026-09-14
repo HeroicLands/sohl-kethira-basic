@@ -6,7 +6,7 @@ name:
 description: ""
 id: r6nslXZcWo7AUpGQ
 slug: seeker
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: seeker
 type: mysticalability
 subType: arcaneincantation

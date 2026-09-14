@@ -9,7 +9,7 @@ name:
 id: VlastaSwiftOne1
 shortcode: vlasta
 slug: vlasta
-img: systems/sohl/assets/icons/game-icons/lorc/bird-claw.svg
+img: sohl/assets/icons/game-icons/lorc/bird-claw.svg
 portrait: null
 type: being
 data:

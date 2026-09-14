@@ -6,7 +6,7 @@ name:
 description: ""
 id: 4cklnUPcocTdOXWu
 slug: absorb
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: absorb
 type: mysticalability
 subType: arcaneincantation

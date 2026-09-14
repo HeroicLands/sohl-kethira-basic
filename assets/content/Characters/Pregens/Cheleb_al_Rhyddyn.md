@@ -7,8 +7,8 @@ id: 0fPBy1GRPKfrjcs1
 packFolder: characters
 shortcode: chelebalrhyddyn
 slug: cheleb-al-rhyddyn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
-portrait: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
+portrait: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 pack: characters
 social:

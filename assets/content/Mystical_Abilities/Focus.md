@@ -6,7 +6,7 @@ name:
 description: ""
 id: KEjp3ERVc82yK72o
 slug: focus
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: focus
 type: mysticalability
 subType: arcaneincantation

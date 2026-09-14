@@ -6,7 +6,7 @@ name:
 description: ""
 id: xblfM9oiHccCQ8I4
 slug: fist
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: fist
 type: mysticalability
 subType: arcaneincantation

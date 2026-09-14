@@ -6,7 +6,7 @@ name:
 description: ""
 id: j2lXh9gJQAPcH7rU
 slug: hastening
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: hastening
 type: mysticalability
 subType: arcaneincantation

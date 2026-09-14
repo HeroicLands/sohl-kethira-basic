@@ -6,7 +6,7 @@ name:
 description: ""
 id: 8hM5dok9IkReGrcF
 slug: palm
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: palm
 type: mysticalability
 subType: arcaneincantation

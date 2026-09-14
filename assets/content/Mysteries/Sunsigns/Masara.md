@@ -6,7 +6,7 @@ name:
 description: ""
 id: hTjG4MP2ILxzInZ1
 slug: masara
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: masara
 type: mystery
 subType: birthsign

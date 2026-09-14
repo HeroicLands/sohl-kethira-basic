@@ -6,7 +6,7 @@ name:
 description: ""
 id: xNVWK8WcTKT0J9M7
 slug: emelan
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: emelan
 type: skill
 subType: language

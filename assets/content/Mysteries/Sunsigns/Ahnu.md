@@ -6,7 +6,7 @@ name:
 description: ""
 id: hKLc4IN1kA86hA15
 slug: ahnu
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: ahnu
 type: mystery
 subType: birthsign

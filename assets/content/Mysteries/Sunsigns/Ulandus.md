@@ -6,7 +6,7 @@ name:
 description: ""
 id: N8Ne5Vh4PPOLUTlM
 slug: ulandus
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: ulandus
 type: mystery
 subType: birthsign

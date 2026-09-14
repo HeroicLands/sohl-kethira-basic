@@ -6,7 +6,7 @@ name:
 description: ""
 id: nDJ1yTJ6OYad1ZQM
 slug: enthral
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: enth
 type: mysticalability
 subType: arcanetalent

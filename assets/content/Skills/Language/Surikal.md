@@ -6,7 +6,7 @@ name:
 description: ""
 id: j8hikYNaljD8eqz1
 slug: surikal
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: surikal
 type: skill
 subType: language

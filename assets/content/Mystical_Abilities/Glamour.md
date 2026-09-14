@@ -6,7 +6,7 @@ name:
 description: ""
 id: LDmZilHpqqFh1WZO
 slug: glamour
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: glamour
 type: mysticalability
 subType: arcaneincantation

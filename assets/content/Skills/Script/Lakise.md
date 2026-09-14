@@ -6,7 +6,7 @@ name:
 description: ""
 id: DiFLbQpEF1ZJm262
 slug: lakise
-img: systems/sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
+img: sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
 shortcode: lakise
 type: skill
 subType: script

@@ -6,7 +6,7 @@ name:
 description: ""
 id: HKLL5igfb4FumAtR
 slug: investment
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: investment
 type: mysticalability
 subType: arcaneincantation

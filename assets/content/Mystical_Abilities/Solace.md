@@ -6,7 +6,7 @@ name:
 description: ""
 id: PyuWTWox3Qo2oVfF
 slug: solace
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: solace
 type: mysticalability
 subType: arcaneincantation

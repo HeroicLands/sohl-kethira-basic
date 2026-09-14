@@ -6,7 +6,7 @@ name:
 description: ""
 id: LOL0hO2nhoIXVKyH
 slug: pocket
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: pocket
 type: mysticalability
 subType: arcaneincantation

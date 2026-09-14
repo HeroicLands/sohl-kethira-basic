@@ -6,7 +6,7 @@ name:
 description: ""
 id: K5XmdHDxovuKxcxQ
 slug: pvarism
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: pvarism
 type: skill
 subType: mystical
