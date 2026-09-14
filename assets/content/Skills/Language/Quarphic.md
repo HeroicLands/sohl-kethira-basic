@@ -6,7 +6,7 @@ name:
 description: ""
 id: wnncuSLQr1RkNprN
 slug: quarphic
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: quarphic
 type: skill
 subType: language

@@ -6,7 +6,7 @@ name:
 description: ""
 id: q2Md4Qa3OCWyCDB5
 slug: emhlen
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: emhlen
 type: skill
 subType: language

@@ -6,7 +6,7 @@ name:
 description: ""
 id: TvEMzoTWZzhN8IBc
 slug: rupture
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: rupture
 type: mysticalability
 subType: arcaneincantation

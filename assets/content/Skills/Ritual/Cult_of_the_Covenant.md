@@ -6,7 +6,7 @@ name:
 description: ""
 id: liCBbVMwqkxXvutz
 slug: cult-of-the-covenant
-img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
+img: sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: cultcovenant
 type: skill
 subType: mystical

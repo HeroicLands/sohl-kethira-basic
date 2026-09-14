@@ -6,7 +6,7 @@ name:
 description: ""
 id: sAuSt7Xy13syOFJz
 slug: shooting-star
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: shootingstar
 type: mysticalability
 subType: arcaneincantation

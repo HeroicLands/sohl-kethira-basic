@@ -6,7 +6,7 @@ name:
 description: ""
 id: 2o9BR3Yq5dIFaxYd
 slug: metal
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: metal
 type: mysticalability
 subType: arcaneincantation

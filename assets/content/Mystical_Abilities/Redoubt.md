@@ -6,7 +6,7 @@ name:
 description: ""
 id: o2f53g7hqpHCUAOH
 slug: redoubt
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: redoubt
 type: mysticalability
 subType: arcaneincantation

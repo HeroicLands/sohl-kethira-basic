@@ -6,7 +6,7 @@ name:
 description: ""
 id: lKVbkvzIGDFCC3UI
 slug: spirit
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: sprt
 type: mysticalability
 subType: arcanetalent

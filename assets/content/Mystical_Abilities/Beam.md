@@ -6,7 +6,7 @@ name:
 description: ""
 id: b5dYBcfSkfAO6skZ
 slug: beam
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: beam
 type: mysticalability
 subType: arcaneincantation

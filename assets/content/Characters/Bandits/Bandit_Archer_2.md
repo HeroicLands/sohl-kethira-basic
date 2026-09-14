@@ -7,8 +7,8 @@ id: ZiazKvY6oIARxx3b
 packFolder: characters
 shortcode: banditarcher2
 slug: bandit-archer-2
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
-portrait: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
+portrait: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 pack: characters
 social:

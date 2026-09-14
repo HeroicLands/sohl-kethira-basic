@@ -6,7 +6,7 @@ name:
 description: ""
 id: T2b97OcmVQaPPvDU
 slug: flash
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: flash
 type: mysticalability
 subType: arcaneincantation

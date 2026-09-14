@@ -6,7 +6,7 @@ name:
 description: ""
 id: 7MdmH180C57trJ1m
 slug: ward
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: ward
 type: mysticalability
 subType: arcaneincantation

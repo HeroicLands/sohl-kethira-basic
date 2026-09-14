@@ -6,7 +6,7 @@ name:
 description: ""
 id: 2IWu6lZ30D6ioTkp
 slug: alanta
-img: systems/sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
+img: sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
 shortcode: alanta
 type: skill
 subType: script

@@ -6,7 +6,7 @@ name:
 description: ""
 id: qUJbuBXZzC1nbovf
 slug: link
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: link
 type: mysticalability
 subType: arcaneincantation

@@ -6,7 +6,7 @@ name:
 description: ""
 id: KVTbLqN6CuUg0dYJ
 slug: ylvyr
-img: systems/sohl/assets/icons/noun/circle.svg
+img: sohl/assets/icons/noun/circle.svg
 shortcode: ylvyr
 type: affiliation
 subType: faithtradition

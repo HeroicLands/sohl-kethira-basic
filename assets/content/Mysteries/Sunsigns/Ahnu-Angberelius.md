@@ -6,7 +6,7 @@ name:
 description: ""
 id: Lk9xrTRAj6O4oNNd
 slug: ahnu-angberelius
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: ahnuangberelius
 type: mystery
 subType: birthsign

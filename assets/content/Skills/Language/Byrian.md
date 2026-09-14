@@ -6,7 +6,7 @@ name:
 description: ""
 id: GOKBR8YjJPMz4XrM
 slug: byrian
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: byrian
 type: skill
 subType: language

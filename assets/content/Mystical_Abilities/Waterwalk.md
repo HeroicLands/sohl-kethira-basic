@@ -6,7 +6,7 @@ name:
 description: ""
 id: 9r3e5WaHU9WK97yX
 slug: waterwalk
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: waterwalk
 type: mysticalability
 subType: arcaneincantation

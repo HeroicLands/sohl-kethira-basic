@@ -6,7 +6,7 @@ name:
 description: ""
 id: lII4PIV0ubNeG74j
 slug: brand
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: brand
 type: mysticalability
 subType: arcaneincantation

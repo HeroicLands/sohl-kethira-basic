@@ -6,7 +6,7 @@ name:
 description: ""
 id: iFVUCtelWqzn3a46
 slug: garanik
-img: systems/sohl/assets/icons/noun/circle.svg
+img: sohl/assets/icons/noun/circle.svg
 shortcode: garanik
 type: affiliation
 subType: faithtradition

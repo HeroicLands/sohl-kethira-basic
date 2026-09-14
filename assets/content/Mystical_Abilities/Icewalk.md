@@ -6,7 +6,7 @@ name:
 description: ""
 id: oIeafW1cWNh3rRza
 slug: icewalk
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: icewalk
 type: mysticalability
 subType: arcaneincantation

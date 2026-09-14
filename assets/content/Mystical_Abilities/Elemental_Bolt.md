@@ -6,7 +6,7 @@ name:
 description: ""
 id: gDV7D2Cmb3Ww5sBe
 slug: elemental-bolt
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: eblt
 type: mysticalability
 subType: arcanetalent

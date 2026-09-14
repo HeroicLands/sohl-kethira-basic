@@ -9,7 +9,7 @@ name:
 id: Ga0rgunKyani01A
 shortcode: kyani
 slug: gargun-kyani
-img: systems/sohl/assets/icons/game-icons/delapouite/orc-head.svg
+img: sohl/assets/icons/game-icons/delapouite/orc-head.svg
 portrait: null
 type: being
 data:

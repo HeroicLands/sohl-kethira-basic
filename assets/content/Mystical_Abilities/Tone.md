@@ -6,7 +6,7 @@ name:
 description: ""
 id: R4lKLay2mZcbJ18A
 slug: tone
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: tone
 type: mysticalability
 subType: arcaneincantation

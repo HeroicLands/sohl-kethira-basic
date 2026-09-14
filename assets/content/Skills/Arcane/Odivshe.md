@@ -6,7 +6,7 @@ name:
 description: ""
 id: CDXslJIQbILfLiDA
 slug: odivshe
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: odivshe
 type: skill
 subType: mystical

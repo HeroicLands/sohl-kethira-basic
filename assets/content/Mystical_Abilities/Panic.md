@@ -6,7 +6,7 @@ name:
 description: ""
 id: pnj7TncorSyRuvdL
 slug: panic
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: panic
 type: mysticalability
 subType: arcaneincantation

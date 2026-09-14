@@ -6,7 +6,7 @@ name:
 description: ""
 id: CcO0l7xmPd61kQqP
 slug: vanaer
-img: systems/sohl/assets/icons/noun/circle.svg
+img: sohl/assets/icons/noun/circle.svg
 shortcode: vanaer
 type: skill
 subType: mystical

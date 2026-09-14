@@ -6,7 +6,7 @@ name:
 description: ""
 id: hfrErdURk7bVOstR
 slug: physique
-img: systems/sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
+img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: physique
 type: mysticalability
 subType: arcaneincantation

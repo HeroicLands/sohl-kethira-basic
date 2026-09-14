@@ -6,7 +6,7 @@ name:
 description: ""
 id: n5wh31TKs62PrALm
 slug: gate
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: gate
 type: mysticalability
 subType: arcaneincantation

@@ -6,7 +6,7 @@ name:
 description: ""
 id: NEDzhnOXJNI5Rskh
 slug: mordar
-img: systems/sohl/assets/icons/noun/circle.svg
+img: sohl/assets/icons/noun/circle.svg
 shortcode: mordar
 type: skill
 subType: mystical

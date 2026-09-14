@@ -7,8 +7,8 @@ id: tz1msZ1ltyMU6lzC
 packFolder: characters
 shortcode: banditarcher1
 slug: bandit-archer-1
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
-portrait: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
+portrait: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 pack: characters
 social:

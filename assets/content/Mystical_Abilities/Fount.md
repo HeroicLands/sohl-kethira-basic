@@ -6,7 +6,7 @@ name:
 description: ""
 id: D7AmEtkHmw6J82C7
 slug: fount
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: fount
 type: mysticalability
 subType: arcaneincantation

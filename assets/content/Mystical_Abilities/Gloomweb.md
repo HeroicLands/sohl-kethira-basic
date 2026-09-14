@@ -6,7 +6,7 @@ name:
 description: ""
 id: 54KaLINTGG19HNCU
 slug: gloomweb
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: gloomweb
 type: mysticalability
 subType: arcaneincantation

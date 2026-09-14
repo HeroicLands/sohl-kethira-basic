@@ -6,7 +6,7 @@ name:
 description: ""
 id: 9cCLFKO2RETwPPuc
 slug: attune
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: attune
 type: mysticalability
 subType: arcaneincantation

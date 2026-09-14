@@ -6,7 +6,7 @@ name:
 description: ""
 id: LEFwZkpUz9kdwQOA
 slug: swordbreaker
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: swordbreaker
 type: mysticalability
 subType: arcaneincantation

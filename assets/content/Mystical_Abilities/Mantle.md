@@ -6,7 +6,7 @@ name:
 description: ""
 id: hHgnNsLcgLXjmioB
 slug: mantle
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: mantle
 type: mysticalability
 subType: arcaneincantation

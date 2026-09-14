@@ -6,7 +6,7 @@ name:
 description: ""
 id: RGeAyOdiU5RHLGfB
 slug: vortex
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: vortex
 type: mysticalability
 subType: arcaneincantation

@@ -6,7 +6,7 @@ name:
 description: ""
 id: uxBGtKxkIMylgjDw
 slug: flame
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: flame
 type: mysticalability
 subType: arcaneincantation

@@ -6,7 +6,7 @@ name:
 description: ""
 id: OmtVbKOrNZ7MPRGS
 slug: lyahvi
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: lyahvi
 type: affiliation
 subType: arcanetradition

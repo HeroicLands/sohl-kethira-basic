@@ -6,7 +6,7 @@ name:
 description: ""
 id: NuNEPI3lHcrZkfrU
 slug: globe
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: globe
 type: mysticalability
 subType: arcaneincantation

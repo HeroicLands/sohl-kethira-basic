@@ -6,7 +6,7 @@ name:
 description: ""
 id: bNggK0zh2JHNu6KR
 slug: tunnel
-img: systems/sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
+img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: tunnel
 type: mysticalability
 subType: arcaneincantation

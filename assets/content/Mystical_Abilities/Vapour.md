@@ -6,7 +6,7 @@ name:
 description: ""
 id: ExmlUPLgGSJniuot
 slug: vapour
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: vapour
 type: mysticalability
 subType: arcaneincantation

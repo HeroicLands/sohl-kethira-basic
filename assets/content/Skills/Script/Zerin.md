@@ -6,7 +6,7 @@ name:
 description: ""
 id: 998DjObybFjZPcgN
 slug: zerin
-img: systems/sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
+img: sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
 shortcode: zerin
 type: skill
 subType: script

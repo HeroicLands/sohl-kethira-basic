@@ -6,7 +6,7 @@ name:
 description: ""
 id: DOuooLC1vmHMC5By
 slug: subvert
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: subvert
 type: mysticalability
 subType: arcaneincantation

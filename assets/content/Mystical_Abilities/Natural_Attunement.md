@@ -6,7 +6,7 @@ name:
 description: ""
 id: zM3QEMALDimIYvac
 slug: natural-attunement
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: natn
 type: mysticalability
 subType: arcanetalent

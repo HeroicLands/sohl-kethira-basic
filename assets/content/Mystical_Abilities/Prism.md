@@ -6,7 +6,7 @@ name:
 description: ""
 id: GonumZZ1ih1BVGgW
 slug: prism
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: prism
 type: mysticalability
 subType: arcaneincantation

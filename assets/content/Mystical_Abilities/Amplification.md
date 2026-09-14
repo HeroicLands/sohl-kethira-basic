@@ -6,7 +6,7 @@ name:
 description: ""
 id: f2kNbG0MoglMLN31
 slug: amplification
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: ampl
 type: mysticalability
 subType: arcanetalent

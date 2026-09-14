@@ -6,7 +6,7 @@ name:
 description: ""
 id: TBfKIrDH7Oj8axKT
 slug: aralius-feneri
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: araliusfeneri
 type: mystery
 subType: birthsign

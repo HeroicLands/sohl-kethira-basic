@@ -6,7 +6,7 @@ name:
 description: ""
 id: IhZX7McIszH92nPQ
 slug: beckon
-img: systems/sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
+img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: beckon
 type: mysticalability
 subType: arcaneincantation

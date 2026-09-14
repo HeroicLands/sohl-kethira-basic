@@ -6,7 +6,7 @@ name:
 description: ""
 id: ZEv9oDErodUgzc0F
 slug: harmony
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: harmony
 type: mysticalability
 subType: arcaneincantation

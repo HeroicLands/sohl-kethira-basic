@@ -6,7 +6,7 @@ name:
 description: ""
 id: ozT5yQWbnprGjLhe
 slug: tube
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: tube
 type: mysticalability
 subType: arcaneincantation

@@ -6,7 +6,7 @@ name:
 description: ""
 id: dA2o3DXEJpdvk1a8
 slug: inquiry
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: inquiry
 type: mysticalability
 subType: arcaneincantation

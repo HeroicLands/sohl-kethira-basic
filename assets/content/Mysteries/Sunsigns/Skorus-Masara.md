@@ -6,7 +6,7 @@ name:
 description: ""
 id: Hjv8cFoLgH5ywN7B
 slug: skorus-masara
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: skorusmasara
 type: mystery
 subType: birthsign

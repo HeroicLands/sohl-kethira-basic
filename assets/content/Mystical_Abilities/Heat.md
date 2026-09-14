@@ -6,7 +6,7 @@ name:
 description: ""
 id: 4LJHumuc2RoXuuzU
 slug: heat
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: heat
 type: mysticalability
 subType: arcaneincantation

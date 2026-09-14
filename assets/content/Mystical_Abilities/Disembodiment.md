@@ -6,7 +6,7 @@ name:
 description: ""
 id: q282j5zXN7yLMo70
 slug: disembodiment
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: dsbd
 type: mysticalability
 subType: arcanetalent

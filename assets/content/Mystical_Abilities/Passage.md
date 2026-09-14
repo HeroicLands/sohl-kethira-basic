@@ -6,7 +6,7 @@ name:
 description: ""
 id: mkLoQdUZm8T0i841
 slug: passage
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: passage
 type: mysticalability
 subType: arcaneincantation

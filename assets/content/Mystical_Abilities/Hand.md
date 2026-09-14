@@ -6,7 +6,7 @@ name:
 description: ""
 id: hcsvUzdZZErbPF1H
 slug: hand
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: hand
 type: mysticalability
 subType: arcaneincantation

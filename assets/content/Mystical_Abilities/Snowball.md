@@ -6,7 +6,7 @@ name:
 description: ""
 id: c6yEvNaz2gvhCzSH
 slug: snowball
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: snowball
 type: mysticalability
 subType: arcaneincantation

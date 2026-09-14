@@ -6,7 +6,7 @@ name:
 description: ""
 id: kZ50t4Hak9jFKwEP
 slug: obedience
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: obedience
 type: mysticalability
 subType: arcaneincantation

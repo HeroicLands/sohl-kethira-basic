@@ -6,7 +6,7 @@ name:
 description: ""
 id: NOsSmUI9oIcVWg3M
 slug: balm
-img: systems/sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
+img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: balm
 type: mysticalability
 subType: arcaneincantation

@@ -6,7 +6,7 @@ name:
 description: ""
 id: vm5f8mrpSO1q3BbV
 slug: whisper
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: whisper
 type: mysticalability
 subType: arcaneincantation

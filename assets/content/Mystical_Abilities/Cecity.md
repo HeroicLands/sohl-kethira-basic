@@ -6,7 +6,7 @@ name:
 description: ""
 id: q20iSXHQBL1h42TY
 slug: cecity
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: cecity
 type: mysticalability
 subType: arcaneincantation

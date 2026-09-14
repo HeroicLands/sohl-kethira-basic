@@ -6,7 +6,7 @@ name:
 description: ""
 id: jCURkbYXXmNa2JuE
 slug: nurture
-img: systems/sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
+img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: nurture
 type: mysticalability
 subType: arcaneincantation

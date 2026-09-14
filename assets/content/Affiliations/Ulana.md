@@ -6,7 +6,7 @@ name:
 description: ""
 id: 8ZPDqhKo3jD1kBt1
 slug: ulana
-img: systems/sohl/assets/icons/noun/circle.svg
+img: sohl/assets/icons/noun/circle.svg
 shortcode: ulana
 type: affiliation
 subType: faithtradition

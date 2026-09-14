@@ -6,7 +6,7 @@ name:
 description: ""
 id: PeK6q0w3kEgsuizC
 slug: calm
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: calm
 type: mysticalability
 subType: arcaneincantation

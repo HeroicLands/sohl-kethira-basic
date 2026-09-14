@@ -6,7 +6,7 @@ name:
 description: ""
 id: 0rUilHMn9WsYi9Hn
 slug: feneri
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: feneri
 type: mystery
 subType: birthsign

@@ -6,7 +6,7 @@ name:
 description: ""
 id: fxrQq44b4ADvahoY
 slug: anvil
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: anvil
 type: mysticalability
 subType: arcaneincantation

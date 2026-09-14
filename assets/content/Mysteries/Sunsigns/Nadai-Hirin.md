@@ -6,7 +6,7 @@ name:
 description: ""
 id: xAbc5b0dM5lVNQj0
 slug: nadai-hirin
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: nadaihirin
 type: mystery
 subType: birthsign

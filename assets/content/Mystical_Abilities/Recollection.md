@@ -6,7 +6,7 @@ name:
 description: ""
 id: YKkZRSkYU7mx5kcV
 slug: recollection
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: recollection
 type: mysticalability
 subType: arcaneincantation

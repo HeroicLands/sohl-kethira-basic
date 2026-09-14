@@ -6,7 +6,7 @@ name:
 description: ""
 id: JYh1o1V8Gg5PQlov
 slug: beona
-img: systems/sohl/assets/icons/noun/circle.svg
+img: sohl/assets/icons/noun/circle.svg
 shortcode: beona
 type: affiliation
 subType: faithtradition

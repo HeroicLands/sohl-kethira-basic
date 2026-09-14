@@ -6,7 +6,7 @@ name:
 description: ""
 id: jiZ1XFCAywuCSzav
 slug: buqdin
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: buqdin
 type: skill
 subType: language

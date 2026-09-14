@@ -6,7 +6,7 @@ name:
 description: ""
 id: Sp97AeVclUVxJfSx
 slug: lustre
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: lustre
 type: mysticalability
 subType: arcaneincantation

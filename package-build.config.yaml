@@ -118,6 +118,13 @@ publish:
 # package root and a page publishes at /kethira/<type>-<shortcode>/.
 site:
     out: site/content
+    # The host every package's imagery is served from. A note names a file by
+    # the package that owns it and the path inside that package's `assets/`;
+    # this is the half of a web address a build cannot work out for itself, so
+    # `sohl/assets/icons/noun/circle.svg` publishes as
+    # <this>/sohl/icons/noun/circle.svg and `images/kp-agrik.webp` as
+    # <this>/kethira/images/kp-agrik.webp.
+    assets: https://cdn.heroiclands.org
     # Every section this package publishes, so /kethira/<section>/ answers with
     # a titled page rather than a directory listing. A section is a note's own
     # `type` (`sectionOf`), not a directory name — `Characters/` and

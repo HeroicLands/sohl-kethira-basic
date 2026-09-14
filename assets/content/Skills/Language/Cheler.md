@@ -6,7 +6,7 @@ name:
 description: ""
 id: 0tbEqvhpocGmcWVH
 slug: cheler
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: cheler
 type: skill
 subType: language

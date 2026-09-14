@@ -6,7 +6,7 @@ name:
 description: ""
 id: OpZ3MKsZQQncRe94
 slug: singing-sword
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: singingsword
 type: mysticalability
 subType: arcaneincantation

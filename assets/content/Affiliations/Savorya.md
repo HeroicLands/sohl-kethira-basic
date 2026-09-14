@@ -6,7 +6,7 @@ name:
 description: ""
 id: l8jxsp9pGx9HqwqG
 slug: savorya
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: savorya
 type: affiliation
 subType: arcanetradition

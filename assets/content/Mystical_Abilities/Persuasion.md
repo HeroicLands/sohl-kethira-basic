@@ -6,7 +6,7 @@ name:
 description: ""
 id: eo3Ea0xBMZmqBhBg
 slug: persuasion
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: persuasion
 type: mysticalability
 subType: arcaneincantation

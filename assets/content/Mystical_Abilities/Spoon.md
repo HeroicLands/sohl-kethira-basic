@@ -6,7 +6,7 @@ name:
 description: ""
 id: BE88Hbv0bK1RfujF
 slug: spoon
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: spoon
 type: mysticalability
 subType: arcaneincantation

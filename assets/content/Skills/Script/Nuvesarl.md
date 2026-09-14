@@ -6,7 +6,7 @@ name:
 description: ""
 id: hYBL1FYt6tnueT95
 slug: nuvesarl
-img: systems/sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
+img: sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
 shortcode: nuvesarl
 type: skill
 subType: script

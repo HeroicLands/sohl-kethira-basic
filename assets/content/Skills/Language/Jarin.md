@@ -6,7 +6,7 @@ name:
 description: ""
 id: MONOo4chhMcTu1pG
 slug: jarin
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: jarin
 type: skill
 subType: language

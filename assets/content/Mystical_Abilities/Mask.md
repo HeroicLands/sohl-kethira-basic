@@ -6,7 +6,7 @@ name:
 description: ""
 id: BKyySEZ0VurkgFaW
 slug: mask
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: mask
 type: mysticalability
 subType: arcaneincantation

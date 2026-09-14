@@ -6,7 +6,7 @@ name:
 description: ""
 id: pePR5Mx28MLY4Kgv
 slug: healing
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: heal
 type: mysticalability
 subType: arcanetalent

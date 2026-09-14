@@ -6,7 +6,7 @@ name:
 description: ""
 id: 7NvRLREmWG5n5IP3
 slug: protection
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: protection
 type: mysticalability
 subType: arcaneincantation

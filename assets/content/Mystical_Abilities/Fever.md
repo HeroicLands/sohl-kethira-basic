@@ -6,7 +6,7 @@ name:
 description: ""
 id: QUIc42B44yo3yuy0
 slug: fever
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: fever
 type: mysticalability
 subType: arcaneincantation

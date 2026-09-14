@@ -6,7 +6,7 @@ name:
 description: ""
 id: 3QXOH70UQvBERPtC
 slug: mend
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: mend
 type: mysticalability
 subType: arcaneincantation

@@ -6,7 +6,7 @@ name:
 description: ""
 id: 9vcb21xBdKxEfT8j
 slug: sweat
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: sweat
 type: mysticalability
 subType: arcaneincantation

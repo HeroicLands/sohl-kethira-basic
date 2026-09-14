@@ -6,7 +6,7 @@ name:
 description: ""
 id: w4irqtfGtI8KHcb9
 slug: odivshe
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: odivshe
 type: affiliation
 subType: arcanetradition

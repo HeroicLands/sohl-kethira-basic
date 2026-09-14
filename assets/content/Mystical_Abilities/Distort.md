@@ -6,7 +6,7 @@ name:
 description: ""
 id: 5N2iVqEOuPNILfeT
 slug: distort
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: distort
 type: mysticalability
 subType: arcaneincantation

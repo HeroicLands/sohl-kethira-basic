@@ -6,7 +6,7 @@ name:
 description: ""
 id: WsvBfMmG3Q2hgdeS
 slug: confusion
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: confusion
 type: mysticalability
 subType: arcaneincantation

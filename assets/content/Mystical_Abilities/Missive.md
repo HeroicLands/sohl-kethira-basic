@@ -6,7 +6,7 @@ name:
 description: ""
 id: IRMCs3JdVLYQCycF
 slug: missive
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: missive
 type: mysticalability
 subType: arcaneincantation

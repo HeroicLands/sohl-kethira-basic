@@ -6,7 +6,7 @@ name:
 description: ""
 id: NNuUGcCZk1FgGUlb
 slug: enervation
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: enervation
 type: mysticalability
 subType: arcaneincantation

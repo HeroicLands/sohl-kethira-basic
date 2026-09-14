@@ -6,7 +6,7 @@ name:
 description: ""
 id: RLfQpp8hmujnbKf0
 slug: rampart
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: rampart
 type: mysticalability
 subType: arcaneincantation

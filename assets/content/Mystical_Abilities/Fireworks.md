@@ -6,7 +6,7 @@ name:
 description: ""
 id: XZTdBIZ4IvRSdYQ1
 slug: fireworks
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: fireworks
 type: mysticalability
 subType: arcaneincantation

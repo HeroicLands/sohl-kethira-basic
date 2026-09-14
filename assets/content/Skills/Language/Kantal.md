@@ -6,7 +6,7 @@ name:
 description: ""
 id: fUDhikuD8BfYKQ6s
 slug: kantal
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: kantal
 type: skill
 subType: language

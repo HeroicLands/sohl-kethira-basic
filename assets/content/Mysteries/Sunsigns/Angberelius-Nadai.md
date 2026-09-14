@@ -6,7 +6,7 @@ name:
 description: ""
 id: TdjxTKZFnadjcNx8
 slug: angberelius-nadai
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: angbereliusnadai
 type: mystery
 subType: birthsign

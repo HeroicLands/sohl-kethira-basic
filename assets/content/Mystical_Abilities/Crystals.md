@@ -6,7 +6,7 @@ name:
 description: ""
 id: JFyKL4GouBLYOoza
 slug: crystals
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: crystals
 type: mysticalability
 subType: arcaneincantation

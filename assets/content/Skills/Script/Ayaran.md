@@ -6,7 +6,7 @@ name:
 description: ""
 id: kAI2d1vXajl7XdD7
 slug: ayaran
-img: systems/sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
+img: sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
 shortcode: ayaran
 type: skill
 subType: script

@@ -6,7 +6,7 @@ name:
 description: ""
 id: mz9bCjPmh8SuX9QE
 slug: peleahn
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: peleahn
 type: skill
 subType: mystical

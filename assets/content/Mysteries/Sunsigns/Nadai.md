@@ -6,7 +6,7 @@ name:
 description: ""
 id: 8Tp4mlHIyLSiiibp
 slug: nadai
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: nadai
 type: mystery
 subType: birthsign

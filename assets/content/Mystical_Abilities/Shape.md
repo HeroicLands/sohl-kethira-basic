@@ -6,7 +6,7 @@ name:
 description: ""
 id: wBb4AKwG3sS8VuB5
 slug: shape
-img: systems/sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
+img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: shape
 type: mysticalability
 subType: arcaneincantation

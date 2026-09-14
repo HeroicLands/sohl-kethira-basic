@@ -6,7 +6,7 @@ name:
 description: ""
 id: 7vZBy2CoXLnkn6zL
 slug: image
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: image
 type: mysticalability
 subType: arcaneincantation

@@ -6,7 +6,7 @@ name:
 description: ""
 id: Dyw5wQ6omn2ar1sG
 slug: counter
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: counter
 type: mysticalability
 subType: arcaneincantation

@@ -6,7 +6,7 @@ name:
 description: ""
 id: MeDHn0pUNiYUxExG
 slug: unveiling
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: unveiling
 type: mysticalability
 subType: arcaneincantation

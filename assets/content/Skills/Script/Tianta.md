@@ -6,7 +6,7 @@ name:
 description: ""
 id: HZQuPFugy024lS8y
 slug: tianta
-img: systems/sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
+img: sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
 shortcode: tianta
 type: skill
 subType: script

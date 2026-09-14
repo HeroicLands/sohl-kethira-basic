@@ -6,7 +6,7 @@ name:
 description: ""
 id: I6Lu7Q89YzepDFge
 slug: hush
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: hush
 type: mysticalability
 subType: arcaneincantation

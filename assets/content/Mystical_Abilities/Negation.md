@@ -6,7 +6,7 @@ name:
 description: ""
 id: ABd6DgjjBbcN8FjE
 slug: negation
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: negx
 type: mysticalability
 subType: arcanetalent

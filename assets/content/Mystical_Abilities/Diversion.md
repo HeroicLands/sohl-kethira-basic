@@ -6,7 +6,7 @@ name:
 description: ""
 id: ZohkOV86vqtKoT7J
 slug: diversion
-img: systems/sohl/assets/icons/game-icons/lorc/two-shadows.svg
+img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: diversion
 type: mysticalability
 subType: arcaneincantation

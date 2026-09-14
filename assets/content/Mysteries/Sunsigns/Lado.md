@@ -6,7 +6,7 @@ name:
 description: ""
 id: c6TTc2Ax2tjiyWcV
 slug: lado
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: lado
 type: mystery
 subType: birthsign

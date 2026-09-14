@@ -6,7 +6,7 @@ name:
 description: ""
 id: TN9l8hCE4UTrrWnG
 slug: vanaer
-img: systems/sohl/assets/icons/noun/circle.svg
+img: sohl/assets/icons/noun/circle.svg
 shortcode: vanaer
 type: affiliation
 subType: faithtradition

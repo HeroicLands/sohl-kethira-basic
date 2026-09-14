@@ -6,7 +6,7 @@ name:
 description: ""
 id: MvTVrdynlQF2CqkE
 slug: converse
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: converse
 type: mysticalability
 subType: arcaneincantation

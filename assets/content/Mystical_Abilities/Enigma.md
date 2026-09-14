@@ -6,7 +6,7 @@ name:
 description: ""
 id: 7rupfaG2Ozl1csPN
 slug: enigma
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: enigma
 type: mysticalability
 subType: arcaneincantation

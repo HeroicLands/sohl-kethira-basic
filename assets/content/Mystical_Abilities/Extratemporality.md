@@ -6,7 +6,7 @@ name:
 description: ""
 id: GRInCl46OtvsjWRe
 slug: extratemporality
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: xtratemp
 type: mysticalability
 subType: arcanetalent

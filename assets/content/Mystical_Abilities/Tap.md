@@ -6,7 +6,7 @@ name:
 description: ""
 id: bTmEYm5rbRbjYt8r
 slug: tap
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: tap
 type: mysticalability
 subType: arcaneincantation

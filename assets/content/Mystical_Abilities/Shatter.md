@@ -6,7 +6,7 @@ name:
 description: ""
 id: O0x7OTeI2EEon89p
 slug: shatter
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: shatter
 type: mysticalability
 subType: arcaneincantation

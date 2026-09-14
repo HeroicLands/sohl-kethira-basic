@@ -6,7 +6,7 @@ name:
 description: ""
 id: U8Tfw6JUQZqF6P7Z
 slug: motes
-img: systems/sohl/assets/icons/game-icons/lorc/whirlwind.svg
+img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: motes
 type: mysticalability
 subType: arcaneincantation

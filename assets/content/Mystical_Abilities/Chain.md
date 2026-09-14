@@ -6,7 +6,7 @@ name:
 description: ""
 id: ZZV4FwkGo9IWvRBi
 slug: chain
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: chain
 type: mysticalability
 subType: arcaneincantation

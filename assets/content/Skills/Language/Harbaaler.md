@@ -6,7 +6,7 @@ name:
 description: ""
 id: kTgzDSQNKt4bUBwl
 slug: harbaaler
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: harbaaler
 type: skill
 subType: language

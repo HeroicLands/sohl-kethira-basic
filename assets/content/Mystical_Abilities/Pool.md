@@ -6,7 +6,7 @@ name:
 description: ""
 id: klV3yGAsX33EM2l2
 slug: pool
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: pool
 type: mysticalability
 subType: arcaneincantation

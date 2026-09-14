@@ -6,7 +6,7 @@ name:
 description: ""
 id: 2yfbMe6ZTqPR1nFb
 slug: ivinian
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: ivinian
 type: skill
 subType: language

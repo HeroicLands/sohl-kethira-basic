@@ -6,7 +6,7 @@ name:
 description: ""
 id: a6vlnDVE1tKJS9On
 slug: fyvria
-img: systems/sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
+img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: fyvria
 type: affiliation
 subType: arcanetradition

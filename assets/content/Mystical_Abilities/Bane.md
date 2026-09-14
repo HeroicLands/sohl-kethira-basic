@@ -6,7 +6,7 @@ name:
 description: ""
 id: KOpWN5lb4ia3cHo9
 slug: bane
-img: systems/sohl/assets/icons/game-icons/lorc/moebius-star.svg
+img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: bane
 type: mysticalability
 subType: arcaneincantation

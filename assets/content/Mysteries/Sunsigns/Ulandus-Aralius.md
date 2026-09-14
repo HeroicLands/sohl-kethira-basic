@@ -6,7 +6,7 @@ name:
 description: ""
 id: Cx98NqPIY4BNzuja
 slug: ulandus-aralius
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: ulandusaralius
 type: mystery
 subType: birthsign

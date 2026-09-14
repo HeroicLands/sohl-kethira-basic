@@ -6,7 +6,7 @@ name:
 description: ""
 id: 2PD424q1BTHukOyS
 slug: pall
-img: systems/sohl/assets/icons/game-icons/lorc/wave-crest.svg
+img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: pall
 type: mysticalability
 subType: arcaneincantation

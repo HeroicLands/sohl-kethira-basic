@@ -6,7 +6,7 @@ name:
 description: ""
 id: jRy4NPaJyg9u3mJR
 slug: screen
-img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: screen
 type: mysticalability
 subType: arcaneincantation

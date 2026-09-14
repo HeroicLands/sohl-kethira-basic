@@ -6,7 +6,7 @@ name:
 description: ""
 id: GvNrbskSwZjdAamV
 slug: sensitivity
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: snst
 type: mysticalability
 subType: arcanetalent

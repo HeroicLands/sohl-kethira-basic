@@ -6,7 +6,7 @@ name:
 description: ""
 id: i8TCVZ58VDyZHwoV
 slug: fire-fiend
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: firefiend
 type: mysticalability
 subType: arcaneincantation

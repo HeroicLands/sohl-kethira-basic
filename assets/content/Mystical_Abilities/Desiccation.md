@@ -6,7 +6,7 @@ name:
 description: ""
 id: rtiWd0bR7EyLXHfB
 slug: desiccation
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: desiccation
 type: mysticalability
 subType: arcaneincantation

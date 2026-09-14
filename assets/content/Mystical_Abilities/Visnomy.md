@@ -6,7 +6,7 @@ name:
 description: ""
 id: lPKkHezbjh7kymzb
 slug: visnomy
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: vsnm
 type: mysticalability
 subType: arcanetalent

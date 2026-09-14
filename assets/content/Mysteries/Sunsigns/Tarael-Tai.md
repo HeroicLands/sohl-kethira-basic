@@ -6,7 +6,7 @@ name:
 description: ""
 id: tdc6S9CPTVAHpccG
 slug: tarael-tai
-img: systems/sohl/assets/icons/other/astrology.svg
+img: sohl/assets/icons/other/astrology.svg
 shortcode: taraeltai
 type: mystery
 subType: birthsign

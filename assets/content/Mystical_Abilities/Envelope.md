@@ -6,7 +6,7 @@ name:
 description: ""
 id: PJ2Z5nmj9flqfBnL
 slug: envelope
-img: systems/sohl/assets/icons/game-icons/sbed/fire.svg
+img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: envelope
 type: mysticalability
 subType: arcaneincantation
