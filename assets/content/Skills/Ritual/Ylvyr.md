@@ -6,12 +6,12 @@ name:
 description: ""
 id: XexYQNbusggd0AMs
 slug: ylvyr
-img: sohl/assets/icons/noun/circle.svg
 shortcode: ylvyr
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: sohl-none-icon-circlenn
   templatePriority: 0
 sohl:
   kbcat: ritual

@@ -6,12 +6,12 @@ name:
 description: ""
 id: 915ZpuLQM6j7Lmpu
 slug: aural-blast
-img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: auralblast
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-twoshadows
   templatePriority: 0
 sohl:
   kbcat: null

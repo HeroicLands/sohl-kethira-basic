@@ -6,12 +6,12 @@ name:
 description: ""
 id: BL0SMfIJsWRVDXsP
 slug: ilvir
-img: images/kp-ilvir.webp
 shortcode: ilvir
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: image-kpilvir
   templatePriority: 0
 sohl:
   kbcat: ritual

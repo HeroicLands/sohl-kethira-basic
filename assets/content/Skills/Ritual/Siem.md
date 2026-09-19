@@ -6,12 +6,12 @@ name:
 description: ""
 id: TaiHOeQqjqJX4qqk
 slug: siem
-img: images/kp-siem.webp
 shortcode: siem
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: image-kpsiem
   templatePriority: 0
 sohl:
   kbcat: ritual

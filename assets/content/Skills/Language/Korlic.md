@@ -6,12 +6,12 @@ name:
 description: ""
 id: dCsXmYoIUfKtrtzg
 slug: korlic
-img: sohl/assets/icons/other/speaking.svg
 shortcode: korlic
 type: skill
 subType: language
 pack: characteristics
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: 0
 sohl:
   kbcat: language

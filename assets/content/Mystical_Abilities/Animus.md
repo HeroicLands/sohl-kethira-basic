@@ -6,12 +6,12 @@ name:
 description: ""
 id: CY6DBviTrF8kHSS3
 slug: animus
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: animus
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

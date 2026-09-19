@@ -7,8 +7,6 @@ id: tz1msZ1ltyMU6lzC
 packFolder: characters
 shortcode: banditarcher1
 slug: bandit-archer-1
-img: sohl/assets/icons/game-icons/delapouite/person.svg
-portrait: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 pack: characters
 social:
@@ -17,6 +15,7 @@ social:
   class: "Free"
   society: "Palithane"
 data:
+  icon: sohl-none-icon-person
   templatePriority: 100
   gender: unknown
   age: 23

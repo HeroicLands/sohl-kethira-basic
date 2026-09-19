@@ -6,12 +6,12 @@ name:
 description: ""
 id: NNuUGcCZk1FgGUlb
 slug: enervation
-img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: enervation
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-twoshadows
   templatePriority: 0
 sohl:
   kbcat: null

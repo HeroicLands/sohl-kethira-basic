@@ -6,12 +6,12 @@ name:
 description: ""
 id: 8Iy5mdmNztwkGPXg
 slug: bubble
-img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: bubble
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-moebiusstar
   templatePriority: 0
 sohl:
   kbcat: null

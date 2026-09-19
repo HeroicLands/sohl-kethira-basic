@@ -6,12 +6,12 @@ name:
 description: ""
 id: O0x7OTeI2EEon89p
 slug: shatter
-img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: shatter
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-anvil
   templatePriority: 0
 sohl:
   kbcat: null

@@ -6,12 +6,12 @@ name:
 description: ""
 id: 0rUilHMn9WsYi9Hn
 slug: feneri
-img: sohl/assets/icons/other/astrology.svg
 shortcode: feneri
 type: mystery
 subType: birthsign
 pack: mysteries
 data:
+  icon: sohl-none-icon-astrology
   templatePriority: 0
 sohl:
   kbcat: sunsign

@@ -6,12 +6,12 @@ name:
 description: ""
 id: BH8BdFUkA6lWOdnu
 slug: freeze
-img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: freeze
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-wavecrest
   templatePriority: 0
 sohl:
   kbcat: null

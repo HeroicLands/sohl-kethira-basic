@@ -6,12 +6,12 @@ name:
 description: ""
 id: RaAWytgUhHcoTaQ0
 slug: caress
-img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: caress
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-fire
   templatePriority: 0
 sohl:
   kbcat: null

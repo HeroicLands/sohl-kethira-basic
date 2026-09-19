@@ -6,12 +6,12 @@ name:
 description: ""
 id: 2yfbMe6ZTqPR1nFb
 slug: ivinian
-img: sohl/assets/icons/other/speaking.svg
 shortcode: ivinian
 type: skill
 subType: language
 pack: characteristics
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: 0
 sohl:
   kbcat: language

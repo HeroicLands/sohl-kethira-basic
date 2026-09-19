@@ -6,12 +6,12 @@ name:
 description: ""
 id: aR5OppO1KB3vAJVl
 slug: sarajin
-img: images/kp-sarajin.webp
 shortcode: sarajin
 type: affiliation
 subType: faithtradition
 pack: mysteries
 data:
+  icon: image-kpsarajin
   templatePriority: 0
 sohl:
   kbcat: affiliation

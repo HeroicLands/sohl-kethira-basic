@@ -6,12 +6,12 @@ name:
 description: ""
 id: a6vlnDVE1tKJS9On
 slug: fyvria
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: fyvria
 type: affiliation
 subType: arcanetradition
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: affiliation

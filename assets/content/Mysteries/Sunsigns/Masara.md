@@ -6,12 +6,12 @@ name:
 description: ""
 id: hTjG4MP2ILxzInZ1
 slug: masara
-img: sohl/assets/icons/other/astrology.svg
 shortcode: masara
 type: mystery
 subType: birthsign
 pack: mysteries
 data:
+  icon: sohl-none-icon-astrology
   templatePriority: 0
 sohl:
   kbcat: sunsign

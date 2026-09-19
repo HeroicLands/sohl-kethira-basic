@@ -6,12 +6,12 @@ name:
 description: ""
 id: eo3Ea0xBMZmqBhBg
 slug: persuasion
-img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: persuasion
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-twoshadows
   templatePriority: 0
 sohl:
   kbcat: null

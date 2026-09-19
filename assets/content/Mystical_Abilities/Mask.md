@@ -6,12 +6,12 @@ name:
 description: ""
 id: BKyySEZ0VurkgFaW
 slug: mask
-img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: mask
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-moebiusstar
   templatePriority: 0
 sohl:
   kbcat: null

@@ -6,12 +6,12 @@ name:
 description: ""
 id: Yk66XLvMNm6RD7ON
 slug: jmorvi
-img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: jmorvi
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: sohl-none-icon-anvil
   templatePriority: 0
 sohl:
   kbcat: arcane

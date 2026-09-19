@@ -6,12 +6,12 @@ name:
 description: ""
 id: MxDw4xt3jVBJQ7DX
 slug: doom-curtain
-img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: doomcurtain
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-fire
   templatePriority: 0
 sohl:
   kbcat: null

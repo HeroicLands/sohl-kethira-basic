@@ -6,12 +6,12 @@ name:
 description: ""
 id: 2wuZBbaRam4wY03W
 slug: naveh
-img: images/kp-naveh.webp
 shortcode: naveh
 type: affiliation
 subType: faithtradition
 pack: mysteries
 data:
+  icon: image-kpnaveh
   templatePriority: 0
 sohl:
   kbcat: affiliation

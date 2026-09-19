@@ -6,12 +6,12 @@ name:
 description: ""
 id: gDV7D2Cmb3Ww5sBe
 slug: elemental-bolt
-img: sohl/assets/icons/noun/psionics.svg
 shortcode: eblt
 type: mysticalability
 subType: arcanetalent
 pack: mysteries
 data:
+  icon: sohl-none-icon-psionics
   templatePriority: 0
 sohl:
   kbcat: null

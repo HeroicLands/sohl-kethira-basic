@@ -6,12 +6,12 @@ name:
 description: ""
 id: l8jxsp9pGx9HqwqG
 slug: savorya
-img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: savorya
 type: affiliation
 subType: arcanetradition
 pack: mysteries
 data:
+  icon: sohl-none-icon-twoshadows
   templatePriority: 0
 sohl:
   kbcat: affiliation

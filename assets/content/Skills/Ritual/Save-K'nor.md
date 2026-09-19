@@ -6,12 +6,12 @@ name:
 description: ""
 id: gO8X0Xri4b3f3tId
 slug: save-k-nor
-img: images/kp-saveknor.webp
 shortcode: saveknor
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: image-kpsaveknor
   templatePriority: 0
 sohl:
   kbcat: ritual

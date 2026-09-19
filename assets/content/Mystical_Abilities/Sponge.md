@@ -6,12 +6,12 @@ name:
 description: ""
 id: ZMFOLOH2ycRK9sCj
 slug: sponge
-img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: sponge
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-wavecrest
   templatePriority: 0
 sohl:
   kbcat: null

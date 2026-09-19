@@ -6,12 +6,12 @@ name:
 description: ""
 id: 998DjObybFjZPcgN
 slug: zerin
-img: sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
 shortcode: zerin
 type: skill
 subType: script
 pack: characteristics
 data:
+  icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
 sohl:
   kbcat: script

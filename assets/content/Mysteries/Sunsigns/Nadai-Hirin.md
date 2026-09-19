@@ -6,12 +6,12 @@ name:
 description: ""
 id: xAbc5b0dM5lVNQj0
 slug: nadai-hirin
-img: sohl/assets/icons/other/astrology.svg
 shortcode: nadaihirin
 type: mystery
 subType: birthsign
 pack: mysteries
 data:
+  icon: sohl-none-icon-astrology
   templatePriority: 0
 sohl:
   kbcat: sunsign

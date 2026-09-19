@@ -6,12 +6,12 @@ name:
 description: ""
 id: U8Tfw6JUQZqF6P7Z
 slug: motes
-img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: motes
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-whirlwind
   templatePriority: 0
 sohl:
   kbcat: null

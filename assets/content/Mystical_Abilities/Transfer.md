@@ -6,12 +6,12 @@ name:
 description: ""
 id: bffz8KJRcllW5dnJ
 slug: transfer
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: transfer
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

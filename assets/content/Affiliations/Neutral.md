@@ -6,12 +6,12 @@ name:
 description: ""
 id: KdM5KuVXmabFxqEc
 slug: neutral
-img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: neutral
 type: affiliation
 subType: arcanetradition
 pack: mysteries
 data:
+  icon: sohl-none-icon-moebiusstar
   templatePriority: 0
 sohl:
   kbcat: affiliation

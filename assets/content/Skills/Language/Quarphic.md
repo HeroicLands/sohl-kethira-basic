@@ -6,12 +6,12 @@ name:
 description: ""
 id: wnncuSLQr1RkNprN
 slug: quarphic
-img: sohl/assets/icons/other/speaking.svg
 shortcode: quarphic
 type: skill
 subType: language
 pack: characteristics
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: 0
 sohl:
   kbcat: language

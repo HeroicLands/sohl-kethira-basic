@@ -6,12 +6,12 @@ name:
 description: ""
 id: D9WPXgjPJFJbHdu3
 slug: ziem
-img: sohl/assets/icons/noun/circle.svg
 shortcode: ziem
 type: affiliation
 subType: faithtradition
 pack: mysteries
 data:
+  icon: sohl-none-icon-circlenn
   templatePriority: 0
 sohl:
   kbcat: affiliation

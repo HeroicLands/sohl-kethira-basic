@@ -6,12 +6,12 @@ name:
 description: ""
 id: 51YJZfeaEUTUJ4k9
 slug: slumber
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: slumber
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

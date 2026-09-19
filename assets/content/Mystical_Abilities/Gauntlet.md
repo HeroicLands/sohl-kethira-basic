@@ -6,12 +6,12 @@ name:
 description: ""
 id: a9upgqjJgZVDy0b0
 slug: gauntlet
-img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: gauntlet
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-fire
   templatePriority: 0
 sohl:
   kbcat: null

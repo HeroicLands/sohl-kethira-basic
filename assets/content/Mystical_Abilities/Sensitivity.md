@@ -6,12 +6,12 @@ name:
 description: ""
 id: GvNrbskSwZjdAamV
 slug: sensitivity
-img: sohl/assets/icons/noun/psionics.svg
 shortcode: snst
 type: mysticalability
 subType: arcanetalent
 pack: mysteries
 data:
+  icon: sohl-none-icon-psionics
   templatePriority: 0
 sohl:
   kbcat: null

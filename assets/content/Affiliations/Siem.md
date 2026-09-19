@@ -6,12 +6,12 @@ name:
 description: ""
 id: wWta7yv10NiPZ4kU
 slug: siem
-img: images/kp-siem.webp
 shortcode: siem
 type: affiliation
 subType: faithtradition
 pack: mysteries
 data:
+  icon: image-kpsiem
   templatePriority: 0
 sohl:
   kbcat: affiliation

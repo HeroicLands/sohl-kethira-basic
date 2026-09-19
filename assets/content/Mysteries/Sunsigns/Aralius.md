@@ -6,12 +6,12 @@ name:
 description: ""
 id: ob9DL9Qd3GZOaXIE
 slug: aralius
-img: sohl/assets/icons/other/astrology.svg
 shortcode: aralius
 type: mystery
 subType: birthsign
 pack: mysteries
 data:
+  icon: sohl-none-icon-astrology
   templatePriority: 0
 sohl:
   kbcat: sunsign

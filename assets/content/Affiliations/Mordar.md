@@ -6,12 +6,12 @@ name:
 description: ""
 id: 6F5tTXhN0gqs5EnG
 slug: mordar
-img: sohl/assets/icons/noun/circle.svg
 shortcode: mordar
 type: affiliation
 subType: faithtradition
 pack: mysteries
 data:
+  icon: sohl-none-icon-circlenn
   templatePriority: 0
 sohl:
   kbcat: affiliation

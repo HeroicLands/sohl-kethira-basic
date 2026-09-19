@@ -6,12 +6,12 @@ name:
 description: ""
 id: ZohkOV86vqtKoT7J
 slug: diversion
-img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: diversion
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-twoshadows
   templatePriority: 0
 sohl:
   kbcat: null

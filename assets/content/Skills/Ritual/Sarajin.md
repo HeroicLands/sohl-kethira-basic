@@ -6,12 +6,12 @@ name:
 description: ""
 id: 4N4tdZFvVVXQeNcq
 slug: sarajin
-img: images/kp-sarajin.webp
 shortcode: sarajin
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: image-kpsarajin
   templatePriority: 0
 sohl:
   kbcat: ritual

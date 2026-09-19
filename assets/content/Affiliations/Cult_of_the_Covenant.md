@@ -6,12 +6,12 @@ name:
 description: ""
 id: biynYaIWdpHXUw8O
 slug: cult-of-the-covenant
-img: sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: cultcovenant
 type: affiliation
 subType: faithtradition
 pack: mysteries
 data:
+  icon: sohl-none-icon-circle
   templatePriority: 0
 sohl:
   kbcat: affiliation

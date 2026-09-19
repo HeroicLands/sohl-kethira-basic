@@ -6,12 +6,12 @@ name:
 description: ""
 id: urYK2XuIjOlxb0qm
 slug: halea
-img: images/kp-halea.webp
 shortcode: halea
 type: affiliation
 subType: faithtradition
 pack: mysteries
 data:
+  icon: image-kphalea
   templatePriority: 0
 sohl:
   kbcat: affiliation

@@ -6,12 +6,12 @@ name:
 description: ""
 id: jvYYWVvROqBNx4xx
 slug: charge
-img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: charge
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-moebiusstar
   templatePriority: 0
 sohl:
   kbcat: null
