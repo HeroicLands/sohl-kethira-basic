@@ -6,12 +6,12 @@ name:
 description: ""
 id: atwfc9lM9OnT4lKv
 slug: guardian
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: guardian
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

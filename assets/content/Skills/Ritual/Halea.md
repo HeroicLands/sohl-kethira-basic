@@ -6,12 +6,12 @@ name:
 description: ""
 id: LCaEFOhHOOhLSNvk
 slug: halea
-img: images/kp-halea.webp
 shortcode: halea
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: image-kphalea
   templatePriority: 0
 sohl:
   kbcat: ritual

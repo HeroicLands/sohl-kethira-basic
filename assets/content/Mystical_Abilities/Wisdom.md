@@ -6,12 +6,12 @@ name:
 description: ""
 id: mqWpROliaDMNGjp9
 slug: wisdom
-img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: wisdom
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-twoshadows
   templatePriority: 0
 sohl:
   kbcat: null

@@ -6,12 +6,12 @@ name:
 description: ""
 id: KVTbLqN6CuUg0dYJ
 slug: ylvyr
-img: sohl/assets/icons/noun/circle.svg
 shortcode: ylvyr
 type: affiliation
 subType: faithtradition
 pack: mysteries
 data:
+  icon: sohl-none-icon-circlenn
   templatePriority: 0
 sohl:
   kbcat: affiliation

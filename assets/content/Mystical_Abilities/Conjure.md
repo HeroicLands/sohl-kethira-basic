@@ -6,12 +6,12 @@ name:
 description: ""
 id: IXxyNHy1It9Og2VG
 slug: conjure
-img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: conjure
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-wavecrest
   templatePriority: 0
 sohl:
   kbcat: null

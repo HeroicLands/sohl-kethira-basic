@@ -6,12 +6,12 @@ name:
 description: ""
 id: TN9l8hCE4UTrrWnG
 slug: vanaer
-img: sohl/assets/icons/noun/circle.svg
 shortcode: vanaer
 type: affiliation
 subType: faithtradition
 pack: mysteries
 data:
+  icon: sohl-none-icon-circlenn
   templatePriority: 0
 sohl:
   kbcat: affiliation

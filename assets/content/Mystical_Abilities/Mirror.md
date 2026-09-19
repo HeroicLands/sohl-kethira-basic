@@ -6,12 +6,12 @@ name:
 description: ""
 id: vbqeHTlmObvyegWR
 slug: mirror
-img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: mirror
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-whirlwind
   templatePriority: 0
 sohl:
   kbcat: null

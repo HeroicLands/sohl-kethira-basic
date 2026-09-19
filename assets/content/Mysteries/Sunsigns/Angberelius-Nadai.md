@@ -6,12 +6,12 @@ name:
 description: ""
 id: TdjxTKZFnadjcNx8
 slug: angberelius-nadai
-img: sohl/assets/icons/other/astrology.svg
 shortcode: angbereliusnadai
 type: mystery
 subType: birthsign
 pack: mysteries
 data:
+  icon: sohl-none-icon-astrology
   templatePriority: 0
 sohl:
   kbcat: sunsign

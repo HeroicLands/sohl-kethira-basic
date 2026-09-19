@@ -6,12 +6,12 @@ name:
 description: ""
 id: QT3FEq9aroxJPaP8
 slug: vessel
-img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: vessel
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-moebiusstar
   templatePriority: 0
 sohl:
   kbcat: null

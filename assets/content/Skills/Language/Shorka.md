@@ -6,12 +6,12 @@ name:
 description: ""
 id: QFYAhhyRtZ48RlFQ
 slug: shorka
-img: sohl/assets/icons/other/speaking.svg
 shortcode: shorka
 type: skill
 subType: language
 pack: characteristics
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: 0
 sohl:
   kbcat: language

@@ -6,12 +6,12 @@ name:
 description: ""
 id: KEjp3ERVc82yK72o
 slug: focus
-img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: focus
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-moebiusstar
   templatePriority: 0
 sohl:
   kbcat: null

@@ -6,12 +6,12 @@ name:
 description: ""
 id: XNP6dybkONMzpEVF
 slug: fyvria
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: fyvria
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: arcane

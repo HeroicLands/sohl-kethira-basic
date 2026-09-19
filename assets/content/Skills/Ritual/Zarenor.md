@@ -6,12 +6,12 @@ name:
 description: ""
 id: zovgjXFp3wWVLdgP
 slug: zarenor
-img: sohl/assets/icons/noun/circle.svg
 shortcode: zarenor
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: sohl-none-icon-circlenn
   templatePriority: 0
 sohl:
   kbcat: ritual

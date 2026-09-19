@@ -6,12 +6,12 @@ name:
 description: ""
 id: 2o9BR3Yq5dIFaxYd
 slug: metal
-img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: metal
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-anvil
   templatePriority: 0
 sohl:
   kbcat: null

@@ -8,10 +8,9 @@ name:
 id: HruRockGiant001
 shortcode: hru
 slug: hru
-img: sohl/assets/icons/game-icons/delapouite/rock-golem.svg
-portrait: null
 type: being
 data:
+  icon: sohl-none-icon-rockgolem
   templatePriority: 0
 sohl:
   attrRollFormula:

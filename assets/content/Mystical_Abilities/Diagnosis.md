@@ -6,12 +6,12 @@ name:
 description: ""
 id: yJA2ul6TSfeAABnf
 slug: diagnosis
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: diagnosis
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

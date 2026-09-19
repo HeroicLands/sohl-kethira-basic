@@ -6,12 +6,12 @@ name:
 description: ""
 id: LWeU0oyWUWd6KM9V
 slug: sinain
-img: sohl/assets/icons/other/speaking.svg
 shortcode: sinain
 type: skill
 subType: language
 pack: characteristics
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: 0
 sohl:
   kbcat: language

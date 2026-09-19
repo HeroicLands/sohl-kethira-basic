@@ -6,12 +6,12 @@ name:
 description: ""
 id: RkYBc011zgoDKlc9
 slug: tai-skorus
-img: sohl/assets/icons/other/astrology.svg
 shortcode: taiskorus
 type: mystery
 subType: birthsign
 pack: mysteries
 data:
+  icon: sohl-none-icon-astrology
   templatePriority: 0
 sohl:
   kbcat: sunsign

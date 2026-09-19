@@ -6,12 +6,12 @@ name:
 description: ""
 id: RPAfGBjZbNsYCfn8
 slug: transference
-img: sohl/assets/icons/noun/psionics.svg
 shortcode: trnsf
 type: mysticalability
 subType: arcanetalent
 pack: mysteries
 data:
+  icon: sohl-none-icon-psionics
   templatePriority: 0
 sohl:
   kbcat: null

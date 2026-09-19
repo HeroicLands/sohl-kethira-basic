@@ -6,12 +6,12 @@ name:
 description: ""
 id: ey308gnG0KhUpa25
 slug: numer
-img: sohl/assets/icons/other/speaking.svg
 shortcode: numer
 type: skill
 subType: language
 pack: characteristics
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: 0
 sohl:
   kbcat: language

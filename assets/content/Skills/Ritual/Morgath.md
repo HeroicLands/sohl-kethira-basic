@@ -6,12 +6,12 @@ name:
 description: ""
 id: rCqyv7KMrp0FtqQX
 slug: morgath
-img: images/kp-morgath.webp
 shortcode: morgath
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: image-kpmorgath
   templatePriority: 0
 sohl:
   kbcat: ritual

@@ -6,12 +6,12 @@ name:
 description: ""
 id: UkIh8mL8MngvvBxZ
 slug: pox
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: pox
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

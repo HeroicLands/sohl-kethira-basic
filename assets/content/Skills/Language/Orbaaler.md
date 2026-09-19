@@ -6,12 +6,12 @@ name:
 description: ""
 id: pkfOMri14HCwlxt2
 slug: orbaaler
-img: sohl/assets/icons/other/speaking.svg
 shortcode: orbaaler
 type: skill
 subType: language
 pack: characteristics
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: 0
 sohl:
   kbcat: language

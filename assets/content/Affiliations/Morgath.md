@@ -6,12 +6,12 @@ name:
 description: ""
 id: 8C7DlJGxOcDBQNmB
 slug: morgath
-img: images/kp-morgath.webp
 shortcode: morgath
 type: affiliation
 subType: faithtradition
 pack: mysteries
 data:
+  icon: image-kpmorgath
   templatePriority: 0
 sohl:
   kbcat: affiliation

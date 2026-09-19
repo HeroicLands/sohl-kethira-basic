@@ -6,12 +6,12 @@ name:
 description: ""
 id: PJ2Z5nmj9flqfBnL
 slug: envelope
-img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: envelope
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-fire
   templatePriority: 0
 sohl:
   kbcat: null

@@ -6,12 +6,12 @@ name:
 description: ""
 id: FruDplKZAChdF261
 slug: larani
-img: images/kp-larani.webp
 shortcode: larani
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: image-kplarani
   templatePriority: 0
 sohl:
   kbcat: ritual

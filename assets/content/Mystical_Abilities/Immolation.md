@@ -6,12 +6,12 @@ name:
 description: ""
 id: nomkk6fTJg8Iy4VX
 slug: immolation
-img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: immolation
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-fire
   templatePriority: 0
 sohl:
   kbcat: null

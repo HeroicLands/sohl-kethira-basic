@@ -6,12 +6,12 @@ name:
 description: ""
 id: SiEUZZSQnVGG44Dm
 slug: tremor
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: tremor
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

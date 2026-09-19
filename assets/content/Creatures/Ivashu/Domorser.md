@@ -8,10 +8,9 @@ name:
 id: DomorserNghtcrw
 shortcode: domorser
 slug: domorser
-img: sohl/assets/icons/game-icons/lorc/wolf-head.svg
-portrait: null
 type: being
 data:
+  icon: sohl-none-icon-wolfhead
   templatePriority: 0
 sohl:
   attrRollFormula:

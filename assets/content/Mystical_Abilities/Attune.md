@@ -6,12 +6,12 @@ name:
 description: ""
 id: 9cCLFKO2RETwPPuc
 slug: attune
-img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: attune
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-moebiusstar
   templatePriority: 0
 sohl:
   kbcat: null

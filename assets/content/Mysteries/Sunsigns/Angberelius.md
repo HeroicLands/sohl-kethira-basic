@@ -6,12 +6,12 @@ name:
 description: ""
 id: hSyl2FBaJd2z4cBw
 slug: angberelius
-img: sohl/assets/icons/other/astrology.svg
 shortcode: angberelius
 type: mystery
 subType: birthsign
 pack: mysteries
 data:
+  icon: sohl-none-icon-astrology
   templatePriority: 0
 sohl:
   kbcat: sunsign

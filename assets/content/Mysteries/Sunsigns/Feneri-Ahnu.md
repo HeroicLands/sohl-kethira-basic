@@ -6,12 +6,12 @@ name:
 description: ""
 id: HBe2jEz45xImY3X6
 slug: feneri-ahnu
-img: sohl/assets/icons/other/astrology.svg
 shortcode: feneriahnu
 type: mystery
 subType: birthsign
 pack: mysteries
 data:
+  icon: sohl-none-icon-astrology
   templatePriority: 0
 sohl:
   kbcat: sunsign

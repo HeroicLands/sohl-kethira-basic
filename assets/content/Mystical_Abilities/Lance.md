@@ -6,12 +6,12 @@ name:
 description: ""
 id: 9HMnaGx1T7bMTRos
 slug: lance
-img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: lance
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-anvil
   templatePriority: 0
 sohl:
   kbcat: null

@@ -6,12 +6,12 @@ name:
 description: ""
 id: UvR8MDjZlg8I3GEX
 slug: resurge
-img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: resurge
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-moebiusstar
   templatePriority: 0
 sohl:
   kbcat: null

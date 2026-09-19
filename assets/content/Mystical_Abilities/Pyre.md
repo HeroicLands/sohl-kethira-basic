@@ -6,12 +6,12 @@ name:
 description: ""
 id: cy1KEa0UjiRfqea3
 slug: pyre
-img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: pyre
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-fire
   templatePriority: 0
 sohl:
   kbcat: null

@@ -6,12 +6,12 @@ name:
 description: ""
 id: j8hikYNaljD8eqz1
 slug: surikal
-img: sohl/assets/icons/other/speaking.svg
 shortcode: surikal
 type: skill
 subType: language
 pack: characteristics
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: 0
 sohl:
   kbcat: language

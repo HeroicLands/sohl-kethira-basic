@@ -6,12 +6,12 @@ name:
 description: ""
 id: OmtVbKOrNZ7MPRGS
 slug: lyahvi
-img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: lyahvi
 type: affiliation
 subType: arcanetradition
 pack: mysteries
 data:
+  icon: sohl-none-icon-whirlwind
   templatePriority: 0
 sohl:
   kbcat: affiliation

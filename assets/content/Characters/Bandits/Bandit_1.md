@@ -7,8 +7,6 @@ id: Hu562HvSMuqz2ZRg
 packFolder: characters
 shortcode: bandit1
 slug: bandit-1
-img: sohl/assets/icons/game-icons/delapouite/person.svg
-portrait: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 pack: characters
 social:
@@ -17,6 +15,7 @@ social:
   class: "Free"
   society: "Palithane"
 data:
+  icon: sohl-none-icon-person
   templatePriority: 100
   gender: male
   age: 41

@@ -6,12 +6,12 @@ name:
 description: ""
 id: 8Tp4mlHIyLSiiibp
 slug: nadai
-img: sohl/assets/icons/other/astrology.svg
 shortcode: nadai
 type: mystery
 subType: birthsign
 pack: mysteries
 data:
+  icon: sohl-none-icon-astrology
   templatePriority: 0
 sohl:
   kbcat: sunsign

@@ -6,12 +6,12 @@ name:
 description: ""
 id: 5NYNbAPWe43ymyKZ
 slug: hirin-tarael
-img: sohl/assets/icons/other/astrology.svg
 shortcode: hirintarael
 type: mystery
 subType: birthsign
 pack: mysteries
 data:
+  icon: sohl-none-icon-astrology
   templatePriority: 0
 sohl:
   kbcat: sunsign

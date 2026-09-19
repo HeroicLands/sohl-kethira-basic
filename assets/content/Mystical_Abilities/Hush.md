@@ -6,12 +6,12 @@ name:
 description: ""
 id: I6Lu7Q89YzepDFge
 slug: hush
-img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: hush
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-wavecrest
   templatePriority: 0
 sohl:
   kbcat: null

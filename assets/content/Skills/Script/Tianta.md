@@ -6,12 +6,12 @@ name:
 description: ""
 id: HZQuPFugy024lS8y
 slug: tianta
-img: sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
 shortcode: tianta
 type: skill
 subType: script
 pack: characteristics
 data:
+  icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
 sohl:
   kbcat: script
