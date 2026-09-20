@@ -6,12 +6,12 @@ name:
 description: ""
 id: 0W8glgkZ21C9NvQM
 slug: reverse
-img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: reverse
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-moebiusstar
   templatePriority: 0
 sohl:
   kbcat: null

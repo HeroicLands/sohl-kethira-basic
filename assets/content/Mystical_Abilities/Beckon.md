@@ -6,12 +6,12 @@ name:
 description: ""
 id: IhZX7McIszH92nPQ
 slug: beckon
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: beckon
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

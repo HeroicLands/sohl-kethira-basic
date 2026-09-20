@@ -6,12 +6,12 @@ name:
 description: ""
 id: eaXFpnZVvDPacga0
 slug: dalken
-img: sohl/assets/icons/other/speaking.svg
 shortcode: dalken
 type: skill
 subType: language
 pack: characteristics
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: 0
 sohl:
   kbcat: language

@@ -6,12 +6,12 @@ name:
 description: ""
 id: Sp97AeVclUVxJfSx
 slug: lustre
-img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: lustre
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-anvil
   templatePriority: 0
 sohl:
   kbcat: null

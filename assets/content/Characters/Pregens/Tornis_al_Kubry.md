@@ -7,8 +7,6 @@ id: QgVdOPUTxTLxEvBf
 packFolder: characters
 shortcode: tornisalkubry
 slug: tornis-al-kubry
-img: sohl/assets/icons/game-icons/delapouite/person.svg
-portrait: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 pack: characters
 social:
@@ -17,6 +15,7 @@ social:
   class: ""
   society: ""
 data:
+  icon: sohl-none-icon-person
   templatePriority: 1
   gender: unknown
   age: 29

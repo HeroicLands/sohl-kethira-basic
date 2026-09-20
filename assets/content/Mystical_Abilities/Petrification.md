@@ -6,12 +6,12 @@ name:
 description: ""
 id: ylSLZHWmNiiO270N
 slug: petrification
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: petrification
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

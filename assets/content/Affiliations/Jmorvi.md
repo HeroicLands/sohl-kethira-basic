@@ -6,12 +6,12 @@ name:
 description: ""
 id: pRNkSYNgEu7GOB8r
 slug: jmorvi
-img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: jmorvi
 type: affiliation
 subType: arcanetradition
 pack: mysteries
 data:
+  icon: sohl-none-icon-anvil
   templatePriority: 0
 sohl:
   kbcat: affiliation

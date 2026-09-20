@@ -6,12 +6,12 @@ name:
 description: ""
 id: 7MdmH180C57trJ1m
 slug: ward
-img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: ward
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-moebiusstar
   templatePriority: 0
 sohl:
   kbcat: null

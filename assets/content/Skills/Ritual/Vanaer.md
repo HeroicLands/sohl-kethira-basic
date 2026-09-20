@@ -6,12 +6,12 @@ name:
 description: ""
 id: CcO0l7xmPd61kQqP
 slug: vanaer
-img: sohl/assets/icons/noun/circle.svg
 shortcode: vanaer
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: sohl-none-icon-circlenn
   templatePriority: 0
 sohl:
   kbcat: ritual

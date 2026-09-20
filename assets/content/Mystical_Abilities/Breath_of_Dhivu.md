@@ -6,12 +6,12 @@ name:
 description: ""
 id: 8SSaJWbQlr3LDRUM
 slug: breath-of-dhivu
-img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: breathofdhivu
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-wavecrest
   templatePriority: 0
 sohl:
   kbcat: null

@@ -6,12 +6,12 @@ name:
 description: ""
 id: hKLc4IN1kA86hA15
 slug: ahnu
-img: sohl/assets/icons/other/astrology.svg
 shortcode: ahnu
 type: mystery
 subType: birthsign
 pack: mysteries
 data:
+  icon: sohl-none-icon-astrology
   templatePriority: 0
 sohl:
   kbcat: sunsign

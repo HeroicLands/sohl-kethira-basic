@@ -7,10 +7,9 @@ name:
 id: AklashChokeWind
 shortcode: aklash
 slug: aklash
-img: sohl/assets/icons/game-icons/skoll/troll.svg
-portrait: null
 type: being
 data:
+  icon: sohl-none-icon-troll
   templatePriority: 0
 sohl:
   attrRollFormula:

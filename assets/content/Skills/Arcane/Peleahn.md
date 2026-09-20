@@ -6,12 +6,12 @@ name:
 description: ""
 id: mz9bCjPmh8SuX9QE
 slug: peleahn
-img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: peleahn
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: sohl-none-icon-fire
   templatePriority: 0
 sohl:
   kbcat: arcane

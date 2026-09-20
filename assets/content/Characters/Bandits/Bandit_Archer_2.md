@@ -7,8 +7,6 @@ id: ZiazKvY6oIARxx3b
 packFolder: characters
 shortcode: banditarcher2
 slug: bandit-archer-2
-img: sohl/assets/icons/game-icons/delapouite/person.svg
-portrait: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 pack: characters
 social:
@@ -17,6 +15,7 @@ social:
   class: "Free"
   society: "Palithane"
 data:
+  icon: sohl-none-icon-person
   templatePriority: 1
   gender: unknown
   age: 29

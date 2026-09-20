@@ -6,12 +6,12 @@ name:
 description: ""
 id: Hjv8cFoLgH5ywN7B
 slug: skorus-masara
-img: sohl/assets/icons/other/astrology.svg
 shortcode: skorusmasara
 type: mystery
 subType: birthsign
 pack: mysteries
 data:
+  icon: sohl-none-icon-astrology
   templatePriority: 0
 sohl:
   kbcat: sunsign

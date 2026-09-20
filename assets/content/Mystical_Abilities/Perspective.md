@@ -6,12 +6,12 @@ name:
 description: ""
 id: oxRe09hrasyj8auL
 slug: perspective
-img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: perspective
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-twoshadows
   templatePriority: 0
 sohl:
   kbcat: null

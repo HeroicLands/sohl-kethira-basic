@@ -6,12 +6,12 @@ name:
 description: ""
 id: klMQI7Di94TBMgQR
 slug: skorus
-img: sohl/assets/icons/other/astrology.svg
 shortcode: skorus
 type: mystery
 subType: birthsign
 pack: mysteries
 data:
+  icon: sohl-none-icon-astrology
   templatePriority: 0
 sohl:
   kbcat: sunsign

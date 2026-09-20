@@ -6,12 +6,12 @@ name:
 description: ""
 id: WsvBfMmG3Q2hgdeS
 slug: confusion
-img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: confusion
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-twoshadows
   templatePriority: 0
 sohl:
   kbcat: null

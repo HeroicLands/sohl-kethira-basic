@@ -9,10 +9,9 @@ name:
 id: Ga0rgunArak01AA
 shortcode: arak
 slug: gargun-arak
-img: sohl/assets/icons/game-icons/delapouite/orc-head.svg
-portrait: null
 type: being
 data:
+  icon: sohl-none-icon-orchead
   templatePriority: 0
 sohl:
   attrRollFormula:

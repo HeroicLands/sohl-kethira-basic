@@ -6,12 +6,12 @@ name:
 description: ""
 id: xblfM9oiHccCQ8I4
 slug: fist
-img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: fist
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-anvil
   templatePriority: 0
 sohl:
   kbcat: null

@@ -9,10 +9,9 @@ name:
 id: VlastaSwiftOne1
 shortcode: vlasta
 slug: vlasta
-img: sohl/assets/icons/game-icons/lorc/bird-claw.svg
-portrait: null
 type: being
 data:
+  icon: sohl-none-icon-birdclaw
   templatePriority: 0
 sohl:
   attrRollFormula:

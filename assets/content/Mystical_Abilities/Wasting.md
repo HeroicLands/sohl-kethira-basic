@@ -6,12 +6,12 @@ name:
 description: ""
 id: lsOd0Ta0cL0DoqOF
 slug: wasting
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: wasting
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

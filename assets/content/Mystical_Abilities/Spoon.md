@@ -6,12 +6,12 @@ name:
 description: ""
 id: BE88Hbv0bK1RfujF
 slug: spoon
-img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: spoon
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-wavecrest
   templatePriority: 0
 sohl:
   kbcat: null

@@ -6,12 +6,12 @@ name:
 description: ""
 id: MrVTPN0oeMh8XLWj
 slug: hunger
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: hunger
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

@@ -6,12 +6,12 @@ name:
 description: ""
 id: U9f6mY1e1XyNjHRA
 slug: meld
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: meld
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

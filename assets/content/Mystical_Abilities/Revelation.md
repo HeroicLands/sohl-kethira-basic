@@ -6,12 +6,12 @@ name:
 description: ""
 id: BBQgaHvKfgWP0J91
 slug: revelation
-img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: revelation
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-anvil
   templatePriority: 0
 sohl:
   kbcat: null

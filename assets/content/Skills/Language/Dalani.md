@@ -6,12 +6,12 @@ name:
 description: ""
 id: E2BGs8oaoLPgYEGn
 slug: dalani
-img: sohl/assets/icons/other/speaking.svg
 shortcode: dalani
 type: skill
 subType: language
 pack: characteristics
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: 0
 sohl:
   kbcat: language

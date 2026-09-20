@@ -10,10 +10,9 @@ name:
 id: UmbathBearerMsk
 shortcode: umbath
 slug: umbath
-img: sohl/assets/icons/game-icons/delapouite/gargoyle.svg
-portrait: null
 type: being
 data:
+  icon: sohl-none-icon-gargoyle
   templatePriority: 0
 sohl:
   attrRollFormula:

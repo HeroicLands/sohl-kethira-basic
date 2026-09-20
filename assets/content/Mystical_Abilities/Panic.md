@@ -6,12 +6,12 @@ name:
 description: ""
 id: pnj7TncorSyRuvdL
 slug: panic
-img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: panic
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-twoshadows
   templatePriority: 0
 sohl:
   kbcat: null

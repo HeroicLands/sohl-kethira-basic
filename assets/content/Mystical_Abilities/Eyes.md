@@ -6,12 +6,12 @@ name:
 description: ""
 id: 2EitMhTLIk7rUDav
 slug: eyes
-img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: eyes
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-fire
   templatePriority: 0
 sohl:
   kbcat: null

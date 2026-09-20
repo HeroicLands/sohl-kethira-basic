@@ -6,12 +6,12 @@ name:
 description: ""
 id: 9vcb21xBdKxEfT8j
 slug: sweat
-img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: sweat
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-wavecrest
   templatePriority: 0
 sohl:
   kbcat: null

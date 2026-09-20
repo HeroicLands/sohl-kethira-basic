@@ -6,12 +6,12 @@ name:
 description: ""
 id: 1cesq94m43S9eMQI
 slug: shroud
-img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: shroud
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-anvil
   templatePriority: 0
 sohl:
   kbcat: null
