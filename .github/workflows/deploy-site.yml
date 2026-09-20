@@ -1,4 +1,6 @@
-# Build and deploy /kethira — this package's homepage, and nothing else (#59).
+# Build and deploy /kethira — the authored homepage plus every page the
+# content tree compiles to (`publish.site: content` in
+# `package-build.config.yaml`).
 #
 # The runner, the completeness guard, the hosting project, the custom domain and
 # the upload are identical for every package that publishes a subtree of
@@ -9,17 +11,23 @@
 #
 # The build itself is also this repository's — the shared workflow runs
 # `npm run build:site` and knows nothing about what that script does. It only
-# requires the tree land under `build/site/kethira/`, which is what
-# `site/hugo.toml`'s `publishDir` arranges.
+# requires the tree land under `build/site/kethira/`, which is what the
+# generated `build/hugo/hugo.toml`'s `publishDir` arranges (`content-build
+# site` writes it from package.json and package-build.config.yaml on every
+# run; this repository carries no Hugo configuration of its own).
 #
-# NO `min-pages` / `max-pages`. `package-build.config.yaml` declares
-# `publish.site: homepage`, and in that mode the shared workflow fixes the bound
-# at exactly one page and FAILS THE RUN if either input is passed. That is
-# deliberate: publishing this repository's content would breach Keléstia's Fan
-# Material Guidelines, so "exactly one page" is a licensing boundary, and a
-# boundary a caller could widen with an input is not a boundary. The mode is read
-# from the same config the toolchain builds from, so the guard and the build
-# cannot come to disagree about what this package publishes.
+# `min-pages` / `max-pages` are REQUIRED in `content` mode — the shared
+# workflow reads `publish.site` from the same config the build reads, and
+# fails the run rather than deploy an ungoverned page count. `min-pages` is a
+# floor set below a complete build's page count, not an assertion about
+# today's count: it catches a collapsed build (a taxonomy that stopped
+# rendering, a content tree the build stopped walking), not a change in how
+# many notes this package carries. `max-pages` is a ceiling with the same
+# margin the other way, catching a build that runs away rather than asserting
+# an upper bound on authored content. Both are measured against
+# `build/site/kethira`'s `index.html` count, less the one Hugo's own site root
+# contributes once the landing has an address of its own — see the shared
+# workflow's own comments for that arithmetic.
 #
 # `_headers` AND `_redirects` ARE THIS REPOSITORY'S, as of #83 — written into
 # the deployment root by `utils/build-site-root.mjs`, which `npm run build:site`
@@ -35,9 +43,6 @@
 # build now writes that file, the default no longer fires, and the noindex rules
 # are carried in the script alongside the cache rules. Read its comments before
 # changing either half.
-#
-# A redirect is not a page: neither file is an `index.html`, so the tally below
-# is untouched and this package still publishes exactly one page.
 name: Deploy the Kethira site to Cloudflare Pages
 
 on:
@@ -59,6 +64,13 @@ jobs:
             # Not derived from the package name: renaming a live Pages project
             # to fit a convention would break its deployment history.
             project: sohl-kethira-basic
+            # Measured: a complete build carries 398 pages (399 `index.html`
+            # files under `build/site/kethira`, less Hugo's own site root).
+            # Set with headroom on both sides of that figure — a floor and a
+            # ceiling that catch a collapsed or runaway build, not a
+            # description of today's count.
+            min-pages: 350
+            max-pages: 500
         # By name, never `secrets: inherit` — inheriting would hand a workflow in
         # another repository every secret this one holds for a job that needs two.
         secrets:

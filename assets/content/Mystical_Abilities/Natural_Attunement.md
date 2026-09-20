@@ -6,12 +6,12 @@ name:
 description: ""
 id: zM3QEMALDimIYvac
 slug: natural-attunement
-img: sohl/assets/icons/noun/psionics.svg
 shortcode: natn
 type: mysticalability
 subType: arcanetalent
 pack: mysteries
 data:
+  icon: sohl-none-icon-psionics
   templatePriority: 0
 sohl:
   kbcat: null

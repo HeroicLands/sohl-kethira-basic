@@ -6,12 +6,12 @@ name:
 description: ""
 id: X9BIekcWvIEgvoJP
 slug: cloak
-img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: cloak
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-fire
   templatePriority: 0
 sohl:
   kbcat: null

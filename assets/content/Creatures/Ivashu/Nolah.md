@@ -9,10 +9,9 @@ name:
 id: NolahDankStalkr
 shortcode: nolah
 slug: nolah
-img: sohl/assets/icons/game-icons/lorc/spectre.svg
-portrait: null
 type: being
 data:
+  icon: sohl-none-icon-spectre
   templatePriority: 0
 sohl:
   attrRollFormula:

@@ -6,12 +6,12 @@ name:
 description: ""
 id: riP3Gs6iOTTR5Wx5
 slug: peleahn
-img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: peleahn
 type: affiliation
 subType: arcanetradition
 pack: mysteries
 data:
+  icon: sohl-none-icon-fire
   templatePriority: 0
 sohl:
   kbcat: affiliation

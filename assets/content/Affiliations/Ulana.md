@@ -6,12 +6,12 @@ name:
 description: ""
 id: 8ZPDqhKo3jD1kBt1
 slug: ulana
-img: sohl/assets/icons/noun/circle.svg
 shortcode: ulana
 type: affiliation
 subType: faithtradition
 pack: mysteries
 data:
+  icon: sohl-none-icon-circlenn
   templatePriority: 0
 sohl:
   kbcat: affiliation

@@ -6,12 +6,12 @@ name:
 description: ""
 id: BA1LewIR8VJMqbag
 slug: tai
-img: sohl/assets/icons/other/astrology.svg
 shortcode: tai
 type: mystery
 subType: birthsign
 pack: mysteries
 data:
+  icon: sohl-none-icon-astrology
   templatePriority: 0
 sohl:
   kbcat: sunsign

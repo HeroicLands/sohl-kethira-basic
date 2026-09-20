@@ -6,12 +6,12 @@ name:
 description: ""
 id: HddpzPlLN7K5RU8v
 slug: syncope
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: syncope
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

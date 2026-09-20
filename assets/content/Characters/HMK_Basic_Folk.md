@@ -7,8 +7,6 @@ id: Wa6qOUFVsckRKO6R
 packFolder: characters
 shortcode: hmkbasicfolk
 slug: hmk-basic-folk
-img: sohl/assets/icons/game-icons/delapouite/person.svg
-portrait: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 pack: characters
 social:
@@ -17,6 +15,7 @@ social:
   class: ""
   society: ""
 data:
+  icon: sohl-none-icon-person
   templatePriority: 100
   gender: unknown
   age: 0

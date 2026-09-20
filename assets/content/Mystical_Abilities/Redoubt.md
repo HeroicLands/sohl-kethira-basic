@@ -6,12 +6,12 @@ name:
 description: ""
 id: o2f53g7hqpHCUAOH
 slug: redoubt
-img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: redoubt
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-anvil
   templatePriority: 0
 sohl:
   kbcat: null

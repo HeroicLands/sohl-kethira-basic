@@ -6,12 +6,12 @@ name:
 description: ""
 id: q2Md4Qa3OCWyCDB5
 slug: emhlen
-img: sohl/assets/icons/other/speaking.svg
 shortcode: emhlen
 type: skill
 subType: language
 pack: characteristics
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: 100
 sohl:
   kbcat: language

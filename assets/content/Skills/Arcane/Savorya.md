@@ -6,12 +6,12 @@ name:
 description: ""
 id: mw1tSeSda9RtkB2E
 slug: savorya
-img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: savorya
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: sohl-none-icon-twoshadows
   templatePriority: 0
 sohl:
   kbcat: arcane

@@ -6,12 +6,12 @@ name:
 description: ""
 id: 1nZ5JLdUKzxDC5J0
 slug: candor
-img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: candor
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-twoshadows
   templatePriority: 0
 sohl:
   kbcat: null

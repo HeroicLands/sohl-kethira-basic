@@ -6,12 +6,12 @@ name:
 description: ""
 id: iFVUCtelWqzn3a46
 slug: garanik
-img: sohl/assets/icons/noun/circle.svg
 shortcode: garanik
 type: affiliation
 subType: faithtradition
 pack: mysteries
 data:
+  icon: sohl-none-icon-circlenn
   templatePriority: 0
 sohl:
   kbcat: affiliation

@@ -6,12 +6,12 @@ name:
 description: ""
 id: SYhFAPfzIucCQ5bO
 slug: peoni
-img: images/kp-peoni.webp
 shortcode: peoni
 type: affiliation
 subType: faithtradition
 pack: mysteries
 data:
+  icon: image-kppeoni
   templatePriority: 0
 sohl:
   kbcat: affiliation

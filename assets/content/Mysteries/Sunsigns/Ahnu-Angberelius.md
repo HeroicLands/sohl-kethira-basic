@@ -6,12 +6,12 @@ name:
 description: ""
 id: Lk9xrTRAj6O4oNNd
 slug: ahnu-angberelius
-img: sohl/assets/icons/other/astrology.svg
 shortcode: ahnuangberelius
 type: mystery
 subType: birthsign
 pack: mysteries
 data:
+  icon: sohl-none-icon-astrology
   templatePriority: 0
 sohl:
   kbcat: sunsign

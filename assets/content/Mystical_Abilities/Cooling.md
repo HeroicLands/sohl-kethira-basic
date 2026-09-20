@@ -6,12 +6,12 @@ name:
 description: ""
 id: 2M689o5LuNZUd2bE
 slug: cooling
-img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: cooling
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-wavecrest
   templatePriority: 0
 sohl:
   kbcat: null

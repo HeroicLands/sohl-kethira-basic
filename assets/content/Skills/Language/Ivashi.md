@@ -6,12 +6,12 @@ name:
 description: ""
 id: dA4dgGTRAcDuXRBI
 slug: ivashi
-img: sohl/assets/icons/other/speaking.svg
 shortcode: ivashi
 type: skill
 subType: language
 pack: characteristics
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: 0
 sohl:
   kbcat: language

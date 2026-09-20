@@ -6,12 +6,12 @@ name:
 description: ""
 id: 4WSxiA5ySlf6jb1A
 slug: warp
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: warp
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

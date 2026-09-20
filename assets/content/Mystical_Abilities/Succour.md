@@ -6,12 +6,12 @@ name:
 description: ""
 id: a9zpuSd4JBmB8rHI
 slug: succour
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: succour
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

@@ -6,12 +6,12 @@ name:
 description: ""
 id: CsdzvLOYIrnU1Fre
 slug: zakimladal
-img: sohl/assets/icons/other/speaking.svg
 shortcode: zakimladal
 type: skill
 subType: language
 pack: characteristics
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: 100
 sohl:
   kbcat: language

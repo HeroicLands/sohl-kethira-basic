@@ -6,12 +6,12 @@ name:
 description: ""
 id: gjCry74FtWuhBGGY
 slug: earthwork
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: earthwork
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

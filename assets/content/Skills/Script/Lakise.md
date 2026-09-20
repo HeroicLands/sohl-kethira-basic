@@ -6,12 +6,12 @@ name:
 description: ""
 id: DiFLbQpEF1ZJm262
 slug: lakise
-img: sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
 shortcode: lakise
 type: skill
 subType: script
 pack: characteristics
 data:
+  icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
 sohl:
   kbcat: script

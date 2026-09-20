@@ -6,12 +6,12 @@ name:
 description: ""
 id: ZEv9oDErodUgzc0F
 slug: harmony
-img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: harmony
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-twoshadows
   templatePriority: 0
 sohl:
   kbcat: null

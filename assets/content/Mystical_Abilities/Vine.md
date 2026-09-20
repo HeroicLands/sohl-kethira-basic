@@ -6,12 +6,12 @@ name:
 description: ""
 id: BJGJ2aitu2rIsbzb
 slug: vine
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: vine
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

@@ -6,12 +6,12 @@ name:
 description: ""
 id: N21J8mDOazsflqZR
 slug: palithaner
-img: sohl/assets/icons/other/speaking.svg
 shortcode: palithaner
 type: skill
 subType: language
 pack: characteristics
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: 0
 sohl:
   kbcat: language

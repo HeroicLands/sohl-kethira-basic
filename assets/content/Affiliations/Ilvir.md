@@ -6,12 +6,12 @@ name:
 description: ""
 id: iC0v91hBQXepKnhN
 slug: ilvir
-img: images/kp-ilvir.webp
 shortcode: ilvir
 type: affiliation
 subType: faithtradition
 pack: mysteries
 data:
+  icon: image-kpilvir
   templatePriority: 0
 sohl:
   kbcat: affiliation

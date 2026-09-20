@@ -6,12 +6,12 @@ name:
 description: ""
 id: osBJntGxM8K2V9NP
 slug: growth
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: growth
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

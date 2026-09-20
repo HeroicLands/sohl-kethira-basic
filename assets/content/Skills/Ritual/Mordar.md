@@ -6,12 +6,12 @@ name:
 description: ""
 id: NEDzhnOXJNI5Rskh
 slug: mordar
-img: sohl/assets/icons/noun/circle.svg
 shortcode: mordar
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: sohl-none-icon-circlenn
   templatePriority: 0
 sohl:
   kbcat: ritual

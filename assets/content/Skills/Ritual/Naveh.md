@@ -6,12 +6,12 @@ name:
 description: ""
 id: wxyRLxUzl0yqeCYk
 slug: naveh
-img: images/kp-naveh.webp
 shortcode: naveh
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: image-kpnaveh
   templatePriority: 0
 sohl:
   kbcat: ritual

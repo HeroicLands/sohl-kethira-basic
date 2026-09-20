@@ -6,12 +6,12 @@ name:
 description: ""
 id: SNZXHUNn7ZJuoyYR
 slug: beacon
-img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: beacon
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-whirlwind
   templatePriority: 0
 sohl:
   kbcat: null

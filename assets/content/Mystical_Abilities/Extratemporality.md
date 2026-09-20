@@ -6,12 +6,12 @@ name:
 description: ""
 id: GRInCl46OtvsjWRe
 slug: extratemporality
-img: sohl/assets/icons/noun/psionics.svg
 shortcode: xtratemp
 type: mysticalability
 subType: arcanetalent
 pack: mysteries
 data:
+  icon: sohl-none-icon-psionics
   templatePriority: 0
 sohl:
   kbcat: null

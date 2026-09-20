@@ -6,12 +6,12 @@ name:
 description: ""
 id: hYBL1FYt6tnueT95
 slug: nuvesarl
-img: sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
 shortcode: nuvesarl
 type: skill
 subType: script
 pack: characteristics
 data:
+  icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
 sohl:
   kbcat: script

@@ -6,12 +6,12 @@ name:
 description: ""
 id: NM3JB59VYMqlvi6K
 slug: neutral
-img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: neutral
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: sohl-none-icon-moebiusstar
   templatePriority: 0
 sohl:
   kbcat: arcane

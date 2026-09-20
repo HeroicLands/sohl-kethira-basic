@@ -6,12 +6,12 @@ name:
 description: ""
 id: wwA0PHaLfDFUwVMz
 slug: sanctum
-img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: sanctum
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-moebiusstar
   templatePriority: 0
 sohl:
   kbcat: null

@@ -6,12 +6,12 @@ name:
 description: ""
 id: sygNpMe0xKos6cYQ
 slug: azeryani
-img: sohl/assets/icons/other/speaking.svg
 shortcode: azeryani
 type: skill
 subType: language
 pack: characteristics
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: 0
 sohl:
   kbcat: language

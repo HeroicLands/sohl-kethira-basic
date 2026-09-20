@@ -6,12 +6,12 @@ name:
 description: ""
 id: jiZ1XFCAywuCSzav
 slug: buqdin
-img: sohl/assets/icons/other/speaking.svg
 shortcode: buqdin
 type: skill
 subType: language
 pack: characteristics
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: 0
 sohl:
   kbcat: language

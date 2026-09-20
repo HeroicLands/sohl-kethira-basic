@@ -6,12 +6,12 @@ name:
 description: ""
 id: 1en6JNnWt9zGfQxn
 slug: medium
-img: sohl/assets/icons/noun/psionics.svg
 shortcode: medm
 type: mysticalability
 subType: arcanetalent
 pack: mysteries
 data:
+  icon: sohl-none-icon-psionics
   templatePriority: 0
 sohl:
   kbcat: null

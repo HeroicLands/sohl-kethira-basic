@@ -6,12 +6,12 @@ name:
 description: ""
 id: gevm9nRwQonHFsgE
 slug: peoni
-img: images/kp-peoni.webp
 shortcode: peoni
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: image-kppeoni
   templatePriority: 0
 sohl:
   kbcat: ritual

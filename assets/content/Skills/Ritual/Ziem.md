@@ -6,12 +6,12 @@ name:
 description: ""
 id: VapTwmCTNH03SfQe
 slug: ziem
-img: sohl/assets/icons/noun/circle.svg
 shortcode: ziem
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: sohl-none-icon-circlenn
   templatePriority: 0
 sohl:
   kbcat: ritual

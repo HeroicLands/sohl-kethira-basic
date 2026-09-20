@@ -6,12 +6,12 @@ name:
 description: ""
 id: NOsSmUI9oIcVWg3M
 slug: balm
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: balm
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

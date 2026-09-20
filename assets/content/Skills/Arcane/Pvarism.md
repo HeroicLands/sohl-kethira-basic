@@ -6,12 +6,12 @@ name:
 description: ""
 id: K5XmdHDxovuKxcxQ
 slug: pvarism
-img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: pvarism
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: sohl-none-icon-moebiusstar
   templatePriority: 0
 sohl:
   kbcat: arcane

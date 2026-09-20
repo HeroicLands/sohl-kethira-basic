@@ -6,12 +6,12 @@ name:
 description: ""
 id: R7yrj8szcqUFX8nv
 slug: nightmare
-img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: nightmare
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-whirlwind
   templatePriority: 0
 sohl:
   kbcat: null

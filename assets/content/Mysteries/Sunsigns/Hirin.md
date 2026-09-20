@@ -6,12 +6,12 @@ name:
 description: ""
 id: EeL7L3sh2RMj63fO
 slug: hirin
-img: sohl/assets/icons/other/astrology.svg
 shortcode: hirin
 type: mystery
 subType: birthsign
 pack: mysteries
 data:
+  icon: sohl-none-icon-astrology
   templatePriority: 0
 sohl:
   kbcat: sunsign
