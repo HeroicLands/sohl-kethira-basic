@@ -121,6 +121,8 @@ site:
     # <this>/sohl/icons/noun/circlenn.svg and `image-kpagrik` as
     # <this>/kethira/images/kpagrik.webp.
     assets: https://cdn.heroiclands.org
+    # The site's description for the HTML <meta name="description"> tag
+    description: A Song of Heroic Lands module carrying the basic mechanical pieces for play in the world of Kethira.
     # Every section this package publishes, so /kethira/<section>/ answers with
     # a titled page rather than a directory listing. A section is a note's own
     # `type` (`sectionOf`), not a directory name — `Characters/` and
@@ -186,6 +188,8 @@ packageBuild:
 
     manifest:
         title: HarnMaster Kethira Basic Items
+        # The Foundry package browser description
+        descriptionHtml: Basic items needed for playing Song of Heroic Lands in the world of Kethira
         authors:
             - name: Toasty
               discord: toasty#8538
