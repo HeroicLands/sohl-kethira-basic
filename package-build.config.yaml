@@ -34,22 +34,13 @@ itemBuilders: sohl
 # `characteristics, mysteries, journals, characters`, the sequence Foundry
 # lists the compendiums in: the two reference packs, then the journal entries
 # a being's prose compiles into, then the actors that carry them.
-#
-# A run restricted to one pack (`content-build package compile characters`)
-# cannot conjure the passes it left out, and refuses, naming them: "reads the
-# compiled output of the Item pack "characteristics", which this run does not
-# compile … compile the whole package, or compile "characteristics" first".
 packs:
     - { name: characteristics, label: Characteristics, type: Item }
     - { name: mysteries, label: Mysteries, type: Item }
     - { name: journals, label: Journals, type: JournalEntry }
     - { name: characters, label: Characters, type: Actor }
 
-# `description` fields throughout this repository are deliberately empty, for
-# the Fan Material Guidelines reason that this module carries the
-# game-mechanical pieces and none of the prose that explains them, so it
-# cannot stand in for the book. Publishing the content tree discloses nothing
-# licensed as long as that holds.
+# The content tree publishes in full.
 publish:
     site: content
 
