@@ -138,11 +138,12 @@ site:
         skill: { title: Skills }
     # The "page not found" page. Cloudflare Pages serves it with a real 404 for
     # any unmatched path; without one it falls back to the site root, which is
-    # a soft 404 that reads as success to every link checker there is. Every
-    # route here leaves for a sibling site, since a lost reader has no section
-    # of its own that fits every missed path.
+    # a soft 404 that reads as success to every link checker there is. The
+    # first link returns to this module's own landing; the rest route to
+    # sibling sites, since nothing here names a section that fits every
+    # missed path.
     notfound:
-        tagline: This module has one page, and it is not at
+        tagline: This module has no page at
         sitenoun: module
         links:
             - title: HârnMaster Kethira Basic
