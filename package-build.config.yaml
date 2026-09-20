@@ -49,12 +49,6 @@ publish:
 site:
     assets: https://cdn.heroiclands.org
     description: A Song of Heroic Lands module carrying the basic mechanical pieces for play in the world of Kethira.
-    sections:
-        affiliation: { title: Affiliations }
-        being: { title: Beings }
-        mystery: { title: Mysteries }
-        mysticalability: { title: Mystical Abilities }
-        skill: { title: Skills }
     # Cloudflare Pages serves this as a real 404 for any unmatched path;
     # without it, an unmatched path falls back to the site root — a soft 404
     # that reads as success to a link checker. The first link returns to this
