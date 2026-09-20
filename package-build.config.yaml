@@ -1,5 +1,3 @@
-# See `@heroiclands/package-build` for the full documentation.
-
 contentPackage: kethira
 packageKind: modules
 
@@ -18,132 +16,50 @@ relationships:
           compatibility:
               minimum: "0.8.0"
               verified: "0.8.6"
-          # The `characters` pass resolves a being's embedded items by
-          # `(type, shortcode)`, and almost every one of them — `attribute:str`,
-          # `skill:init` — belongs to `sohl` rather than to this repository. This
-          # opts into extracting that release's Item packs as a resolution source
-          # (content-build#82). `npm run build:deps` fetches it; a compile with a
-          # cold cache fails naming that command rather than reaching the network
-          # itself. The download is pinned to `verified` above, not to `latest`.
+          # The `characters` pass resolves a being's embedded items — `attribute:str`,
+          # `skill:init` and similar — against this system's Item packs, fetched by
+          # `npm run build:deps`; a cold cache fails naming that command rather than
+          # reaching the network. Pinned to `verified` above, not `latest`.
           itemCatalog: true
 
 itemBuilders: sohl
 
-# **Neither Item pack is `default: true`, deliberately.** With several packs of
-# a type and no default, a note declaring no `pack:` routes nowhere and fails
-# the build naming the note, rather than being silently absorbed into the wrong
+# Neither Item pack is `default: true`, deliberately: with several packs of a
+# type and no default, a note declaring no `pack:` routes nowhere and fails the
+# build naming the note, rather than being silently absorbed into the wrong
 # compendium.
 #
-# **`characters` (Actor) is listed again as of #28.** It was absent for as long
-# as a being's `sohl`-package items could not be resolved here — the pass failed
-# on all 1,057 of them and, because generation refuses to compile any pack from
-# incomplete output, took the two working Item packs down with it. `itemCatalog`
-# above is what changed. Note that this list is also the manifest's `packs`
-# array, so a pack is either compiled and declared, or neither.
-#
-# **This order is presentation, not a compile constraint** (#65,
-# package-build#73). The dependency it used to encode is real and has not gone
-# anywhere: the actors pass resolves a being's embedded items against the
-# *output* of the item passes, not against the content tree, so both Item packs
-# genuinely must compile before `characters`. What changed in
-# `@heroiclands/package-build` 6.0.0 is who works that out. The build now
-# derives the compile order from what each pass reads and reorders itself, so
-# this list no longer has to encode it, and #56 — which put `characters` last
-# for exactly that reason — no longer describes a rule anyone can break here.
-#
-# Measured both ways rather than taken on trust: with `characters` moved to the
-# top of this list, a cold `build:db` exits 0 on 6.0.0, compiling the Item packs
-# first regardless, and exits 1 on 5.0.0 with "Items source directory … does not
-# exist — actors must be generated after items". Same tree, same config, only
-# the toolchain differs.
-#
-# So order this list for a reader, not for the compiler: it is also the
-# manifest's `packs` array, which is the sequence Foundry lists the compendiums
-# in. It currently yields `characteristics, mysteries, journals, characters` —
-# the two reference packs, then the journal entries a being's prose compiles
-# into, then the actors that carry them.
-#
-# One caveat, and it is about a command rather than about this list. The
-# ordering is derived for a *whole-package* build; a run restricted to one pack
-# (`content-build package compile characters`) cannot conjure the passes it left
-# out, and refuses, naming them: "reads the compiled output of the Item pack
-# "characteristics", which this run does not compile … compile the whole
-# package, or compile "characteristics" first".
+# This list orders for a reader, not for the compiler — the build derives
+# compile order from what each pass reads. It currently yields
+# `characteristics, mysteries, journals, characters`, the sequence Foundry
+# lists the compendiums in: the two reference packs, then the journal entries
+# a being's prose compiles into, then the actors that carry them.
 packs:
     - { name: characteristics, label: Characteristics, type: Item }
     - { name: mysteries, label: Mysteries, type: Item }
     - { name: journals, label: Journals, type: JournalEntry }
     - { name: characters, label: Characters, type: Actor }
 
-# Two separate decisions, easily conflated.
-#
-# **What is withheld is content, not the module's existence.** Item
-# descriptions, journal text, artwork and compiled notes are never published to
-# the web, for the same Fan Material Guidelines reason the `description` fields
-# throughout this repository are deliberately empty: this module carries the
-# game-mechanical pieces and none of the prose that explains them, so it cannot
-# stand in for the book. That constraint is absolute and must not be weakened
-# here. It does not reach a hand-authored homepage —
-# https://www.heroiclands.org/kethira/ says what the module is, which system it
-# needs, that HârnMaster Kethira must be bought from Keléstia, and carries the
-# trademark notice. That discloses nothing licensed, and announcing the module
-# is both fine and appropriate.
-#
-# **`site: homepage` is what enforces that, structurally** (#57,
-# package-build#55). It is not a switch that happens to be off: `buildSite`
-# returns before the content tree is ever walked for pages, so `sections`,
-# `trees`, `landing` and `backfillSections` emit nothing *even when they are
-# declared*. The 363 notes here can only ever yield the one authored homepage
-# below. That matters because the failure mode of a mere switch is silent — a
-# `site:` block added later would have started shipping licensed content with
-# nobody noticing. Do not write `site: content` here.
-#
-# **Publishing no link manifest is about withdrawability.** Emitting
-# `kethira.json` is the dependency edge — it invites other packages to resolve
-# their links against this one, and every such link is something that breaks if
-# Keléstia ever objects and the module is withdrawn (#1385/#1446). Consuming
-# foreign manifests creates no such edge, so it stays on. A homepage is not
-# that edge either: it is one row in a routing table, removable in a commit. So
-# the site and the manifest do not stand or fall together — do not read a
-# change to one as licence to change the other.
+# The content tree publishes in full.
 publish:
     site: content
 
-# How this repository frames what it publishes. `publish.address` is absent,
-# so the prefix is its default `""` — this package's content *is* its site, so
-# the tree mounts at the package root and a page publishes at
-# /kethira/<type>-<shortcode>/.
+# This package's content is its site: with no `publish.address` prefix, a
+# page publishes at /kethira/<type>-<shortcode>/.
 site:
-    # The host every package's imagery is served from. An address resolves to
-    # the package that owns the file and the path inside that package's
-    # `assets/`; this is the half of a web address a build cannot work out for
-    # itself, so `sohl-none-icon-circlenn` publishes as
-    # <this>/sohl/icons/noun/circlenn.svg and `image-kpagrik` as
-    # <this>/kethira/images/kpagrik.webp.
     assets: https://cdn.heroiclands.org
-    # The site's description for the HTML <meta name="description"> tag
     description: A Song of Heroic Lands module carrying the basic mechanical pieces for play in the world of Kethira.
-    # Every section this package publishes, so /kethira/<section>/ answers with
-    # a titled page rather than a directory listing. A section is a note's own
-    # `type` (`sectionOf`), not a directory name — `Characters/` and
-    # `Creatures/` are both `being` and land in one section — and a page is
-    # written into its section's directory, so a declared section's landing
-    # lists its own pages.
-    #
-    # Five sections, for the five published types: 224 `mysticalability`,
-    # 66 `skill`, 28 `being`, 28 `affiliation` and 24 `mystery`.
     sections:
         affiliation: { title: Affiliations }
         being: { title: Beings }
         mystery: { title: Mysteries }
         mysticalability: { title: Mystical Abilities }
         skill: { title: Skills }
-    # The "page not found" page. Cloudflare Pages serves it with a real 404 for
-    # any unmatched path; without one it falls back to the site root, which is
-    # a soft 404 that reads as success to every link checker there is. The
-    # first link returns to this module's own landing; the rest route to
-    # sibling sites, since nothing here names a section that fits every
-    # missed path.
+    # Cloudflare Pages serves this as a real 404 for any unmatched path;
+    # without it, an unmatched path falls back to the site root — a soft 404
+    # that reads as success to a link checker. The first link returns to this
+    # module's own landing; the rest route to sibling sites, since no section
+    # here fits every missed path.
     notfound:
         tagline: This module has no page at
         sitenoun: module
@@ -157,13 +73,10 @@ site:
             - title: Keléstia Productions
               url: https://www.kelestia.com/harnmaster
               text: Where HârnMaster Kethira itself is bought.
-    # The one Hugo key the generator does not write for us: the homepage
-    # reproduces Keléstia's trademark notice verbatim, wrapped in
-    # `markdownlint-disable` comments that let its bare URLs stand unedited.
-    # Goldmark's GFM autolinker would otherwise swallow the closing
-    # parenthesis of `(https://www.kelestia.com/)` into the href, publishing a
-    # required legal notice whose every link points somewhere the notice does
-    # not name.
+    # The homepage reproduces Keléstia's trademark notice verbatim; Goldmark's
+    # GFM autolinker would otherwise swallow the closing parenthesis of
+    # `(https://www.kelestia.com/)` into the href, breaking a link in a
+    # required legal notice.
     hugo:
         markup:
             goldmark:
@@ -188,7 +101,6 @@ packageBuild:
 
     manifest:
         title: HarnMaster Kethira Basic Items
-        # The Foundry package browser description
         descriptionHtml: Basic items needed for playing Song of Heroic Lands in the world of Kethira
         authors:
             - name: Toasty
