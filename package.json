@@ -25,7 +25,7 @@
         "distclean": "package-build clean --distclean",
         "build": "npm ci && npm run build:noci",
         "build:local": "npm i && npm run build:noci",
-        "build:noci": "run-s lint build:db build:module",
+        "build:noci": "run-s build:deps lint build:db build:module",
         "build:db": "run-s build:deps build:content-index build:assets build:compiledb",
         "build:deps": "content-build deps fetch",
         "build:assets": "package-build assets",
