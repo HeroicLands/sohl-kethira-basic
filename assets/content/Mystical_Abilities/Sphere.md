@@ -6,12 +6,12 @@ name:
 description: ""
 id: kkFwQo9vfwEjpZqh
 slug: sphere
-img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: sphere
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-fire
   templatePriority: 0
 sohl:
   kbcat: null

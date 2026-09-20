@@ -6,12 +6,12 @@ name:
 description: ""
 id: MONOo4chhMcTu1pG
 slug: jarin
-img: sohl/assets/icons/other/speaking.svg
 shortcode: jarin
 type: skill
 subType: language
 pack: characteristics
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: 0
 sohl:
   kbcat: language

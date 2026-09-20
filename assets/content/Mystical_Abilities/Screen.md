@@ -6,12 +6,12 @@ name:
 description: ""
 id: jRy4NPaJyg9u3mJR
 slug: screen
-img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: screen
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-anvil
   templatePriority: 0
 sohl:
   kbcat: null

@@ -6,12 +6,12 @@ name:
 description: ""
 id: GEPXDZDxV5P6bu0Y
 slug: fervor
-img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: fervor
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-twoshadows
   templatePriority: 0
 sohl:
   kbcat: null

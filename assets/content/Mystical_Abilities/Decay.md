@@ -6,12 +6,12 @@ name:
 description: ""
 id: Rn5TkoHUjQzy8xsL
 slug: decay
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: decay
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

@@ -6,12 +6,12 @@ name:
 description: ""
 id: hfrErdURk7bVOstR
 slug: physique
-img: sohl/assets/icons/game-icons/cathelineau/holy-oak.svg
 shortcode: physique
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-holyoak
   templatePriority: 0
 sohl:
   kbcat: null

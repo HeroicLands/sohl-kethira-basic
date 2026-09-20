@@ -6,12 +6,12 @@ name:
 description: ""
 id: RLfQpp8hmujnbKf0
 slug: rampart
-img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: rampart
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-anvil
   templatePriority: 0
 sohl:
   kbcat: null

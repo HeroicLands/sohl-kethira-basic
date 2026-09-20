@@ -6,12 +6,12 @@ name:
 description: ""
 id: 66a9YrjEUqsOjyvc
 slug: ulana
-img: sohl/assets/icons/noun/circle.svg
 shortcode: ulana
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: sohl-none-icon-circlenn
   templatePriority: 0
 sohl:
   kbcat: ritual

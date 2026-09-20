@@ -6,12 +6,12 @@ name:
 description: ""
 id: v7FPUBi92oDck5UK
 slug: doom-flame
-img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: doomflame
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-fire
   templatePriority: 0
 sohl:
   kbcat: null

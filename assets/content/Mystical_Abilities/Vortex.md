@@ -6,12 +6,12 @@ name:
 description: ""
 id: RGeAyOdiU5RHLGfB
 slug: vortex
-img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: vortex
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-moebiusstar
   templatePriority: 0
 sohl:
   kbcat: null

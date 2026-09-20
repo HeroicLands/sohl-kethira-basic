@@ -6,12 +6,12 @@ name:
 description: ""
 id: sMgbqUmp3LA4W6Ob
 slug: agrik
-img: images/kp-agrik.webp
 shortcode: agrik
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: image-kpagrik
   templatePriority: 0
 sohl:
   kbcat: ritual

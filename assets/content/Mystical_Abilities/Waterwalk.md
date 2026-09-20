@@ -6,12 +6,12 @@ name:
 description: ""
 id: 9r3e5WaHU9WK97yX
 slug: waterwalk
-img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: waterwalk
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-wavecrest
   templatePriority: 0
 sohl:
   kbcat: null

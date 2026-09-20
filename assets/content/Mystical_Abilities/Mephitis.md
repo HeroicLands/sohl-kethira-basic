@@ -6,12 +6,12 @@ name:
 description: ""
 id: ZOmP9gt2NWEp1j02
 slug: mephitis
-img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: mephitis
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-anvil
   templatePriority: 0
 sohl:
   kbcat: null

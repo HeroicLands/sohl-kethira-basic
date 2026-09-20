@@ -14,10 +14,10 @@ relationships:
     systems:
         - id: sohl
           type: system
-          manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/download/v0.8.5/system.json
+          manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/download/v0.8.6/system.json
           compatibility:
               minimum: "0.8.0"
-              verified: "0.8.5"
+              verified: "0.8.6"
           # The `characters` pass resolves a being's embedded items by
           # `(type, shortcode)`, and almost every one of them — `attribute:str`,
           # `skill:init` — belongs to `sohl` rather than to this repository. This
@@ -59,9 +59,9 @@ itemBuilders: sohl
 #
 # So order this list for a reader, not for the compiler: it is also the
 # manifest's `packs` array, which is the sequence Foundry lists the compendiums
-# in. It currently yields `characteristics, mysteries, characters` — the two
-# reference packs, then the actors that draw on them. `characters` stays last
-# because that reads well.
+# in. It currently yields `characteristics, mysteries, journals, characters` —
+# the two reference packs, then the journal entries a being's prose compiles
+# into, then the actors that carry them.
 #
 # One caveat, and it is about a command rather than about this list. The
 # ordering is derived for a *whole-package* build; a run restricted to one pack
@@ -72,6 +72,7 @@ itemBuilders: sohl
 packs:
     - { name: characteristics, label: Characteristics, type: Item }
     - { name: mysteries, label: Mysteries, type: Item }
+    - { name: journals, label: Journals, type: JournalEntry }
     - { name: characters, label: Characters, type: Actor }
 
 # Two separate decisions, easily conflated.
@@ -108,22 +109,17 @@ packs:
 publish:
     site: content
 
-# Where the site build writes, and how this repository frames what it publishes.
-# `out` is required in *both* modes and deliberately not defaulted: the
-# directory is wiped on every run, and an unset value would resolve to the
-# repository root, which `resolveOutputRoot` refuses rather than resolves. The
-# path matches the sibling convention (`sohl-thalorna`); the tree is a build
-# artifact and is gitignored. `publish.address` is absent, so the prefix is its
-# default `""` — this package's content *is* its site, so the tree mounts at the
-# package root and a page publishes at /kethira/<type>-<shortcode>/.
+# How this repository frames what it publishes. `publish.address` is absent,
+# so the prefix is its default `""` — this package's content *is* its site, so
+# the tree mounts at the package root and a page publishes at
+# /kethira/<type>-<shortcode>/.
 site:
-    out: site/content
-    # The host every package's imagery is served from. A note names a file by
-    # the package that owns it and the path inside that package's `assets/`;
-    # this is the half of a web address a build cannot work out for itself, so
-    # `sohl/assets/icons/noun/circle.svg` publishes as
-    # <this>/sohl/icons/noun/circle.svg and `images/kp-agrik.webp` as
-    # <this>/kethira/images/kp-agrik.webp.
+    # The host every package's imagery is served from. An address resolves to
+    # the package that owns the file and the path inside that package's
+    # `assets/`; this is the half of a web address a build cannot work out for
+    # itself, so `sohl-none-icon-circlenn` publishes as
+    # <this>/sohl/icons/noun/circlenn.svg and `image-kpagrik` as
+    # <this>/kethira/images/kpagrik.webp.
     assets: https://cdn.heroiclands.org
     # Every section this package publishes, so /kethira/<section>/ answers with
     # a titled page rather than a directory listing. A section is a note's own
@@ -140,6 +136,36 @@ site:
         mystery: { title: Mysteries }
         mysticalability: { title: Mystical Abilities }
         skill: { title: Skills }
+    # The "page not found" page. Cloudflare Pages serves it with a real 404 for
+    # any unmatched path; without one it falls back to the site root, which is
+    # a soft 404 that reads as success to every link checker there is. Every
+    # route here leaves for a sibling site, since a lost reader has no section
+    # of its own that fits every missed path.
+    notfound:
+        tagline: This module has one page, and it is not at
+        sitenoun: module
+        links:
+            - title: HârnMaster Kethira Basic
+              url: /
+              text: What this module carries, and how to install it.
+            - title: Song of Heroic Lands
+              url: https://www.heroiclands.org/sohl/
+              text: The Foundry VTT system this module is content for.
+            - title: Keléstia Productions
+              url: https://www.kelestia.com/harnmaster
+              text: Where HârnMaster Kethira itself is bought.
+    # The one Hugo key the generator does not write for us: the homepage
+    # reproduces Keléstia's trademark notice verbatim, wrapped in
+    # `markdownlint-disable` comments that let its bare URLs stand unedited.
+    # Goldmark's GFM autolinker would otherwise swallow the closing
+    # parenthesis of `(https://www.kelestia.com/)` into the href, publishing a
+    # required legal notice whose every link points somewhere the notice does
+    # not name.
+    hugo:
+        markup:
+            goldmark:
+                extensions:
+                    linkify: false
 
 packageBuild:
     assets:
@@ -159,7 +185,6 @@ packageBuild:
 
     manifest:
         title: HarnMaster Kethira Basic Items
-        description: Basic items needed for playing Song of Heroic Lands in the world of Kethira
         authors:
             - name: Toasty
               discord: toasty#8538
@@ -176,6 +201,7 @@ packageBuild:
               color: "#008000"
               packs:
                   - characters
+                  - journals
                   - characteristics
                   - mysteries
         flags:

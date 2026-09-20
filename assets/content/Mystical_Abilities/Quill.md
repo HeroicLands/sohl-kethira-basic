@@ -6,12 +6,12 @@ name:
 description: ""
 id: umSVwBGL3pIErzu8
 slug: quill
-img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: quill
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-twoshadows
   templatePriority: 0
 sohl:
   kbcat: null

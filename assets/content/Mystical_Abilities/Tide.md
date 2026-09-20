@@ -6,12 +6,12 @@ name:
 description: ""
 id: eK3LH3Yeuc73HdIn
 slug: tide
-img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: tide
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-wavecrest
   templatePriority: 0
 sohl:
   kbcat: null

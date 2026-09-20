@@ -6,12 +6,12 @@ name:
 description: ""
 id: uHUQlGqPrqR9LKhu
 slug: selenian
-img: sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
 shortcode: selenian
 type: skill
 subType: script
 pack: characteristics
 data:
+  icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
 sohl:
   kbcat: script

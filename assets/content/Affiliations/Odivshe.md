@@ -6,12 +6,12 @@ name:
 description: ""
 id: w4irqtfGtI8KHcb9
 slug: odivshe
-img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: odivshe
 type: affiliation
 subType: arcanetradition
 pack: mysteries
 data:
+  icon: sohl-none-icon-wavecrest
   templatePriority: 0
 sohl:
   kbcat: affiliation

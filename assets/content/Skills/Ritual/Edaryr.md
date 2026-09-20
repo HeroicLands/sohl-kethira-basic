@@ -6,12 +6,12 @@ name:
 description: ""
 id: 7tUvpdHzkI7ISVQx
 slug: edaryr
-img: sohl/assets/icons/noun/circle.svg
 shortcode: edaryr
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: sohl-none-icon-circlenn
   templatePriority: 0
 sohl:
   kbcat: ritual

@@ -6,12 +6,12 @@ name:
 description: ""
 id: c6TTc2Ax2tjiyWcV
 slug: lado
-img: sohl/assets/icons/other/astrology.svg
 shortcode: lado
 type: mystery
 subType: birthsign
 pack: mysteries
 data:
+  icon: sohl-none-icon-astrology
   templatePriority: 0
 sohl:
   kbcat: sunsign

@@ -6,12 +6,12 @@ name:
 description: ""
 id: KUGAAtAfER0lzBYy
 slug: restoration
-img: sohl/assets/icons/game-icons/lorc/anvil.svg
 shortcode: restoration
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-anvil
   templatePriority: 0
 sohl:
   kbcat: null

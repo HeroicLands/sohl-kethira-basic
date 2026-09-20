@@ -6,12 +6,12 @@ name:
 description: ""
 id: qLBwbW8AQBquZWz9
 slug: sensation
-img: sohl/assets/icons/game-icons/lorc/two-shadows.svg
 shortcode: sensation
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-twoshadows
   templatePriority: 0
 sohl:
   kbcat: null

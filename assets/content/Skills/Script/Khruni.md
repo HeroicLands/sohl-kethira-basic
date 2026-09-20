@@ -6,12 +6,12 @@ name:
 description: ""
 id: Soq0vRso2XXolGH7
 slug: khruni
-img: sohl/assets/icons/game-icons/lorc/scroll-unfurled.svg
 shortcode: khruni
 type: skill
 subType: script
 pack: characteristics
 data:
+  icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
 sohl:
   kbcat: script

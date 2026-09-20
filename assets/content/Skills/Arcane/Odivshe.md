@@ -6,12 +6,12 @@ name:
 description: ""
 id: CDXslJIQbILfLiDA
 slug: odivshe
-img: sohl/assets/icons/game-icons/lorc/wave-crest.svg
 shortcode: odivshe
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: sohl-none-icon-wavecrest
   templatePriority: 0
 sohl:
   kbcat: arcane

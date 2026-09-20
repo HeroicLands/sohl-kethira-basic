@@ -6,12 +6,12 @@ name:
 description: ""
 id: KOpWN5lb4ia3cHo9
 slug: bane
-img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: bane
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-moebiusstar
   templatePriority: 0
 sohl:
   kbcat: null

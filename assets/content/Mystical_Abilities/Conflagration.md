@@ -6,12 +6,12 @@ name:
 description: ""
 id: HKWL5hJh4F4UKQGt
 slug: conflagration
-img: sohl/assets/icons/game-icons/sbed/fire.svg
 shortcode: conflagration
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-fire
   templatePriority: 0
 sohl:
   kbcat: null

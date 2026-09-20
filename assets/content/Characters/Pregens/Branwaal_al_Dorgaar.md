@@ -7,8 +7,6 @@ id: VfzFVeRATnKSMwzz
 packFolder: characters
 shortcode: branwaalaldorgaar
 slug: branwaal-al-dorgaar
-img: sohl/assets/icons/game-icons/delapouite/person.svg
-portrait: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 pack: characters
 social:
@@ -17,6 +15,7 @@ social:
   class: ""
   society: ""
 data:
+  icon: sohl-none-icon-person
   templatePriority: 1
   gender: unknown
   age: 33

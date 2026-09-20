@@ -6,12 +6,12 @@ name:
 description: ""
 id: fUDhikuD8BfYKQ6s
 slug: kantal
-img: sohl/assets/icons/other/speaking.svg
 shortcode: kantal
 type: skill
 subType: language
 pack: characteristics
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: 100
 sohl:
   kbcat: language

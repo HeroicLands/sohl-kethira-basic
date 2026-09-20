@@ -6,12 +6,12 @@ name:
 description: ""
 id: 4cklnUPcocTdOXWu
 slug: absorb
-img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: absorb
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-moebiusstar
   templatePriority: 0
 sohl:
   kbcat: null

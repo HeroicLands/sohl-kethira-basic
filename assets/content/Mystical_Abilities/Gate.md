@@ -6,12 +6,12 @@ name:
 description: ""
 id: n5wh31TKs62PrALm
 slug: gate
-img: sohl/assets/icons/game-icons/lorc/moebius-star.svg
 shortcode: gate
 type: mysticalability
 subType: arcaneincantation
 pack: mysteries
 data:
+  icon: sohl-none-icon-moebiusstar
   templatePriority: 0
 sohl:
   kbcat: null

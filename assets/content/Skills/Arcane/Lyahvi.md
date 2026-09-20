@@ -6,12 +6,12 @@ name:
 description: ""
 id: XvFX3BgxHF2MVCwj
 slug: lyahvi
-img: sohl/assets/icons/game-icons/lorc/whirlwind.svg
 shortcode: lyahvi
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: sohl-none-icon-whirlwind
   templatePriority: 0
 sohl:
   kbcat: arcane

@@ -6,12 +6,12 @@ name:
 description: ""
 id: Hq5ElECJNU3ebG7P
 slug: elarana
-img: sohl/assets/icons/noun/circle.svg
 shortcode: elarana
 type: affiliation
 subType: faithtradition
 pack: mysteries
 data:
+  icon: sohl-none-icon-circlenn
   templatePriority: 0
 sohl:
   kbcat: affiliation

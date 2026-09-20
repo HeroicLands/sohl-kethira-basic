@@ -6,12 +6,12 @@ name:
 description: ""
 id: 1CIfdazeKD5unKwu
 slug: elarana
-img: sohl/assets/icons/noun/circle.svg
 shortcode: elarana
 type: skill
 subType: mystical
 pack: characteristics
 data:
+  icon: sohl-none-icon-circlenn
   templatePriority: 0
 sohl:
   kbcat: ritual
