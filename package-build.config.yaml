@@ -72,6 +72,8 @@ site:
     # `(https://www.kelestia.com/)` into the href, breaking a link in a
     # required legal notice.
     hugo:
+        params:
+            search: true
         markup:
             goldmark:
                 extensions:
