@@ -3,7 +3,7 @@ tags: []
 name:
   full: Ward
   aliases: []
-description: "Ward is a neutral arcane incantation."
+description: "Ward is an arcane incantation of the Neutral convocation."
 id: 7MdmH180C57trJ1m
 slug: ward
 shortcode: ward

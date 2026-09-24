@@ -3,7 +3,7 @@ tags: []
 name:
   full: Converse
   aliases: []
-description: "Converse is a neutral arcane incantation."
+description: "Converse is an arcane incantation of the Neutral convocation."
 id: MvTVrdynlQF2CqkE
 slug: converse
 shortcode: converse

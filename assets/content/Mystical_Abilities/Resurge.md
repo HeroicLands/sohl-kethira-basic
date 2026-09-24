@@ -3,7 +3,7 @@ tags: []
 name:
   full: Resurge
   aliases: []
-description: "Resurge is a neutral arcane incantation."
+description: "Resurge is an arcane incantation of the Neutral convocation."
 id: UvR8MDjZlg8I3GEX
 slug: resurge
 shortcode: resurge

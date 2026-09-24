@@ -3,7 +3,7 @@ tags: []
 name:
   full: Vessel
   aliases: []
-description: "Vessel is a neutral arcane incantation."
+description: "Vessel is an arcane incantation of the Neutral convocation."
 id: QT3FEq9aroxJPaP8
 slug: vessel
 shortcode: vessel

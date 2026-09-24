@@ -3,7 +3,7 @@ tags: []
 name:
   full: Aegis
   aliases: []
-description: "Aegis is a neutral arcane incantation."
+description: "Aegis is an arcane incantation of the Neutral convocation."
 id: 4rWnT58B2YitcEfB
 slug: aegis
 shortcode: aegis

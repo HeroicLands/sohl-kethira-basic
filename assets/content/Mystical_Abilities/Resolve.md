@@ -3,7 +3,7 @@ tags: []
 name:
   full: Resolve
   aliases: []
-description: "Resolve is a neutral arcane incantation."
+description: "Resolve is an arcane incantation of the Neutral convocation."
 id: Zb4XmgAkGUClnt42
 slug: resolve
 shortcode: resolve
