@@ -3,7 +3,7 @@ tags: []
 name:
   full: Image
   aliases: []
-description: ""
+description: "Image is an arcane incantation of the Lyáhvi convocation."
 id: 7vZBy2CoXLnkn6zL
 slug: image
 shortcode: image

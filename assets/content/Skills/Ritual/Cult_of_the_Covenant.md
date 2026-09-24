@@ -3,7 +3,7 @@ tags: []
 name:
   full: Cult of the Covenant
   aliases: []
-description: ""
+description: "Cult of the Covenant is a mystical skill."
 id: liCBbVMwqkxXvutz
 slug: cult-of-the-covenant
 shortcode: cultcovenant

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Chéler
   aliases: []
-description: ""
+description: "Chéler is a language."
 id: 0tbEqvhpocGmcWVH
 slug: cheler
 shortcode: cheler

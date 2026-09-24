@@ -3,7 +3,7 @@ tags: []
 name:
   full: Lance
   aliases: []
-description: ""
+description: "Lance is an arcane incantation of the Jmôrvi convocation."
 id: 9HMnaGx1T7bMTRos
 slug: lance
 shortcode: lance

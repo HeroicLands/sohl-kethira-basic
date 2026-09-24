@@ -3,7 +3,7 @@ tags: []
 name:
   full: Sàvôrya
   aliases: []
-description: ""
+description: "Sàvôrya is a mystical skill."
 id: mw1tSeSda9RtkB2E
 slug: savorya
 shortcode: savorya

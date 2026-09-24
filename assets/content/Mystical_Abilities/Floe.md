@@ -3,7 +3,7 @@ tags: []
 name:
   full: Floe
   aliases: []
-description: ""
+description: "Floe is an arcane incantation of the Odívshè convocation."
 id: 1AL3MdbG3qboSQ9o
 slug: floe
 shortcode: floe

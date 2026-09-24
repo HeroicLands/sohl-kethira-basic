@@ -3,7 +3,7 @@ tags: []
 name:
   full: Beckon
   aliases: []
-description: ""
+description: "Beckon is an arcane incantation of the Fývria convocation."
 id: IhZX7McIszH92nPQ
 slug: beckon
 shortcode: beckon

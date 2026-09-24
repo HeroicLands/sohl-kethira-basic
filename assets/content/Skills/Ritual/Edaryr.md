@@ -3,7 +3,7 @@ tags: []
 name:
   full: Edâryr
   aliases: []
-description: ""
+description: "Edâryr is a mystical skill."
 id: 7tUvpdHzkI7ISVQx
 slug: edaryr
 shortcode: edaryr

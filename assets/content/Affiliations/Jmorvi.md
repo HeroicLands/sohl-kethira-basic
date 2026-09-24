@@ -3,7 +3,7 @@ tags: []
 name:
   full: Jmôrvi
   aliases: []
-description: ""
+description: "Jmôrvi is an arcane convocation."
 id: pRNkSYNgEu7GOB8r
 slug: jmorvi
 shortcode: jmorvi

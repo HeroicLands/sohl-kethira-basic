@@ -3,7 +3,7 @@ tags: []
 name:
   full: Flash
   aliases: []
-description: ""
+description: "Flash is an arcane incantation of the Lyáhvi convocation."
 id: T2b97OcmVQaPPvDU
 slug: flash
 shortcode: flash

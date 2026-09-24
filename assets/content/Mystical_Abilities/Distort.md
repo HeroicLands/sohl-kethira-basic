@@ -3,7 +3,7 @@ tags: []
 name:
   full: Distort
   aliases: []
-description: ""
+description: "Distort is an arcane incantation of the Neutral convocation."
 id: 5N2iVqEOuPNILfeT
 slug: distort
 shortcode: distort

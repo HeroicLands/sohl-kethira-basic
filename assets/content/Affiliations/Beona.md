@@ -3,7 +3,7 @@ tags: []
 name:
   full: Beóna
   aliases: []
-description: ""
+description: "Beóna is a faith tradition."
 id: JYh1o1V8Gg5PQlov
 slug: beona
 shortcode: beona

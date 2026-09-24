@@ -3,7 +3,7 @@ tags: []
 name:
   full: Pèleáhn
   aliases: []
-description: ""
+description: "Pèleáhn is a mystical skill."
 id: mz9bCjPmh8SuX9QE
 slug: peleahn
 shortcode: peleahn

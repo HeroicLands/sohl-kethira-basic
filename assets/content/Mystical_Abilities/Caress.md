@@ -3,7 +3,7 @@ tags: []
 name:
   full: Caress
   aliases: []
-description: ""
+description: "Caress is an arcane incantation of the Pèleáhn convocation."
 id: RaAWytgUhHcoTaQ0
 slug: caress
 shortcode: caress

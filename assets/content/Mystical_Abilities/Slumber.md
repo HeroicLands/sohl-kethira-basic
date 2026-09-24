@@ -3,7 +3,7 @@ tags: []
 name:
   full: Slumber
   aliases: []
-description: ""
+description: "Slumber is an arcane incantation of the Fývria convocation."
 id: 51YJZfeaEUTUJ4k9
 slug: slumber
 shortcode: slumber

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Ziém
   aliases: []
-description: ""
+description: "Ziém is a mystical skill."
 id: VapTwmCTNH03SfQe
 slug: ziem
 shortcode: ziem

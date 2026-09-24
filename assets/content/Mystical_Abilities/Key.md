@@ -3,7 +3,7 @@ tags: []
 name:
   full: Key
   aliases: []
-description: ""
+description: "Key is an arcane incantation of the Sàvôrya convocation."
 id: LNewH8bidhMygBXJ
 slug: key
 shortcode: key

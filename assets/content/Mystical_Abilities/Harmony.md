@@ -3,7 +3,7 @@ tags: []
 name:
   full: Harmony
   aliases: []
-description: ""
+description: "Harmony is an arcane incantation of the Sàvôrya convocation."
 id: ZEv9oDErodUgzc0F
 slug: harmony
 shortcode: harmony

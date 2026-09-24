@@ -3,7 +3,7 @@ tags: []
 name:
   full: Heat
   aliases: []
-description: ""
+description: "Heat is an arcane incantation of the Pèleáhn convocation."
 id: 4LJHumuc2RoXuuzU
 slug: heat
 shortcode: heat

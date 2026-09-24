@@ -3,7 +3,7 @@ tags: []
 name:
   full: Siém
   aliases: []
-description: ""
+description: "Siém is a faith tradition."
 id: wWta7yv10NiPZ4kU
 slug: siem
 shortcode: siem

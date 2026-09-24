@@ -3,7 +3,7 @@ tags: []
 name:
   full: Detect
   aliases: []
-description: ""
+description: "Detect is an arcane incantation of the Neutral convocation."
 id: w3gqLC16lNGXIkwm
 slug: detect
 shortcode: detect

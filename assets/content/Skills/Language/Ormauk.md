@@ -3,7 +3,7 @@ tags: []
 name:
   full: Ormauk
   aliases: []
-description: ""
+description: "Ormauk is a language."
 id: qXjITjPhnyoyJdDi
 slug: ormauk
 shortcode: ormauk

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Haléa
   aliases: []
-description: ""
+description: "Haléa is a faith tradition."
 id: urYK2XuIjOlxb0qm
 slug: halea
 shortcode: halea

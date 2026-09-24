@@ -3,7 +3,7 @@ tags: []
 name:
   full: Sináin
   aliases: []
-description: ""
+description: "Sináin is a language."
 id: LWeU0oyWUWd6KM9V
 slug: sinain
 shortcode: sinain

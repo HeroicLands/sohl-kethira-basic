@@ -3,7 +3,7 @@ tags: []
 name:
   full: Býrian
   aliases: []
-description: ""
+description: "Býrian is a language."
 id: GOKBR8YjJPMz4XrM
 slug: byrian
 shortcode: byrian

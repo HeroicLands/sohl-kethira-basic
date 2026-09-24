@@ -3,7 +3,7 @@ tags: []
 name:
   full: Sárajìn
   aliases: []
-description: ""
+description: "Sárajìn is a faith tradition."
 id: aR5OppO1KB3vAJVl
 slug: sarajin
 shortcode: sarajin

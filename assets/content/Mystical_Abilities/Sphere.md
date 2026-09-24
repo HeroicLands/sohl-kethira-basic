@@ -3,7 +3,7 @@ tags: []
 name:
   full: Sphere
   aliases: []
-description: ""
+description: "Sphere is an arcane incantation of the Pèleáhn convocation."
 id: kkFwQo9vfwEjpZqh
 slug: sphere
 shortcode: sphere

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Enrichment
   aliases: []
-description: ""
+description: "Enrichment is an arcane incantation of the Sàvôrya convocation."
 id: y05pfQtRevRkvwUc
 slug: enrichment
 shortcode: enrichment

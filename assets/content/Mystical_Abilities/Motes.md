@@ -3,7 +3,7 @@ tags: []
 name:
   full: Motes
   aliases: []
-description: ""
+description: "Motes is an arcane incantation of the Lyáhvi convocation."
 id: U8Tfw6JUQZqF6P7Z
 slug: motes
 shortcode: motes

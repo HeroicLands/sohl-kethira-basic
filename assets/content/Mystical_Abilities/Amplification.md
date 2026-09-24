@@ -3,7 +3,7 @@ tags: []
 name:
   full: Amplification
   aliases: []
-description: ""
+description: "Amplification is an arcane talent."
 id: f2kNbG0MoglMLN31
 slug: amplification
 shortcode: ampl

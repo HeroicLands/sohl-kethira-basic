@@ -3,7 +3,7 @@ tags: []
 name:
   full: Dispel
   aliases: []
-description: ""
+description: "Dispel is an arcane incantation of the Neutral convocation."
 id: t3WjLPazVJ2txXW2
 slug: dispel
 shortcode: dispel

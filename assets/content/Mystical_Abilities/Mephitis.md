@@ -3,7 +3,7 @@ tags: []
 name:
   full: Mephitis
   aliases: []
-description: ""
+description: "Mephitis is an arcane incantation of the Jmôrvi convocation."
 id: ZOmP9gt2NWEp1j02
 slug: mephitis
 shortcode: mephitis

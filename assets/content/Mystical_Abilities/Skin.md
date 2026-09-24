@@ -3,7 +3,7 @@ tags: []
 name:
   full: Skin
   aliases: []
-description: ""
+description: "Skin is an arcane incantation of the Pèleáhn convocation."
 id: p5lbEKLL77uX7IjS
 slug: skin
 shortcode: skin

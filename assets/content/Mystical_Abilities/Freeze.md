@@ -3,7 +3,7 @@ tags: []
 name:
   full: Freeze
   aliases: []
-description: ""
+description: "Freeze is an arcane incantation of the Odívshè convocation."
 id: BH8BdFUkA6lWOdnu
 slug: freeze
 shortcode: freeze

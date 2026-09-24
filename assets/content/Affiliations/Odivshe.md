@@ -3,7 +3,7 @@ tags: []
 name:
   full: Odívshè
   aliases: []
-description: ""
+description: "Odívshè is an arcane convocation."
 id: w4irqtfGtI8KHcb9
 slug: odivshe
 shortcode: odivshe

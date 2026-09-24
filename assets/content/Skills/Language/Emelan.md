@@ -3,7 +3,7 @@ tags: []
 name:
   full: Emélan
   aliases: []
-description: ""
+description: "Emélan is a language."
 id: xNVWK8WcTKT0J9M7
 slug: emelan
 shortcode: emelan

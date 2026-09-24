@@ -3,7 +3,7 @@ tags: []
 name:
   full: Númer
   aliases: []
-description: ""
+description: "Númer is a language."
 id: ey308gnG0KhUpa25
 slug: numer
 shortcode: numer

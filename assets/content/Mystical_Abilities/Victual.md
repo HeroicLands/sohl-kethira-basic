@@ -3,7 +3,7 @@ tags: []
 name:
   full: Victual
   aliases: []
-description: ""
+description: "Victual is an arcane incantation of the Fývria convocation."
 id: DAD2bDrEe7pGrhew
 slug: victual
 shortcode: victual

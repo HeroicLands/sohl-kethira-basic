@@ -3,7 +3,7 @@ tags: []
 name:
   full: Charm
   aliases: []
-description: ""
+description: "Charm is an arcane incantation of the Jmôrvi convocation."
 id: CI9E4FD108ZM2CnU
 slug: charm
 shortcode: charm

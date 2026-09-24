@@ -3,7 +3,7 @@ tags: []
 name:
   full: Doom Curtain
   aliases: []
-description: ""
+description: "Doom Curtain is an arcane incantation of the Pèleáhn convocation."
 id: MxDw4xt3jVBJQ7DX
 slug: doom-curtain
 shortcode: doomcurtain

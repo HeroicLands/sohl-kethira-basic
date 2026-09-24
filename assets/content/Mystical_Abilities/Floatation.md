@@ -3,7 +3,7 @@ tags: []
 name:
   full: Floatation
   aliases: []
-description: ""
+description: "Floatation is an arcane incantation of the Odívshè convocation."
 id: ZP4o5LVcv9L5IJeA
 slug: floatation
 shortcode: floatation

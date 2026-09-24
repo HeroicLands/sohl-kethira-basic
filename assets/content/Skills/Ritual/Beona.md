@@ -3,7 +3,7 @@ tags: []
 name:
   full: Beóna
   aliases: []
-description: ""
+description: "Beóna is a mystical skill."
 id: wfKOgAMkZRBgrkfN
 slug: beona
 shortcode: beona

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Steel
   aliases: []
-description: ""
+description: "Steel is an arcane incantation of the Jmôrvi convocation."
 id: bNuxM9BBWfGMcg9k
 slug: steel
 shortcode: steel

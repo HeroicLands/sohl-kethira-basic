@@ -3,7 +3,7 @@ tags: []
 name:
   full: Lustre
   aliases: []
-description: ""
+description: "Lustre is an arcane incantation of the Jmôrvi convocation."
 id: Sp97AeVclUVxJfSx
 slug: lustre
 shortcode: lustre

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Angberélius-Nadái
   aliases: []
-description: ""
+description: "Angberélius-Nadái is a birthsign."
 id: TdjxTKZFnadjcNx8
 slug: angberelius-nadai
 shortcode: angbereliusnadai

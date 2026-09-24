@@ -3,7 +3,7 @@ tags: []
 name:
   full: Cecity
   aliases: []
-description: ""
+description: "Cecity is an arcane incantation of the Lyáhvi convocation."
 id: q20iSXHQBL1h42TY
 slug: cecity
 shortcode: cecity

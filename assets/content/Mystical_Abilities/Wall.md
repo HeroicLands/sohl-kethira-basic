@@ -3,7 +3,7 @@ tags: []
 name:
   full: Wall
   aliases: []
-description: ""
+description: "Wall is an arcane incantation of the Pèleáhn convocation."
 id: Da3ERtYbqZrjaeov
 slug: wall
 shortcode: wall

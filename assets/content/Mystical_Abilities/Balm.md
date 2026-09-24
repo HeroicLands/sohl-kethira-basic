@@ -3,7 +3,7 @@ tags: []
 name:
   full: Balm
   aliases: []
-description: ""
+description: "Balm is an arcane incantation of the Fývria convocation."
 id: NOsSmUI9oIcVWg3M
 slug: balm
 shortcode: balm

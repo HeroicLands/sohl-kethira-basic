@@ -3,7 +3,7 @@ tags: []
 name:
   full: Lens
   aliases: []
-description: ""
+description: "Lens is an arcane incantation of the Lyáhvi convocation."
 id: JnwmH3vGjqd2wudU
 slug: lens
 shortcode: lens

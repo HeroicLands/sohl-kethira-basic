@@ -3,7 +3,7 @@ tags: []
 name:
   full: Breath of Dhivu
   aliases: []
-description: ""
+description: "Breath of Dhivu is an arcane incantation of the Odívshè convocation."
 id: 8SSaJWbQlr3LDRUM
 slug: breath-of-dhivu
 shortcode: breathofdhivu

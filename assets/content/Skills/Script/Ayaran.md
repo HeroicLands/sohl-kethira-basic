@@ -3,7 +3,7 @@ tags: []
 name:
   full: Ayâran
   aliases: []
-description: ""
+description: "Ayâran is a script."
 id: kAI2d1vXajl7XdD7
 slug: ayaran
 shortcode: ayaran

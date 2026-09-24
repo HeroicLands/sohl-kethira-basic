@@ -3,7 +3,7 @@ tags: []
 name:
   full: Mend
   aliases: []
-description: ""
+description: "Mend is an arcane incantation of the Jmôrvi convocation."
 id: 3QXOH70UQvBERPtC
 slug: mend
 shortcode: mend

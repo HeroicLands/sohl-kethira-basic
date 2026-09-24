@@ -3,7 +3,7 @@ tags: []
 name:
   full: Ládo-Ùlándus
   aliases: []
-description: ""
+description: "Ládo-Ùlándus is a birthsign."
 id: lXWpXFfh9Dbw3vJt
 slug: lado-ulandus
 shortcode: ladoulandus

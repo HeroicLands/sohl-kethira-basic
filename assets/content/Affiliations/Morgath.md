@@ -3,7 +3,7 @@ tags: []
 name:
   full: Môrgath
   aliases: []
-description: ""
+description: "Môrgath is a faith tradition."
 id: 8C7DlJGxOcDBQNmB
 slug: morgath
 shortcode: morgath

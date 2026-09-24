@@ -3,7 +3,7 @@ tags: []
 name:
   full: Pálithàner
   aliases: []
-description: ""
+description: "Pálithàner is a language."
 id: N21J8mDOazsflqZR
 slug: palithaner
 shortcode: palithaner

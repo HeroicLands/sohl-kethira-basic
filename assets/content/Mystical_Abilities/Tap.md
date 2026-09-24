@@ -3,7 +3,7 @@ tags: []
 name:
   full: Tap
   aliases: []
-description: ""
+description: "Tap is an arcane incantation of the Neutral convocation."
 id: bTmEYm5rbRbjYt8r
 slug: tap
 shortcode: tap

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Arálius
   aliases: []
-description: ""
+description: "Arálius is a birthsign."
 id: ob9DL9Qd3GZOaXIE
 slug: aralius
 shortcode: aralius

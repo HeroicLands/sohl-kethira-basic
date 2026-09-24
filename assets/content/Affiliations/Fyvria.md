@@ -3,7 +3,7 @@ tags: []
 name:
   full: Fývria
   aliases: []
-description: ""
+description: "Fývria is an arcane convocation."
 id: a6vlnDVE1tKJS9On
 slug: fyvria
 shortcode: fyvria

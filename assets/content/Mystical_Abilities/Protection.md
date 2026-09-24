@@ -3,7 +3,7 @@ tags: []
 name:
   full: Protection
   aliases: []
-description: ""
+description: "Protection is an arcane incantation of the Jmôrvi convocation."
 id: 7NvRLREmWG5n5IP3
 slug: protection
 shortcode: protection

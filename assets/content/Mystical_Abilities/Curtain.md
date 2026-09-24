@@ -3,7 +3,7 @@ tags: []
 name:
   full: Curtain
   aliases: []
-description: ""
+description: "Curtain is an arcane incantation of the Lyáhvi convocation."
 id: LGmQXvPQtiaCyxSD
 slug: curtain
 shortcode: curtain

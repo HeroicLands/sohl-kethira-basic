@@ -3,7 +3,7 @@ tags: []
 name:
   full: Arálius-Fenéri
   aliases: []
-description: ""
+description: "Arálius-Fenéri is a birthsign."
 id: TBfKIrDH7Oj8axKT
 slug: aralius-feneri
 shortcode: araliusfeneri

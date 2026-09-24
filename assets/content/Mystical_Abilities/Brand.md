@@ -3,7 +3,7 @@ tags: []
 name:
   full: Brand
   aliases: []
-description: ""
+description: "Brand is an arcane incantation of the Pèleáhn convocation."
 id: lII4PIV0ubNeG74j
 slug: brand
 shortcode: brand

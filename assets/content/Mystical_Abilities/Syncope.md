@@ -3,7 +3,7 @@ tags: []
 name:
   full: Syncope
   aliases: []
-description: ""
+description: "Syncope is an arcane incantation of the Fývria convocation."
 id: HddpzPlLN7K5RU8v
 slug: syncope
 shortcode: syncope

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Counter
   aliases: []
-description: ""
+description: "Counter is an arcane incantation of the Neutral convocation."
 id: Dyw5wQ6omn2ar1sG
 slug: counter
 shortcode: counter

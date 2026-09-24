@@ -3,7 +3,7 @@ tags: []
 name:
   full: Cult of the Covenant
   aliases: []
-description: ""
+description: "Cult of the Covenant is a faith tradition."
 id: biynYaIWdpHXUw8O
 slug: cult-of-the-covenant
 shortcode: cultcovenant

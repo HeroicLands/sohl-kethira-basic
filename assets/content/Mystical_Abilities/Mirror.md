@@ -3,7 +3,7 @@ tags: []
 name:
   full: Mirror
   aliases: []
-description: ""
+description: "Mirror is an arcane incantation of the Lyáhvi convocation."
 id: vbqeHTlmObvyegWR
 slug: mirror
 shortcode: mirror

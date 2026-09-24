@@ -3,7 +3,7 @@ tags: []
 name:
   full: Disembodiment
   aliases: []
-description: ""
+description: "Disembodiment is an arcane talent."
 id: q282j5zXN7yLMo70
 slug: disembodiment
 shortcode: dsbd

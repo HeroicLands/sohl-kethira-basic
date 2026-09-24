@@ -3,7 +3,7 @@ tags: []
 name:
   full: Thought
   aliases: []
-description: ""
+description: "Thought is an arcane incantation of the Sàvôrya convocation."
 id: zLzo8ELZGI8qVdw0
 slug: thought
 shortcode: thought

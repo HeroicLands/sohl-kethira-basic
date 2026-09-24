@@ -3,7 +3,7 @@ tags: []
 name:
   full: Dowsing
   aliases: []
-description: ""
+description: "Dowsing is an arcane incantation of the Odívshè convocation."
 id: A68qXZ5QfGVD3hix
 slug: dowsing
 shortcode: dowsing

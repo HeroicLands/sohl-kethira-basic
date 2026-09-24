@@ -3,7 +3,7 @@ tags: []
 name:
   full: Swordbreaker
   aliases: []
-description: ""
+description: "Swordbreaker is an arcane incantation of the Jmôrvi convocation."
 id: LEFwZkpUz9kdwQOA
 slug: swordbreaker
 shortcode: swordbreaker

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Globe
   aliases: []
-description: ""
+description: "Globe is an arcane incantation of the Lyáhvi convocation."
 id: NuNEPI3lHcrZkfrU
 slug: globe
 shortcode: globe

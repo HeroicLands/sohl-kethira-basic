@@ -3,7 +3,7 @@ tags: []
 name:
   full: Sávè-K'nôr
   aliases: []
-description: ""
+description: "Sávè-K'nôr is a faith tradition."
 id: KreoPNkvT6zOFDEp
 slug: save-k-nor
 shortcode: saveknor

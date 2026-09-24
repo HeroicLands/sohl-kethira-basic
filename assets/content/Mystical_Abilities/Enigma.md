@@ -3,7 +3,7 @@ tags: []
 name:
   full: Enigma
   aliases: []
-description: ""
+description: "Enigma is an arcane incantation of the Odívshè convocation."
 id: 7rupfaG2Ozl1csPN
 slug: enigma
 shortcode: enigma

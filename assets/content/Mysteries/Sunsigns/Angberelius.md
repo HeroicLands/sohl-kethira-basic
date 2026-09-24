@@ -3,7 +3,7 @@ tags: []
 name:
   full: Angberélius
   aliases: []
-description: ""
+description: "Angberélius is a birthsign."
 id: hSyl2FBaJd2z4cBw
 slug: angberelius
 shortcode: angberelius

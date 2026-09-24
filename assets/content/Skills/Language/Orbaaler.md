@@ -3,7 +3,7 @@ tags: []
 name:
   full: Orbáaler
   aliases: []
-description: ""
+description: "Orbáaler is a language."
 id: pkfOMri14HCwlxt2
 slug: orbaaler
 shortcode: orbaaler

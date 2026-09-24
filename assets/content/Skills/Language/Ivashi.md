@@ -3,7 +3,7 @@ tags: []
 name:
   full: Ivashi
   aliases: []
-description: ""
+description: "Ivashi is a language."
 id: dA4dgGTRAcDuXRBI
 slug: ivashi
 shortcode: ivashi

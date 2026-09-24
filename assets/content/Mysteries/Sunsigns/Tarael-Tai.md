@@ -3,7 +3,7 @@ tags: []
 name:
   full: Táræl-Tai
   aliases: []
-description: ""
+description: "Táræl-Tai is a birthsign."
 id: tdc6S9CPTVAHpccG
 slug: tarael-tai
 shortcode: taraeltai

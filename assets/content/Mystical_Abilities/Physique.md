@@ -3,7 +3,7 @@ tags: []
 name:
   full: Physique
   aliases: []
-description: ""
+description: "Physique is an arcane incantation of the Fývria convocation."
 id: hfrErdURk7bVOstR
 slug: physique
 shortcode: physique

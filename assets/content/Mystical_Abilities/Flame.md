@@ -3,7 +3,7 @@ tags: []
 name:
   full: Flame
   aliases: []
-description: ""
+description: "Flame is an arcane incantation of the Pèleáhn convocation."
 id: uxBGtKxkIMylgjDw
 slug: flame
 shortcode: flame

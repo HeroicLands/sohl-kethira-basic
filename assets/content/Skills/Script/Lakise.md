@@ -3,7 +3,7 @@ tags: []
 name:
   full: Lakíse
   aliases: []
-description: ""
+description: "Lakíse is a script."
 id: DiFLbQpEF1ZJm262
 slug: lakise
 shortcode: lakise

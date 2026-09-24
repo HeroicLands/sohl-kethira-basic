@@ -3,7 +3,7 @@ tags: []
 name:
   full: Cloak
   aliases: []
-description: ""
+description: "Cloak is an arcane incantation of the Pèleáhn convocation."
 id: X9BIekcWvIEgvoJP
 slug: cloak
 shortcode: cloak

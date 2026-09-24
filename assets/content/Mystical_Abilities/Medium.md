@@ -3,7 +3,7 @@ tags: []
 name:
   full: Medium
   aliases: []
-description: ""
+description: "Medium is an arcane talent."
 id: 1en6JNnWt9zGfQxn
 slug: medium
 shortcode: medm

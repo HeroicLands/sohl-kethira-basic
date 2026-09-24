@@ -3,7 +3,7 @@ tags: []
 name:
   full: Suggestion
   aliases: []
-description: ""
+description: "Suggestion is an arcane incantation of the Sàvôrya convocation."
 id: MKFGj6l9AyUHpb19
 slug: suggestion
 shortcode: suggestion

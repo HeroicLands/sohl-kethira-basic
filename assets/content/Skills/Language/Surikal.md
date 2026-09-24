@@ -3,7 +3,7 @@ tags: []
 name:
   full: Surikal
   aliases: []
-description: ""
+description: "Surikal is a language."
 id: j8hikYNaljD8eqz1
 slug: surikal
 shortcode: surikal

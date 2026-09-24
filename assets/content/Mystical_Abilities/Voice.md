@@ -3,7 +3,7 @@ tags: []
 name:
   full: Voice
   aliases: []
-description: ""
+description: "Voice is an arcane incantation of the Lyáhvi convocation."
 id: Gkl82efMX2SCkGhF
 slug: voice
 shortcode: voice

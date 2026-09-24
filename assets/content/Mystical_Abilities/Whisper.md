@@ -3,7 +3,7 @@ tags: []
 name:
   full: Whisper
   aliases: []
-description: ""
+description: "Whisper is an arcane incantation of the Lyáhvi convocation."
 id: vm5f8mrpSO1q3BbV
 slug: whisper
 shortcode: whisper

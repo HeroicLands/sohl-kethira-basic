@@ -3,7 +3,7 @@ tags: []
 name:
   full: Selénian
   aliases: []
-description: ""
+description: "Selénian is a script."
 id: uHUQlGqPrqR9LKhu
 slug: selenian
 shortcode: selenian

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Hîrin-Táræl
   aliases: []
-description: ""
+description: "Hîrin-Táræl is a birthsign."
 id: 5NYNbAPWe43ymyKZ
 slug: hirin-tarael
 shortcode: hirintarael

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Guardian
   aliases: []
-description: ""
+description: "Guardian is an arcane incantation of the Fývria convocation."
 id: atwfc9lM9OnT4lKv
 slug: guardian
 shortcode: guardian

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Prism
   aliases: []
-description: ""
+description: "Prism is an arcane incantation of the Lyáhvi convocation."
 id: GonumZZ1ih1BVGgW
 slug: prism
 shortcode: prism

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Well
   aliases: []
-description: ""
+description: "Well is an arcane incantation of the Neutral convocation."
 id: XE7xdSOYuYse055V
 slug: well
 shortcode: well

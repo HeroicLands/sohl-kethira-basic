@@ -3,7 +3,7 @@ tags: []
 name:
   full: Screen
   aliases: []
-description: ""
+description: "Screen is an arcane incantation of the Jmôrvi convocation."
 id: jRy4NPaJyg9u3mJR
 slug: screen
 shortcode: screen

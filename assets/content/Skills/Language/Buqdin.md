@@ -3,7 +3,7 @@ tags: []
 name:
   full: Búqdin
   aliases: []
-description: ""
+description: "Búqdin is a language."
 id: jiZ1XFCAywuCSzav
 slug: buqdin
 shortcode: buqdin

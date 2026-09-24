@@ -3,7 +3,7 @@ tags: []
 name:
   full: Enervation
   aliases: []
-description: ""
+description: "Enervation is an arcane incantation of the Sàvôrya convocation."
 id: NNuUGcCZk1FgGUlb
 slug: enervation
 shortcode: enervation

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Siém
   aliases: []
-description: ""
+description: "Siém is a mystical skill."
 id: TaiHOeQqjqJX4qqk
 slug: siem
 shortcode: siem

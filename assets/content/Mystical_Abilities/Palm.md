@@ -3,7 +3,7 @@ tags: []
 name:
   full: Palm
   aliases: []
-description: ""
+description: "Palm is an arcane incantation of the Lyáhvi convocation."
 id: 8hM5dok9IkReGrcF
 slug: palm
 shortcode: palm

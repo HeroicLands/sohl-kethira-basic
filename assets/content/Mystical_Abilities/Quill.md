@@ -3,7 +3,7 @@ tags: []
 name:
   full: Quill
   aliases: []
-description: ""
+description: "Quill is an arcane incantation of the Sàvôrya convocation."
 id: umSVwBGL3pIErzu8
 slug: quill
 shortcode: quill

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Spoon
   aliases: []
-description: ""
+description: "Spoon is an arcane incantation of the Odívshè convocation."
 id: BE88Hbv0bK1RfujF
 slug: spoon
 shortcode: spoon

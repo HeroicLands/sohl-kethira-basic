@@ -3,7 +3,7 @@ tags: []
 name:
   full: Beacon
   aliases: []
-description: ""
+description: "Beacon is an arcane incantation of the Lyáhvi convocation."
 id: SNZXHUNn7ZJuoyYR
 slug: beacon
 shortcode: beacon

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Tiánta
   aliases: []
-description: ""
+description: "Tiánta is a script."
 id: HZQuPFugy024lS8y
 slug: tianta
 shortcode: tianta

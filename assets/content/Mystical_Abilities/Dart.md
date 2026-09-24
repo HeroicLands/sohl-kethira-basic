@@ -3,7 +3,7 @@ tags: []
 name:
   full: Dart
   aliases: []
-description: ""
+description: "Dart is an arcane incantation of the Jmôrvi convocation."
 id: oMwdl70b2uP8XE1y
 slug: dart
 shortcode: dart

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Cooling
   aliases: []
-description: ""
+description: "Cooling is an arcane incantation of the Odívshè convocation."
 id: 2M689o5LuNZUd2bE
 slug: cooling
 shortcode: cooling

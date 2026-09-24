@@ -3,7 +3,7 @@ tags: []
 name:
   full: Hastening
   aliases: []
-description: ""
+description: "Hastening is an arcane incantation of the Pèleáhn convocation."
 id: j2lXh9gJQAPcH7rU
 slug: hastening
 shortcode: hastening

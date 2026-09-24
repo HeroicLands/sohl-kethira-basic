@@ -3,7 +3,7 @@ tags: []
 name:
   full: Pox
   aliases: []
-description: ""
+description: "Pox is an arcane incantation of the Fývria convocation."
 id: UkIh8mL8MngvvBxZ
 slug: pox
 shortcode: pox

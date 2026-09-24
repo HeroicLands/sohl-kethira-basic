@@ -3,7 +3,7 @@ tags: []
 name:
   full: False Soul
   aliases: []
-description: ""
+description: "False Soul is an arcane incantation of the Neutral convocation."
 id: 06VXNQr0zZAkUDQj
 slug: false-soul
 shortcode: falsesoul

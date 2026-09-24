@@ -3,7 +3,7 @@ tags: []
 name:
   full: Reveal
   aliases: []
-description: ""
+description: "Reveal is an arcane incantation of the Neutral convocation."
 id: KMJWNFq4N9lyGhRS
 slug: reveal
 shortcode: reveal

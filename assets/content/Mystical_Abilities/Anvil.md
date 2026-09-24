@@ -3,7 +3,7 @@ tags: []
 name:
   full: Anvil
   aliases: []
-description: ""
+description: "Anvil is an arcane incantation of the Jmôrvi convocation."
 id: fxrQq44b4ADvahoY
 slug: anvil
 shortcode: anvil

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Ivínian
   aliases: []
-description: ""
+description: "Ivínian is a language."
 id: 2yfbMe6ZTqPR1nFb
 slug: ivinian
 shortcode: ivinian

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Nuvesarl
   aliases: []
-description: ""
+description: "Nuvesarl is a script."
 id: hYBL1FYt6tnueT95
 slug: nuvesarl
 shortcode: nuvesarl

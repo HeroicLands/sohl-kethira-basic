@@ -3,7 +3,7 @@ tags: []
 name:
   full: Extratemporality
   aliases: []
-description: ""
+description: "Extratemporality is an arcane talent."
 id: GRInCl46OtvsjWRe
 slug: extratemporality
 shortcode: xtratemp

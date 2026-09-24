@@ -3,7 +3,7 @@ tags: []
 name:
   full: Veil
   aliases: []
-description: ""
+description: "Veil is an arcane incantation of the Sàvôrya convocation."
 id: M3bBlyF39MtzQPSD
 slug: veil
 shortcode: veil

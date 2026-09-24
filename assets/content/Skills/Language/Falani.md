@@ -3,7 +3,7 @@ tags: []
 name:
   full: Faláni
   aliases: []
-description: ""
+description: "Faláni is a language."
 id: IT9AYKb2ELFlJkJf
 slug: falani
 shortcode: falani
