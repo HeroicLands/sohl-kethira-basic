@@ -3,7 +3,7 @@ tags: []
 name:
   full: Hârnic
   aliases: []
-description: ""
+description: "Hârnic is a language."
 id: woFaMUgznLPQREME
 slug: harnic
 shortcode: harnic

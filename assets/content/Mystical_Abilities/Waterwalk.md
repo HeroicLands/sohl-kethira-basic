@@ -3,7 +3,7 @@ tags: []
 name:
   full: Waterwalk
   aliases: []
-description: ""
+description: "Waterwalk is an arcane incantation of the Odívshè convocation."
 id: 9r3e5WaHU9WK97yX
 slug: waterwalk
 shortcode: waterwalk

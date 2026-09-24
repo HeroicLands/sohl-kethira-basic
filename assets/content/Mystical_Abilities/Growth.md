@@ -3,7 +3,7 @@ tags: []
 name:
   full: Growth
   aliases: []
-description: ""
+description: "Growth is an arcane incantation of the Fývria convocation."
 id: osBJntGxM8K2V9NP
 slug: growth
 shortcode: growth

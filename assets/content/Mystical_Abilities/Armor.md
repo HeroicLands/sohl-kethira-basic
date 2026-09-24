@@ -3,7 +3,7 @@ tags: []
 name:
   full: Armor
   aliases: []
-description: ""
+description: "Armor is an arcane incantation of the Jmôrvi convocation."
 id: Zt3TZ2L5r7lS8Ow1
 slug: armor
 shortcode: armor

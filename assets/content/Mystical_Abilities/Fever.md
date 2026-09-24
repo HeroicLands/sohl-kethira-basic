@@ -3,7 +3,7 @@ tags: []
 name:
   full: Fever
   aliases: []
-description: ""
+description: "Fever is an arcane incantation of the Pèleáhn convocation."
 id: QUIc42B44yo3yuy0
 slug: fever
 shortcode: fever

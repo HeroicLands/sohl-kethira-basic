@@ -3,7 +3,7 @@ tags: []
 name:
   full: Quenching
   aliases: []
-description: ""
+description: "Quenching is an arcane incantation of the Odívshè convocation."
 id: 5DFpPv4FTZ0jwB7r
 slug: quenching
 shortcode: quenching

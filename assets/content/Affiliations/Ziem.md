@@ -3,7 +3,7 @@ tags: []
 name:
   full: Ziém
   aliases: []
-description: ""
+description: "Ziém is a faith tradition."
 id: D9WPXgjPJFJbHdu3
 slug: ziem
 shortcode: ziem

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Solace
   aliases: []
-description: ""
+description: "Solace is an arcane incantation of the Sàvôrya convocation."
 id: PyuWTWox3Qo2oVfF
 slug: solace
 shortcode: solace

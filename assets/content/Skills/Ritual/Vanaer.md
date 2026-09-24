@@ -3,7 +3,7 @@ tags: []
 name:
   full: Vanáer
   aliases: []
-description: ""
+description: "Vanáer is a mystical skill."
 id: CcO0l7xmPd61kQqP
 slug: vanaer
 shortcode: vanaer

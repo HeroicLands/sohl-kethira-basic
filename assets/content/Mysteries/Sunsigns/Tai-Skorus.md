@@ -3,7 +3,7 @@ tags: []
 name:
   full: Tai-Skôrus
   aliases: []
-description: ""
+description: "Tai-Skôrus is a birthsign."
 id: RkYBc011zgoDKlc9
 slug: tai-skorus
 shortcode: taiskorus

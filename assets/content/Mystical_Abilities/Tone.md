@@ -3,7 +3,7 @@ tags: []
 name:
   full: Tone
   aliases: []
-description: ""
+description: "Tone is an arcane incantation of the Lyáhvi convocation."
 id: R4lKLay2mZcbJ18A
 slug: tone
 shortcode: tone

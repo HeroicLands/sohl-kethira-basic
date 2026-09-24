@@ -3,7 +3,7 @@ tags: []
 name:
   full: Wisdom
   aliases: []
-description: ""
+description: "Wisdom is an arcane incantation of the Sàvôrya convocation."
 id: mqWpROliaDMNGjp9
 slug: wisdom
 shortcode: wisdom

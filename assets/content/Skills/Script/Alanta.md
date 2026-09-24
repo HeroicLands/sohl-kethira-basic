@@ -3,7 +3,7 @@ tags: []
 name:
   full: Alánta
   aliases: []
-description: ""
+description: "Alánta is a script."
 id: 2IWu6lZ30D6ioTkp
 slug: alanta
 shortcode: alanta

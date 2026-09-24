@@ -3,7 +3,7 @@ tags: []
 name:
   full: Calm
   aliases: []
-description: ""
+description: "Calm is an arcane incantation of the Odívshè convocation."
 id: PeK6q0w3kEgsuizC
 slug: calm
 shortcode: calm

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Khrúni
   aliases: []
-description: ""
+description: "Khrúni is a script."
 id: Soq0vRso2XXolGH7
 slug: khruni
 shortcode: khruni

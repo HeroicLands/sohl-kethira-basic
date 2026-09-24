@@ -3,7 +3,7 @@ tags: []
 name:
   full: Ylvýr
   aliases: []
-description: ""
+description: "Ylvýr is a mystical skill."
 id: XexYQNbusggd0AMs
 slug: ylvyr
 shortcode: ylvyr

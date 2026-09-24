@@ -3,7 +3,7 @@ tags: []
 name:
   full: Crystals
   aliases: []
-description: ""
+description: "Crystals is an arcane incantation of the Odívshè convocation."
 id: JFyKL4GouBLYOoza
 slug: crystals
 shortcode: crystals

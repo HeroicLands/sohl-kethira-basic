@@ -3,7 +3,7 @@ tags: []
 name:
   full: Glamour
   aliases: []
-description: ""
+description: "Glamour is an arcane incantation of the Lyáhvi convocation."
 id: LDmZilHpqqFh1WZO
 slug: glamour
 shortcode: glamour

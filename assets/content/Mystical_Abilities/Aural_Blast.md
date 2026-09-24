@@ -3,7 +3,7 @@ tags: []
 name:
   full: Aural Blast
   aliases: []
-description: ""
+description: "Aural Blast is an arcane incantation of the Sàvôrya convocation."
 id: 915ZpuLQM6j7Lmpu
 slug: aural-blast
 shortcode: auralblast

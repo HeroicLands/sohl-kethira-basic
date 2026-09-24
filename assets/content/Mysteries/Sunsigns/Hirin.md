@@ -3,7 +3,7 @@ tags: []
 name:
   full: Hîrin
   aliases: []
-description: ""
+description: "Hîrin is a birthsign."
 id: EeL7L3sh2RMj63fO
 slug: hirin
 shortcode: hirin

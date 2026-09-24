@@ -3,7 +3,7 @@ tags: []
 name:
   full: Hunger
   aliases: []
-description: ""
+description: "Hunger is an arcane incantation of the Fývria convocation."
 id: MrVTPN0oeMh8XLWj
 slug: hunger
 shortcode: hunger

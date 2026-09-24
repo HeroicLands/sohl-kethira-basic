@@ -3,7 +3,7 @@ tags: []
 name:
   full: Àzeryáni
   aliases: []
-description: ""
+description: "Àzeryáni is a language."
 id: sygNpMe0xKos6cYQ
 slug: azeryani
 shortcode: azeryani

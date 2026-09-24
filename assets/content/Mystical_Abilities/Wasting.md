@@ -3,7 +3,7 @@ tags: []
 name:
   full: Wasting
   aliases: []
-description: ""
+description: "Wasting is an arcane incantation of the Fývria convocation."
 id: lsOd0Ta0cL0DoqOF
 slug: wasting
 shortcode: wasting

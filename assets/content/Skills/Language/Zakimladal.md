@@ -3,7 +3,7 @@ tags: []
 name:
   full: Zâkimladal
   aliases: []
-description: ""
+description: "Zâkimladal is a language."
 id: CsdzvLOYIrnU1Fre
 slug: zakimladal
 shortcode: zakimladal

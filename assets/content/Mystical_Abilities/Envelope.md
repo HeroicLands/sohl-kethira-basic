@@ -3,7 +3,7 @@ tags: []
 name:
   full: Envelope
   aliases: []
-description: ""
+description: "Envelope is an arcane incantation of the Pèleáhn convocation."
 id: PJ2Z5nmj9flqfBnL
 slug: envelope
 shortcode: envelope

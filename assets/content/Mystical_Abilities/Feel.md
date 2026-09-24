@@ -3,7 +3,7 @@ tags: []
 name:
   full: Feel
   aliases: []
-description: ""
+description: "Feel is an arcane incantation of the Sàvôrya convocation."
 id: 2EEfVNZvBlhrvEu3
 slug: feel
 shortcode: feel

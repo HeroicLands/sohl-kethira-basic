@@ -3,7 +3,7 @@ tags: []
 name:
   full: Nadái-Hîrin
   aliases: []
-description: ""
+description: "Nadái-Hîrin is a birthsign."
 id: xAbc5b0dM5lVNQj0
 slug: nadai-hirin
 shortcode: nadaihirin

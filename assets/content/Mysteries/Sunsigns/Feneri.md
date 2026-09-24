@@ -3,7 +3,7 @@ tags: []
 name:
   full: Fenéri
   aliases: []
-description: ""
+description: "Fenéri is a birthsign."
 id: 0rUilHMn9WsYi9Hn
 slug: feneri
 shortcode: feneri

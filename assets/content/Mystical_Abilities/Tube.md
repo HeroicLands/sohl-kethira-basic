@@ -3,7 +3,7 @@ tags: []
 name:
   full: Tube
   aliases: []
-description: ""
+description: "Tube is an arcane incantation of the Lyáhvi convocation."
 id: ozT5yQWbnprGjLhe
 slug: tube
 shortcode: tube

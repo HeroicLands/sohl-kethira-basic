@@ -3,7 +3,7 @@ tags: []
 name:
   full: Meteor
   aliases: []
-description: ""
+description: "Meteor is an arcane incantation of the Pèleáhn convocation."
 id: YIs3bURpEHC54DcM
 slug: meteor
 shortcode: meteor

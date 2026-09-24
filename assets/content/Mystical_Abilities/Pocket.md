@@ -3,7 +3,7 @@ tags: []
 name:
   full: Pocket
   aliases: []
-description: ""
+description: "Pocket is an arcane incantation of the Lyáhvi convocation."
 id: LOL0hO2nhoIXVKyH
 slug: pocket
 shortcode: pocket

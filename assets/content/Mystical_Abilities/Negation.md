@@ -3,7 +3,7 @@ tags: []
 name:
   full: Negation
   aliases: []
-description: ""
+description: "Negation is an arcane talent."
 id: ABd6DgjjBbcN8FjE
 slug: negation
 shortcode: negx

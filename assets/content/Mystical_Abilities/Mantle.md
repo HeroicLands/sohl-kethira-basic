@@ -3,7 +3,7 @@ tags: []
 name:
   full: Mantle
   aliases: []
-description: ""
+description: "Mantle is an arcane incantation of the Pèleáhn convocation."
 id: hHgnNsLcgLXjmioB
 slug: mantle
 shortcode: mantle

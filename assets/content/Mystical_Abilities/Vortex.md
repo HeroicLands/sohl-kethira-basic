@@ -3,7 +3,7 @@ tags: []
 name:
   full: Vortex
   aliases: []
-description: ""
+description: "Vortex is an arcane incantation of the Neutral convocation."
 id: RGeAyOdiU5RHLGfB
 slug: vortex
 shortcode: vortex

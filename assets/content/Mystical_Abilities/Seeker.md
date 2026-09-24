@@ -3,7 +3,7 @@ tags: []
 name:
   full: Seeker
   aliases: []
-description: ""
+description: "Seeker is an arcane incantation of the Pèleáhn convocation."
 id: r6nslXZcWo7AUpGQ
 slug: seeker
 shortcode: seeker

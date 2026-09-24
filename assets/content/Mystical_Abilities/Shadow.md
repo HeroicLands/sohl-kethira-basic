@@ -3,7 +3,7 @@ tags: []
 name:
   full: Shadow
   aliases: []
-description: ""
+description: "Shadow is an arcane incantation of the Odívshè convocation."
 id: kRjDRbd8bDVcrTBv
 slug: shadow
 shortcode: shadow

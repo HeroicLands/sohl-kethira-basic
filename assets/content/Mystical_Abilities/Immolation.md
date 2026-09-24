@@ -3,7 +3,7 @@ tags: []
 name:
   full: Immolation
   aliases: []
-description: ""
+description: "Immolation is an arcane incantation of the Pèleáhn convocation."
 id: nomkk6fTJg8Iy4VX
 slug: immolation
 shortcode: immolation

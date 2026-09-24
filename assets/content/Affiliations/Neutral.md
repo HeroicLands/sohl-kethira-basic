@@ -3,7 +3,7 @@ tags: []
 name:
   full: Neutral
   aliases: []
-description: ""
+description: "Neutral is an arcane convocation."
 id: KdM5KuVXmabFxqEc
 slug: neutral
 shortcode: neutral

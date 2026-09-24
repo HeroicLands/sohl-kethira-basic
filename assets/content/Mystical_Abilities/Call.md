@@ -3,7 +3,7 @@ tags: []
 name:
   full: Call
   aliases: []
-description: ""
+description: "Call is an arcane incantation of the Lyáhvi convocation."
 id: PXULYbMmLbbrMg9w
 slug: call
 shortcode: call

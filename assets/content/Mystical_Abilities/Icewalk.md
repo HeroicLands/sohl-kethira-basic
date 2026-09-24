@@ -3,7 +3,7 @@ tags: []
 name:
   full: Icewalk
   aliases: []
-description: ""
+description: "Icewalk is an arcane incantation of the Odívshè convocation."
 id: oIeafW1cWNh3rRza
 slug: icewalk
 shortcode: icewalk

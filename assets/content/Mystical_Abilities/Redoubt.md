@@ -3,7 +3,7 @@ tags: []
 name:
   full: Redoubt
   aliases: []
-description: ""
+description: "Redoubt is an arcane incantation of the Jmôrvi convocation."
 id: o2f53g7hqpHCUAOH
 slug: redoubt
 shortcode: redoubt

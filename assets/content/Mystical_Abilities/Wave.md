@@ -3,7 +3,7 @@ tags: []
 name:
   full: Wave
   aliases: []
-description: ""
+description: "Wave is an arcane incantation of the Odívshè convocation."
 id: UhMOQxXesBtvqePa
 slug: wave
 shortcode: wave

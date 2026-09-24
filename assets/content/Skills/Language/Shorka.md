@@ -3,7 +3,7 @@ tags: []
 name:
   full: Shôrka
   aliases: []
-description: ""
+description: "Shôrka is a language."
 id: QFYAhhyRtZ48RlFQ
 slug: shorka
 shortcode: shorka

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Desiccation
   aliases: []
-description: ""
+description: "Desiccation is an arcane incantation of the Pèleáhn convocation."
 id: rtiWd0bR7EyLXHfB
 slug: desiccation
 shortcode: desiccation

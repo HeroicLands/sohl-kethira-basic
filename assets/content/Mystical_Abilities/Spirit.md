@@ -3,7 +3,7 @@ tags: []
 name:
   full: Spirit
   aliases: []
-description: ""
+description: "Spirit is an arcane talent."
 id: lKVbkvzIGDFCC3UI
 slug: spirit
 shortcode: sprt

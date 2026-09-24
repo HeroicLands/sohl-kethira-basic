@@ -3,7 +3,7 @@ tags: []
 name:
   full: Elarána
   aliases: []
-description: ""
+description: "Elarána is a mystical skill."
 id: 1CIfdazeKD5unKwu
 slug: elarana
 shortcode: elarana

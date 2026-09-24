@@ -3,7 +3,7 @@ tags: []
 name:
   full: Áhnù
   aliases: []
-description: ""
+description: "Áhnù is a birthsign."
 id: hKLc4IN1kA86hA15
 slug: ahnu
 shortcode: ahnu

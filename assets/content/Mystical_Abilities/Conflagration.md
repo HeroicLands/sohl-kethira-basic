@@ -3,7 +3,7 @@ tags: []
 name:
   full: Conflagration
   aliases: []
-description: ""
+description: "Conflagration is an arcane incantation of the Pèleáhn convocation."
 id: HKWL5hJh4F4UKQGt
 slug: conflagration
 shortcode: conflagration

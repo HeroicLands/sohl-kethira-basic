@@ -3,7 +3,7 @@ tags: []
 name:
   full: Passage
   aliases: []
-description: ""
+description: "Passage is an arcane incantation of the Lyáhvi convocation."
 id: mkLoQdUZm8T0i841
 slug: passage
 shortcode: passage

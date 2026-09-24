@@ -3,7 +3,7 @@ tags: []
 name:
   full: Snowball
   aliases: []
-description: ""
+description: "Snowball is an arcane incantation of the Odívshè convocation."
 id: c6yEvNaz2gvhCzSH
 slug: snowball
 shortcode: snowball

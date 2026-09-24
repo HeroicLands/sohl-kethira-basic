@@ -3,7 +3,7 @@ tags: []
 name:
   full: Alarm
   aliases: []
-description: ""
+description: "Alarm is an arcane incantation of the Neutral convocation."
 id: DeH9CgHtTradgQc2
 slug: alarm
 shortcode: alarm

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Dálken
   aliases: []
-description: ""
+description: "Dálken is a language."
 id: eaXFpnZVvDPacga0
 slug: dalken
 shortcode: dalken

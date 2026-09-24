@@ -3,7 +3,7 @@ tags: []
 name:
   full: Beam
   aliases: []
-description: ""
+description: "Beam is an arcane incantation of the Lyáhvi convocation."
 id: b5dYBcfSkfAO6skZ
 slug: beam
 shortcode: beam

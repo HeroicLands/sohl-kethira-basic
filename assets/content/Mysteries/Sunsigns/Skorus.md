@@ -3,7 +3,7 @@ tags: []
 name:
   full: Skôrus
   aliases: []
-description: ""
+description: "Skôrus is a birthsign."
 id: klMQI7Di94TBMgQR
 slug: skorus
 shortcode: skorus

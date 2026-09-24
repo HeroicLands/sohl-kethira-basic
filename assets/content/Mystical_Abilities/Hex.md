@@ -3,7 +3,7 @@ tags: []
 name:
   full: Hex
   aliases: []
-description: ""
+description: "Hex is an arcane talent."
 id: Iz2Lf8bESdZVpPZJ
 slug: hex
 shortcode: hex

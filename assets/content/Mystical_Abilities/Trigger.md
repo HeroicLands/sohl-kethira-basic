@@ -3,7 +3,7 @@ tags: []
 name:
   full: Trigger
   aliases: []
-description: ""
+description: "Trigger is an arcane incantation of the Neutral convocation."
 id: ZmUxLCHuzUPdPfrm
 slug: trigger
 shortcode: trigger

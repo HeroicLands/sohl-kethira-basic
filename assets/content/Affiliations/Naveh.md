@@ -3,7 +3,7 @@ tags: []
 name:
   full: Navéh
   aliases: []
-description: ""
+description: "Navéh is a faith tradition."
 id: 2wuZBbaRam4wY03W
 slug: naveh
 shortcode: naveh

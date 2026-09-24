@@ -3,7 +3,7 @@ tags: []
 name:
   full: Ùlándus-Arálius
   aliases: []
-description: ""
+description: "Ùlándus-Arálius is a birthsign."
 id: Cx98NqPIY4BNzuja
 slug: ulandus-aralius
 shortcode: ulandusaralius

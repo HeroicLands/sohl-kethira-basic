@@ -3,7 +3,7 @@ tags: []
 name:
   full: Peóni
   aliases: []
-description: ""
+description: "Peóni is a mystical skill."
 id: gevm9nRwQonHFsgE
 slug: peoni
 shortcode: peoni

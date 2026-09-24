@@ -3,7 +3,7 @@ tags: []
 name:
   full: Ùlándus
   aliases: []
-description: ""
+description: "Ùlándus is a birthsign."
 id: N8Ne5Vh4PPOLUTlM
 slug: ulandus
 shortcode: ulandus

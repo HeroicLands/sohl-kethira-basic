@@ -3,7 +3,7 @@ tags: []
 name:
   full: Tempering
   aliases: []
-description: ""
+description: "Tempering is an arcane incantation of the Jmôrvi convocation."
 id: ftyx0YdxOBcXppkF
 slug: tempering
 shortcode: tempering

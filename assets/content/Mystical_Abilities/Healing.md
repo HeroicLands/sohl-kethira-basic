@@ -3,7 +3,7 @@ tags: []
 name:
   full: Healing
   aliases: []
-description: ""
+description: "Healing is an arcane talent."
 id: pePR5Mx28MLY4Kgv
 slug: healing
 shortcode: heal

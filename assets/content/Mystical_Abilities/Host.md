@@ -3,7 +3,7 @@ tags: []
 name:
   full: Host
   aliases: []
-description: ""
+description: "Host is an arcane incantation of the Sàvôrya convocation."
 id: QPBV1eStrVM4gUJq
 slug: host
 shortcode: host

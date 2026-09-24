@@ -3,7 +3,7 @@ tags: []
 name:
   full: Skôrus-Masâra
   aliases: []
-description: ""
+description: "Skôrus-Masâra is a birthsign."
 id: Hjv8cFoLgH5ywN7B
 slug: skorus-masara
 shortcode: skorusmasara

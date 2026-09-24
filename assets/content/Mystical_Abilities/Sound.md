@@ -3,7 +3,7 @@ tags: []
 name:
   full: Sound
   aliases: []
-description: ""
+description: "Sound is an arcane incantation of the Lyáhvi convocation."
 id: fOewhoOAuZfGeDsP
 slug: sound
 shortcode: sound

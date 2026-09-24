@@ -3,7 +3,7 @@ tags: []
 name:
   full: Jmôrvi
   aliases: []
-description: ""
+description: "Jmôrvi is a mystical skill."
 id: Yk66XLvMNm6RD7ON
 slug: jmorvi
 shortcode: jmorvi

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Decay
   aliases: []
-description: ""
+description: "Decay is an arcane incantation of the Fývria convocation."
 id: Rn5TkoHUjQzy8xsL
 slug: decay
 shortcode: decay

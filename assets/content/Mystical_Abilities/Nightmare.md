@@ -3,7 +3,7 @@ tags: []
 name:
   full: Nightmare
   aliases: []
-description: ""
+description: "Nightmare is an arcane incantation of the Lyáhvi convocation."
 id: R7yrj8szcqUFX8nv
 slug: nightmare
 shortcode: nightmare

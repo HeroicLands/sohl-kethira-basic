@@ -3,7 +3,7 @@ tags: []
 name:
   full: Forge
   aliases: []
-description: ""
+description: "Forge is an arcane incantation of the Jmôrvi convocation."
 id: L1TwJzKMsqdFmynJ
 slug: forge
 shortcode: forge

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Ládo
   aliases: []
-description: ""
+description: "Ládo is a birthsign."
 id: c6TTc2Ax2tjiyWcV
 slug: lado
 shortcode: lado

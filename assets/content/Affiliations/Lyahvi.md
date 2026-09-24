@@ -3,7 +3,7 @@ tags: []
 name:
   full: Lyáhvi
   aliases: []
-description: ""
+description: "Lyáhvi is an arcane convocation."
 id: OmtVbKOrNZ7MPRGS
 slug: lyahvi
 shortcode: lyahvi

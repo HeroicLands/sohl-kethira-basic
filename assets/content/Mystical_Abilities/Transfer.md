@@ -3,7 +3,7 @@ tags: []
 name:
   full: Transfer
   aliases: []
-description: ""
+description: "Transfer is an arcane incantation of the Fývria convocation."
 id: bffz8KJRcllW5dnJ
 slug: transfer
 shortcode: transfer

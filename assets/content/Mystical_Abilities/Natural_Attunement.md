@@ -3,7 +3,7 @@ tags: []
 name:
   full: Natural Attunement
   aliases: []
-description: ""
+description: "Natural Attunement is an arcane talent."
 id: zM3QEMALDimIYvac
 slug: natural-attunement
 shortcode: natn

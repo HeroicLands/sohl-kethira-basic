@@ -3,7 +3,7 @@ tags: []
 name:
   full: Unveiling
   aliases: []
-description: ""
+description: "Unveiling is an arcane incantation of the Lyáhvi convocation."
 id: MeDHn0pUNiYUxExG
 slug: unveiling
 shortcode: unveiling

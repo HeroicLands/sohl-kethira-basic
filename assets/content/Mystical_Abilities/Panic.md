@@ -3,7 +3,7 @@ tags: []
 name:
   full: Panic
   aliases: []
-description: ""
+description: "Panic is an arcane incantation of the Sàvôrya convocation."
 id: pnj7TncorSyRuvdL
 slug: panic
 shortcode: panic

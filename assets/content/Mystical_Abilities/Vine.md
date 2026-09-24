@@ -3,7 +3,7 @@ tags: []
 name:
   full: Vine
   aliases: []
-description: ""
+description: "Vine is an arcane incantation of the Fývria convocation."
 id: BJGJ2aitu2rIsbzb
 slug: vine
 shortcode: vine

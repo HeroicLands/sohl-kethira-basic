@@ -3,7 +3,7 @@ tags: []
 name:
   full: Sponge
   aliases: []
-description: ""
+description: "Sponge is an arcane incantation of the Odívshè convocation."
 id: ZMFOLOH2ycRK9sCj
 slug: sponge
 shortcode: sponge

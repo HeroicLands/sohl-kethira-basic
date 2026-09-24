@@ -3,7 +3,7 @@ tags: []
 name:
   full: Ágrik
   aliases: []
-description: ""
+description: "Ágrik is a faith tradition."
 id: c5pKrlG8INCVvy19
 slug: agrik
 shortcode: agrik

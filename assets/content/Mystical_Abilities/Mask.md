@@ -3,7 +3,7 @@ tags: []
 name:
   full: Mask
   aliases: []
-description: ""
+description: "Mask is an arcane incantation of the Neutral convocation."
 id: BKyySEZ0VurkgFaW
 slug: mask
 shortcode: mask

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Sensation
   aliases: []
-description: ""
+description: "Sensation is an arcane incantation of the Sàvôrya convocation."
 id: qLBwbW8AQBquZWz9
 slug: sensation
 shortcode: sensation

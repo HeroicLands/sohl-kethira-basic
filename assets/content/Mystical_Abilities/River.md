@@ -3,7 +3,7 @@ tags: []
 name:
   full: River
   aliases: []
-description: ""
+description: "River is an arcane incantation of the Odívshè convocation."
 id: UnOrHN4Lmfq26Cpn
 slug: river
 shortcode: river

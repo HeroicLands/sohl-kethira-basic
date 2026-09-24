@@ -3,7 +3,7 @@ tags: []
 name:
   full: Warp
   aliases: []
-description: ""
+description: "Warp is an arcane incantation of the Fývria convocation."
 id: 4WSxiA5ySlf6jb1A
 slug: warp
 shortcode: warp

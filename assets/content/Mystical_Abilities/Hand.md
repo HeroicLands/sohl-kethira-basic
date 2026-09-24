@@ -3,7 +3,7 @@ tags: []
 name:
   full: Hand
   aliases: []
-description: ""
+description: "Hand is an arcane incantation of the Jmôrvi convocation."
 id: hcsvUzdZZErbPF1H
 slug: hand
 shortcode: hand

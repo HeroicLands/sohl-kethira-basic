@@ -3,7 +3,7 @@ tags: []
 name:
   full: Pvârism
   aliases: []
-description: ""
+description: "Pvârism is a mystical skill."
 id: K5XmdHDxovuKxcxQ
 slug: pvarism
 shortcode: pvarism

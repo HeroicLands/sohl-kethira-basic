@@ -3,7 +3,7 @@ tags: []
 name:
   full: Rupture
   aliases: []
-description: ""
+description: "Rupture is an arcane incantation of the Sàvôrya convocation."
 id: TvEMzoTWZzhN8IBc
 slug: rupture
 shortcode: rupture

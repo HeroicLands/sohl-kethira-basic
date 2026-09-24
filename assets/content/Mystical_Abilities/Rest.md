@@ -3,7 +3,7 @@ tags: []
 name:
   full: Rest
   aliases: []
-description: ""
+description: "Rest is an arcane incantation of the Odívshè convocation."
 id: vkhu5G6CqNzMHHAO
 slug: rest
 shortcode: rest

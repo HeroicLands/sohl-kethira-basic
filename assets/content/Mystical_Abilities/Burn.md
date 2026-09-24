@@ -3,7 +3,7 @@ tags: []
 name:
   full: Burn
   aliases: []
-description: ""
+description: "Burn is an arcane incantation of the Pèleáhn convocation."
 id: u8hT18FgSkLY19ez
 slug: burn
 shortcode: burn

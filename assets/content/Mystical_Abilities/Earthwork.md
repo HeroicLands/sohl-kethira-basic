@@ -3,7 +3,7 @@ tags: []
 name:
   full: Earthwork
   aliases: []
-description: ""
+description: "Earthwork is an arcane incantation of the Fývria convocation."
 id: gjCry74FtWuhBGGY
 slug: earthwork
 shortcode: earthwork

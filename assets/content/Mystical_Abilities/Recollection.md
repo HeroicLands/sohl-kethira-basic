@@ -3,7 +3,7 @@ tags: []
 name:
   full: Recollection
   aliases: []
-description: ""
+description: "Recollection is an arcane incantation of the Sàvôrya convocation."
 id: YKkZRSkYU7mx5kcV
 slug: recollection
 shortcode: recollection

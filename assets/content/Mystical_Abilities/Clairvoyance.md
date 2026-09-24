@@ -3,7 +3,7 @@ tags: []
 name:
   full: Clairvoyance
   aliases: []
-description: ""
+description: "Clairvoyance is an arcane talent."
 id: N2SuuuRJq86wgYy6
 slug: clairvoyance
 shortcode: clrv

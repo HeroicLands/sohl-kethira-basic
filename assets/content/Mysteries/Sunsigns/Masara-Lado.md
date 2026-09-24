@@ -3,7 +3,7 @@ tags: []
 name:
   full: Masâra-Ládo
   aliases: []
-description: ""
+description: "Masâra-Ládo is a birthsign."
 id: IxhlQpnsJvoz4FK5
 slug: masara-lado
 shortcode: masaralado

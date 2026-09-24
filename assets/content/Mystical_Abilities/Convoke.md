@@ -3,7 +3,7 @@ tags: []
 name:
   full: Convoke
   aliases: []
-description: ""
+description: "Convoke is an arcane incantation of the Pèleáhn convocation."
 id: vShtkIDWTbkjcZSk
 slug: convoke
 shortcode: convoke

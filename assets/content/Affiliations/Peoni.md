@@ -3,7 +3,7 @@ tags: []
 name:
   full: Peóni
   aliases: []
-description: ""
+description: "Peóni is a faith tradition."
 id: SYhFAPfzIucCQ5bO
 slug: peoni
 shortcode: peoni

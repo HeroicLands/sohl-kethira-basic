@@ -3,7 +3,7 @@ tags: []
 name:
   full: Meld
   aliases: []
-description: ""
+description: "Meld is an arcane incantation of the Fývria convocation."
 id: U9f6mY1e1XyNjHRA
 slug: meld
 shortcode: meld
