@@ -19,7 +19,7 @@ data:
   templatePriority: 1
   gender: unknown
   age: 29
-  birthday: 690/10/20
+  born: 690/10/20
   height: 1.85
   weight: 77.11
   frame: medium

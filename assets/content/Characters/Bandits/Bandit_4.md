@@ -19,7 +19,7 @@ data:
   templatePriority: 100
   gender: unknown
   age: 29
-  birthday: 690/4/26
+  born: 690/4/26
   height: 1.68
   weight: 58.97
   frame: slight

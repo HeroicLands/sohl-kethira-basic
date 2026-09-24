@@ -19,7 +19,7 @@ data:
   templatePriority: 100
   gender: unknown
   age: 0
-  birthday: 720/1/1
+  born: 720/1/1
   height: 0
   weight: 0
   frame: medium

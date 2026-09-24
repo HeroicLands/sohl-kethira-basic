@@ -19,7 +19,7 @@ data:
   templatePriority: 1
   gender: unknown
   age: 31
-  birthday: 688/6/20
+  born: 688/6/20
   height: 1.8
   weight: 70.31
   frame: medium
