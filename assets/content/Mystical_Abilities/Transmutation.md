@@ -3,7 +3,7 @@ tags: []
 name:
   full: Transmutation
   aliases: []
-description: ""
+description: "Transmutation is an arcane talent."
 id: mW6pCO4zFiwfJFhA
 slug: transmutation
 shortcode: xmut

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Môrdar
   aliases: []
-description: ""
+description: "Môrdar is a faith tradition."
 id: 6F5tTXhN0gqs5EnG
 slug: mordar
 shortcode: mordar

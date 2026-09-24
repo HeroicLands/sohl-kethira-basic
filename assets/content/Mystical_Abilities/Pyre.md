@@ -3,7 +3,7 @@ tags: []
 name:
   full: Pyre
   aliases: []
-description: ""
+description: "Pyre is an arcane incantation of the Pèleáhn convocation."
 id: cy1KEa0UjiRfqea3
 slug: pyre
 shortcode: pyre

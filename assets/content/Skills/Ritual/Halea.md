@@ -3,7 +3,7 @@ tags: []
 name:
   full: Haléa
   aliases: []
-description: ""
+description: "Haléa is a mystical skill."
 id: LCaEFOhHOOhLSNvk
 slug: halea
 shortcode: halea

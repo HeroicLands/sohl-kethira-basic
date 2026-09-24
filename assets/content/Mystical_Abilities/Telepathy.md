@@ -3,7 +3,7 @@ tags: []
 name:
   full: Telepathy
   aliases: []
-description: ""
+description: "Telepathy is an arcane talent."
 id: 1yyCbhSjbki38JNd
 slug: telepathy
 shortcode: telp

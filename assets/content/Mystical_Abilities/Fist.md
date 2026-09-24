@@ -3,7 +3,7 @@ tags: []
 name:
   full: Fist
   aliases: []
-description: ""
+description: "Fist is an arcane incantation of the Jmôrvi convocation."
 id: xblfM9oiHccCQ8I4
 slug: fist
 shortcode: fist

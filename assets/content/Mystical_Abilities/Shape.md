@@ -3,7 +3,7 @@ tags: []
 name:
   full: Shape
   aliases: []
-description: ""
+description: "Shape is an arcane incantation of the Fývria convocation."
 id: wBb4AKwG3sS8VuB5
 slug: shape
 shortcode: shape

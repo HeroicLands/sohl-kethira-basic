@@ -3,7 +3,7 @@ tags: []
 name:
   full: Restoration
   aliases: []
-description: ""
+description: "Restoration is an arcane incantation of the Jmôrvi convocation."
 id: KUGAAtAfER0lzBYy
 slug: restoration
 shortcode: restoration

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Nurture
   aliases: []
-description: ""
+description: "Nurture is an arcane incantation of the Fývria convocation."
 id: jCURkbYXXmNa2JuE
 slug: nurture
 shortcode: nurture

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Obedience
   aliases: []
-description: ""
+description: "Obedience is an arcane incantation of the Sàvôrya convocation."
 id: kZ50t4Hak9jFKwEP
 slug: obedience
 shortcode: obedience

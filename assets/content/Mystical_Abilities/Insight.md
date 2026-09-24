@@ -3,7 +3,7 @@ tags: []
 name:
   full: Insight
   aliases: []
-description: ""
+description: "Insight is an arcane incantation of the Sàvôrya convocation."
 id: fn4UG5yA494XzOMd
 slug: insight
 shortcode: insight

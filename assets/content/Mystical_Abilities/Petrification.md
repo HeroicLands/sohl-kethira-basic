@@ -3,7 +3,7 @@ tags: []
 name:
   full: Petrification
   aliases: []
-description: ""
+description: "Petrification is an arcane incantation of the Fývria convocation."
 id: ylSLZHWmNiiO270N
 slug: petrification
 shortcode: petrification

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Succour
   aliases: []
-description: ""
+description: "Succour is an arcane incantation of the Fývria convocation."
 id: a9zpuSd4JBmB8rHI
 slug: succour
 shortcode: succour

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Persuasion
   aliases: []
-description: ""
+description: "Persuasion is an arcane incantation of the Sàvôrya convocation."
 id: eo3Ea0xBMZmqBhBg
 slug: persuasion
 shortcode: persuasion

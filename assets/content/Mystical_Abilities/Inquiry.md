@@ -3,7 +3,7 @@ tags: []
 name:
   full: Inquiry
   aliases: []
-description: ""
+description: "Inquiry is an arcane incantation of the Sàvôrya convocation."
 id: dA2o3DXEJpdvk1a8
 slug: inquiry
 shortcode: inquiry

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Lyáhvi
   aliases: []
-description: ""
+description: "Lyáhvi is a mystical skill."
 id: XvFX3BgxHF2MVCwj
 slug: lyahvi
 shortcode: lyahvi

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Tai
   aliases: []
-description: ""
+description: "Tai is a birthsign."
 id: BA1LewIR8VJMqbag
 slug: tai
 shortcode: tai

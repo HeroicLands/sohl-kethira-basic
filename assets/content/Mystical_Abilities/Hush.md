@@ -3,7 +3,7 @@ tags: []
 name:
   full: Hush
   aliases: []
-description: ""
+description: "Hush is an arcane incantation of the Odívshè convocation."
 id: I6Lu7Q89YzepDFge
 slug: hush
 shortcode: hush

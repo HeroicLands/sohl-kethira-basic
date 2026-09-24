@@ -3,7 +3,7 @@ tags: []
 name:
   full: Vapour
   aliases: []
-description: ""
+description: "Vapour is an arcane incantation of the Lyáhvi convocation."
 id: ExmlUPLgGSJniuot
 slug: vapour
 shortcode: vapour

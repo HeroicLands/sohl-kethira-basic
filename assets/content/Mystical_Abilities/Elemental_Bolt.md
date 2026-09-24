@@ -3,7 +3,7 @@ tags: []
 name:
   full: Elemental Bolt
   aliases: []
-description: ""
+description: "Elemental Bolt is an arcane talent."
 id: gDV7D2Cmb3Ww5sBe
 slug: elemental-bolt
 shortcode: eblt

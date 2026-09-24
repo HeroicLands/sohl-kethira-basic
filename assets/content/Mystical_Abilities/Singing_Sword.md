@@ -3,7 +3,7 @@ tags: []
 name:
   full: Singing Sword
   aliases: []
-description: ""
+description: "Singing Sword is an arcane incantation of the Jmôrvi convocation."
 id: OpZ3MKsZQQncRe94
 slug: singing-sword
 shortcode: singingsword

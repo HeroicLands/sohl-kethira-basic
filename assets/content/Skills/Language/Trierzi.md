@@ -3,7 +3,7 @@ tags: []
 name:
   full: Tríerzi
   aliases: []
-description: ""
+description: "Tríerzi is a language."
 id: JPmWxj9EyWMMEusI
 slug: trierzi
 shortcode: trierzi

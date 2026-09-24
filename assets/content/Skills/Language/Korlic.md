@@ -3,7 +3,7 @@ tags: []
 name:
   full: Kôrlic
   aliases: []
-description: ""
+description: "Kôrlic is a language."
 id: dCsXmYoIUfKtrtzg
 slug: korlic
 shortcode: korlic

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Úlana
   aliases: []
-description: ""
+description: "Úlana is a faith tradition."
 id: 8ZPDqhKo3jD1kBt1
 slug: ulana
 shortcode: ulana

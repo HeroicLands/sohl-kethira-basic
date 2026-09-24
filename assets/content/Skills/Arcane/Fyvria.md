@@ -3,7 +3,7 @@ tags: []
 name:
   full: Fývria
   aliases: []
-description: ""
+description: "Fývria is a mystical skill."
 id: XNP6dybkONMzpEVF
 slug: fyvria
 shortcode: fyvria

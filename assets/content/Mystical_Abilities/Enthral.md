@@ -3,7 +3,7 @@ tags: []
 name:
   full: Enthral
   aliases: []
-description: ""
+description: "Enthral is an arcane talent."
 id: nDJ1yTJ6OYad1ZQM
 slug: enthral
 shortcode: enth

@@ -3,7 +3,7 @@ tags: []
 name:
   full: View
   aliases: []
-description: ""
+description: "View is an arcane incantation of the Lyáhvi convocation."
 id: XOlCvcR8a001X93n
 slug: view
 shortcode: view

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Prescience
   aliases: []
-description: ""
+description: "Prescience is an arcane talent."
 id: wFQGHGOjYdp98VlC
 slug: prescience
 shortcode: psnc

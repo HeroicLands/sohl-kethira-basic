@@ -3,7 +3,7 @@ tags: []
 name:
   full: Shroud
   aliases: []
-description: ""
+description: "Shroud is an arcane incantation of the Jmôrvi convocation."
 id: 1cesq94m43S9eMQI
 slug: shroud
 shortcode: shroud

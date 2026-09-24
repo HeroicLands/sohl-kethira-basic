@@ -3,7 +3,7 @@ tags: []
 name:
   full: Sárajìn
   aliases: []
-description: ""
+description: "Sárajìn is a mystical skill."
 id: 4N4tdZFvVVXQeNcq
 slug: sarajin
 shortcode: sarajin

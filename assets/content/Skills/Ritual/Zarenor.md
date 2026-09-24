@@ -3,7 +3,7 @@ tags: []
 name:
   full: Zârenor
   aliases: []
-description: ""
+description: "Zârenor is a mystical skill."
 id: zovgjXFp3wWVLdgP
 slug: zarenor
 shortcode: zarenor

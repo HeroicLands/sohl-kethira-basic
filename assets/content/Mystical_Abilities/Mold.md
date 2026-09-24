@@ -3,7 +3,7 @@ tags: []
 name:
   full: Mold
   aliases: []
-description: ""
+description: "Mold is an arcane incantation of the Jmôrvi convocation."
 id: DHxJc5j9BztOJEzY
 slug: mold
 shortcode: mold

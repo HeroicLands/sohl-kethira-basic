@@ -3,7 +3,7 @@ tags: []
 name:
   full: Navéh
   aliases: []
-description: ""
+description: "Navéh is a mystical skill."
 id: wxyRLxUzl0yqeCYk
 slug: naveh
 shortcode: naveh

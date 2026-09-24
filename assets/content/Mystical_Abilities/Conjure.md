@@ -3,7 +3,7 @@ tags: []
 name:
   full: Conjure
   aliases: []
-description: ""
+description: "Conjure is an arcane incantation of the Odívshè convocation."
 id: IXxyNHy1It9Og2VG
 slug: conjure
 shortcode: conjure

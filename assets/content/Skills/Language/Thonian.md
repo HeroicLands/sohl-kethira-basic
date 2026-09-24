@@ -3,7 +3,7 @@ tags: []
 name:
   full: Thónian
   aliases: []
-description: ""
+description: "Thónian is a language."
 id: TdCA6SMBfNGAPgDZ
 slug: thonian
 shortcode: thonian

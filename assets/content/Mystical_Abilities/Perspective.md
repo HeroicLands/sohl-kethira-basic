@@ -3,7 +3,7 @@ tags: []
 name:
   full: Perspective
   aliases: []
-description: ""
+description: "Perspective is an arcane incantation of the Sàvôrya convocation."
 id: oxRe09hrasyj8auL
 slug: perspective
 shortcode: perspective

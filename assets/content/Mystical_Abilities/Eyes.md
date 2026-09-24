@@ -3,7 +3,7 @@ tags: []
 name:
   full: Eyes
   aliases: []
-description: ""
+description: "Eyes is an arcane incantation of the Pèleáhn convocation."
 id: 2EitMhTLIk7rUDav
 slug: eyes
 shortcode: eyes

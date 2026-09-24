@@ -3,7 +3,7 @@ tags: []
 name:
   full: Hârbáaler
   aliases: []
-description: ""
+description: "Hârbáaler is a language."
 id: kTgzDSQNKt4bUBwl
 slug: harbaaler
 shortcode: harbaaler

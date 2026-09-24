@@ -3,7 +3,7 @@ tags: []
 name:
   full: Kúzhan
   aliases: []
-description: ""
+description: "Kúzhan is a language."
 id: 2bTEKOeV2DQCdcYc
 slug: kuzhan
 shortcode: kuzhan

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Transference
   aliases: []
-description: ""
+description: "Transference is an arcane talent."
 id: RPAfGBjZbNsYCfn8
 slug: transference
 shortcode: trnsf

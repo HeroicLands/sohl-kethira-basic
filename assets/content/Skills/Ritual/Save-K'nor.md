@@ -3,7 +3,7 @@ tags: []
 name:
   full: Sávè-K'nôr
   aliases: []
-description: ""
+description: "Sávè-K'nôr is a mystical skill."
 id: gO8X0Xri4b3f3tId
 slug: save-k-nor
 shortcode: saveknor

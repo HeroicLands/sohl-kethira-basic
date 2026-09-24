@@ -3,7 +3,7 @@ tags: []
 name:
   full: Stay
   aliases: []
-description: ""
+description: "Stay is an arcane incantation of the Fývria convocation."
 id: KL07NqGaYSDnzTtK
 slug: stay
 shortcode: stay

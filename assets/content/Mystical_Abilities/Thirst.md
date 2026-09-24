@@ -3,7 +3,7 @@ tags: []
 name:
   full: Thirst
   aliases: []
-description: ""
+description: "Thirst is an arcane incantation of the Pèleáhn convocation."
 id: rDBOa919PgsSBlUQ
 slug: thirst
 shortcode: thirst

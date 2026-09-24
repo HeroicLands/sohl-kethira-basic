@@ -3,7 +3,7 @@ tags: []
 name:
   full: Sweat
   aliases: []
-description: ""
+description: "Sweat is an arcane incantation of the Odívshè convocation."
 id: 9vcb21xBdKxEfT8j
 slug: sweat
 shortcode: sweat

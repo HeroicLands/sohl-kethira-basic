@@ -3,7 +3,7 @@ tags: []
 name:
   full: Jârin
   aliases: []
-description: ""
+description: "Jârin is a language."
 id: MONOo4chhMcTu1pG
 slug: jarin
 shortcode: jarin

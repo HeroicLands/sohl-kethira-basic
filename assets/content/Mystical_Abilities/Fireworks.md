@@ -3,7 +3,7 @@ tags: []
 name:
   full: Fireworks
   aliases: []
-description: ""
+description: "Fireworks is an arcane incantation of the Pèleáhn convocation."
 id: XZTdBIZ4IvRSdYQ1
 slug: fireworks
 shortcode: fireworks

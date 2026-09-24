@@ -3,7 +3,7 @@ tags: []
 name:
   full: Quârphic
   aliases: []
-description: ""
+description: "Quârphic is a language."
 id: wnncuSLQr1RkNprN
 slug: quarphic
 shortcode: quarphic

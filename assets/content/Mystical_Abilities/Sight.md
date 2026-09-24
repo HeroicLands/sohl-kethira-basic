@@ -3,7 +3,7 @@ tags: []
 name:
   full: Sight
   aliases: []
-description: ""
+description: "Sight is an arcane incantation of the Jmôrvi convocation."
 id: uEnxf7vF4YmL2S58
 slug: sight
 shortcode: sight

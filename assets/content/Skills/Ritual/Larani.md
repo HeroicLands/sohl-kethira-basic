@@ -3,7 +3,7 @@ tags: []
 name:
   full: Laráni
   aliases: []
-description: ""
+description: "Laráni is a mystical skill."
 id: FruDplKZAChdF261
 slug: larani
 shortcode: larani

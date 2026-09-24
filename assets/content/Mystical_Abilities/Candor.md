@@ -3,7 +3,7 @@ tags: []
 name:
   full: Candor
   aliases: []
-description: ""
+description: "Candor is an arcane incantation of the Sàvôrya convocation."
 id: 1nZ5JLdUKzxDC5J0
 slug: candor
 shortcode: candor

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Sàvôrya
   aliases: []
-description: ""
+description: "Sàvôrya is an arcane convocation."
 id: l8jxsp9pGx9HqwqG
 slug: savorya
 shortcode: savorya

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Gáranik
   aliases: []
-description: ""
+description: "Gáranik is a mystical skill."
 id: eBaySyirY4dbHlRi
 slug: garanik
 shortcode: garanik

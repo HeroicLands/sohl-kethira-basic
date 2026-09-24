@@ -3,7 +3,7 @@ tags: []
 name:
   full: Alchema
   aliases: []
-description: ""
+description: "Alchema is an arcane incantation of the Odívshè convocation."
 id: fHOhMqgMbewSXuXT
 slug: alchema
 shortcode: alchema

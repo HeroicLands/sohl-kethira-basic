@@ -3,7 +3,7 @@ tags: []
 name:
   full: Chain
   aliases: []
-description: ""
+description: "Chain is an arcane incantation of the Neutral convocation."
 id: ZZV4FwkGo9IWvRBi
 slug: chain
 shortcode: chain

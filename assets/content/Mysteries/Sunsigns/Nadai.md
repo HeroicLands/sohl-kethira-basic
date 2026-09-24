@@ -3,7 +3,7 @@ tags: []
 name:
   full: Nadái
   aliases: []
-description: ""
+description: "Nadái is a birthsign."
 id: 8Tp4mlHIyLSiiibp
 slug: nadai
 shortcode: nadai

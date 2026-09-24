@@ -3,7 +3,7 @@ tags: []
 name:
   full: Ágrik
   aliases: []
-description: ""
+description: "Ágrik is a mystical skill."
 id: sMgbqUmp3LA4W6Ob
 slug: agrik
 shortcode: agrik

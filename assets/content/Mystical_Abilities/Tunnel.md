@@ -3,7 +3,7 @@ tags: []
 name:
   full: Tunnel
   aliases: []
-description: ""
+description: "Tunnel is an arcane incantation of the Fývria convocation."
 id: bNggK0zh2JHNu6KR
 slug: tunnel
 shortcode: tunnel

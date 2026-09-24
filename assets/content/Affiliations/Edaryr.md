@@ -3,7 +3,7 @@ tags: []
 name:
   full: Edâryr
   aliases: []
-description: ""
+description: "Edâryr is a faith tradition."
 id: q8FnkJCKHBiX9SMQ
 slug: edaryr
 shortcode: edaryr

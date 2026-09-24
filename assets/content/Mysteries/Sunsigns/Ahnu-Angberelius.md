@@ -3,7 +3,7 @@ tags: []
 name:
   full: Áhnù-Angberélius
   aliases: []
-description: ""
+description: "Áhnù-Angberélius is a birthsign."
 id: Lk9xrTRAj6O4oNNd
 slug: ahnu-angberelius
 shortcode: ahnuangberelius

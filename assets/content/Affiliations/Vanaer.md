@@ -3,7 +3,7 @@ tags: []
 name:
   full: Vanáer
   aliases: []
-description: ""
+description: "Vanáer is a faith tradition."
 id: TN9l8hCE4UTrrWnG
 slug: vanaer
 shortcode: vanaer

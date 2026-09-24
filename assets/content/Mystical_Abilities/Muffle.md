@@ -3,7 +3,7 @@ tags: []
 name:
   full: Muffle
   aliases: []
-description: ""
+description: "Muffle is an arcane incantation of the Lyáhvi convocation."
 id: xM9jLJT7nDyy8dSl
 slug: muffle
 shortcode: muffle

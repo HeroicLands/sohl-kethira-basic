@@ -3,7 +3,7 @@ tags: []
 name:
   full: Fenéri-Áhnù
   aliases: []
-description: ""
+description: "Fenéri-Áhnù is a birthsign."
 id: HBe2jEz45xImY3X6
 slug: feneri-ahnu
 shortcode: feneriahnu

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Visnomy
   aliases: []
-description: ""
+description: "Visnomy is an arcane talent."
 id: lPKkHezbjh7kymzb
 slug: visnomy
 shortcode: vsnm

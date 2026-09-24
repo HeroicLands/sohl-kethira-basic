@@ -3,7 +3,7 @@ tags: []
 name:
   full: Telekinesis
   aliases: []
-description: ""
+description: "Telekinesis is an arcane talent."
 id: NDRL0yD5OPELKNBM
 slug: telekinesis
 shortcode: telek

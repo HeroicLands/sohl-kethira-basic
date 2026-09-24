@@ -3,7 +3,7 @@ tags: []
 name:
   full: Assemble
   aliases: []
-description: ""
+description: "Assemble is an arcane incantation of the Jmôrvi convocation."
 id: Fxg6egfBMgjnNS0C
 slug: assemble
 shortcode: assemble

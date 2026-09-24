@@ -3,7 +3,7 @@ tags: []
 name:
   full: Masâra
   aliases: []
-description: ""
+description: "Masâra is a birthsign."
 id: hTjG4MP2ILxzInZ1
 slug: masara
 shortcode: masara

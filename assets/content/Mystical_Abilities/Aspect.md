@@ -3,7 +3,7 @@ tags: []
 name:
   full: Aspect
   aliases: []
-description: ""
+description: "Aspect is an arcane incantation of the Jmôrvi convocation."
 id: 5NBX1wp4qSgXFLuU
 slug: aspect
 shortcode: aspect

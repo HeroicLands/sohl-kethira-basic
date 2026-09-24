@@ -3,7 +3,7 @@ tags: []
 name:
   full: Émhlèn
   aliases: []
-description: ""
+description: "Émhlèn is a language."
 id: q2Md4Qa3OCWyCDB5
 slug: emhlen
 shortcode: emhlen

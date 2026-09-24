@@ -3,7 +3,7 @@ tags: []
 name:
   full: Ilvîr
   aliases: []
-description: ""
+description: "Ilvîr is a mystical skill."
 id: BL0SMfIJsWRVDXsP
 slug: ilvir
 shortcode: ilvir

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Missive
   aliases: []
-description: ""
+description: "Missive is an arcane incantation of the Sàvôrya convocation."
 id: IRMCs3JdVLYQCycF
 slug: missive
 shortcode: missive

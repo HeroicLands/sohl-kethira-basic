@@ -3,7 +3,7 @@ tags: []
 name:
   full: Psychometry
   aliases: []
-description: ""
+description: "Psychometry is an arcane talent."
 id: nh4gsSvE5XhQEQ5X
 slug: psychometry
 shortcode: phyc

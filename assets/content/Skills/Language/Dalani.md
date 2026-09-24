@@ -3,7 +3,7 @@ tags: []
 name:
   full: Dálani
   aliases: []
-description: ""
+description: "Dálani is a language."
 id: E2BGs8oaoLPgYEGn
 slug: dalani
 shortcode: dalani

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Odívshè
   aliases: []
-description: ""
+description: "Odívshè is a mystical skill."
 id: CDXslJIQbILfLiDA
 slug: odivshe
 shortcode: odivshe

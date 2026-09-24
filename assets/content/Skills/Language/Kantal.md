@@ -3,7 +3,7 @@ tags: []
 name:
   full: Kántâl
   aliases: []
-description: ""
+description: "Kántâl is a language."
 id: fUDhikuD8BfYKQ6s
 slug: kantal
 shortcode: kantal

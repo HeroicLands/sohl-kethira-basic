@@ -3,7 +3,7 @@ tags: []
 name:
   full: Zârenor
   aliases: []
-description: ""
+description: "Zârenor is a faith tradition."
 id: e5vQ9Bfcnpp8UxG0
 slug: zarenor
 shortcode: zarenor

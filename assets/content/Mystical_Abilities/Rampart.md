@@ -3,7 +3,7 @@ tags: []
 name:
   full: Rampart
   aliases: []
-description: ""
+description: "Rampart is an arcane incantation of the Jmôrvi convocation."
 id: RLfQpp8hmujnbKf0
 slug: rampart
 shortcode: rampart

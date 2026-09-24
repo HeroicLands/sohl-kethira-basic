@@ -3,7 +3,7 @@ tags: []
 name:
   full: Táræl
   aliases: []
-description: ""
+description: "Táræl is a birthsign."
 id: OM8f6ntS6Ro08wSH
 slug: tarael
 shortcode: tarael

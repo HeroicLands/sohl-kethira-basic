@@ -3,7 +3,7 @@ tags: []
 name:
   full: Gauntlet
   aliases: []
-description: ""
+description: "Gauntlet is an arcane incantation of the Pèleáhn convocation."
 id: a9upgqjJgZVDy0b0
 slug: gauntlet
 shortcode: gauntlet

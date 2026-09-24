@@ -3,7 +3,7 @@ tags: []
 name:
   full: Neutral
   aliases: []
-description: ""
+description: "Neutral is a mystical skill."
 id: NM3JB59VYMqlvi6K
 slug: neutral
 shortcode: neutral

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Fire Fiend
   aliases: []
-description: ""
+description: "Fire Fiend is an arcane incantation of the Pèleáhn convocation."
 id: i8TCVZ58VDyZHwoV
 slug: fire-fiend
 shortcode: firefiend

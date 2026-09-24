@@ -3,7 +3,7 @@ tags: []
 name:
   full: Animus
   aliases: []
-description: ""
+description: "Animus is an arcane incantation of the Fývria convocation."
 id: CY6DBviTrF8kHSS3
 slug: animus
 shortcode: animus

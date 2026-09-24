@@ -3,7 +3,7 @@ tags: []
 name:
   full: Ilvîr
   aliases: []
-description: ""
+description: "Ilvîr is a faith tradition."
 id: iC0v91hBQXepKnhN
 slug: ilvir
 shortcode: ilvir

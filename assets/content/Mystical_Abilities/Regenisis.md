@@ -3,7 +3,7 @@ tags: []
 name:
   full: Regenisis
   aliases: []
-description: ""
+description: "Regenisis is an arcane incantation of the Fývria convocation."
 id: qQAh0uz82XptjugF
 slug: regenisis
 shortcode: regenisis

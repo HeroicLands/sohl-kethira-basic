@@ -3,7 +3,7 @@ tags: []
 name:
   full: Hácherian
   aliases: []
-description: ""
+description: "Hácherian is a language."
 id: oGdPt6gOeEEwBwec
 slug: hacherian
 shortcode: hacherian

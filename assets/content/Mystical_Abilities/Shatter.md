@@ -3,7 +3,7 @@ tags: []
 name:
   full: Shatter
   aliases: []
-description: ""
+description: "Shatter is an arcane incantation of the Jmôrvi convocation."
 id: O0x7OTeI2EEon89p
 slug: shatter
 shortcode: shatter

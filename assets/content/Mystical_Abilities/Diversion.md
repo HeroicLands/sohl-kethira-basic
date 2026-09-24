@@ -3,7 +3,7 @@ tags: []
 name:
   full: Diversion
   aliases: []
-description: ""
+description: "Diversion is an arcane incantation of the Sàvôrya convocation."
 id: ZohkOV86vqtKoT7J
 slug: diversion
 shortcode: diversion

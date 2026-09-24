@@ -3,7 +3,7 @@ tags: []
 name:
   full: Metal
   aliases: []
-description: ""
+description: "Metal is an arcane incantation of the Jmôrvi convocation."
 id: 2o9BR3Yq5dIFaxYd
 slug: metal
 shortcode: metal

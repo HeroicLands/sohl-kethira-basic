@@ -3,7 +3,7 @@ tags: []
 name:
   full: Diagnosis
   aliases: []
-description: ""
+description: "Diagnosis is an arcane incantation of the Fývria convocation."
 id: yJA2ul6TSfeAABnf
 slug: diagnosis
 shortcode: diagnosis

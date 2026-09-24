@@ -3,7 +3,7 @@ tags: []
 name:
   full: Môrgath
   aliases: []
-description: ""
+description: "Môrgath is a mystical skill."
 id: rCqyv7KMrp0FtqQX
 slug: morgath
 shortcode: morgath

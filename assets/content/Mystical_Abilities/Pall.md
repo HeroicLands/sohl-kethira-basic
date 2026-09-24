@@ -3,7 +3,7 @@ tags: []
 name:
   full: Pall
   aliases: []
-description: ""
+description: "Pall is an arcane incantation of the Odívshè convocation."
 id: 2PD424q1BTHukOyS
 slug: pall
 shortcode: pall

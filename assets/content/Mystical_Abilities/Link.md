@@ -3,7 +3,7 @@ tags: []
 name:
   full: Link
   aliases: []
-description: ""
+description: "Link is an arcane incantation of the Sàvôrya convocation."
 id: qUJbuBXZzC1nbovf
 slug: link
 shortcode: link

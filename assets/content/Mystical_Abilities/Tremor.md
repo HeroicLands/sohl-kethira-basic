@@ -3,7 +3,7 @@ tags: []
 name:
   full: Tremor
   aliases: []
-description: ""
+description: "Tremor is an arcane incantation of the Fývria convocation."
 id: SiEUZZSQnVGG44Dm
 slug: tremor
 shortcode: tremor

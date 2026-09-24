@@ -3,7 +3,7 @@ tags: []
 name:
   full: Basalm
   aliases: []
-description: ""
+description: "Basalm is an arcane incantation of the Fývria convocation."
 id: DUdQb72xTCsBlYBo
 slug: basalm
 shortcode: basalm

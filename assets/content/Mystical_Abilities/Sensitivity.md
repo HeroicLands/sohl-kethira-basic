@@ -3,7 +3,7 @@ tags: []
 name:
   full: Sensitivity
   aliases: []
-description: ""
+description: "Sensitivity is an arcane talent."
 id: GvNrbskSwZjdAamV
 slug: sensitivity
 shortcode: snst

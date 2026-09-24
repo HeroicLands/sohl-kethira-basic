@@ -3,7 +3,7 @@ tags: []
 name:
   full: Pèleáhn
   aliases: []
-description: ""
+description: "Pèleáhn is an arcane convocation."
 id: riP3Gs6iOTTR5Wx5
 slug: peleahn
 shortcode: peleahn

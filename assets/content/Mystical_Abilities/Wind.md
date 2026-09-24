@@ -3,7 +3,7 @@ tags: []
 name:
   full: Wind
   aliases: []
-description: ""
+description: "Wind is an arcane incantation of the Lyáhvi convocation."
 id: bcss8Ae9ZrrgvDBU
 slug: wind
 shortcode: wind

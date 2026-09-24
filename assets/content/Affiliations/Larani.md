@@ -3,7 +3,7 @@ tags: []
 name:
   full: Laráni
   aliases: []
-description: ""
+description: "Laráni is a faith tradition."
 id: TmoI0ZlgvYJHuy29
 slug: larani
 shortcode: larani

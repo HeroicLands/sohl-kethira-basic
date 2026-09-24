@@ -3,7 +3,7 @@ tags: []
 name:
   full: Tide
   aliases: []
-description: ""
+description: "Tide is an arcane incantation of the Odívshè convocation."
 id: eK3LH3Yeuc73HdIn
 slug: tide
 shortcode: tide

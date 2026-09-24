@@ -3,7 +3,7 @@ tags: []
 name:
   full: Confusion
   aliases: []
-description: ""
+description: "Confusion is an arcane incantation of the Sàvôrya convocation."
 id: WsvBfMmG3Q2hgdeS
 slug: confusion
 shortcode: confusion

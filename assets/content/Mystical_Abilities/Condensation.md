@@ -3,7 +3,7 @@ tags: []
 name:
   full: Condensation
   aliases: []
-description: ""
+description: "Condensation is an arcane incantation of the Odívshè convocation."
 id: YZ8ZCQnQibeONXc5
 slug: condensation
 shortcode: condensation

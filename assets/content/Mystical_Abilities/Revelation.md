@@ -3,7 +3,7 @@ tags: []
 name:
   full: Revelation
   aliases: []
-description: ""
+description: "Revelation is an arcane incantation of the Jmôrvi convocation."
 id: BBQgaHvKfgWP0J91
 slug: revelation
 shortcode: revelation

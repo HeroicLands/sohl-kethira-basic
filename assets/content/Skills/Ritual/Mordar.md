@@ -3,7 +3,7 @@ tags: []
 name:
   full: Môrdar
   aliases: []
-description: ""
+description: "Môrdar is a mystical skill."
 id: NEDzhnOXJNI5Rskh
 slug: mordar
 shortcode: mordar

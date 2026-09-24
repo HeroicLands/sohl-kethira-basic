@@ -3,7 +3,7 @@ tags: []
 name:
   full: Gáranik
   aliases: []
-description: ""
+description: "Gáranik is a faith tradition."
 id: iFVUCtelWqzn3a46
 slug: garanik
 shortcode: garanik

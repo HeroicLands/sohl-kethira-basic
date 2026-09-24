@@ -3,7 +3,7 @@ tags: []
 name:
   full: Figure
   aliases: []
-description: ""
+description: "Figure is an arcane incantation of the Lyáhvi convocation."
 id: r6Tsn2wZpjCV9BL7
 slug: figure
 shortcode: figure

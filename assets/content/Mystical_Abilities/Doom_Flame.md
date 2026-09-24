@@ -3,7 +3,7 @@ tags: []
 name:
   full: Doom Flame
   aliases: []
-description: ""
+description: "Doom Flame is an arcane incantation of the Pèleáhn convocation."
 id: v7FPUBi92oDck5UK
 slug: doom-flame
 shortcode: doomflame

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Úlana
   aliases: []
-description: ""
+description: "Úlana is a mystical skill."
 id: 66a9YrjEUqsOjyvc
 slug: ulana
 shortcode: ulana

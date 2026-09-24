@@ -3,7 +3,7 @@ tags: []
 name:
   full: Elarána
   aliases: []
-description: ""
+description: "Elarána is a faith tradition."
 id: Hq5ElECJNU3ebG7P
 slug: elarana
 shortcode: elarana

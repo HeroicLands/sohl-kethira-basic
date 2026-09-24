@@ -3,7 +3,7 @@ tags: []
 name:
   full: Gloomweb
   aliases: []
-description: ""
+description: "Gloomweb is an arcane incantation of the Odívshè convocation."
 id: 54KaLINTGG19HNCU
 slug: gloomweb
 shortcode: gloomweb

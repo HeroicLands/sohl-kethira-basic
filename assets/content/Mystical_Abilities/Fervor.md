@@ -3,7 +3,7 @@ tags: []
 name:
   full: Fervor
   aliases: []
-description: ""
+description: "Fervor is an arcane incantation of the Sàvôrya convocation."
 id: GEPXDZDxV5P6bu0Y
 slug: fervor
 shortcode: fervor
