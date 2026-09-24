@@ -19,7 +19,7 @@ data:
   templatePriority: 100
   gender: male
   age: 41
-  birthday: 678/1/7
+  born: 678/1/7
   height: 1.73
   weight: 65.77
   frame: medium

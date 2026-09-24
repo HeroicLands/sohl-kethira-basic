@@ -19,7 +19,7 @@ data:
   templatePriority: 1
   gender: unknown
   age: 27
-  birthday: 692/3/13
+  born: 692/3/13
   height: 1.88
   weight: 83.01
   frame: medium

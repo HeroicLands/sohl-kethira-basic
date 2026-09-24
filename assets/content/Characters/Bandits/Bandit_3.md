@@ -19,7 +19,7 @@ data:
   templatePriority: 100
   gender: male
   age: 44
-  birthday: 675/11/14
+  born: 675/11/14
   height: 1.83
   weight: 71.67
   frame: medium

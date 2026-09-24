@@ -19,7 +19,7 @@ data:
   templatePriority: 100
   gender: unknown
   age: 43
-  birthday: 676/12/5
+  born: 676/12/5
   height: 1.83
   weight: 75.75
   frame: medium
