@@ -3,7 +3,7 @@ tags: []
 name:
   full: Imbue
   aliases: []
-description: "Imbue is an arcane incantation of the Neutral convocation."
+description: "Imbue is a neutral arcane incantation."
 id: jW93Z3QMGkU4Zzg7
 slug: imbue
 shortcode: imbue

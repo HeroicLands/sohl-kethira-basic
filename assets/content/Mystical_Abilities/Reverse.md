@@ -3,7 +3,7 @@ tags: []
 name:
   full: Reverse
   aliases: []
-description: "Reverse is an arcane incantation of the Neutral convocation."
+description: "Reverse is a neutral arcane incantation."
 id: 0W8glgkZ21C9NvQM
 slug: reverse
 shortcode: reverse

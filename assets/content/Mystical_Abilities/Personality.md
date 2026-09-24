@@ -3,7 +3,7 @@ tags: []
 name:
   full: Personality
   aliases: []
-description: "Personality is an arcane incantation of the Neutral convocation."
+description: "Personality is a neutral arcane incantation."
 id: tRiLtQ7C5EKYVZIu
 slug: personality
 shortcode: personality

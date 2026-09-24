@@ -3,7 +3,7 @@ tags: []
 name:
   full: Pool
   aliases: []
-description: "Pool is an arcane incantation of the Neutral convocation."
+description: "Pool is a neutral arcane incantation."
 id: klV3yGAsX33EM2l2
 slug: pool
 shortcode: pool

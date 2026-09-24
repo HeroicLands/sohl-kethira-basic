@@ -3,7 +3,7 @@ tags: []
 name:
   full: Gate
   aliases: []
-description: "Gate is an arcane incantation of the Neutral convocation."
+description: "Gate is a neutral arcane incantation."
 id: n5wh31TKs62PrALm
 slug: gate
 shortcode: gate

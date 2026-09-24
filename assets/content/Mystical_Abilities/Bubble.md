@@ -3,7 +3,7 @@ tags: []
 name:
   full: Bubble
   aliases: []
-description: "Bubble is an arcane incantation of the Neutral convocation."
+description: "Bubble is a neutral arcane incantation."
 id: 8Iy5mdmNztwkGPXg
 slug: bubble
 shortcode: bubble

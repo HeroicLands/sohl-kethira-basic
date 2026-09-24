@@ -3,7 +3,7 @@ tags: []
 name:
   full: Absorb
   aliases: []
-description: "Absorb is an arcane incantation of the Neutral convocation."
+description: "Absorb is a neutral arcane incantation."
 id: 4cklnUPcocTdOXWu
 slug: absorb
 shortcode: absorb

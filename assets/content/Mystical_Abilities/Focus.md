@@ -3,7 +3,7 @@ tags: []
 name:
   full: Focus
   aliases: []
-description: "Focus is an arcane incantation of the Neutral convocation."
+description: "Focus is a neutral arcane incantation."
 id: KEjp3ERVc82yK72o
 slug: focus
 shortcode: focus

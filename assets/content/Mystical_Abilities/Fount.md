@@ -3,7 +3,7 @@ tags: []
 name:
   full: Fount
   aliases: []
-description: "Fount is an arcane incantation of the Neutral convocation."
+description: "Fount is a neutral arcane incantation."
 id: D7AmEtkHmw6J82C7
 slug: fount
 shortcode: fount

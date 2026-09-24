@@ -3,7 +3,7 @@ tags: []
 name:
   full: Investment
   aliases: []
-description: "Investment is an arcane incantation of the Neutral convocation."
+description: "Investment is a neutral arcane incantation."
 id: HKLL5igfb4FumAtR
 slug: investment
 shortcode: investment

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Survey
   aliases: []
-description: "Survey is an arcane incantation of the Neutral convocation."
+description: "Survey is a neutral arcane incantation."
 id: qyTJ6DQxlh2lYx83
 slug: survey
 shortcode: survey

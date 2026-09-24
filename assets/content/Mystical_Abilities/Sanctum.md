@@ -3,7 +3,7 @@ tags: []
 name:
   full: Sanctum
   aliases: []
-description: "Sanctum is an arcane incantation of the Neutral convocation."
+description: "Sanctum is a neutral arcane incantation."
 id: wwA0PHaLfDFUwVMz
 slug: sanctum
 shortcode: sanctum

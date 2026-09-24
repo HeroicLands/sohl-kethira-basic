@@ -3,7 +3,7 @@ tags: []
 name:
   full: Subvert
   aliases: []
-description: "Subvert is an arcane incantation of the Neutral convocation."
+description: "Subvert is a neutral arcane incantation."
 id: DOuooLC1vmHMC5By
 slug: subvert
 shortcode: subvert

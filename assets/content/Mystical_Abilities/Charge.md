@@ -3,7 +3,7 @@ tags: []
 name:
   full: Charge
   aliases: []
-description: "Charge is an arcane incantation of the Neutral convocation."
+description: "Charge is a neutral arcane incantation."
 id: jvYYWVvROqBNx4xx
 slug: charge
 shortcode: charge

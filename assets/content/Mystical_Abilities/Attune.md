@@ -3,7 +3,7 @@ tags: []
 name:
   full: Attune
   aliases: []
-description: "Attune is an arcane incantation of the Neutral convocation."
+description: "Attune is a neutral arcane incantation."
 id: 9cCLFKO2RETwPPuc
 slug: attune
 shortcode: attune

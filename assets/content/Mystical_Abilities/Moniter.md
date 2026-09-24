@@ -3,7 +3,7 @@ tags: []
 name:
   full: Moniter
   aliases: []
-description: "Moniter is an arcane incantation of the Neutral convocation."
+description: "Moniter is a neutral arcane incantation."
 id: 7BlPspbVilTiVqyL
 slug: moniter
 shortcode: moniter

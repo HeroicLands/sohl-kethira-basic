@@ -3,7 +3,7 @@ tags: []
 name:
   full: Bane
   aliases: []
-description: "Bane is an arcane incantation of the Neutral convocation."
+description: "Bane is a neutral arcane incantation."
 id: KOpWN5lb4ia3cHo9
 slug: bane
 shortcode: bane
