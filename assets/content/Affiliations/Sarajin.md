@@ -1,24 +1,15 @@
 ---
-tags: []
-name:
-  full: Sárajìn
-  aliases: []
-description: "Sárajìn is a faith tradition."
-id: aR5OppO1KB3vAJVl
-slug: sarajin
 shortcode: sarajin
+name: {full: Sárajìn, aliases: []}
 type: affiliation
 subType: faithtradition
-pack: mysteries
+description: "Sárajìn is a faith tradition."
+tags: []
 data:
   icon: image-kpsarajin
   templatePriority: 0
-sohl:
-  kbcat: affiliation
-  system:
-    society: ""
-    office: ""
-    title: ""
-    level: 1
-packFolder: affiliations
+  id: aR5OppO1KB3vAJVl
+  packFolder: affiliations
+  pack: mysteries
+sohl: {kbcat: affiliation, system: {society: "", office: "", title: "", level: 1}}
 ---

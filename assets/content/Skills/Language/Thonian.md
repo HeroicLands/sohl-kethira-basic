@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Thónian
-  aliases: []
-description: "Thónian is a language."
-id: TdCA6SMBfNGAPgDZ
-slug: thonian
 shortcode: thonian
+name: {full: Thónian, aliases: []}
 type: skill
 subType: language
-pack: characteristics
+description: "Thónian is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: TdCA6SMBfNGAPgDZ
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-packFolder: languages
+    impairedByRoles: [vital, core]
 ---

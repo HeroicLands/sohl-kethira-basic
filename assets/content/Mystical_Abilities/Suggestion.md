@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Suggestion
-  aliases: []
-description: "Suggestion is an arcane incantation of the Sàvôrya convocation."
-id: MKFGj6l9AyUHpb19
-slug: suggestion
 shortcode: suggestion
+name: {full: Suggestion, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Suggestion is an arcane incantation of the Sàvôrya convocation."
+tags: []
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
+  id: MKFGj6l9AyUHpb19
+  packFolder: savorya
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: savorya
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-packFolder: savorya
+    charges: {value: null, max: null}
 ---

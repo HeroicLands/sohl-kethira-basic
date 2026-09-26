@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Sávè-K'nôr
-  aliases: []
-description: "Sávè-K'nôr is a mystical skill."
-id: gO8X0Xri4b3f3tId
-slug: save-k-nor
 shortcode: saveknor
+name: {full: Sávè-K'nôr, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Sávè-K'nôr is a mystical skill."
+tags: []
 data:
   icon: image-kpsaveknor
   templatePriority: 0
+  id: gO8X0Xri4b3f3tId
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: rituals
+    impairedByRoles: [vital]
 ---

@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Àzeryáni
-  aliases: []
-description: "Àzeryáni is a language."
-id: sygNpMe0xKos6cYQ
-slug: azeryani
 shortcode: azeryani
+name: {full: Àzeryáni, aliases: []}
 type: skill
 subType: language
-pack: characteristics
+description: "Àzeryáni is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: sygNpMe0xKos6cYQ
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-packFolder: languages
+    impairedByRoles: [vital, core]
 ---

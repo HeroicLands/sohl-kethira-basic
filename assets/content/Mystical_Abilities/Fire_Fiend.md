@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Fire Fiend
-  aliases: []
-description: "Fire Fiend is an arcane incantation of the Pèleáhn convocation."
-id: i8TCVZ58VDyZHwoV
-slug: fire-fiend
 shortcode: firefiend
+name: {full: Fire Fiend, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Fire Fiend is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: i8TCVZ58VDyZHwoV
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-packFolder: peleahn
+    charges: {value: null, max: null}
 ---

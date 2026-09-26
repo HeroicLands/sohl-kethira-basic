@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Zârenor
-  aliases: []
-description: "Zârenor is a mystical skill."
-id: zovgjXFp3wWVLdgP
-slug: zarenor
 shortcode: zarenor
+name: {full: Zârenor, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Zârenor is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
+  id: zovgjXFp3wWVLdgP
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: rituals
+    impairedByRoles: [vital]
 ---

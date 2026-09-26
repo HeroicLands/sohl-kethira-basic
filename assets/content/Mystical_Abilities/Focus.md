@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Focus
-  aliases: []
-description: "Focus is an arcane incantation of the Neutral convocation."
-id: KEjp3ERVc82yK72o
-slug: focus
 shortcode: focus
+name: {full: Focus, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Focus is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: KEjp3ERVc82yK72o
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: neutral
+    charges: {value: null, max: null}
 ---

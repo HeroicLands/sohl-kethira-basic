@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Hârnic
-  aliases: []
-description: "Hârnic is a language."
-id: woFaMUgznLPQREME
-slug: harnic
 shortcode: harnic
+name: {full: Hârnic, aliases: []}
 type: skill
 subType: language
-pack: characteristics
+description: "Hârnic is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: woFaMUgznLPQREME
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-packFolder: languages
+    impairedByRoles: [vital, core]
 ---

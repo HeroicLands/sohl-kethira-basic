@@ -1,24 +1,15 @@
 ---
-tags: []
-name:
-  full: Lyáhvi
-  aliases: []
-description: "Lyáhvi is an arcane convocation."
-id: OmtVbKOrNZ7MPRGS
-slug: lyahvi
 shortcode: lyahvi
+name: {full: Lyáhvi, aliases: []}
 type: affiliation
 subType: arcanetradition
-pack: mysteries
+description: "Lyáhvi is an arcane convocation."
+tags: []
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
-sohl:
-  kbcat: affiliation
-  system:
-    society: ""
-    office: ""
-    title: ""
-    level: 1
-packFolder: affiliations
+  id: OmtVbKOrNZ7MPRGS
+  packFolder: affiliations
+  pack: mysteries
+sohl: {kbcat: affiliation, system: {society: "", office: "", title: "", level: 1}}
 ---

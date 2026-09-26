@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Subvert
-  aliases: []
-description: "Subvert is an arcane incantation of the Neutral convocation."
-id: DOuooLC1vmHMC5By
-slug: subvert
 shortcode: subvert
+name: {full: Subvert, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Subvert is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: DOuooLC1vmHMC5By
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: neutral
+    charges: {value: null, max: null}
 ---

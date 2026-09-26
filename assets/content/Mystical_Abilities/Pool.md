@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Pool
-  aliases: []
-description: "Pool is an arcane incantation of the Neutral convocation."
-id: klV3yGAsX33EM2l2
-slug: pool
 shortcode: pool
+name: {full: Pool, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Pool is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: klV3yGAsX33EM2l2
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: neutral
+    charges: {value: null, max: null}
 ---

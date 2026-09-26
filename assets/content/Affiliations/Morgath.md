@@ -1,24 +1,15 @@
 ---
-tags: []
-name:
-  full: Môrgath
-  aliases: []
-description: "Môrgath is a faith tradition."
-id: 8C7DlJGxOcDBQNmB
-slug: morgath
 shortcode: morgath
+name: {full: Môrgath, aliases: []}
 type: affiliation
 subType: faithtradition
-pack: mysteries
+description: "Môrgath is a faith tradition."
+tags: []
 data:
   icon: image-kpmorgath
   templatePriority: 0
-sohl:
-  kbcat: affiliation
-  system:
-    society: ""
-    office: ""
-    title: ""
-    level: 1
-packFolder: affiliations
+  id: 8C7DlJGxOcDBQNmB
+  packFolder: affiliations
+  pack: mysteries
+sohl: {kbcat: affiliation, system: {society: "", office: "", title: "", level: 1}}
 ---

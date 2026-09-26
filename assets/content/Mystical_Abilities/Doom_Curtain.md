@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Doom Curtain
-  aliases: []
-description: "Doom Curtain is an arcane incantation of the Pèleáhn convocation."
-id: MxDw4xt3jVBJQ7DX
-slug: doom-curtain
 shortcode: doomcurtain
+name: {full: Doom Curtain, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Doom Curtain is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: MxDw4xt3jVBJQ7DX
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-packFolder: peleahn
+    charges: {value: null, max: null}
 ---

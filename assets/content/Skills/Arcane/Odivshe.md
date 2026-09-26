@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Odívshè
-  aliases: []
-description: "Odívshè is a mystical skill."
-id: CDXslJIQbILfLiDA
-slug: odivshe
 shortcode: odivshe
+name: {full: Odívshè, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Odívshè is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: CDXslJIQbILfLiDA
+  packFolder: esoteric
+  pack: characteristics
 sohl:
   kbcat: arcane
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: esoteric
+    impairedByRoles: [vital]
 ---

@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Armor
-  aliases: []
-description: "Armor is an arcane incantation of the Jmôrvi convocation."
-id: Zt3TZ2L5r7lS8Ow1
-slug: armor
 shortcode: armor
+name: {full: Armor, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Armor is an arcane incantation of the Jmôrvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: Zt3TZ2L5r7lS8Ow1
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: jmorvi
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-packFolder: jmorvi
+    charges: {value: null, max: null}
 ---

@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Peóni
-  aliases: []
-description: "Peóni is a mystical skill."
-id: gevm9nRwQonHFsgE
-slug: peoni
 shortcode: peoni
+name: {full: Peóni, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Peóni is a mystical skill."
+tags: []
 data:
   icon: image-kppeoni
   templatePriority: 0
+  id: gevm9nRwQonHFsgE
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: rituals
+    impairedByRoles: [vital]
 ---

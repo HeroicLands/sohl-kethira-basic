@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Sphere
-  aliases: []
-description: "Sphere is an arcane incantation of the Pèleáhn convocation."
-id: kkFwQo9vfwEjpZqh
-slug: sphere
 shortcode: sphere
+name: {full: Sphere, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Sphere is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: kkFwQo9vfwEjpZqh
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-packFolder: peleahn
+    charges: {value: null, max: null}
 ---

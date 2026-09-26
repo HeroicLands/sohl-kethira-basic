@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Ivashi
-  aliases: []
-description: "Ivashi is a language."
-id: dA4dgGTRAcDuXRBI
-slug: ivashi
 shortcode: ivashi
+name: {full: Ivashi, aliases: []}
 type: skill
 subType: language
-pack: characteristics
+description: "Ivashi is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: dA4dgGTRAcDuXRBI
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-packFolder: languages
+    impairedByRoles: [vital, core]
 ---

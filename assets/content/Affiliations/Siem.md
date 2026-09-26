@@ -1,24 +1,15 @@
 ---
-tags: []
-name:
-  full: Siém
-  aliases: []
-description: "Siém is a faith tradition."
-id: wWta7yv10NiPZ4kU
-slug: siem
 shortcode: siem
+name: {full: Siém, aliases: []}
 type: affiliation
 subType: faithtradition
-pack: mysteries
+description: "Siém is a faith tradition."
+tags: []
 data:
   icon: image-kpsiem
   templatePriority: 0
-sohl:
-  kbcat: affiliation
-  system:
-    society: ""
-    office: ""
-    title: ""
-    level: 1
-packFolder: affiliations
+  id: wWta7yv10NiPZ4kU
+  packFolder: affiliations
+  pack: mysteries
+sohl: {kbcat: affiliation, system: {society: "", office: "", title: "", level: 1}}
 ---

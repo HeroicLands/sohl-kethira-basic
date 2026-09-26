@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Alchema
-  aliases: []
-description: "Alchema is an arcane incantation of the Odívshè convocation."
-id: fHOhMqgMbewSXuXT
-slug: alchema
 shortcode: alchema
+name: {full: Alchema, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Alchema is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: fHOhMqgMbewSXuXT
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-packFolder: odivshe
+    charges: {value: null, max: null}
 ---

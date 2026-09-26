@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Shadow
-  aliases: []
-description: "Shadow is an arcane incantation of the Odívshè convocation."
-id: kRjDRbd8bDVcrTBv
-slug: shadow
 shortcode: shadow
+name: {full: Shadow, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Shadow is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: kRjDRbd8bDVcrTBv
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-packFolder: odivshe
+    charges: {value: null, max: null}
 ---

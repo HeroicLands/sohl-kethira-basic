@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Fývria
-  aliases: []
-description: "Fývria is a mystical skill."
-id: XNP6dybkONMzpEVF
-slug: fyvria
 shortcode: fyvria
+name: {full: Fývria, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Fývria is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: XNP6dybkONMzpEVF
+  packFolder: esoteric
+  pack: characteristics
 sohl:
   kbcat: arcane
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: esoteric
+    impairedByRoles: [vital]
 ---

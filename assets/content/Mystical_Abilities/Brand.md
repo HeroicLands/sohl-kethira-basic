@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Brand
-  aliases: []
-description: "Brand is an arcane incantation of the Pèleáhn convocation."
-id: lII4PIV0ubNeG74j
-slug: brand
 shortcode: brand
+name: {full: Brand, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Brand is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: lII4PIV0ubNeG74j
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: peleahn
+    charges: {value: null, max: null}
 ---

@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Moniter
-  aliases: []
-description: "Moniter is an arcane incantation of the Neutral convocation."
-id: 7BlPspbVilTiVqyL
-slug: moniter
 shortcode: moniter
+name: {full: Moniter, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Moniter is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: 7BlPspbVilTiVqyL
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-packFolder: neutral
+    charges: {value: null, max: null}
 ---

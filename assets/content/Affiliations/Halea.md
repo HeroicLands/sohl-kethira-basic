@@ -1,24 +1,15 @@
 ---
-tags: []
-name:
-  full: Haléa
-  aliases: []
-description: "Haléa is a faith tradition."
-id: urYK2XuIjOlxb0qm
-slug: halea
 shortcode: halea
+name: {full: Haléa, aliases: []}
 type: affiliation
 subType: faithtradition
-pack: mysteries
+description: "Haléa is a faith tradition."
+tags: []
 data:
   icon: image-kphalea
   templatePriority: 0
-sohl:
-  kbcat: affiliation
-  system:
-    society: ""
-    office: ""
-    title: ""
-    level: 1
-packFolder: affiliations
+  id: urYK2XuIjOlxb0qm
+  packFolder: affiliations
+  pack: mysteries
+sohl: {kbcat: affiliation, system: {society: "", office: "", title: "", level: 1}}
 ---

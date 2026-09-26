@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Obedience
-  aliases: []
-description: "Obedience is an arcane incantation of the Sàvôrya convocation."
-id: kZ50t4Hak9jFKwEP
-slug: obedience
 shortcode: obedience
+name: {full: Obedience, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Obedience is an arcane incantation of the Sàvôrya convocation."
+tags: []
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
+  id: kZ50t4Hak9jFKwEP
+  packFolder: savorya
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: savorya
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: savorya
+    charges: {value: null, max: null}
 ---

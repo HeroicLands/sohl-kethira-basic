@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Growth
-  aliases: []
-description: "Growth is an arcane incantation of the Fývria convocation."
-id: osBJntGxM8K2V9NP
-slug: growth
 shortcode: growth
+name: {full: Growth, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Growth is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: osBJntGxM8K2V9NP
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-packFolder: fyvria
+    charges: {value: null, max: null}
 ---

@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Vanáer
-  aliases: []
-description: "Vanáer is a mystical skill."
-id: CcO0l7xmPd61kQqP
-slug: vanaer
 shortcode: vanaer
+name: {full: Vanáer, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Vanáer is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
+  id: CcO0l7xmPd61kQqP
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: rituals
+    impairedByRoles: [vital]
 ---

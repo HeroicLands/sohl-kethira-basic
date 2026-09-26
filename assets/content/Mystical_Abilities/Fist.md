@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Fist
-  aliases: []
-description: "Fist is an arcane incantation of the Jmôrvi convocation."
-id: xblfM9oiHccCQ8I4
-slug: fist
 shortcode: fist
+name: {full: Fist, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Fist is an arcane incantation of the Jmôrvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: xblfM9oiHccCQ8I4
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: jmorvi
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: jmorvi
+    charges: {value: null, max: null}
 ---

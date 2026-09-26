@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Zâkimladal
-  aliases: []
-description: "Zâkimladal is a language."
-id: CsdzvLOYIrnU1Fre
-slug: zakimladal
 shortcode: zakimladal
+name: {full: Zâkimladal, aliases: []}
 type: skill
 subType: language
-pack: characteristics
+description: "Zâkimladal is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 100
+  id: CsdzvLOYIrnU1Fre
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-packFolder: languages
+    impairedByRoles: [vital, core]
 ---

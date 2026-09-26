@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Siém
-  aliases: []
-description: "Siém is a mystical skill."
-id: TaiHOeQqjqJX4qqk
-slug: siem
 shortcode: siem
+name: {full: Siém, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Siém is a mystical skill."
+tags: []
 data:
   icon: image-kpsiem
   templatePriority: 0
+  id: TaiHOeQqjqJX4qqk
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: rituals
+    impairedByRoles: [vital]
 ---

@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Imbue
-  aliases: []
-description: "Imbue is an arcane incantation of the Neutral convocation."
-id: jW93Z3QMGkU4Zzg7
-slug: imbue
 shortcode: imbue
+name: {full: Imbue, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Imbue is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: jW93Z3QMGkU4Zzg7
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-packFolder: neutral
+    charges: {value: null, max: null}
 ---

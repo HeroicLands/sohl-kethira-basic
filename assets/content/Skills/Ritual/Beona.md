@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Beóna
-  aliases: []
-description: "Beóna is a mystical skill."
-id: wfKOgAMkZRBgrkfN
-slug: beona
 shortcode: beona
+name: {full: Beóna, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Beóna is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
+  id: wfKOgAMkZRBgrkfN
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: rituals
+    impairedByRoles: [vital]
 ---

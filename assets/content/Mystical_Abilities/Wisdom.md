@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Wisdom
-  aliases: []
-description: "Wisdom is an arcane incantation of the Sàvôrya convocation."
-id: mqWpROliaDMNGjp9
-slug: wisdom
 shortcode: wisdom
+name: {full: Wisdom, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Wisdom is an arcane incantation of the Sàvôrya convocation."
+tags: []
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
+  id: mqWpROliaDMNGjp9
+  packFolder: savorya
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: savorya
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: savorya
+    charges: {value: null, max: null}
 ---

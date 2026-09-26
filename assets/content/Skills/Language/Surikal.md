@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Surikal
-  aliases: []
-description: "Surikal is a language."
-id: j8hikYNaljD8eqz1
-slug: surikal
 shortcode: surikal
+name: {full: Surikal, aliases: []}
 type: skill
 subType: language
-pack: characteristics
+description: "Surikal is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: j8hikYNaljD8eqz1
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-packFolder: languages
+    impairedByRoles: [vital, core]
 ---

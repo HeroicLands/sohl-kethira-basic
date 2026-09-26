@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Vessel
-  aliases: []
-description: "Vessel is an arcane incantation of the Neutral convocation."
-id: QT3FEq9aroxJPaP8
-slug: vessel
 shortcode: vessel
+name: {full: Vessel, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Vessel is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: QT3FEq9aroxJPaP8
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: neutral
+    charges: {value: null, max: null}
 ---

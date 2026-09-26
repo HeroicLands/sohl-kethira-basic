@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Calm
-  aliases: []
-description: "Calm is an arcane incantation of the Odívshè convocation."
-id: PeK6q0w3kEgsuizC
-slug: calm
 shortcode: calm
+name: {full: Calm, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Calm is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: PeK6q0w3kEgsuizC
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-packFolder: odivshe
+    charges: {value: null, max: null}
 ---

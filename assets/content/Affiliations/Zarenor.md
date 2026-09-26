@@ -1,24 +1,15 @@
 ---
-tags: []
-name:
-  full: Zârenor
-  aliases: []
-description: "Zârenor is a faith tradition."
-id: e5vQ9Bfcnpp8UxG0
-slug: zarenor
 shortcode: zarenor
+name: {full: Zârenor, aliases: []}
 type: affiliation
 subType: faithtradition
-pack: mysteries
+description: "Zârenor is a faith tradition."
+tags: []
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
-sohl:
-  kbcat: affiliation
-  system:
-    society: ""
-    office: ""
-    title: ""
-    level: 1
-packFolder: affiliations
+  id: e5vQ9Bfcnpp8UxG0
+  packFolder: affiliations
+  pack: mysteries
+sohl: {kbcat: affiliation, system: {society: "", office: "", title: "", level: 1}}
 ---

@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Sárajìn
-  aliases: []
-description: "Sárajìn is a mystical skill."
-id: 4N4tdZFvVVXQeNcq
-slug: sarajin
 shortcode: sarajin
+name: {full: Sárajìn, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Sárajìn is a mystical skill."
+tags: []
 data:
   icon: image-kpsarajin
   templatePriority: 0
+  id: 4N4tdZFvVVXQeNcq
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: rituals
+    impairedByRoles: [vital]
 ---

@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Redoubt
-  aliases: []
-description: "Redoubt is an arcane incantation of the Jmôrvi convocation."
-id: o2f53g7hqpHCUAOH
-slug: redoubt
 shortcode: redoubt
+name: {full: Redoubt, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Redoubt is an arcane incantation of the Jmôrvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: o2f53g7hqpHCUAOH
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: jmorvi
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-packFolder: jmorvi
+    charges: {value: null, max: null}
 ---

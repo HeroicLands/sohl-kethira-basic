@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Seeker
-  aliases: []
-description: "Seeker is an arcane incantation of the Pèleáhn convocation."
-id: r6nslXZcWo7AUpGQ
-slug: seeker
 shortcode: seeker
+name: {full: Seeker, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Seeker is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: r6nslXZcWo7AUpGQ
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-packFolder: peleahn
+    charges: {value: null, max: null}
 ---

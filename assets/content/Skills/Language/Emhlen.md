@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Émhlèn
-  aliases: []
-description: "Émhlèn is a language."
-id: q2Md4Qa3OCWyCDB5
-slug: emhlen
 shortcode: emhlen
+name: {full: Émhlèn, aliases: []}
 type: skill
 subType: language
-pack: characteristics
+description: "Émhlèn is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 100
+  id: q2Md4Qa3OCWyCDB5
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-packFolder: languages
+    impairedByRoles: [vital, core]
 ---

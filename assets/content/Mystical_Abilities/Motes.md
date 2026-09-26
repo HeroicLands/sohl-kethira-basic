@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Motes
-  aliases: []
-description: "Motes is an arcane incantation of the Lyáhvi convocation."
-id: U8Tfw6JUQZqF6P7Z
-slug: motes
 shortcode: motes
+name: {full: Motes, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Motes is an arcane incantation of the Lyáhvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: U8Tfw6JUQZqF6P7Z
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: lyahvi
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-packFolder: lyahvi
+    charges: {value: null, max: null}
 ---

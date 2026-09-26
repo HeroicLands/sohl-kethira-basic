@@ -1,25 +1,15 @@
 ---
-tags: []
-name:
-  full: Clairvoyance
-  aliases: []
-description: "Clairvoyance is an arcane talent."
-id: N2SuuuRJq86wgYy6
-slug: clairvoyance
 shortcode: clrv
+name: {full: Clairvoyance, aliases: []}
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
+description: "Clairvoyance is an arcane talent."
+tags: []
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
-sohl:
-  kbcat: null
-  system:
-    masteryLevelBase: 0
-    levelBase: 0
-    charges:
-      value: null
-      max: null
-packFolder: arcanetalents
+  id: N2SuuuRJq86wgYy6
+  packFolder: arcanetalents
+  pack: mysteries
+sohl: {kbcat: null, system: {masteryLevelBase: 0, levelBase: 0, charges: {value: null, max: null}}}
 ---

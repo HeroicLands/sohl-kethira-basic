@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Sweat
-  aliases: []
-description: "Sweat is an arcane incantation of the Odívshè convocation."
-id: 9vcb21xBdKxEfT8j
-slug: sweat
 shortcode: sweat
+name: {full: Sweat, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Sweat is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: 9vcb21xBdKxEfT8j
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: odivshe
+    charges: {value: null, max: null}
 ---

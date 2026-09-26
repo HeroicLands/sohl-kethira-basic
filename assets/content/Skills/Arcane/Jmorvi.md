@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Jmôrvi
-  aliases: []
-description: "Jmôrvi is a mystical skill."
-id: Yk66XLvMNm6RD7ON
-slug: jmorvi
 shortcode: jmorvi
+name: {full: Jmôrvi, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Jmôrvi is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: Yk66XLvMNm6RD7ON
+  packFolder: esoteric
+  pack: characteristics
 sohl:
   kbcat: arcane
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: esoteric
+    impairedByRoles: [vital]
 ---

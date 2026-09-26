@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Khrúni
-  aliases: []
-description: "Khrúni is a script."
-id: Soq0vRso2XXolGH7
-slug: khruni
 shortcode: khruni
+name: {full: Khrúni, aliases: []}
 type: skill
 subType: script
-pack: characteristics
+description: "Khrúni is a script."
+tags: []
 data:
   icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
+  id: Soq0vRso2XXolGH7
+  packFolder: scripts
+  pack: characteristics
 sohl:
   kbcat: script
   system:
@@ -22,9 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-      - manipulator
-packFolder: scripts
+    impairedByRoles: [vital, core, manipulator]
 ---

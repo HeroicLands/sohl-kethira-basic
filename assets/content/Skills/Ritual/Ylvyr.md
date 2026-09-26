@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Ylvýr
-  aliases: []
-description: "Ylvýr is a mystical skill."
-id: XexYQNbusggd0AMs
-slug: ylvyr
 shortcode: ylvyr
+name: {full: Ylvýr, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Ylvýr is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
+  id: XexYQNbusggd0AMs
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: rituals
+    impairedByRoles: [vital]
 ---

@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Conflagration
-  aliases: []
-description: "Conflagration is an arcane incantation of the Pèleáhn convocation."
-id: HKWL5hJh4F4UKQGt
-slug: conflagration
 shortcode: conflagration
+name: {full: Conflagration, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Conflagration is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: HKWL5hJh4F4UKQGt
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: peleahn
+    charges: {value: null, max: null}
 ---

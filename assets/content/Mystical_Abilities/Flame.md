@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Flame
-  aliases: []
-description: "Flame is an arcane incantation of the Pèleáhn convocation."
-id: uxBGtKxkIMylgjDw
-slug: flame
 shortcode: flame
+name: {full: Flame, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Flame is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: uxBGtKxkIMylgjDw
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-packFolder: peleahn
+    charges: {value: null, max: null}
 ---

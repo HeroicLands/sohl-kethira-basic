@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Haléa
-  aliases: []
-description: "Haléa is a mystical skill."
-id: LCaEFOhHOOhLSNvk
-slug: halea
 shortcode: halea
+name: {full: Haléa, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Haléa is a mystical skill."
+tags: []
 data:
   icon: image-kphalea
   templatePriority: 0
+  id: LCaEFOhHOOhLSNvk
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: rituals
+    impairedByRoles: [vital]
 ---

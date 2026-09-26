@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Harmony
-  aliases: []
-description: "Harmony is an arcane incantation of the Sàvôrya convocation."
-id: ZEv9oDErodUgzc0F
-slug: harmony
 shortcode: harmony
+name: {full: Harmony, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Harmony is an arcane incantation of the Sàvôrya convocation."
+tags: []
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
+  id: ZEv9oDErodUgzc0F
+  packFolder: savorya
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: savorya
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-packFolder: savorya
+    charges: {value: null, max: null}
 ---

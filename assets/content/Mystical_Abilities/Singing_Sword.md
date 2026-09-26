@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Singing Sword
-  aliases: []
-description: "Singing Sword is an arcane incantation of the Jmôrvi convocation."
-id: OpZ3MKsZQQncRe94
-slug: singing-sword
 shortcode: singingsword
+name: {full: Singing Sword, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Singing Sword is an arcane incantation of the Jmôrvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: OpZ3MKsZQQncRe94
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: jmorvi
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: jmorvi
+    charges: {value: null, max: null}
 ---

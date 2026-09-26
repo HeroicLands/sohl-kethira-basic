@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Kántâl
-  aliases: []
-description: "Kántâl is a language."
-id: fUDhikuD8BfYKQ6s
-slug: kantal
 shortcode: kantal
+name: {full: Kántâl, aliases: []}
 type: skill
 subType: language
-pack: characteristics
+description: "Kántâl is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 100
+  id: fUDhikuD8BfYKQ6s
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-packFolder: languages
+    impairedByRoles: [vital, core]
 ---

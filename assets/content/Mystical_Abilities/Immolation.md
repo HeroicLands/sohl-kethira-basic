@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Immolation
-  aliases: []
-description: "Immolation is an arcane incantation of the Pèleáhn convocation."
-id: nomkk6fTJg8Iy4VX
-slug: immolation
 shortcode: immolation
+name: {full: Immolation, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Immolation is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: nomkk6fTJg8Iy4VX
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-packFolder: peleahn
+    charges: {value: null, max: null}
 ---

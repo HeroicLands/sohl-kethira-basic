@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Arcane Talents"
 shortcode: arcanetalents
+name: {full: "Arcane Talents"}
 type: folder
-id: erU4UqfJtaHDk7YU
-data:
-  color: "#801000"
+data: {color: "#801000", id: erU4UqfJtaHDk7YU}
 ---

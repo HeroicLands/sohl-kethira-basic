@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Personality
-  aliases: []
-description: "Personality is an arcane incantation of the Neutral convocation."
-id: tRiLtQ7C5EKYVZIu
-slug: personality
 shortcode: personality
+name: {full: Personality, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Personality is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: tRiLtQ7C5EKYVZIu
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-packFolder: neutral
+    charges: {value: null, max: null}
 ---

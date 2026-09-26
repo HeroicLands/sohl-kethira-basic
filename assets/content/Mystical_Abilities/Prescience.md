@@ -1,25 +1,15 @@
 ---
-tags: []
-name:
-  full: Prescience
-  aliases: []
-description: "Prescience is an arcane talent."
-id: wFQGHGOjYdp98VlC
-slug: prescience
 shortcode: psnc
+name: {full: Prescience, aliases: []}
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
+description: "Prescience is an arcane talent."
+tags: []
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
-sohl:
-  kbcat: null
-  system:
-    masteryLevelBase: 0
-    levelBase: 0
-    charges:
-      value: null
-      max: null
-packFolder: arcanetalents
+  id: wFQGHGOjYdp98VlC
+  packFolder: arcanetalents
+  pack: mysteries
+sohl: {kbcat: null, system: {masteryLevelBase: 0, levelBase: 0, charges: {value: null, max: null}}}
 ---

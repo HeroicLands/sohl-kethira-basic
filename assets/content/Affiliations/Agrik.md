@@ -1,24 +1,15 @@
 ---
-tags: []
-name:
-  full: Ágrik
-  aliases: []
-description: "Ágrik is a faith tradition."
-id: c5pKrlG8INCVvy19
-slug: agrik
 shortcode: agrik
+name: {full: Ágrik, aliases: []}
 type: affiliation
 subType: faithtradition
-pack: mysteries
+description: "Ágrik is a faith tradition."
+tags: []
 data:
   icon: image-kpagrik
   templatePriority: 0
-sohl:
-  kbcat: affiliation
-  system:
-    society: ""
-    office: ""
-    title: ""
-    level: 1
-packFolder: affiliations
+  id: c5pKrlG8INCVvy19
+  packFolder: affiliations
+  pack: mysteries
+sohl: {kbcat: affiliation, system: {society: "", office: "", title: "", level: 1}}
 ---

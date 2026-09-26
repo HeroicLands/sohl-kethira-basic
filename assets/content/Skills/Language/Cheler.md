@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Chéler
-  aliases: []
-description: "Chéler is a language."
-id: 0tbEqvhpocGmcWVH
-slug: cheler
 shortcode: cheler
+name: {full: Chéler, aliases: []}
 type: skill
 subType: language
-pack: characteristics
+description: "Chéler is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: 0tbEqvhpocGmcWVH
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-packFolder: languages
+    impairedByRoles: [vital, core]
 ---

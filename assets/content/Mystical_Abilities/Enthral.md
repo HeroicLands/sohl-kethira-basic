@@ -1,25 +1,15 @@
 ---
-tags: []
-name:
-  full: Enthral
-  aliases: []
-description: "Enthral is an arcane talent."
-id: nDJ1yTJ6OYad1ZQM
-slug: enthral
 shortcode: enth
+name: {full: Enthral, aliases: []}
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
+description: "Enthral is an arcane talent."
+tags: []
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
-sohl:
-  kbcat: null
-  system:
-    masteryLevelBase: 0
-    levelBase: 0
-    charges:
-      value: null
-      max: null
-packFolder: arcanetalents
+  id: nDJ1yTJ6OYad1ZQM
+  packFolder: arcanetalents
+  pack: mysteries
+sohl: {kbcat: null, system: {masteryLevelBase: 0, levelBase: 0, charges: {value: null, max: null}}}
 ---

@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Shape
-  aliases: []
-description: "Shape is an arcane incantation of the Fývria convocation."
-id: wBb4AKwG3sS8VuB5
-slug: shape
 shortcode: shape
+name: {full: Shape, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Shape is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: wBb4AKwG3sS8VuB5
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-packFolder: fyvria
+    charges: {value: null, max: null}
 ---

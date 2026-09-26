@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Syncope
-  aliases: []
-description: "Syncope is an arcane incantation of the Fývria convocation."
-id: HddpzPlLN7K5RU8v
-slug: syncope
 shortcode: syncope
+name: {full: Syncope, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Syncope is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: HddpzPlLN7K5RU8v
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-packFolder: fyvria
+    charges: {value: null, max: null}
 ---

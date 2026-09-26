@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Freeze
-  aliases: []
-description: "Freeze is an arcane incantation of the Odívshè convocation."
-id: BH8BdFUkA6lWOdnu
-slug: freeze
 shortcode: freeze
+name: {full: Freeze, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Freeze is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: BH8BdFUkA6lWOdnu
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: odivshe
+    charges: {value: null, max: null}
 ---

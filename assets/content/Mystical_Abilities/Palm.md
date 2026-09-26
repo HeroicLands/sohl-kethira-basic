@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Palm
-  aliases: []
-description: "Palm is an arcane incantation of the Lyáhvi convocation."
-id: 8hM5dok9IkReGrcF
-slug: palm
 shortcode: palm
+name: {full: Palm, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Palm is an arcane incantation of the Lyáhvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: 8hM5dok9IkReGrcF
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: lyahvi
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-packFolder: lyahvi
+    charges: {value: null, max: null}
 ---

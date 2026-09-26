@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Metal
-  aliases: []
-description: "Metal is an arcane incantation of the Jmôrvi convocation."
-id: 2o9BR3Yq5dIFaxYd
-slug: metal
 shortcode: metal
+name: {full: Metal, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Metal is an arcane incantation of the Jmôrvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: 2o9BR3Yq5dIFaxYd
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: jmorvi
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-packFolder: jmorvi
+    charges: {value: null, max: null}
 ---

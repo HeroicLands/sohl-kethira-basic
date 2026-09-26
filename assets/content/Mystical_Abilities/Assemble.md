@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Assemble
-  aliases: []
-description: "Assemble is an arcane incantation of the Jmôrvi convocation."
-id: Fxg6egfBMgjnNS0C
-slug: assemble
 shortcode: assemble
+name: {full: Assemble, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Assemble is an arcane incantation of the Jmôrvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: Fxg6egfBMgjnNS0C
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: jmorvi
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-packFolder: jmorvi
+    charges: {value: null, max: null}
 ---

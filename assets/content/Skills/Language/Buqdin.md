@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Búqdin
-  aliases: []
-description: "Búqdin is a language."
-id: jiZ1XFCAywuCSzav
-slug: buqdin
 shortcode: buqdin
+name: {full: Búqdin, aliases: []}
 type: skill
 subType: language
-pack: characteristics
+description: "Búqdin is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: jiZ1XFCAywuCSzav
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-packFolder: languages
+    impairedByRoles: [vital, core]
 ---

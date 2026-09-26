@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Floe
-  aliases: []
-description: "Floe is an arcane incantation of the Odívshè convocation."
-id: 1AL3MdbG3qboSQ9o
-slug: floe
 shortcode: floe
+name: {full: Floe, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Floe is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: 1AL3MdbG3qboSQ9o
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-packFolder: odivshe
+    charges: {value: null, max: null}
 ---

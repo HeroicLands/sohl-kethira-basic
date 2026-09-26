@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Resurge
-  aliases: []
-description: "Resurge is an arcane incantation of the Neutral convocation."
-id: UvR8MDjZlg8I3GEX
-slug: resurge
 shortcode: resurge
+name: {full: Resurge, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Resurge is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: UvR8MDjZlg8I3GEX
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: neutral
+    charges: {value: null, max: null}
 ---

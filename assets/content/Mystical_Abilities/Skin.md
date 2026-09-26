@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Skin
-  aliases: []
-description: "Skin is an arcane incantation of the Pèleáhn convocation."
-id: p5lbEKLL77uX7IjS
-slug: skin
 shortcode: skin
+name: {full: Skin, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Skin is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: p5lbEKLL77uX7IjS
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-packFolder: peleahn
+    charges: {value: null, max: null}
 ---

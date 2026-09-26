@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Converse
-  aliases: []
-description: "Converse is an arcane incantation of the Neutral convocation."
-id: MvTVrdynlQF2CqkE
-slug: converse
 shortcode: converse
+name: {full: Converse, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Converse is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: MvTVrdynlQF2CqkE
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: neutral
+    charges: {value: null, max: null}
 ---

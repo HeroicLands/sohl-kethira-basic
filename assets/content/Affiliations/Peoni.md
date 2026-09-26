@@ -1,24 +1,15 @@
 ---
-tags: []
-name:
-  full: Peóni
-  aliases: []
-description: "Peóni is a faith tradition."
-id: SYhFAPfzIucCQ5bO
-slug: peoni
 shortcode: peoni
+name: {full: Peóni, aliases: []}
 type: affiliation
 subType: faithtradition
-pack: mysteries
+description: "Peóni is a faith tradition."
+tags: []
 data:
   icon: image-kppeoni
   templatePriority: 0
-sohl:
-  kbcat: affiliation
-  system:
-    society: ""
-    office: ""
-    title: ""
-    level: 1
-packFolder: affiliations
+  id: SYhFAPfzIucCQ5bO
+  packFolder: affiliations
+  pack: mysteries
+sohl: {kbcat: affiliation, system: {society: "", office: "", title: "", level: 1}}
 ---

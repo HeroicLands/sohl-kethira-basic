@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Fervor
-  aliases: []
-description: "Fervor is an arcane incantation of the Sàvôrya convocation."
-id: GEPXDZDxV5P6bu0Y
-slug: fervor
 shortcode: fervor
+name: {full: Fervor, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Fervor is an arcane incantation of the Sàvôrya convocation."
+tags: []
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
+  id: GEPXDZDxV5P6bu0Y
+  packFolder: savorya
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: savorya
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-packFolder: savorya
+    charges: {value: null, max: null}
 ---

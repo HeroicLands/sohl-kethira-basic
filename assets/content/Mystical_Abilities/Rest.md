@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Rest
-  aliases: []
-description: "Rest is an arcane incantation of the Odívshè convocation."
-id: vkhu5G6CqNzMHHAO
-slug: rest
 shortcode: rest
+name: {full: Rest, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Rest is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: vkhu5G6CqNzMHHAO
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-packFolder: odivshe
+    charges: {value: null, max: null}
 ---

@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Cecity
-  aliases: []
-description: "Cecity is an arcane incantation of the Lyáhvi convocation."
-id: q20iSXHQBL1h42TY
-slug: cecity
 shortcode: cecity
+name: {full: Cecity, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Cecity is an arcane incantation of the Lyáhvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: q20iSXHQBL1h42TY
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: lyahvi
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: lyahvi
+    charges: {value: null, max: null}
 ---

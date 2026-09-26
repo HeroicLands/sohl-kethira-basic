@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Animus
-  aliases: []
-description: "Animus is an arcane incantation of the Fývria convocation."
-id: CY6DBviTrF8kHSS3
-slug: animus
 shortcode: animus
+name: {full: Animus, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Animus is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: CY6DBviTrF8kHSS3
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-packFolder: fyvria
+    charges: {value: null, max: null}
 ---

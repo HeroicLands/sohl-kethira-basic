@@ -1,7 +1,7 @@
 ---
-type: homepage
 shortcode: root
-title: HârnMaster Kethira Basic
+name: {full: HârnMaster Kethira Basic}
+type: homepage
 ---
 
 A module for the [Song of Heroic Lands](/sohl/) system

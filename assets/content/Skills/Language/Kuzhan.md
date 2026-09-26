@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Kúzhan
-  aliases: []
-description: "Kúzhan is a language."
-id: 2bTEKOeV2DQCdcYc
-slug: kuzhan
 shortcode: kuzhan
+name: {full: Kúzhan, aliases: []}
 type: skill
 subType: language
-pack: characteristics
+description: "Kúzhan is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: 2bTEKOeV2DQCdcYc
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-packFolder: languages
+    impairedByRoles: [vital, core]
 ---

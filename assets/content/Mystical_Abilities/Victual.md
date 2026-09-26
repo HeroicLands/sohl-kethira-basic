@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Victual
-  aliases: []
-description: "Victual is an arcane incantation of the Fývria convocation."
-id: DAD2bDrEe7pGrhew
-slug: victual
 shortcode: victual
+name: {full: Victual, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Victual is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: DAD2bDrEe7pGrhew
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-packFolder: fyvria
+    charges: {value: null, max: null}
 ---

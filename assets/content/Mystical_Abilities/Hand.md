@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Hand
-  aliases: []
-description: "Hand is an arcane incantation of the Jmôrvi convocation."
-id: hcsvUzdZZErbPF1H
-slug: hand
 shortcode: hand
+name: {full: Hand, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Hand is an arcane incantation of the Jmôrvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: hcsvUzdZZErbPF1H
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: jmorvi
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-packFolder: jmorvi
+    charges: {value: null, max: null}
 ---

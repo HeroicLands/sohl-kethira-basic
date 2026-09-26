@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Conjure
-  aliases: []
-description: "Conjure is an arcane incantation of the Odívshè convocation."
-id: IXxyNHy1It9Og2VG
-slug: conjure
 shortcode: conjure
+name: {full: Conjure, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Conjure is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: IXxyNHy1It9Og2VG
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-packFolder: odivshe
+    charges: {value: null, max: null}
 ---

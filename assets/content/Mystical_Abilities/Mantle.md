@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Mantle
-  aliases: []
-description: "Mantle is an arcane incantation of the Pèleáhn convocation."
-id: hHgnNsLcgLXjmioB
-slug: mantle
 shortcode: mantle
+name: {full: Mantle, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Mantle is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: hHgnNsLcgLXjmioB
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-packFolder: peleahn
+    charges: {value: null, max: null}
 ---

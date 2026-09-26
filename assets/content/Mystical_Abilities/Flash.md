@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Flash
-  aliases: []
-description: "Flash is an arcane incantation of the Lyáhvi convocation."
-id: T2b97OcmVQaPPvDU
-slug: flash
 shortcode: flash
+name: {full: Flash, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Flash is an arcane incantation of the Lyáhvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: T2b97OcmVQaPPvDU
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: lyahvi
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-packFolder: lyahvi
+    charges: {value: null, max: null}
 ---

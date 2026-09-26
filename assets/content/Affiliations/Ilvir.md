@@ -1,24 +1,15 @@
 ---
-tags: []
-name:
-  full: Ilvîr
-  aliases: []
-description: "Ilvîr is a faith tradition."
-id: iC0v91hBQXepKnhN
-slug: ilvir
 shortcode: ilvir
+name: {full: Ilvîr, aliases: []}
 type: affiliation
 subType: faithtradition
-pack: mysteries
+description: "Ilvîr is a faith tradition."
+tags: []
 data:
   icon: image-kpilvir
   templatePriority: 0
-sohl:
-  kbcat: affiliation
-  system:
-    society: ""
-    office: ""
-    title: ""
-    level: 1
-packFolder: affiliations
+  id: iC0v91hBQXepKnhN
+  packFolder: affiliations
+  pack: mysteries
+sohl: {kbcat: affiliation, system: {society: "", office: "", title: "", level: 1}}
 ---

@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Counter
-  aliases: []
-description: "Counter is an arcane incantation of the Neutral convocation."
-id: Dyw5wQ6omn2ar1sG
-slug: counter
 shortcode: counter
+name: {full: Counter, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Counter is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: Dyw5wQ6omn2ar1sG
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: neutral
+    charges: {value: null, max: null}
 ---

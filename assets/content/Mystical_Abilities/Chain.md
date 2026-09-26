@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Chain
-  aliases: []
-description: "Chain is an arcane incantation of the Neutral convocation."
-id: ZZV4FwkGo9IWvRBi
-slug: chain
 shortcode: chain
+name: {full: Chain, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Chain is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: ZZV4FwkGo9IWvRBi
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: neutral
+    charges: {value: null, max: null}
 ---

@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Investment
-  aliases: []
-description: "Investment is an arcane incantation of the Neutral convocation."
-id: HKLL5igfb4FumAtR
-slug: investment
 shortcode: investment
+name: {full: Investment, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Investment is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: HKLL5igfb4FumAtR
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-packFolder: neutral
+    charges: {value: null, max: null}
 ---

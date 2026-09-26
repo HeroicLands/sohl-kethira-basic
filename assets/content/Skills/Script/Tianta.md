@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Tiánta
-  aliases: []
-description: "Tiánta is a script."
-id: HZQuPFugy024lS8y
-slug: tianta
 shortcode: tianta
+name: {full: Tiánta, aliases: []}
 type: skill
 subType: script
-pack: characteristics
+description: "Tiánta is a script."
+tags: []
 data:
   icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
+  id: HZQuPFugy024lS8y
+  packFolder: scripts
+  pack: characteristics
 sohl:
   kbcat: script
   system:
@@ -22,9 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-      - manipulator
-packFolder: scripts
+    impairedByRoles: [vital, core, manipulator]
 ---

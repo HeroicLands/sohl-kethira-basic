@@ -1,24 +1,15 @@
 ---
-tags: []
-name:
-  full: Fývria
-  aliases: []
-description: "Fývria is an arcane convocation."
-id: a6vlnDVE1tKJS9On
-slug: fyvria
 shortcode: fyvria
+name: {full: Fývria, aliases: []}
 type: affiliation
 subType: arcanetradition
-pack: mysteries
+description: "Fývria is an arcane convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
-sohl:
-  kbcat: affiliation
-  system:
-    society: ""
-    office: ""
-    title: ""
-    level: 1
-packFolder: affiliations
+  id: a6vlnDVE1tKJS9On
+  packFolder: affiliations
+  pack: mysteries
+sohl: {kbcat: affiliation, system: {society: "", office: "", title: "", level: 1}}
 ---

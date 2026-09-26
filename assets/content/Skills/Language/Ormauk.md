@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Ormauk
-  aliases: []
-description: "Ormauk is a language."
-id: qXjITjPhnyoyJdDi
-slug: ormauk
 shortcode: ormauk
+name: {full: Ormauk, aliases: []}
 type: skill
 subType: language
-pack: characteristics
+description: "Ormauk is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: qXjITjPhnyoyJdDi
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-packFolder: languages
+    impairedByRoles: [vital, core]
 ---

@@ -1,24 +1,15 @@
 ---
-tags: []
-name:
-  full: Gáranik
-  aliases: []
-description: "Gáranik is a faith tradition."
-id: iFVUCtelWqzn3a46
-slug: garanik
 shortcode: garanik
+name: {full: Gáranik, aliases: []}
 type: affiliation
 subType: faithtradition
-pack: mysteries
+description: "Gáranik is a faith tradition."
+tags: []
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
-sohl:
-  kbcat: affiliation
-  system:
-    society: ""
-    office: ""
-    title: ""
-    level: 1
-packFolder: affiliations
+  id: iFVUCtelWqzn3a46
+  packFolder: affiliations
+  pack: mysteries
+sohl: {kbcat: affiliation, system: {society: "", office: "", title: "", level: 1}}
 ---

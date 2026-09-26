@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Link
-  aliases: []
-description: "Link is an arcane incantation of the Sàvôrya convocation."
-id: qUJbuBXZzC1nbovf
-slug: link
 shortcode: link
+name: {full: Link, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Link is an arcane incantation of the Sàvôrya convocation."
+tags: []
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
+  id: qUJbuBXZzC1nbovf
+  packFolder: savorya
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: savorya
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: savorya
+    charges: {value: null, max: null}
 ---

@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Sàvôrya
-  aliases: []
-description: "Sàvôrya is a mystical skill."
-id: mw1tSeSda9RtkB2E
-slug: savorya
 shortcode: savorya
+name: {full: Sàvôrya, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Sàvôrya is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
+  id: mw1tSeSda9RtkB2E
+  packFolder: esoteric
+  pack: characteristics
 sohl:
   kbcat: arcane
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: esoteric
+    impairedByRoles: [vital]
 ---

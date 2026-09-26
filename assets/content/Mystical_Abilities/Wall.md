@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Wall
-  aliases: []
-description: "Wall is an arcane incantation of the Pèleáhn convocation."
-id: Da3ERtYbqZrjaeov
-slug: wall
 shortcode: wall
+name: {full: Wall, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Wall is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: Da3ERtYbqZrjaeov
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: peleahn
+    charges: {value: null, max: null}
 ---

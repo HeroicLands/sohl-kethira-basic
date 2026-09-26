@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Môrgath
-  aliases: []
-description: "Môrgath is a mystical skill."
-id: rCqyv7KMrp0FtqQX
-slug: morgath
 shortcode: morgath
+name: {full: Môrgath, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Môrgath is a mystical skill."
+tags: []
 data:
   icon: image-kpmorgath
   templatePriority: 0
+  id: rCqyv7KMrp0FtqQX
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: rituals
+    impairedByRoles: [vital]
 ---

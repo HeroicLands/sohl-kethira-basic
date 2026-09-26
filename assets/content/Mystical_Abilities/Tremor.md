@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Tremor
-  aliases: []
-description: "Tremor is an arcane incantation of the Fývria convocation."
-id: SiEUZZSQnVGG44Dm
-slug: tremor
 shortcode: tremor
+name: {full: Tremor, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Tremor is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: SiEUZZSQnVGG44Dm
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-packFolder: fyvria
+    charges: {value: null, max: null}
 ---

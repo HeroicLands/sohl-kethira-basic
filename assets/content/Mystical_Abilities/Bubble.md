@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Bubble
-  aliases: []
-description: "Bubble is an arcane incantation of the Neutral convocation."
-id: 8Iy5mdmNztwkGPXg
-slug: bubble
 shortcode: bubble
+name: {full: Bubble, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Bubble is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: 8Iy5mdmNztwkGPXg
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-packFolder: neutral
+    charges: {value: null, max: null}
 ---

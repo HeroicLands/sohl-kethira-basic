@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Diagnosis
-  aliases: []
-description: "Diagnosis is an arcane incantation of the Fývria convocation."
-id: yJA2ul6TSfeAABnf
-slug: diagnosis
 shortcode: diagnosis
+name: {full: Diagnosis, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Diagnosis is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: yJA2ul6TSfeAABnf
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-packFolder: fyvria
+    charges: {value: null, max: null}
 ---

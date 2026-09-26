@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Samples"
 shortcode: samples
+name: {full: "Samples"}
 type: folder
-id: FNtXaRapCPXYBQtP
-data:
-  color: "#ca3232"
+data: {color: "#ca3232", id: FNtXaRapCPXYBQtP}
 ---

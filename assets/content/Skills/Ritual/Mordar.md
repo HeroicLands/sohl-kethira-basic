@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Môrdar
-  aliases: []
-description: "Môrdar is a mystical skill."
-id: NEDzhnOXJNI5Rskh
-slug: mordar
 shortcode: mordar
+name: {full: Môrdar, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Môrdar is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
+  id: NEDzhnOXJNI5Rskh
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: rituals
+    impairedByRoles: [vital]
 ---

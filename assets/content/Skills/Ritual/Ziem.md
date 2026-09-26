@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Ziém
-  aliases: []
-description: "Ziém is a mystical skill."
-id: VapTwmCTNH03SfQe
-slug: ziem
 shortcode: ziem
+name: {full: Ziém, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Ziém is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
+  id: VapTwmCTNH03SfQe
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: rituals
+    impairedByRoles: [vital]
 ---

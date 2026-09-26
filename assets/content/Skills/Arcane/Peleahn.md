@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Pèleáhn
-  aliases: []
-description: "Pèleáhn is a mystical skill."
-id: mz9bCjPmh8SuX9QE
-slug: peleahn
 shortcode: peleahn
+name: {full: Pèleáhn, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Pèleáhn is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: mz9bCjPmh8SuX9QE
+  packFolder: esoteric
+  pack: characteristics
 sohl:
   kbcat: arcane
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: esoteric
+    impairedByRoles: [vital]
 ---

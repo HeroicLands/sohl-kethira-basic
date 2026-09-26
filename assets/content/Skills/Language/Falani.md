@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Faláni
-  aliases: []
-description: "Faláni is a language."
-id: IT9AYKb2ELFlJkJf
-slug: falani
 shortcode: falani
+name: {full: Faláni, aliases: []}
 type: skill
 subType: language
-pack: characteristics
+description: "Faláni is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: IT9AYKb2ELFlJkJf
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-packFolder: languages
+    impairedByRoles: [vital, core]
 ---

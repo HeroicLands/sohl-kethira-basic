@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Alánta
-  aliases: []
-description: "Alánta is a script."
-id: 2IWu6lZ30D6ioTkp
-slug: alanta
 shortcode: alanta
+name: {full: Alánta, aliases: []}
 type: skill
 subType: script
-pack: characteristics
+description: "Alánta is a script."
+tags: []
 data:
   icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
+  id: 2IWu6lZ30D6ioTkp
+  packFolder: scripts
+  pack: characteristics
 sohl:
   kbcat: script
   system:
@@ -22,9 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-      - manipulator
-packFolder: scripts
+    impairedByRoles: [vital, core, manipulator]
 ---

@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Thirst
-  aliases: []
-description: "Thirst is an arcane incantation of the Pèleáhn convocation."
-id: rDBOa919PgsSBlUQ
-slug: thirst
 shortcode: thirst
+name: {full: Thirst, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Thirst is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: rDBOa919PgsSBlUQ
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-packFolder: peleahn
+    charges: {value: null, max: null}
 ---

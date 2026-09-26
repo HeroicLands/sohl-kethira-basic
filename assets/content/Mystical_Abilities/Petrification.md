@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Petrification
-  aliases: []
-description: "Petrification is an arcane incantation of the Fývria convocation."
-id: ylSLZHWmNiiO270N
-slug: petrification
 shortcode: petrification
+name: {full: Petrification, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Petrification is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: ylSLZHWmNiiO270N
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-packFolder: fyvria
+    charges: {value: null, max: null}
 ---

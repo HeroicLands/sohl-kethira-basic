@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Physique
-  aliases: []
-description: "Physique is an arcane incantation of the Fývria convocation."
-id: hfrErdURk7bVOstR
-slug: physique
 shortcode: physique
+name: {full: Physique, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Physique is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: hfrErdURk7bVOstR
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: fyvria
+    charges: {value: null, max: null}
 ---

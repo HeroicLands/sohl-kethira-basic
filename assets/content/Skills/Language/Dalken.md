@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Dálken
-  aliases: []
-description: "Dálken is a language."
-id: eaXFpnZVvDPacga0
-slug: dalken
 shortcode: dalken
+name: {full: Dálken, aliases: []}
 type: skill
 subType: language
-pack: characteristics
+description: "Dálken is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: eaXFpnZVvDPacga0
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-packFolder: languages
+    impairedByRoles: [vital, core]
 ---

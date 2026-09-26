@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Hârbáaler
-  aliases: []
-description: "Hârbáaler is a language."
-id: kTgzDSQNKt4bUBwl
-slug: harbaaler
 shortcode: harbaaler
+name: {full: Hârbáaler, aliases: []}
 type: skill
 subType: language
-pack: characteristics
+description: "Hârbáaler is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: kTgzDSQNKt4bUBwl
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-packFolder: languages
+    impairedByRoles: [vital, core]
 ---

@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Tunnel
-  aliases: []
-description: "Tunnel is an arcane incantation of the Fývria convocation."
-id: bNggK0zh2JHNu6KR
-slug: tunnel
 shortcode: tunnel
+name: {full: Tunnel, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Tunnel is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: bNggK0zh2JHNu6KR
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-packFolder: fyvria
+    charges: {value: null, max: null}
 ---

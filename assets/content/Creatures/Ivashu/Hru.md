@@ -1,17 +1,9 @@
 ---
-tags:
-  - creature
-name:
-  full: Hrú
-  aliases:
-    - Rock Giant
-id: HruRockGiant001
 shortcode: hru
-slug: hru
+name: {full: Hrú, aliases: [Rock Giant]}
 type: being
-data:
-  icon: sohl-none-icon-rockgolem
-  templatePriority: 0
+tags: [creature]
+data: {icon: sohl-none-icon-rockgolem, templatePriority: 0, id: HruRockGiant001}
 sohl:
   attrRollFormula:
     str: 1d6+47
@@ -26,23 +18,23 @@ sohl:
     emp: 1d4+4
     elo: 1d4
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 50 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 40 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 6 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 6 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 4 } }
-    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 6 } }
-    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 1 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 55 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 90 } }
-    - { model: mysticalability-sprt, system: { masteryLevelBase: 27 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 21 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 35 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 50}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 40}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 6}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 6}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 4}}
+    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 6}}
+    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 1}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 30}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 55}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 90}}
+    - {model: mysticalability-sprt, system: {masteryLevelBase: 27}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 21}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 35}}
     - name: Kick
       type: skill
       system:
@@ -50,36 +42,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 60
         combatCategory: melee
-        impairedByRoles:
-          - locomotor
+        impairedByRoles: [locomotor]
         strikeMode:
           type: melee
           shortcode: kick
           name: Kick
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 16
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 21
-            aspect: blunt
+          attack: {disabled: false, spread: 16, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 21, aspect: blunt}
           lengthBase: 7
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
-            trample: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true, trample: true}
     - name: Punch
       type: skill
       system:
@@ -87,92 +63,63 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 60
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: punch
           name: Punch
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 16
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 20
-            aspect: blunt
+          attack: {disabled: false, spread: 16, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 20, aspect: blunt}
           lengthBase: 6
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
   system:
     body:
       structure:
         zones:
-          - name: Head
-            shortcode: headzone
-            probWeight: 4
-          - name: Arms
-            shortcode: armszone
-            probWeight: 8
-          - name: Torso
-            shortcode: torsozone
-            probWeight: 16
-          - name: Legs
-            shortcode: legszone
-            probWeight: 12
+          - {name: Head, shortcode: headzone, probWeight: 4}
+          - {name: Arms, shortcode: armszone, probWeight: 8}
+          - {name: Torso, shortcode: torsozone, probWeight: 16}
+          - {name: Legs, shortcode: legszone, probWeight: 12}
         parts:
           - name: Head
             shortcode: headpart
             bodyZoneCode: headzone
-            roles:
-              - vital
+            roles: [vital]
             canHoldItem: false
             probWeight: 10
           - name: Right Arm
             shortcode: rarmpart
             bodyZoneCode: armszone
-            roles:
-              - manipulator
+            roles: [manipulator]
             canHoldItem: true
             probWeight: 2
           - name: Left Arm
             shortcode: larmpart
             bodyZoneCode: armszone
-            roles:
-              - manipulator
+            roles: [manipulator]
             canHoldItem: true
             probWeight: 2
           - name: Torso
             shortcode: torsopart
             bodyZoneCode: torsozone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
           - name: Right Leg
             shortcode: rlegpart
             bodyZoneCode: legszone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 3
           - name: Left Leg
             shortcode: llegpart
             bodyZoneCode: legszone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 3
         locations:
@@ -183,11 +130,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 8
-            protectionBase:
-              blunt: 21
-              edged: 22
-              piercing: 21
-              fire: 23
+            protectionBase: {blunt: 21, edged: 22, piercing: 21, fire: 23}
           - name: Neck
             shortcode: neckloc
             bodyPartCode: headpart
@@ -195,11 +138,7 @@ sohl:
             amputability: low
             shockValue: 5
             probWeight: 2
-            protectionBase:
-              blunt: 19
-              edged: 20
-              piercing: 19
-              fire: 21
+            protectionBase: {blunt: 19, edged: 20, piercing: 19, fire: 21}
           - name: Right Upper Arm
             shortcode: rupaloc
             bodyPartCode: rarmpart
@@ -207,11 +146,7 @@ sohl:
             amputability: medium
             shockValue: 3
             probWeight: 5
-            protectionBase: &a1
-              blunt: 21
-              edged: 22
-              piercing: 21
-              fire: 23
+            protectionBase: &a1 {blunt: 21, edged: 22, piercing: 21, fire: 23}
           - name: Right Lower Arm
             shortcode: rfraloc
             bodyPartCode: rarmpart
@@ -219,11 +154,7 @@ sohl:
             amputability: medium
             shockValue: 1
             probWeight: 3
-            protectionBase: &a2
-              blunt: 20
-              edged: 21
-              piercing: 20
-              fire: 22
+            protectionBase: &a2 {blunt: 20, edged: 21, piercing: 20, fire: 22}
           - name: Right Hand
             shortcode: rhandloc
             bodyPartCode: rarmpart
@@ -231,11 +162,7 @@ sohl:
             amputability: high
             shockValue: 2
             probWeight: 2
-            protectionBase: &a3
-              blunt: 19
-              edged: 20
-              piercing: 19
-              fire: 21
+            protectionBase: &a3 {blunt: 19, edged: 20, piercing: 19, fire: 21}
           - name: Left Upper Arm
             shortcode: lupaloc
             bodyPartCode: larmpart
@@ -267,11 +194,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 4
-            protectionBase:
-              blunt: 21
-              edged: 22
-              piercing: 21
-              fire: 23
+            protectionBase: {blunt: 21, edged: 22, piercing: 21, fire: 23}
           - name: Abdomen
             shortcode: abdmnloc
             bodyPartCode: torsopart
@@ -279,11 +202,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 3
-            protectionBase:
-              blunt: 21
-              edged: 22
-              piercing: 21
-              fire: 23
+            protectionBase: {blunt: 21, edged: 22, piercing: 21, fire: 23}
           - name: Pelvis
             shortcode: plvisloc
             bodyPartCode: torsopart
@@ -291,11 +210,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 3
-            protectionBase:
-              blunt: 21
-              edged: 22
-              piercing: 21
-              fire: 23
+            protectionBase: {blunt: 21, edged: 22, piercing: 21, fire: 23}
           - name: Right Upper Leg
             shortcode: rthghloc
             bodyPartCode: rlegpart
@@ -303,11 +218,7 @@ sohl:
             amputability: low
             shockValue: 3
             probWeight: 5
-            protectionBase: &a4
-              blunt: 21
-              edged: 22
-              piercing: 21
-              fire: 23
+            protectionBase: &a4 {blunt: 21, edged: 22, piercing: 21, fire: 23}
           - name: Right Lower Leg
             shortcode: rcalfloc
             bodyPartCode: rlegpart
@@ -315,11 +226,7 @@ sohl:
             amputability: medium
             shockValue: 1
             probWeight: 3
-            protectionBase: &a5
-              blunt: 20
-              edged: 21
-              piercing: 20
-              fire: 22
+            protectionBase: &a5 {blunt: 20, edged: 21, piercing: 20, fire: 22}
           - name: Right Foot
             shortcode: rfootloc
             bodyPartCode: rlegpart
@@ -327,11 +234,7 @@ sohl:
             amputability: high
             shockValue: 2
             probWeight: 2
-            protectionBase: &a6
-              blunt: 19
-              edged: 20
-              piercing: 19
-              fire: 21
+            protectionBase: &a6 {blunt: 19, edged: 20, piercing: 19, fire: 21}
           - name: Left Upper Leg
             shortcode: lthghloc
             bodyPartCode: llegpart
@@ -356,9 +259,7 @@ sohl:
             shockValue: 2
             probWeight: 2
             protectionBase: *a6
-      weight:
-        base: 7000
-        calc: "7000"
+      weight: {base: 7000, calc: "7000"}
       reachBase: 0
       bodyScaleBase: 4.55
       personalFatigue: enc + 5

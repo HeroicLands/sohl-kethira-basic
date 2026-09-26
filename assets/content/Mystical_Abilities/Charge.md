@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Charge
-  aliases: []
-description: "Charge is an arcane incantation of the Neutral convocation."
-id: jvYYWVvROqBNx4xx
-slug: charge
 shortcode: charge
+name: {full: Charge, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Charge is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: jvYYWVvROqBNx4xx
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-packFolder: neutral
+    charges: {value: null, max: null}
 ---

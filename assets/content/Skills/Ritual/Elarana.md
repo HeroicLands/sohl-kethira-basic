@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Elarána
-  aliases: []
-description: "Elarána is a mystical skill."
-id: 1CIfdazeKD5unKwu
-slug: elarana
 shortcode: elarana
+name: {full: Elarána, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Elarána is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
+  id: 1CIfdazeKD5unKwu
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: rituals
+    impairedByRoles: [vital]
 ---

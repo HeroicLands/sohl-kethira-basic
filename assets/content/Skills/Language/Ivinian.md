@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Ivínian
-  aliases: []
-description: "Ivínian is a language."
-id: 2yfbMe6ZTqPR1nFb
-slug: ivinian
 shortcode: ivinian
+name: {full: Ivínian, aliases: []}
 type: skill
 subType: language
-pack: characteristics
+description: "Ivínian is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: 2yfbMe6ZTqPR1nFb
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-packFolder: languages
+    impairedByRoles: [vital, core]
 ---

@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Lyáhvi
-  aliases: []
-description: "Lyáhvi is a mystical skill."
-id: XvFX3BgxHF2MVCwj
-slug: lyahvi
 shortcode: lyahvi
+name: {full: Lyáhvi, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Lyáhvi is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: XvFX3BgxHF2MVCwj
+  packFolder: esoteric
+  pack: characteristics
 sohl:
   kbcat: arcane
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: esoteric
+    impairedByRoles: [vital]
 ---

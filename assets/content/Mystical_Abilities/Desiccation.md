@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Desiccation
-  aliases: []
-description: "Desiccation is an arcane incantation of the Pèleáhn convocation."
-id: rtiWd0bR7EyLXHfB
-slug: desiccation
 shortcode: desiccation
+name: {full: Desiccation, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Desiccation is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: rtiWd0bR7EyLXHfB
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-packFolder: peleahn
+    charges: {value: null, max: null}
 ---

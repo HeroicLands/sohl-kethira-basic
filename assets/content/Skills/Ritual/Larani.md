@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Laráni
-  aliases: []
-description: "Laráni is a mystical skill."
-id: FruDplKZAChdF261
-slug: larani
 shortcode: larani
+name: {full: Laráni, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Laráni is a mystical skill."
+tags: []
 data:
   icon: image-kplarani
   templatePriority: 0
+  id: FruDplKZAChdF261
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: rituals
+    impairedByRoles: [vital]
 ---

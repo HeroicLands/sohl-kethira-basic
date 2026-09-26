@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Mask
-  aliases: []
-description: "Mask is an arcane incantation of the Neutral convocation."
-id: BKyySEZ0VurkgFaW
-slug: mask
 shortcode: mask
+name: {full: Mask, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Mask is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: BKyySEZ0VurkgFaW
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-packFolder: neutral
+    charges: {value: null, max: null}
 ---

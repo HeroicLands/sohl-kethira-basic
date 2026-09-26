@@ -1,24 +1,15 @@
 ---
-tags: []
-name:
-  full: Cult of the Covenant
-  aliases: []
-description: "Cult of the Covenant is a faith tradition."
-id: biynYaIWdpHXUw8O
-slug: cult-of-the-covenant
 shortcode: cultcovenant
+name: {full: Cult of the Covenant, aliases: []}
 type: affiliation
 subType: faithtradition
-pack: mysteries
+description: "Cult of the Covenant is a faith tradition."
+tags: []
 data:
   icon: sohl-none-icon-circle
   templatePriority: 0
-sohl:
-  kbcat: affiliation
-  system:
-    society: ""
-    office: ""
-    title: ""
-    level: 1
-packFolder: affiliations
+  id: biynYaIWdpHXUw8O
+  packFolder: affiliations
+  pack: mysteries
+sohl: {kbcat: affiliation, system: {society: "", office: "", title: "", level: 1}}
 ---

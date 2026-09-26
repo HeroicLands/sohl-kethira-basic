@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Guardian
-  aliases: []
-description: "Guardian is an arcane incantation of the Fývria convocation."
-id: atwfc9lM9OnT4lKv
-slug: guardian
 shortcode: guardian
+name: {full: Guardian, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Guardian is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: atwfc9lM9OnT4lKv
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: fyvria
+    charges: {value: null, max: null}
 ---

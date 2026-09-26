@@ -1,24 +1,15 @@
 ---
-tags: []
-name:
-  full: Jmôrvi
-  aliases: []
-description: "Jmôrvi is an arcane convocation."
-id: pRNkSYNgEu7GOB8r
-slug: jmorvi
 shortcode: jmorvi
+name: {full: Jmôrvi, aliases: []}
 type: affiliation
 subType: arcanetradition
-pack: mysteries
+description: "Jmôrvi is an arcane convocation."
+tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
-sohl:
-  kbcat: affiliation
-  system:
-    society: ""
-    office: ""
-    title: ""
-    level: 1
-packFolder: affiliations
+  id: pRNkSYNgEu7GOB8r
+  packFolder: affiliations
+  pack: mysteries
+sohl: {kbcat: affiliation, system: {society: "", office: "", title: "", level: 1}}
 ---

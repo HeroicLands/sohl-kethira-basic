@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Earthwork
-  aliases: []
-description: "Earthwork is an arcane incantation of the Fývria convocation."
-id: gjCry74FtWuhBGGY
-slug: earthwork
 shortcode: earthwork
+name: {full: Earthwork, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Earthwork is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: gjCry74FtWuhBGGY
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: fyvria
+    charges: {value: null, max: null}
 ---

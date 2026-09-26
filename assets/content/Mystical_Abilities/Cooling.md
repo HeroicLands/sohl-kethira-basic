@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Cooling
-  aliases: []
-description: "Cooling is an arcane incantation of the Odívshè convocation."
-id: 2M689o5LuNZUd2bE
-slug: cooling
 shortcode: cooling
+name: {full: Cooling, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Cooling is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: 2M689o5LuNZUd2bE
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-packFolder: odivshe
+    charges: {value: null, max: null}
 ---

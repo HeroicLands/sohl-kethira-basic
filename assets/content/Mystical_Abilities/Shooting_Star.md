@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Shooting Star
-  aliases: []
-description: "Shooting Star is an arcane incantation of the Pèleáhn convocation."
-id: sAuSt7Xy13syOFJz
-slug: shooting-star
 shortcode: shootingstar
+name: {full: Shooting Star, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Shooting Star is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: sAuSt7Xy13syOFJz
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: peleahn
+    charges: {value: null, max: null}
 ---

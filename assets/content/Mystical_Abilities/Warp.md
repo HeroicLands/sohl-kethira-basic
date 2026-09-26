@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Warp
-  aliases: []
-description: "Warp is an arcane incantation of the Fývria convocation."
-id: 4WSxiA5ySlf6jb1A
-slug: warp
 shortcode: warp
+name: {full: Warp, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Warp is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: 4WSxiA5ySlf6jb1A
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: fyvria
+    charges: {value: null, max: null}
 ---

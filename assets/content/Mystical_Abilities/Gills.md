@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Gills
-  aliases: []
-description: "Gills is an arcane incantation of the Odívshè convocation."
-id: IH7J1jKh0ORTG9Fg
-slug: gills
 shortcode: gills
+name: {full: Gills, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Gills is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: IH7J1jKh0ORTG9Fg
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: odivshe
+    charges: {value: null, max: null}
 ---

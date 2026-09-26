@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Panic
-  aliases: []
-description: "Panic is an arcane incantation of the Sàvôrya convocation."
-id: pnj7TncorSyRuvdL
-slug: panic
 shortcode: panic
+name: {full: Panic, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Panic is an arcane incantation of the Sàvôrya convocation."
+tags: []
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
+  id: pnj7TncorSyRuvdL
+  packFolder: savorya
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: savorya
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: savorya
+    charges: {value: null, max: null}
 ---

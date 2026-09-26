@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Figure
-  aliases: []
-description: "Figure is an arcane incantation of the Lyáhvi convocation."
-id: r6Tsn2wZpjCV9BL7
-slug: figure
 shortcode: figure
+name: {full: Figure, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Figure is an arcane incantation of the Lyáhvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: r6Tsn2wZpjCV9BL7
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: lyahvi
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-packFolder: lyahvi
+    charges: {value: null, max: null}
 ---

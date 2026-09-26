@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Shroud
-  aliases: []
-description: "Shroud is an arcane incantation of the Jmôrvi convocation."
-id: 1cesq94m43S9eMQI
-slug: shroud
 shortcode: shroud
+name: {full: Shroud, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Shroud is an arcane incantation of the Jmôrvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: 1cesq94m43S9eMQI
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: jmorvi
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-packFolder: jmorvi
+    charges: {value: null, max: null}
 ---

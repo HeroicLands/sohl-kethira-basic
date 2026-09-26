@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Rupture
-  aliases: []
-description: "Rupture is an arcane incantation of the Sàvôrya convocation."
-id: TvEMzoTWZzhN8IBc
-slug: rupture
 shortcode: rupture
+name: {full: Rupture, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Rupture is an arcane incantation of the Sàvôrya convocation."
+tags: []
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
+  id: TvEMzoTWZzhN8IBc
+  packFolder: savorya
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: savorya
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-packFolder: savorya
+    charges: {value: null, max: null}
 ---

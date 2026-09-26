@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Vine
-  aliases: []
-description: "Vine is an arcane incantation of the Fývria convocation."
-id: BJGJ2aitu2rIsbzb
-slug: vine
 shortcode: vine
+name: {full: Vine, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Vine is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: BJGJ2aitu2rIsbzb
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: fyvria
+    charges: {value: null, max: null}
 ---

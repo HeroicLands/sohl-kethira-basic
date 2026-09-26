@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Slumber
-  aliases: []
-description: "Slumber is an arcane incantation of the Fývria convocation."
-id: 51YJZfeaEUTUJ4k9
-slug: slumber
 shortcode: slumber
+name: {full: Slumber, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Slumber is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: 51YJZfeaEUTUJ4k9
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: fyvria
+    charges: {value: null, max: null}
 ---

@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Dálani
-  aliases: []
-description: "Dálani is a language."
-id: E2BGs8oaoLPgYEGn
-slug: dalani
 shortcode: dalani
+name: {full: Dálani, aliases: []}
 type: skill
 subType: language
-pack: characteristics
+description: "Dálani is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: E2BGs8oaoLPgYEGn
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-packFolder: languages
+    impairedByRoles: [vital, core]
 ---

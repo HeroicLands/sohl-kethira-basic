@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Fever
-  aliases: []
-description: "Fever is an arcane incantation of the Pèleáhn convocation."
-id: QUIc42B44yo3yuy0
-slug: fever
 shortcode: fever
+name: {full: Fever, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Fever is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: QUIc42B44yo3yuy0
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: peleahn
+    charges: {value: null, max: null}
 ---

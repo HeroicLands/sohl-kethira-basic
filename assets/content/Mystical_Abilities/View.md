@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: View
-  aliases: []
-description: "View is an arcane incantation of the Lyáhvi convocation."
-id: XOlCvcR8a001X93n
-slug: view
 shortcode: view
+name: {full: View, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "View is an arcane incantation of the Lyáhvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: XOlCvcR8a001X93n
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: lyahvi
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: lyahvi
+    charges: {value: null, max: null}
 ---

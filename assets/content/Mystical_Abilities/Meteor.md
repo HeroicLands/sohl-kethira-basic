@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Meteor
-  aliases: []
-description: "Meteor is an arcane incantation of the Pèleáhn convocation."
-id: YIs3bURpEHC54DcM
-slug: meteor
 shortcode: meteor
+name: {full: Meteor, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Meteor is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: YIs3bURpEHC54DcM
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-packFolder: peleahn
+    charges: {value: null, max: null}
 ---

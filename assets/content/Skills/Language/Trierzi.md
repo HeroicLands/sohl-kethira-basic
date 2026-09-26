@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Tríerzi
-  aliases: []
-description: "Tríerzi is a language."
-id: JPmWxj9EyWMMEusI
-slug: trierzi
 shortcode: trierzi
+name: {full: Tríerzi, aliases: []}
 type: skill
 subType: language
-pack: characteristics
+description: "Tríerzi is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: JPmWxj9EyWMMEusI
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-packFolder: languages
+    impairedByRoles: [vital, core]
 ---

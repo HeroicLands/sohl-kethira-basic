@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Call
-  aliases: []
-description: "Call is an arcane incantation of the Lyáhvi convocation."
-id: PXULYbMmLbbrMg9w
-slug: call
 shortcode: call
+name: {full: Call, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Call is an arcane incantation of the Lyáhvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: PXULYbMmLbbrMg9w
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: lyahvi
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-packFolder: lyahvi
+    charges: {value: null, max: null}
 ---

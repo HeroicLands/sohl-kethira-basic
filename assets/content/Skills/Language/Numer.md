@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Númer
-  aliases: []
-description: "Númer is a language."
-id: ey308gnG0KhUpa25
-slug: numer
 shortcode: numer
+name: {full: Númer, aliases: []}
 type: skill
 subType: language
-pack: characteristics
+description: "Númer is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: ey308gnG0KhUpa25
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-packFolder: languages
+    impairedByRoles: [vital, core]
 ---

@@ -1,24 +1,15 @@
 ---
-tags: []
-name:
-  full: Vanáer
-  aliases: []
-description: "Vanáer is a faith tradition."
-id: TN9l8hCE4UTrrWnG
-slug: vanaer
 shortcode: vanaer
+name: {full: Vanáer, aliases: []}
 type: affiliation
 subType: faithtradition
-pack: mysteries
+description: "Vanáer is a faith tradition."
+tags: []
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
-sohl:
-  kbcat: affiliation
-  system:
-    society: ""
-    office: ""
-    title: ""
-    level: 1
-packFolder: affiliations
+  id: TN9l8hCE4UTrrWnG
+  packFolder: affiliations
+  pack: mysteries
+sohl: {kbcat: affiliation, system: {society: "", office: "", title: "", level: 1}}
 ---

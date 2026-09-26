@@ -1,25 +1,15 @@
 ---
-tags: []
-name:
-  full: Hex
-  aliases: []
-description: "Hex is an arcane talent."
-id: Iz2Lf8bESdZVpPZJ
-slug: hex
 shortcode: hex
+name: {full: Hex, aliases: []}
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
+description: "Hex is an arcane talent."
+tags: []
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
-sohl:
-  kbcat: null
-  system:
-    masteryLevelBase: 0
-    levelBase: 0
-    charges:
-      value: null
-      max: null
-packFolder: arcanetalents
+  id: Iz2Lf8bESdZVpPZJ
+  packFolder: arcanetalents
+  pack: mysteries
+sohl: {kbcat: null, system: {masteryLevelBase: 0, levelBase: 0, charges: {value: null, max: null}}}
 ---

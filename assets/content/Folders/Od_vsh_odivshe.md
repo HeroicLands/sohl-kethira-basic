@@ -1,10 +1,6 @@
 ---
-name:
-  full: "Odívshè"
 shortcode: odivshe
+name: {full: "Odívshè"}
 type: folder
-id: 7ccHolMvySyG8laH
-data:
-  parent: spells
-  color: "#8b4513"
+data: {parent: spells, color: "#8b4513", id: 7ccHolMvySyG8laH}
 ---

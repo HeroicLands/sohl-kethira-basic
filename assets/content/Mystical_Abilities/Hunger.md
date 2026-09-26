@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Hunger
-  aliases: []
-description: "Hunger is an arcane incantation of the Fývria convocation."
-id: MrVTPN0oeMh8XLWj
-slug: hunger
 shortcode: hunger
+name: {full: Hunger, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Hunger is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: MrVTPN0oeMh8XLWj
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: fyvria
+    charges: {value: null, max: null}
 ---

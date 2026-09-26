@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Steel
-  aliases: []
-description: "Steel is an arcane incantation of the Jmôrvi convocation."
-id: bNuxM9BBWfGMcg9k
-slug: steel
 shortcode: steel
+name: {full: Steel, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Steel is an arcane incantation of the Jmôrvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: bNuxM9BBWfGMcg9k
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: jmorvi
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: jmorvi
+    charges: {value: null, max: null}
 ---

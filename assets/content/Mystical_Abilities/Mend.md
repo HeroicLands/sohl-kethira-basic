@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Mend
-  aliases: []
-description: "Mend is an arcane incantation of the Jmôrvi convocation."
-id: 3QXOH70UQvBERPtC
-slug: mend
 shortcode: mend
+name: {full: Mend, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Mend is an arcane incantation of the Jmôrvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: 3QXOH70UQvBERPtC
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: jmorvi
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: jmorvi
+    charges: {value: null, max: null}
 ---

@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Ágrik
-  aliases: []
-description: "Ágrik is a mystical skill."
-id: sMgbqUmp3LA4W6Ob
-slug: agrik
 shortcode: agrik
+name: {full: Ágrik, aliases: []}
 type: skill
 subType: mystical
-pack: characteristics
+description: "Ágrik is a mystical skill."
+tags: []
 data:
   icon: image-kpagrik
   templatePriority: 0
+  id: sMgbqUmp3LA4W6Ob
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-packFolder: rituals
+    impairedByRoles: [vital]
 ---

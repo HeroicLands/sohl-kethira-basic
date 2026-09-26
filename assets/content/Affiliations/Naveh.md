@@ -1,24 +1,15 @@
 ---
-tags: []
-name:
-  full: Navéh
-  aliases: []
-description: "Navéh is a faith tradition."
-id: 2wuZBbaRam4wY03W
-slug: naveh
 shortcode: naveh
+name: {full: Navéh, aliases: []}
 type: affiliation
 subType: faithtradition
-pack: mysteries
+description: "Navéh is a faith tradition."
+tags: []
 data:
   icon: image-kpnaveh
   templatePriority: 0
-sohl:
-  kbcat: affiliation
-  system:
-    society: ""
-    office: ""
-    title: ""
-    level: 1
-packFolder: affiliations
+  id: 2wuZBbaRam4wY03W
+  packFolder: affiliations
+  pack: mysteries
+sohl: {kbcat: affiliation, system: {society: "", office: "", title: "", level: 1}}
 ---

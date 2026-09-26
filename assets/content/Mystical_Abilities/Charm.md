@@ -1,18 +1,16 @@
 ---
-tags: []
-name:
-  full: Charm
-  aliases: []
-description: "Charm is an arcane incantation of the Jmôrvi convocation."
-id: CI9E4FD108ZM2CnU
-slug: charm
 shortcode: charm
+name: {full: Charm, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
+description: "Charm is an arcane incantation of the Jmôrvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: CI9E4FD108ZM2CnU
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -20,8 +18,5 @@ sohl:
     assocAffiliationCode: jmorvi
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: jmorvi
+    charges: {value: null, max: null}
 ---
