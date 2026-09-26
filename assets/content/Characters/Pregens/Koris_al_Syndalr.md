@@ -31,46 +31,46 @@ data:
     extra_features: []
 sohl:
   items:
-    - { model: attribute-str, system: { scoreBase: 17 } }
-    - { model: attribute-end, system: { scoreBase: 15 } }
-    - { model: attribute-dex, system: { scoreBase: 14 } }
-    - { model: attribute-agl, system: { scoreBase: 15 } }
-    - { model: attribute-per, system: { scoreBase: 11 } }
-    - { model: attribute-cml, system: { scoreBase: 9 } }
-    - { model: attribute-aur, system: { scoreBase: 8 } }
-    - { model: attribute-wil, system: { scoreBase: 12 } }
-    - { model: attribute-rea, system: { scoreBase: 10 } }
-    - { model: attribute-cre, system: { scoreBase: 8 } }
-    - { model: attribute-emp, system: { scoreBase: 10 } }
-    - { model: attribute-elo, system: { scoreBase: 9 } }
-    - { model: attribute-mor, system: { scoreBase: 11 } }
-    - { model: attribute-voi, system: { scoreBase: 10 } }
-    - { model: skill-chrm, system: { masteryLevelBase: 27 } }
-    - { model: skill-cmd, system: { masteryLevelBase: 22 } }
-    - { model: skill-dscr, system: { masteryLevelBase: 20 } }
-    - { model: skill-guil, system: { masteryLevelBase: 27 } }
-    - { model: skill-intr, system: { masteryLevelBase: 40 } }
-    - { model: skill-sing, system: { masteryLevelBase: 27 } }
-    - { model: skill-thtcs, system: { masteryLevelBase: 8 } }
-    - { model: skill-srvl, system: { masteryLevelBase: 55 } }
-    - { model: skill-draw, system: { masteryLevelBase: 12 } }
-    - { model: skill-cook, system: { masteryLevelBase: 22 } }
-    - { model: skill-folklr, system: { masteryLevelBase: 33 } }
-    - { model: skill-pysn, system: { masteryLevelBase: 20 } }
-    - { model: skill-awar, system: { masteryLevelBase: 33 } }
-    - { model: skill-clmb, system: { masteryLevelBase: 75 } }
-    - { model: skill-dnce, system: { masteryLevelBase: 30 } }
-    - { model: skill-jump, system: { masteryLevelBase: 64 } }
-    - { model: skill-ridg, system: { masteryLevelBase: 12 } }
-    - { model: skill-stlth, system: { masteryLevelBase: 52 } }
-    - { model: skill-swim, system: { masteryLevelBase: 30 } }
-    - { model: skill-init, system: { masteryLevelBase: 55 } }
-    - { model: skill-shok, system: { masteryLevelBase: 80 } }
-    - { model: skill-melee, system: { masteryLevelBase: 70 } }
-    - { model: skill-dge, system: { masteryLevelBase: 65 } }
-    - { model: skill-archery, system: { masteryLevelBase: 24 } }
-    - { model: skill-thro, system: { masteryLevelBase: 52 } }
-    - { model: mysticalability-fate }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 8 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-mysticalability-fate }
     - model: mysticalability-sprt
       system:
         levelBase: 0
@@ -78,30 +78,30 @@ sohl:
           value: 0
           max: 0
     - { model: mystery-hirin }
-    - { model: skill-agri, system: { masteryLevelBase: 33 } }
-    - { model: skill-anmcft, system: { masteryLevelBase: 22 } }
-    - { model: skill-smsh, system: { masteryLevelBase: 11 } }
-    - { model: skill-wpnc, system: { masteryLevelBase: 28 } }
-    - { model: skill-hrld, system: { masteryLevelBase: 22 } }
-    - { model: skill-acro, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-agri, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-acro, system: { masteryLevelBase: 45 } }
     - { model: skill-trierzi, system: { masteryLevelBase: 27 } }
     - { model: skill-emhlen, system: { masteryLevelBase: 18 } }
     - { model: skill-kantal, system: { masteryLevelBase: 27 } }
     - { model: skill-palithaner, system: { masteryLevelBase: 45 } }
-    - { model: armorgear-ctrsr, system: { isWorn: true } }
-    - { model: armorgear-cswd, system: { isWorn: true } }
-    - { model: armorgear-cstnc, system: { isWorn: true } }
-    - { model: armorgear-rhcboot, system: { isWorn: true } }
-    - { model: armorgear-rhgntl, system: { isWorn: true } }
-    - { model: armorgear-sbyrn, system: { isWorn: true } }
-    - { model: armorgear-pcap, system: { isWorn: true } }
-    - { model: armorgear-pstnc, system: { isWorn: true } }
-    - { model: armorgear-plhhelm, system: { isWorn: true } }
-    - { model: weapongear-rndsh }
-    - { model: weapongear-baxe }
-    - { model: weapongear-dgr }
-    - { model: containergear-backpk }
-    - { model: containergear-bpchmd }
+    - { model: sohl-sohl-armorgear-ctrsr, system: { isWorn: true } }
+    - { model: sohl-sohl-armorgear-cswd, system: { isWorn: true } }
+    - { model: sohl-sohl-armorgear-cstnc, system: { isWorn: true } }
+    - { model: sohl-sohl-armorgear-rhcboot, system: { isWorn: true } }
+    - { model: sohl-sohl-armorgear-rhgntl, system: { isWorn: true } }
+    - { model: sohl-sohl-armorgear-sbyrn, system: { isWorn: true } }
+    - { model: sohl-sohl-armorgear-pcap, system: { isWorn: true } }
+    - { model: sohl-sohl-armorgear-pstnc, system: { isWorn: true } }
+    - { model: sohl-sohl-armorgear-plhhelm, system: { isWorn: true } }
+    - { model: sohl-sohl-weapongear-rndsh }
+    - { model: sohl-sohl-weapongear-baxe }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-containergear-bpchmd }
   system:
     body:
       structure:

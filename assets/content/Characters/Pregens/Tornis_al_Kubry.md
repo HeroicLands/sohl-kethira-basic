@@ -31,46 +31,46 @@ data:
     extra_features: []
 sohl:
   items:
-    - { model: attribute-str, system: { scoreBase: 10 } }
-    - { model: attribute-end, system: { scoreBase: 9 } }
-    - { model: attribute-dex, system: { scoreBase: 14 } }
-    - { model: attribute-agl, system: { scoreBase: 16 } }
-    - { model: attribute-per, system: { scoreBase: 15 } }
-    - { model: attribute-cml, system: { scoreBase: 14 } }
-    - { model: attribute-aur, system: { scoreBase: 10 } }
-    - { model: attribute-wil, system: { scoreBase: 16 } }
-    - { model: attribute-rea, system: { scoreBase: 11 } }
-    - { model: attribute-cre, system: { scoreBase: 13 } }
-    - { model: attribute-emp, system: { scoreBase: 16 } }
-    - { model: attribute-elo, system: { scoreBase: 14 } }
-    - { model: attribute-mor, system: { scoreBase: 8 } }
-    - { model: attribute-voi, system: { scoreBase: 13 } }
-    - { model: skill-chrm, system: { masteryLevelBase: 75 } }
-    - { model: skill-cmd, system: { masteryLevelBase: 45 } }
-    - { model: skill-dscr, system: { masteryLevelBase: 24 } }
-    - { model: skill-guil, system: { masteryLevelBase: 75 } }
-    - { model: skill-intr, system: { masteryLevelBase: 80 } }
-    - { model: skill-sing, system: { masteryLevelBase: 65 } }
-    - { model: skill-thtcs, system: { masteryLevelBase: 76 } }
-    - { model: skill-srvl, system: { masteryLevelBase: 15 } }
-    - { model: skill-draw, system: { masteryLevelBase: 15 } }
-    - { model: skill-cook, system: { masteryLevelBase: 52 } }
-    - { model: skill-folklr, system: { masteryLevelBase: 13 } }
-    - { model: skill-pysn, system: { masteryLevelBase: 13 } }
-    - { model: skill-awar, system: { masteryLevelBase: 75 } }
-    - { model: skill-clmb, system: { masteryLevelBase: 45 } }
-    - { model: skill-dnce, system: { masteryLevelBase: 26 } }
-    - { model: skill-jump, system: { masteryLevelBase: 39 } }
-    - { model: skill-ridg, system: { masteryLevelBase: 16 } }
-    - { model: skill-stlth, system: { masteryLevelBase: 80 } }
-    - { model: skill-swim, system: { masteryLevelBase: 12 } }
-    - { model: skill-init, system: { masteryLevelBase: 42 } }
-    - { model: skill-shok, system: { masteryLevelBase: 30 } }
-    - { model: skill-melee, system: { masteryLevelBase: 60 } }
-    - { model: skill-dge, system: { masteryLevelBase: 65 } }
-    - { model: skill-archery, system: { masteryLevelBase: 39 } }
-    - { model: skill-thro, system: { masteryLevelBase: 42 } }
-    - { model: mysticalability-fate }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 76 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-mysticalability-fate }
     - model: mysticalability-sprt
       system:
         levelBase: 0
@@ -78,34 +78,34 @@ sohl:
           value: 0
           max: 0
     - { model: mystery-ulandusaralius }
-    - { model: skill-smsh, system: { masteryLevelBase: 15 } }
-    - { model: skill-lock, system: { masteryLevelBase: 84 } }
-    - { model: skill-mtlc, system: { masteryLevelBase: 26 } }
-    - { model: skill-musc, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-lock, system: { masteryLevelBase: 84 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 60 } }
     - { model: skill-palithaner, system: { masteryLevelBase: 71 } }
     - { model: skill-trierzi, system: { masteryLevelBase: 52 } }
     - { model: skill-emhlen, system: { masteryLevelBase: 39 } }
     - { model: skill-kantal, system: { masteryLevelBase: 52 } }
     - { model: skill-lakise, system: { masteryLevelBase: 13 } }
     - { model: skill-larani, system: { masteryLevelBase: 14 } }
-    - { model: armorgear-wleg, system: { isWorn: true } }
-    - { model: armorgear-wscoat, system: { isWorn: true } }
-    - { model: armorgear-wclk, system: { isWorn: true } }
-    - { model: armorgear-rhcboot, system: { isWorn: true } }
-    - { model: armorgear-pvest, system: { isWorn: true } }
-    - { model: armorgear-ltglove, system: { isWorn: true } }
-    - { model: weapongear-brdswd }
-    - { model: weapongear-dgr }
-    - { model: weapongear-taburi, name: Tabûri 1, system: { shortcode: Taburi1 } }
-    - { model: weapongear-taburi, name: Tabûri 2, system: { shortcode: Taburi2 } }
-    - { model: weapongear-taburi, name: Tabûri 3, system: { shortcode: Taburi3 } }
-    - { model: weapongear-taburi, name: Tabûri 4, system: { shortcode: Taburi4 } }
-    - { model: weapongear-lbw100 }
-    - { model: projectilegear-arwlbrd, system: { quantity: 12 } }
-    - { model: containergear-quiversmsh }
-    - { model: containergear-backpk }
-    - { model: containergear-bpchmd }
-    - { model: containergear-beltpouchl3 }
+    - { model: sohl-sohl-armorgear-wleg, system: { isWorn: true } }
+    - { model: sohl-sohl-armorgear-wscoat, system: { isWorn: true } }
+    - { model: sohl-sohl-armorgear-wclk, system: { isWorn: true } }
+    - { model: sohl-sohl-armorgear-rhcboot, system: { isWorn: true } }
+    - { model: sohl-sohl-armorgear-pvest, system: { isWorn: true } }
+    - { model: sohl-sohl-armorgear-ltglove, system: { isWorn: true } }
+    - { model: sohl-sohl-weapongear-brdswd }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-weapongear-taburi, name: Tabûri 1, system: { shortcode: Taburi1 } }
+    - { model: sohl-sohl-weapongear-taburi, name: Tabûri 2, system: { shortcode: Taburi2 } }
+    - { model: sohl-sohl-weapongear-taburi, name: Tabûri 3, system: { shortcode: Taburi3 } }
+    - { model: sohl-sohl-weapongear-taburi, name: Tabûri 4, system: { shortcode: Taburi4 } }
+    - { model: sohl-sohl-weapongear-lbw100 }
+    - { model: sohl-sohl-projectilegear-arwlbrd, system: { quantity: 12 } }
+    - { model: sohl-sohl-containergear-quiversmsh }
+    - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-containergear-bpchmd }
+    - { model: sohl-sohl-containergear-beltpouchl3 }
     - { model: affiliation-larani }
   system:
     body:

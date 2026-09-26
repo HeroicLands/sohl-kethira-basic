@@ -21,13 +21,13 @@ sohl:
     rea: 1d6+10
     cre: 1d6+13
   items:
-    - { model: attribute-aur, system: { scoreBase: 19 } }
-    - { model: attribute-wil, system: { scoreBase: 12 } }
-    - { model: attribute-rea, system: { scoreBase: 13 } }
-    - { model: attribute-cre, system: { scoreBase: 16 } }
-    - { model: skill-init, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 19 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 65 } }
     - { model: mysticalability-sprt, system: { masteryLevelBase: 80 } }
-    - { model: skill-dge, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 70 } }
   system:
     body:
       structure:

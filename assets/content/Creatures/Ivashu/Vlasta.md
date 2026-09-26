@@ -26,23 +26,23 @@ sohl:
     rea: 1d4
     cre: 1d4+2
   items:
-    - { model: attribute-str, system: { scoreBase: 4 } }
-    - { model: attribute-end, system: { scoreBase: 10 } }
-    - { model: attribute-dex, system: { scoreBase: 16 } }
-    - { model: attribute-agl, system: { scoreBase: 20 } }
-    - { model: attribute-per, system: { scoreBase: 17 } }
-    - { model: attribute-snt, system: { scoreBase: 3 } }
-    - { model: attribute-aur, system: { scoreBase: 3 } }
-    - { model: attribute-wil, system: { scoreBase: 10 } }
-    - { model: attribute-rea, system: { scoreBase: 2 } }
-    - { model: attribute-cre, system: { scoreBase: 4 } }
-    - { model: skill-awar, system: { masteryLevelBase: 70 } }
-    - { model: skill-init, system: { masteryLevelBase: 52 } }
-    - { model: skill-shok, system: { masteryLevelBase: 52 } }
-    - { model: skill-jump, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 4 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 20 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-snt, system: { scoreBase: 3 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 3 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 2 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 4 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 60 } }
     - { model: mysticalability-sprt, system: { masteryLevelBase: 18 } }
-    - { model: skill-stlth, system: { masteryLevelBase: 54 } }
-    - { model: skill-dge, system: { masteryLevelBase: 95 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 54 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 95 } }
     - name: Bite
       type: skill
       system:

@@ -29,28 +29,28 @@ sohl:
     elo: 1d6+7
     mor: 1d4+4
   items:
-    - { model: attribute-str, system: { scoreBase: 10 } }
-    - { model: attribute-end, system: { scoreBase: 10 } }
-    - { model: attribute-dex, system: { scoreBase: 13 } }
-    - { model: attribute-agl, system: { scoreBase: 10 } }
-    - { model: attribute-per, system: { scoreBase: 13 } }
-    - { model: attribute-snt, system: { scoreBase: 1 } }
-    - { model: attribute-aur, system: { scoreBase: 9 } }
-    - { model: attribute-wil, system: { scoreBase: 10 } }
-    - { model: attribute-rea, system: { scoreBase: 10 } }
-    - { model: attribute-cre, system: { scoreBase: 10 } }
-    - { model: attribute-emp, system: { scoreBase: 6 } }
-    - { model: attribute-elo, system: { scoreBase: 10 } }
-    - { model: attribute-mor, system: { scoreBase: 6 } }
-    - { model: skill-awar, system: { masteryLevelBase: 60 } }
-    - { model: skill-stlth, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-snt, system: { scoreBase: 1 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 55 } }
     - { model: mysticalability-sprt, system: { masteryLevelBase: 27 } }
-    - { model: skill-init, system: { masteryLevelBase: 50 } }
-    - { model: skill-dge, system: { masteryLevelBase: 55 } }
-    - { model: skill-shok, system: { masteryLevelBase: 50 } }
-    - { model: skill-srvl, system: { masteryLevelBase: 66 } }
-    - { model: skill-fltch, system: { masteryLevelBase: 52 } }
-    - { model: skill-herb, system: { masteryLevelBase: 77 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 50 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 50 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 66 } }
+    - { model: sohl-sohl-skill-fltch, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-herb, system: { masteryLevelBase: 77 } }
     - name: Punch
       type: skill
       system:
