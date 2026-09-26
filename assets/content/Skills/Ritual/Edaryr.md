@@ -4,15 +4,15 @@ name:
   full: Edâryr
   aliases: []
 description: "Edâryr is a mystical skill."
-id: 7tUvpdHzkI7ISVQx
-slug: edaryr
 shortcode: edaryr
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
+  id: 7tUvpdHzkI7ISVQx
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: rituals
 ---

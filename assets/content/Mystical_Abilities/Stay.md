@@ -4,15 +4,15 @@ name:
   full: Stay
   aliases: []
 description: "Stay is an arcane incantation of the Fývria convocation."
-id: KL07NqGaYSDnzTtK
-slug: stay
 shortcode: stay
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: KL07NqGaYSDnzTtK
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: fyvria
 ---

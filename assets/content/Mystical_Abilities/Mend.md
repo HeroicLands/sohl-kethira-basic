@@ -4,15 +4,15 @@ name:
   full: Mend
   aliases: []
 description: "Mend is an arcane incantation of the Jmôrvi convocation."
-id: 3QXOH70UQvBERPtC
-slug: mend
 shortcode: mend
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: 3QXOH70UQvBERPtC
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: jmorvi
 ---

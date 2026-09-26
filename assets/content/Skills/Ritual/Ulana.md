@@ -4,15 +4,15 @@ name:
   full: Úlana
   aliases: []
 description: "Úlana is a mystical skill."
-id: 66a9YrjEUqsOjyvc
-slug: ulana
 shortcode: ulana
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
+  id: 66a9YrjEUqsOjyvc
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: rituals
 ---

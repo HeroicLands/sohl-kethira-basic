@@ -4,15 +4,15 @@ name:
   full: Ylvýr
   aliases: []
 description: "Ylvýr is a faith tradition."
-id: KVTbLqN6CuUg0dYJ
-slug: ylvyr
 shortcode: ylvyr
 type: affiliation
 subType: faithtradition
-pack: mysteries
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
+  id: KVTbLqN6CuUg0dYJ
+  packFolder: affiliations
+  pack: mysteries
 sohl:
   kbcat: affiliation
   system:
@@ -20,5 +20,4 @@ sohl:
     office: ""
     title: ""
     level: 1
-packFolder: affiliations
 ---

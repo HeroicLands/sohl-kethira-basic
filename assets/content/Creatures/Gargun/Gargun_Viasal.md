@@ -6,13 +6,12 @@ name:
   full: Gârgún Viásal
   aliases:
     - Red Gârgún
-id: Ga0rgunViasal0A
 shortcode: viasal
-slug: gargun-viasal
 type: being
 data:
   icon: sohl-none-icon-orchead
   templatePriority: 0
+  id: Ga0rgunViasal0A
 sohl:
   attrRollFormula:
     str: 1d6+9

@@ -4,15 +4,15 @@ name:
   full: Conjure
   aliases: []
 description: "Conjure is an arcane incantation of the Odívshè convocation."
-id: IXxyNHy1It9Og2VG
-slug: conjure
 shortcode: conjure
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: IXxyNHy1It9Og2VG
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: odivshe
 ---

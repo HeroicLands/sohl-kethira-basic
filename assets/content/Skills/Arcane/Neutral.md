@@ -4,15 +4,15 @@ name:
   full: Neutral
   aliases: []
 description: "Neutral is a mystical skill."
-id: NM3JB59VYMqlvi6K
-slug: neutral
 shortcode: neutral
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: NM3JB59VYMqlvi6K
+  packFolder: esoteric
+  pack: characteristics
 sohl:
   kbcat: arcane
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: esoteric
 ---

@@ -3,17 +3,8 @@ tags: []
 name:
   full: Chéleb al Rhýddyn
   aliases: []
-id: 0fPBy1GRPKfrjcs1
-packFolder: characters
 shortcode: chelebalrhyddyn
-slug: cheleb-al-rhyddyn
 type: being
-pack: characters
-social:
-  occupation: ""
-  station: ""
-  class: ""
-  society: ""
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
@@ -29,6 +20,14 @@ data:
     skin_color: pale
     complexion: fair
     extra_features: []
+  id: 0fPBy1GRPKfrjcs1
+  packFolder: characters
+  pack: characters
+  social:
+    occupation: ""
+    station: ""
+    class: ""
+    society: ""
 sohl:
   items:
     - { model: attribute-str, system: { scoreBase: 12 } }

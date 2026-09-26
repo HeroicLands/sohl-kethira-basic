@@ -4,15 +4,15 @@ name:
   full: Image
   aliases: []
 description: "Image is an arcane incantation of the Lyáhvi convocation."
-id: 7vZBy2CoXLnkn6zL
-slug: image
 shortcode: image
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: 7vZBy2CoXLnkn6zL
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: lyahvi
 ---

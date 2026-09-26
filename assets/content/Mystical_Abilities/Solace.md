@@ -4,15 +4,15 @@ name:
   full: Solace
   aliases: []
 description: "Solace is an arcane incantation of the Sàvôrya convocation."
-id: PyuWTWox3Qo2oVfF
-slug: solace
 shortcode: solace
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
+  id: PyuWTWox3Qo2oVfF
+  packFolder: savorya
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: savorya
 ---

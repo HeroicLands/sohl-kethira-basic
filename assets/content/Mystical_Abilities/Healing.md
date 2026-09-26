@@ -4,15 +4,15 @@ name:
   full: Healing
   aliases: []
 description: "Healing is an arcane talent."
-id: pePR5Mx28MLY4Kgv
-slug: healing
 shortcode: heal
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
+  id: pePR5Mx28MLY4Kgv
+  packFolder: arcanetalents
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -21,5 +21,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: arcanetalents
 ---

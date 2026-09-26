@@ -4,15 +4,15 @@ name:
   full: Diversion
   aliases: []
 description: "Diversion is an arcane incantation of the Sàvôrya convocation."
-id: ZohkOV86vqtKoT7J
-slug: diversion
 shortcode: diversion
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
+  id: ZohkOV86vqtKoT7J
+  packFolder: savorya
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: savorya
 ---

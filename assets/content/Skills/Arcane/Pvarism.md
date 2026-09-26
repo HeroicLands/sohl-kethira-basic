@@ -4,15 +4,15 @@ name:
   full: Pvârism
   aliases: []
 description: "Pvârism is a mystical skill."
-id: K5XmdHDxovuKxcxQ
-slug: pvarism
 shortcode: pvarism
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: K5XmdHDxovuKxcxQ
+  packFolder: esoteric
+  pack: characteristics
 sohl:
   kbcat: arcane
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: esoteric
 ---

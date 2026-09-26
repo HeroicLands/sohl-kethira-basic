@@ -4,15 +4,15 @@ name:
   full: Skin
   aliases: []
 description: "Skin is an arcane incantation of the Pèleáhn convocation."
-id: p5lbEKLL77uX7IjS
-slug: skin
 shortcode: skin
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: p5lbEKLL77uX7IjS
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: peleahn
 ---

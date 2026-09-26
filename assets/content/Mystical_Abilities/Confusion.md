@@ -4,15 +4,15 @@ name:
   full: Confusion
   aliases: []
 description: "Confusion is an arcane incantation of the Sàvôrya convocation."
-id: WsvBfMmG3Q2hgdeS
-slug: confusion
 shortcode: confusion
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
+  id: WsvBfMmG3Q2hgdeS
+  packFolder: savorya
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: savorya
 ---

@@ -4,15 +4,15 @@ name:
   full: Doom Flame
   aliases: []
 description: "Doom Flame is an arcane incantation of the Pèleáhn convocation."
-id: v7FPUBi92oDck5UK
-slug: doom-flame
 shortcode: doomflame
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: v7FPUBi92oDck5UK
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: peleahn
 ---

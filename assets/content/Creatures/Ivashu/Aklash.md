@@ -4,13 +4,12 @@ tags:
 name:
   full: Áklash
   aliases: []
-id: AklashChokeWind
 shortcode: aklash
-slug: aklash
 type: being
 data:
   icon: sohl-none-icon-troll
   templatePriority: 0
+  id: AklashChokeWind
 sohl:
   attrRollFormula:
     str: 1d6+21

@@ -4,15 +4,15 @@ name:
   full: Curtain
   aliases: []
 description: "Curtain is an arcane incantation of the Lyáhvi convocation."
-id: LGmQXvPQtiaCyxSD
-slug: curtain
 shortcode: curtain
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: LGmQXvPQtiaCyxSD
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: lyahvi
 ---

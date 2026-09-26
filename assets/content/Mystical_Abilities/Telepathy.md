@@ -4,15 +4,15 @@ name:
   full: Telepathy
   aliases: []
 description: "Telepathy is an arcane talent."
-id: 1yyCbhSjbki38JNd
-slug: telepathy
 shortcode: telp
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
+  id: 1yyCbhSjbki38JNd
+  packFolder: arcanetalents
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -21,5 +21,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: arcanetalents
 ---

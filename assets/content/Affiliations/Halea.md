@@ -4,15 +4,15 @@ name:
   full: Haléa
   aliases: []
 description: "Haléa is a faith tradition."
-id: urYK2XuIjOlxb0qm
-slug: halea
 shortcode: halea
 type: affiliation
 subType: faithtradition
-pack: mysteries
 data:
   icon: image-kphalea
   templatePriority: 0
+  id: urYK2XuIjOlxb0qm
+  packFolder: affiliations
+  pack: mysteries
 sohl:
   kbcat: affiliation
   system:
@@ -20,5 +20,4 @@ sohl:
     office: ""
     title: ""
     level: 1
-packFolder: affiliations
 ---

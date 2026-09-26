@@ -6,13 +6,12 @@ name:
   aliases:
     - Nolahrin
     - Dank Stalker
-id: NolahDankStalkr
 shortcode: nolah
-slug: nolah
 type: being
 data:
   icon: sohl-none-icon-spectre
   templatePriority: 0
+  id: NolahDankStalkr
 sohl:
   attrRollFormula:
     str: 1d6+11

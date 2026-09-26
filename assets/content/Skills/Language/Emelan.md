@@ -4,15 +4,15 @@ name:
   full: Emélan
   aliases: []
 description: "Emélan is a language."
-id: xNVWK8WcTKT0J9M7
-slug: emelan
 shortcode: emelan
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: xNVWK8WcTKT0J9M7
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

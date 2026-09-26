@@ -4,15 +4,15 @@ name:
   full: Dispel
   aliases: []
 description: "Dispel is an arcane incantation of the Neutral convocation."
-id: t3WjLPazVJ2txXW2
-slug: dispel
 shortcode: dispel
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: t3WjLPazVJ2txXW2
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: neutral
 ---

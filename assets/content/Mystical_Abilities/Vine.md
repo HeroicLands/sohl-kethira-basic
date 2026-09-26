@@ -4,15 +4,15 @@ name:
   full: Vine
   aliases: []
 description: "Vine is an arcane incantation of the Fývria convocation."
-id: BJGJ2aitu2rIsbzb
-slug: vine
 shortcode: vine
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: BJGJ2aitu2rIsbzb
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: fyvria
 ---

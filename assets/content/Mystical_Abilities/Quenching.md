@@ -4,15 +4,15 @@ name:
   full: Quenching
   aliases: []
 description: "Quenching is an arcane incantation of the Odívshè convocation."
-id: 5DFpPv4FTZ0jwB7r
-slug: quenching
 shortcode: quenching
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: 5DFpPv4FTZ0jwB7r
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: odivshe
 ---

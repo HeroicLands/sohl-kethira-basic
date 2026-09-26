@@ -3,17 +3,8 @@ tags: []
 name:
   full: Bandit 2
   aliases: []
-id: apRBncJbSCYQswQc
-packFolder: characters
 shortcode: bandit2
-slug: bandit-2
 type: being
-pack: characters
-social:
-  occupation: "Bandit"
-  station: ""
-  class: "Free"
-  society: "Palithane"
 data:
   icon: sohl-none-icon-person
   templatePriority: 100
@@ -30,6 +21,14 @@ data:
     complexion: fair
     extra_features:
       - side braid hair
+  id: apRBncJbSCYQswQc
+  packFolder: characters
+  pack: characters
+  social:
+    occupation: "Bandit"
+    station: ""
+    class: "Free"
+    society: "Palithane"
 sohl:
   items:
     - { model: attribute-str, system: { scoreBase: 14 } }

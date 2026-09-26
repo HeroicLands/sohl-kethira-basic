@@ -5,13 +5,12 @@ name:
   full: Hrú
   aliases:
     - Rock Giant
-id: HruRockGiant001
 shortcode: hru
-slug: hru
 type: being
 data:
   icon: sohl-none-icon-rockgolem
   templatePriority: 0
+  id: HruRockGiant001
 sohl:
   attrRollFormula:
     str: 1d6+47

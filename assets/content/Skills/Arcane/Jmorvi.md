@@ -4,15 +4,15 @@ name:
   full: Jmôrvi
   aliases: []
 description: "Jmôrvi is a mystical skill."
-id: Yk66XLvMNm6RD7ON
-slug: jmorvi
 shortcode: jmorvi
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: Yk66XLvMNm6RD7ON
+  packFolder: esoteric
+  pack: characteristics
 sohl:
   kbcat: arcane
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: esoteric
 ---

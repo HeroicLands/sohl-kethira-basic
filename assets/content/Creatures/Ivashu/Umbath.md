@@ -7,13 +7,12 @@ name:
     - Umbathri
     - Bearer of the Mask
     - Gargoyle
-id: UmbathBearerMsk
 shortcode: umbath
-slug: umbath
 type: being
 data:
   icon: sohl-none-icon-gargoyle
   templatePriority: 0
+  id: UmbathBearerMsk
 sohl:
   attrRollFormula:
     aur: 1d6+16

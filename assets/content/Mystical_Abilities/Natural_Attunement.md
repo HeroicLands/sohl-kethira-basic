@@ -4,15 +4,15 @@ name:
   full: Natural Attunement
   aliases: []
 description: "Natural Attunement is an arcane talent."
-id: zM3QEMALDimIYvac
-slug: natural-attunement
 shortcode: natn
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
+  id: zM3QEMALDimIYvac
+  packFolder: arcanetalents
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -21,5 +21,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: arcanetalents
 ---

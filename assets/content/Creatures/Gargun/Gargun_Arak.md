@@ -6,13 +6,12 @@ name:
   full: Gârgún Arák
   aliases:
     - Small Gârgún
-id: Ga0rgunArak01AA
 shortcode: arak
-slug: gargun-arak
 type: being
 data:
   icon: sohl-none-icon-orchead
   templatePriority: 0
+  id: Ga0rgunArak01AA
 sohl:
   attrRollFormula:
     str: 1d6+7

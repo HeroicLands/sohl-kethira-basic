@@ -4,15 +4,15 @@ name:
   full: Enrichment
   aliases: []
 description: "Enrichment is an arcane incantation of the Sàvôrya convocation."
-id: y05pfQtRevRkvwUc
-slug: enrichment
 shortcode: enrichment
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
+  id: y05pfQtRevRkvwUc
+  packFolder: savorya
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: savorya
 ---

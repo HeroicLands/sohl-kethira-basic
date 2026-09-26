@@ -4,15 +4,15 @@ name:
   full: Detect
   aliases: []
 description: "Detect is an arcane incantation of the Neutral convocation."
-id: w3gqLC16lNGXIkwm
-slug: detect
 shortcode: detect
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: w3gqLC16lNGXIkwm
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: neutral
 ---

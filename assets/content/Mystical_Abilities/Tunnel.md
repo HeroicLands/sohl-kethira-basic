@@ -4,15 +4,15 @@ name:
   full: Tunnel
   aliases: []
 description: "Tunnel is an arcane incantation of the Fývria convocation."
-id: bNggK0zh2JHNu6KR
-slug: tunnel
 shortcode: tunnel
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: bNggK0zh2JHNu6KR
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: fyvria
 ---

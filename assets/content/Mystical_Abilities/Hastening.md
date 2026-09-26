@@ -4,15 +4,15 @@ name:
   full: Hastening
   aliases: []
 description: "Hastening is an arcane incantation of the Pèleáhn convocation."
-id: j2lXh9gJQAPcH7rU
-slug: hastening
 shortcode: hastening
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: j2lXh9gJQAPcH7rU
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: peleahn
 ---

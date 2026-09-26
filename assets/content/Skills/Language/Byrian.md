@@ -4,15 +4,15 @@ name:
   full: Býrian
   aliases: []
 description: "Býrian is a language."
-id: GOKBR8YjJPMz4XrM
-slug: byrian
 shortcode: byrian
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: GOKBR8YjJPMz4XrM
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

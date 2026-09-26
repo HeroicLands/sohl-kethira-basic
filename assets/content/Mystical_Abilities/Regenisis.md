@@ -4,15 +4,15 @@ name:
   full: Regenisis
   aliases: []
 description: "Regenisis is an arcane incantation of the Fývria convocation."
-id: qQAh0uz82XptjugF
-slug: regenisis
 shortcode: regenisis
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: qQAh0uz82XptjugF
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: fyvria
 ---

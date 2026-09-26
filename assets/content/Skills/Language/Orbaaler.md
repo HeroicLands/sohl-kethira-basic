@@ -4,15 +4,15 @@ name:
   full: Orbáaler
   aliases: []
 description: "Orbáaler is a language."
-id: pkfOMri14HCwlxt2
-slug: orbaaler
 shortcode: orbaaler
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: pkfOMri14HCwlxt2
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

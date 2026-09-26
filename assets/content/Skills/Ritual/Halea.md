@@ -4,15 +4,15 @@ name:
   full: Haléa
   aliases: []
 description: "Haléa is a mystical skill."
-id: LCaEFOhHOOhLSNvk
-slug: halea
 shortcode: halea
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: image-kphalea
   templatePriority: 0
+  id: LCaEFOhHOOhLSNvk
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: rituals
 ---

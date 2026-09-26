@@ -4,15 +4,15 @@ name:
   full: Basalm
   aliases: []
 description: "Basalm is an arcane incantation of the Fývria convocation."
-id: DUdQb72xTCsBlYBo
-slug: basalm
 shortcode: basalm
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: DUdQb72xTCsBlYBo
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: fyvria
 ---

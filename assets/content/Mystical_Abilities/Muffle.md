@@ -4,15 +4,15 @@ name:
   full: Muffle
   aliases: []
 description: "Muffle is an arcane incantation of the Lyáhvi convocation."
-id: xM9jLJT7nDyy8dSl
-slug: muffle
 shortcode: muffle
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: xM9jLJT7nDyy8dSl
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: lyahvi
 ---

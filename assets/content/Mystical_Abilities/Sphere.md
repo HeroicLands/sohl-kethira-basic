@@ -4,15 +4,15 @@ name:
   full: Sphere
   aliases: []
 description: "Sphere is an arcane incantation of the Pèleáhn convocation."
-id: kkFwQo9vfwEjpZqh
-slug: sphere
 shortcode: sphere
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: kkFwQo9vfwEjpZqh
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: peleahn
 ---

@@ -4,15 +4,15 @@ name:
   full: Quârphic
   aliases: []
 description: "Quârphic is a language."
-id: wnncuSLQr1RkNprN
-slug: quarphic
 shortcode: quarphic
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: wnncuSLQr1RkNprN
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

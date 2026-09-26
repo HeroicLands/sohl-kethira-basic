@@ -3,17 +3,8 @@ tags: []
 name:
   full: Bandit Archer 1
   aliases: []
-id: tz1msZ1ltyMU6lzC
-packFolder: characters
 shortcode: banditarcher1
-slug: bandit-archer-1
 type: being
-pack: characters
-social:
-  occupation: "Bandit Archer"
-  station: ""
-  class: "Free"
-  society: "Palithane"
 data:
   icon: sohl-none-icon-person
   templatePriority: 100
@@ -29,6 +20,14 @@ data:
     skin_color: olive
     complexion: fair
     extra_features: []
+  id: tz1msZ1ltyMU6lzC
+  packFolder: characters
+  pack: characters
+  social:
+    occupation: "Bandit Archer"
+    station: ""
+    class: "Free"
+    society: "Palithane"
 sohl:
   items:
     - { model: attribute-str, system: { scoreBase: 10 } }

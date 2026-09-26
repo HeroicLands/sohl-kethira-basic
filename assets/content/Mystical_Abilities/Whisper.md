@@ -4,15 +4,15 @@ name:
   full: Whisper
   aliases: []
 description: "Whisper is an arcane incantation of the Lyáhvi convocation."
-id: vm5f8mrpSO1q3BbV
-slug: whisper
 shortcode: whisper
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: vm5f8mrpSO1q3BbV
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: lyahvi
 ---

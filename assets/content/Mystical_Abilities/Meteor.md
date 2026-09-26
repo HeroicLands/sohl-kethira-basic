@@ -4,15 +4,15 @@ name:
   full: Meteor
   aliases: []
 description: "Meteor is an arcane incantation of the Pèleáhn convocation."
-id: YIs3bURpEHC54DcM
-slug: meteor
 shortcode: meteor
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: YIs3bURpEHC54DcM
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: peleahn
 ---

@@ -3,17 +3,8 @@ tags: []
 name:
   full: Elýsè al Skýrn
   aliases: []
-id: Hxxja9eO46kDimGg
-packFolder: characters
 shortcode: elysealskyrn
-slug: elyse-al-skyrn
 type: being
-pack: characters
-social:
-  occupation: ""
-  station: ""
-  class: ""
-  society: ""
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
@@ -29,6 +20,14 @@ data:
     skin_color: pale
     complexion: fair
     extra_features: []
+  id: Hxxja9eO46kDimGg
+  packFolder: characters
+  pack: characters
+  social:
+    occupation: ""
+    station: ""
+    class: ""
+    society: ""
 sohl:
   items:
     - { model: attribute-str, system: { scoreBase: 8 } }

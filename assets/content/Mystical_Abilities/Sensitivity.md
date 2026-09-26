@@ -4,15 +4,15 @@ name:
   full: Sensitivity
   aliases: []
 description: "Sensitivity is an arcane talent."
-id: GvNrbskSwZjdAamV
-slug: sensitivity
 shortcode: snst
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
+  id: GvNrbskSwZjdAamV
+  packFolder: arcanetalents
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -21,5 +21,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: arcanetalents
 ---

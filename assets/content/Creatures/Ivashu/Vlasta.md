@@ -6,13 +6,12 @@ name:
   aliases:
     - Swift One
     - Eater of Eyes
-id: VlastaSwiftOne1
 shortcode: vlasta
-slug: vlasta
 type: being
 data:
   icon: sohl-none-icon-birdclaw
   templatePriority: 0
+  id: VlastaSwiftOne1
 sohl:
   attrRollFormula:
     str: 1d4+2

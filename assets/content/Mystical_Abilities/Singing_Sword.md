@@ -4,15 +4,15 @@ name:
   full: Singing Sword
   aliases: []
 description: "Singing Sword is an arcane incantation of the Jmôrvi convocation."
-id: OpZ3MKsZQQncRe94
-slug: singing-sword
 shortcode: singingsword
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: OpZ3MKsZQQncRe94
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: jmorvi
 ---

@@ -4,15 +4,15 @@ name:
   full: Shôrka
   aliases: []
 description: "Shôrka is a language."
-id: QFYAhhyRtZ48RlFQ
-slug: shorka
 shortcode: shorka
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: QFYAhhyRtZ48RlFQ
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

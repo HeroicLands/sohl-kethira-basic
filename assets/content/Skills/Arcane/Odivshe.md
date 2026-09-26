@@ -4,15 +4,15 @@ name:
   full: Odívshè
   aliases: []
 description: "Odívshè is a mystical skill."
-id: CDXslJIQbILfLiDA
-slug: odivshe
 shortcode: odivshe
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: CDXslJIQbILfLiDA
+  packFolder: esoteric
+  pack: characteristics
 sohl:
   kbcat: arcane
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: esoteric
 ---

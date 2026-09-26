@@ -4,15 +4,15 @@ name:
   full: Mold
   aliases: []
 description: "Mold is an arcane incantation of the Jmôrvi convocation."
-id: DHxJc5j9BztOJEzY
-slug: mold
 shortcode: mold
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: DHxJc5j9BztOJEzY
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: jmorvi
 ---

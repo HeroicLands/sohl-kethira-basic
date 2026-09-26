@@ -4,15 +4,15 @@ name:
   full: Prescience
   aliases: []
 description: "Prescience is an arcane talent."
-id: wFQGHGOjYdp98VlC
-slug: prescience
 shortcode: psnc
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
+  id: wFQGHGOjYdp98VlC
+  packFolder: arcanetalents
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -21,5 +21,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: arcanetalents
 ---

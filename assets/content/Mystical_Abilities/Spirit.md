@@ -4,15 +4,15 @@ name:
   full: Spirit
   aliases: []
 description: "Spirit is an arcane talent."
-id: lKVbkvzIGDFCC3UI
-slug: spirit
 shortcode: sprt
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
+  id: lKVbkvzIGDFCC3UI
+  packFolder: arcanetalents
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -21,5 +21,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: arcanetalents
 ---

@@ -4,15 +4,15 @@ name:
   full: Jârin
   aliases: []
 description: "Jârin is a language."
-id: MONOo4chhMcTu1pG
-slug: jarin
 shortcode: jarin
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: MONOo4chhMcTu1pG
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

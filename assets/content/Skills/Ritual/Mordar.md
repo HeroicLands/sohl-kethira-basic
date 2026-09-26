@@ -4,15 +4,15 @@ name:
   full: Môrdar
   aliases: []
 description: "Môrdar is a mystical skill."
-id: NEDzhnOXJNI5Rskh
-slug: mordar
 shortcode: mordar
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
+  id: NEDzhnOXJNI5Rskh
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: rituals
 ---

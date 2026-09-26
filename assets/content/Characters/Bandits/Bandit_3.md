@@ -3,17 +3,8 @@ tags: []
 name:
   full: Bandit 3
   aliases: []
-id: gLyzBd2dD0e70nSC
-packFolder: characters
 shortcode: bandit3
-slug: bandit-3
 type: being
-pack: characters
-social:
-  occupation: "Bandit"
-  station: ""
-  class: "Free"
-  society: "Palithane"
 data:
   icon: sohl-none-icon-person
   templatePriority: 100
@@ -29,6 +20,14 @@ data:
     skin_color: light
     complexion: fair
     extra_features: []
+  id: gLyzBd2dD0e70nSC
+  packFolder: characters
+  pack: characters
+  social:
+    occupation: "Bandit"
+    station: ""
+    class: "Free"
+    society: "Palithane"
 sohl:
   items:
     - { model: attribute-str, system: { scoreBase: 11 } }

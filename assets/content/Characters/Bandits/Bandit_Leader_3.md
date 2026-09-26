@@ -3,17 +3,8 @@ tags: []
 name:
   full: Bandit Leader 3
   aliases: []
-id: 7ivelsuPSdm9OHrv
-packFolder: characters
 shortcode: banditleader3
-slug: bandit-leader-3
 type: being
-pack: characters
-social:
-  occupation: "Bandit Leader"
-  station: ""
-  class: "Free"
-  society: "Palithane"
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
@@ -30,6 +21,14 @@ data:
     complexion: fair
     extra_features:
       - a tattoo of a serpent on the back
+  id: 7ivelsuPSdm9OHrv
+  packFolder: characters
+  pack: characters
+  social:
+    occupation: "Bandit Leader"
+    station: ""
+    class: "Free"
+    society: "Palithane"
 sohl:
   items:
     - { model: attribute-str, system: { scoreBase: 13 } }

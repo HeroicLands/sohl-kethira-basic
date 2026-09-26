@@ -4,15 +4,15 @@ name:
   full: Rest
   aliases: []
 description: "Rest is an arcane incantation of the Odívshè convocation."
-id: vkhu5G6CqNzMHHAO
-slug: rest
 shortcode: rest
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: vkhu5G6CqNzMHHAO
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: odivshe
 ---

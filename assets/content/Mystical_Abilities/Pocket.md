@@ -4,15 +4,15 @@ name:
   full: Pocket
   aliases: []
 description: "Pocket is an arcane incantation of the Lyáhvi convocation."
-id: LOL0hO2nhoIXVKyH
-slug: pocket
 shortcode: pocket
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: LOL0hO2nhoIXVKyH
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: lyahvi
 ---

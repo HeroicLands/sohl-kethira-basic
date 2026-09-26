@@ -4,15 +4,15 @@ name:
   full: Disembodiment
   aliases: []
 description: "Disembodiment is an arcane talent."
-id: q282j5zXN7yLMo70
-slug: disembodiment
 shortcode: dsbd
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
+  id: q282j5zXN7yLMo70
+  packFolder: arcanetalents
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -21,5 +21,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: arcanetalents
 ---

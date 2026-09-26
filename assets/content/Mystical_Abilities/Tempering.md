@@ -4,15 +4,15 @@ name:
   full: Tempering
   aliases: []
 description: "Tempering is an arcane incantation of the Jmôrvi convocation."
-id: ftyx0YdxOBcXppkF
-slug: tempering
 shortcode: tempering
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: ftyx0YdxOBcXppkF
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: jmorvi
 ---

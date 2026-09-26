@@ -4,15 +4,15 @@ name:
   full: Enthral
   aliases: []
 description: "Enthral is an arcane talent."
-id: nDJ1yTJ6OYad1ZQM
-slug: enthral
 shortcode: enth
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
+  id: nDJ1yTJ6OYad1ZQM
+  packFolder: arcanetalents
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -21,5 +21,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: arcanetalents
 ---

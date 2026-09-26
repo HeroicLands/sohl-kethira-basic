@@ -4,15 +4,15 @@ name:
   full: Freeze
   aliases: []
 description: "Freeze is an arcane incantation of the Odívshè convocation."
-id: BH8BdFUkA6lWOdnu
-slug: freeze
 shortcode: freeze
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: BH8BdFUkA6lWOdnu
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: odivshe
 ---

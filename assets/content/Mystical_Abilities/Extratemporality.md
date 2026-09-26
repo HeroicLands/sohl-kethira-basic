@@ -4,15 +4,15 @@ name:
   full: Extratemporality
   aliases: []
 description: "Extratemporality is an arcane talent."
-id: GRInCl46OtvsjWRe
-slug: extratemporality
 shortcode: xtratemp
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
+  id: GRInCl46OtvsjWRe
+  packFolder: arcanetalents
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -21,5 +21,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: arcanetalents
 ---

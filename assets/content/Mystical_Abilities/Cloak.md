@@ -4,15 +4,15 @@ name:
   full: Cloak
   aliases: []
 description: "Cloak is an arcane incantation of the Pèleáhn convocation."
-id: X9BIekcWvIEgvoJP
-slug: cloak
 shortcode: cloak
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: X9BIekcWvIEgvoJP
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: peleahn
 ---

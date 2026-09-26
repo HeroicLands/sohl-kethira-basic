@@ -4,15 +4,15 @@ name:
   full: Siém
   aliases: []
 description: "Siém is a mystical skill."
-id: TaiHOeQqjqJX4qqk
-slug: siem
 shortcode: siem
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: image-kpsiem
   templatePriority: 0
+  id: TaiHOeQqjqJX4qqk
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: rituals
 ---

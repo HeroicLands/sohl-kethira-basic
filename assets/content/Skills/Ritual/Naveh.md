@@ -4,15 +4,15 @@ name:
   full: Navéh
   aliases: []
 description: "Navéh is a mystical skill."
-id: wxyRLxUzl0yqeCYk
-slug: naveh
 shortcode: naveh
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: image-kpnaveh
   templatePriority: 0
+  id: wxyRLxUzl0yqeCYk
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: rituals
 ---

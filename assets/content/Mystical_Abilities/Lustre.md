@@ -4,15 +4,15 @@ name:
   full: Lustre
   aliases: []
 description: "Lustre is an arcane incantation of the Jmôrvi convocation."
-id: Sp97AeVclUVxJfSx
-slug: lustre
 shortcode: lustre
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: Sp97AeVclUVxJfSx
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: jmorvi
 ---

@@ -4,15 +4,15 @@ name:
   full: Floatation
   aliases: []
 description: "Floatation is an arcane incantation of the Odívshè convocation."
-id: ZP4o5LVcv9L5IJeA
-slug: floatation
 shortcode: floatation
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: ZP4o5LVcv9L5IJeA
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: odivshe
 ---

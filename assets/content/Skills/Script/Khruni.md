@@ -4,15 +4,15 @@ name:
   full: Khrúni
   aliases: []
 description: "Khrúni is a script."
-id: Soq0vRso2XXolGH7
-slug: khruni
 shortcode: khruni
 type: skill
 subType: script
-pack: characteristics
 data:
   icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
+  id: Soq0vRso2XXolGH7
+  packFolder: scripts
+  pack: characteristics
 sohl:
   kbcat: script
   system:
@@ -26,5 +26,4 @@ sohl:
       - vital
       - core
       - manipulator
-packFolder: scripts
 ---

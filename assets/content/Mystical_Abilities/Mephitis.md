@@ -4,15 +4,15 @@ name:
   full: Mephitis
   aliases: []
 description: "Mephitis is an arcane incantation of the Jmôrvi convocation."
-id: ZOmP9gt2NWEp1j02
-slug: mephitis
 shortcode: mephitis
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: ZOmP9gt2NWEp1j02
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: jmorvi
 ---

@@ -4,15 +4,15 @@ name:
   full: Focus
   aliases: []
 description: "Focus is an arcane incantation of the Neutral convocation."
-id: KEjp3ERVc82yK72o
-slug: focus
 shortcode: focus
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: KEjp3ERVc82yK72o
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: neutral
 ---

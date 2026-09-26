@@ -3,17 +3,8 @@ tags: []
 name:
   full: Bandit 5
   aliases: []
-id: JtqPjLbs12KX9K80
-packFolder: characters
 shortcode: bandit5
-slug: bandit-5
 type: being
-pack: characters
-social:
-  occupation: "Bandit"
-  station: ""
-  class: "Free"
-  society: "Palithane"
 data:
   icon: sohl-none-icon-person
   templatePriority: 100
@@ -31,6 +22,14 @@ data:
     extra_features:
       - pixie-style cut hair
       - a tattoo of a horse on the thigh
+  id: JtqPjLbs12KX9K80
+  packFolder: characters
+  pack: characters
+  social:
+    occupation: "Bandit"
+    station: ""
+    class: "Free"
+    society: "Palithane"
 sohl:
   items:
     - { model: attribute-str, system: { scoreBase: 13 } }

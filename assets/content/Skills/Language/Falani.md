@@ -4,15 +4,15 @@ name:
   full: Faláni
   aliases: []
 description: "Faláni is a language."
-id: IT9AYKb2ELFlJkJf
-slug: falani
 shortcode: falani
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: IT9AYKb2ELFlJkJf
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

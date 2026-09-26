@@ -4,15 +4,15 @@ name:
   full: Snowball
   aliases: []
 description: "Snowball is an arcane incantation of the Odívshè convocation."
-id: c6yEvNaz2gvhCzSH
-slug: snowball
 shortcode: snowball
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: c6yEvNaz2gvhCzSH
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: odivshe
 ---

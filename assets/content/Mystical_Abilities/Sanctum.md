@@ -4,15 +4,15 @@ name:
   full: Sanctum
   aliases: []
 description: "Sanctum is an arcane incantation of the Neutral convocation."
-id: wwA0PHaLfDFUwVMz
-slug: sanctum
 shortcode: sanctum
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: wwA0PHaLfDFUwVMz
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: neutral
 ---

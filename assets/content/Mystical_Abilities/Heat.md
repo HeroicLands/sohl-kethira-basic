@@ -4,15 +4,15 @@ name:
   full: Heat
   aliases: []
 description: "Heat is an arcane incantation of the Pèleáhn convocation."
-id: 4LJHumuc2RoXuuzU
-slug: heat
 shortcode: heat
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: 4LJHumuc2RoXuuzU
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: peleahn
 ---

@@ -4,15 +4,15 @@ name:
   full: Decay
   aliases: []
 description: "Decay is an arcane incantation of the Fývria convocation."
-id: Rn5TkoHUjQzy8xsL
-slug: decay
 shortcode: decay
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: Rn5TkoHUjQzy8xsL
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: fyvria
 ---

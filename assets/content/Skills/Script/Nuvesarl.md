@@ -4,15 +4,15 @@ name:
   full: Nuvesarl
   aliases: []
 description: "Nuvesarl is a script."
-id: hYBL1FYt6tnueT95
-slug: nuvesarl
 shortcode: nuvesarl
 type: skill
 subType: script
-pack: characteristics
 data:
   icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
+  id: hYBL1FYt6tnueT95
+  packFolder: scripts
+  pack: characteristics
 sohl:
   kbcat: script
   system:
@@ -26,5 +26,4 @@ sohl:
       - vital
       - core
       - manipulator
-packFolder: scripts
 ---

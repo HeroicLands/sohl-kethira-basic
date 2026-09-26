@@ -3,17 +3,8 @@ tags: []
 name:
   full: Bandit Archer 3
   aliases: []
-id: kaZVZSgYiMluKbD3
-packFolder: characters
 shortcode: banditarcher3
-slug: bandit-archer-3
 type: being
-pack: characters
-social:
-  occupation: "Bandit Archer"
-  station: ""
-  class: "Free"
-  society: "Palithane"
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
@@ -30,6 +21,14 @@ data:
     complexion: fair
     extra_features:
       - a scar running down the right leg
+  id: kaZVZSgYiMluKbD3
+  packFolder: characters
+  pack: characters
+  social:
+    occupation: "Bandit Archer"
+    station: ""
+    class: "Free"
+    society: "Palithane"
 sohl:
   items:
     - { model: attribute-str, system: { scoreBase: 12 } }

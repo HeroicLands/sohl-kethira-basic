@@ -6,13 +6,12 @@ name:
   full: Gârgún Hyéka
   aliases:
     - Brown Gârgún
-id: Ga0rgunHyeka01A
 shortcode: hyeka
-slug: gargun-hyeka
 type: being
 data:
   icon: sohl-none-icon-orchead
   templatePriority: 0
+  id: Ga0rgunHyeka01A
 sohl:
   attrRollFormula:
     str: 1d6+8

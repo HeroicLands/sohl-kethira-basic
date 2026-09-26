@@ -4,15 +4,15 @@ name:
   full: Host
   aliases: []
 description: "Host is an arcane incantation of the Sàvôrya convocation."
-id: QPBV1eStrVM4gUJq
-slug: host
 shortcode: host
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
+  id: QPBV1eStrVM4gUJq
+  packFolder: savorya
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: savorya
 ---

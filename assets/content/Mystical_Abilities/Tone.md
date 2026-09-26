@@ -4,15 +4,15 @@ name:
   full: Tone
   aliases: []
 description: "Tone is an arcane incantation of the Lyáhvi convocation."
-id: R4lKLay2mZcbJ18A
-slug: tone
 shortcode: tone
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: R4lKLay2mZcbJ18A
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: lyahvi
 ---

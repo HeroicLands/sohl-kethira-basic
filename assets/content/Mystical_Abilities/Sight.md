@@ -4,15 +4,15 @@ name:
   full: Sight
   aliases: []
 description: "Sight is an arcane incantation of the Jmôrvi convocation."
-id: uEnxf7vF4YmL2S58
-slug: sight
 shortcode: sight
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: uEnxf7vF4YmL2S58
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: jmorvi
 ---

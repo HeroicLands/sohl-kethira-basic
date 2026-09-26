@@ -4,15 +4,15 @@ name:
   full: Visnomy
   aliases: []
 description: "Visnomy is an arcane talent."
-id: lPKkHezbjh7kymzb
-slug: visnomy
 shortcode: vsnm
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
+  id: lPKkHezbjh7kymzb
+  packFolder: arcanetalents
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -21,5 +21,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: arcanetalents
 ---

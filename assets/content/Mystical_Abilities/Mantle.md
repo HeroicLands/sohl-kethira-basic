@@ -4,15 +4,15 @@ name:
   full: Mantle
   aliases: []
 description: "Mantle is an arcane incantation of the Pèleáhn convocation."
-id: hHgnNsLcgLXjmioB
-slug: mantle
 shortcode: mantle
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: hHgnNsLcgLXjmioB
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: peleahn
 ---

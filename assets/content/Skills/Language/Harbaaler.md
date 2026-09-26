@@ -4,15 +4,15 @@ name:
   full: Hârbáaler
   aliases: []
 description: "Hârbáaler is a language."
-id: kTgzDSQNKt4bUBwl
-slug: harbaaler
 shortcode: harbaaler
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: kTgzDSQNKt4bUBwl
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

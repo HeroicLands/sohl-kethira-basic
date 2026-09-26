@@ -4,15 +4,15 @@ name:
   full: Sináin
   aliases: []
 description: "Sináin is a language."
-id: LWeU0oyWUWd6KM9V
-slug: sinain
 shortcode: sinain
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: LWeU0oyWUWd6KM9V
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

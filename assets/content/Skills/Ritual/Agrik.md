@@ -4,15 +4,15 @@ name:
   full: Ágrik
   aliases: []
 description: "Ágrik is a mystical skill."
-id: sMgbqUmp3LA4W6Ob
-slug: agrik
 shortcode: agrik
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: image-kpagrik
   templatePriority: 0
+  id: sMgbqUmp3LA4W6Ob
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: rituals
 ---

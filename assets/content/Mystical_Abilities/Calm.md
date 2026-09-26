@@ -4,15 +4,15 @@ name:
   full: Calm
   aliases: []
 description: "Calm is an arcane incantation of the Odívshè convocation."
-id: PeK6q0w3kEgsuizC
-slug: calm
 shortcode: calm
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: PeK6q0w3kEgsuizC
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: odivshe
 ---

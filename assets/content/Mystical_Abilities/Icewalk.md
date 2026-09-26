@@ -4,15 +4,15 @@ name:
   full: Icewalk
   aliases: []
 description: "Icewalk is an arcane incantation of the Odívshè convocation."
-id: oIeafW1cWNh3rRza
-slug: icewalk
 shortcode: icewalk
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: oIeafW1cWNh3rRza
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: odivshe
 ---

@@ -4,15 +4,15 @@ name:
   full: Missive
   aliases: []
 description: "Missive is an arcane incantation of the Sàvôrya convocation."
-id: IRMCs3JdVLYQCycF
-slug: missive
 shortcode: missive
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
+  id: IRMCs3JdVLYQCycF
+  packFolder: savorya
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: savorya
 ---

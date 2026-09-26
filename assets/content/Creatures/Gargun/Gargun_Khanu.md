@@ -6,13 +6,12 @@ name:
   full: Gârgún Khánu
   aliases:
     - Great Gârgún
-id: Ga0rgunKhanu01A
 shortcode: khanu
-slug: gargun-khanu
 type: being
 data:
   icon: sohl-none-icon-orchead
   templatePriority: 0
+  id: Ga0rgunKhanu01A
 sohl:
   attrRollFormula:
     str: 1d6+10

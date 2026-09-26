@@ -4,15 +4,15 @@ name:
   full: Vanáer
   aliases: []
 description: "Vanáer is a mystical skill."
-id: CcO0l7xmPd61kQqP
-slug: vanaer
 shortcode: vanaer
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
+  id: CcO0l7xmPd61kQqP
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: rituals
 ---

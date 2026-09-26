@@ -4,15 +4,15 @@ name:
   full: Zâkimladal
   aliases: []
 description: "Zâkimladal is a language."
-id: CsdzvLOYIrnU1Fre
-slug: zakimladal
 shortcode: zakimladal
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 100
+  id: CsdzvLOYIrnU1Fre
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

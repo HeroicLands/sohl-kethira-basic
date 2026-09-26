@@ -4,15 +4,15 @@ name:
   full: Crystals
   aliases: []
 description: "Crystals is an arcane incantation of the Odívshè convocation."
-id: JFyKL4GouBLYOoza
-slug: crystals
 shortcode: crystals
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: JFyKL4GouBLYOoza
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: odivshe
 ---

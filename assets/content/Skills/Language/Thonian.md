@@ -4,15 +4,15 @@ name:
   full: Thónian
   aliases: []
 description: "Thónian is a language."
-id: TdCA6SMBfNGAPgDZ
-slug: thonian
 shortcode: thonian
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: TdCA6SMBfNGAPgDZ
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

@@ -4,15 +4,15 @@ name:
   full: Sávè-K'nôr
   aliases: []
 description: "Sávè-K'nôr is a mystical skill."
-id: gO8X0Xri4b3f3tId
-slug: save-k-nor
 shortcode: saveknor
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: image-kpsaveknor
   templatePriority: 0
+  id: gO8X0Xri4b3f3tId
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: rituals
 ---

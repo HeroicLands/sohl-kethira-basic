@@ -3,17 +3,8 @@ tags: []
 name:
   full: Bandit 1
   aliases: []
-id: Hu562HvSMuqz2ZRg
-packFolder: characters
 shortcode: bandit1
-slug: bandit-1
 type: being
-pack: characters
-social:
-  occupation: "Bandit"
-  station: ""
-  class: "Free"
-  society: "Palithane"
 data:
   icon: sohl-none-icon-person
   templatePriority: 100
@@ -30,6 +21,14 @@ data:
     complexion: fair
     extra_features:
       - hair parted down the middle
+  id: Hu562HvSMuqz2ZRg
+  packFolder: characters
+  pack: characters
+  social:
+    occupation: "Bandit"
+    station: ""
+    class: "Free"
+    society: "Palithane"
 sohl:
   items:
     - { model: attribute-str, system: { scoreBase: 11 } }

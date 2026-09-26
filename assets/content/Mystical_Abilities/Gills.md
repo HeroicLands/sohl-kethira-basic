@@ -4,15 +4,15 @@ name:
   full: Gills
   aliases: []
 description: "Gills is an arcane incantation of the Odívshè convocation."
-id: IH7J1jKh0ORTG9Fg
-slug: gills
 shortcode: gills
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: IH7J1jKh0ORTG9Fg
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: odivshe
 ---

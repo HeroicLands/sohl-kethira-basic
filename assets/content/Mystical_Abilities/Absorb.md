@@ -4,15 +4,15 @@ name:
   full: Absorb
   aliases: []
 description: "Absorb is an arcane incantation of the Neutral convocation."
-id: 4cklnUPcocTdOXWu
-slug: absorb
 shortcode: absorb
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: 4cklnUPcocTdOXWu
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: neutral
 ---

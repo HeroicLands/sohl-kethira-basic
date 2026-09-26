@@ -4,15 +4,15 @@ name:
   full: Desiccation
   aliases: []
 description: "Desiccation is an arcane incantation of the Pèleáhn convocation."
-id: rtiWd0bR7EyLXHfB
-slug: desiccation
 shortcode: desiccation
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: rtiWd0bR7EyLXHfB
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: peleahn
 ---

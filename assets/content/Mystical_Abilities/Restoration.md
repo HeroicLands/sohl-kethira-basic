@@ -4,15 +4,15 @@ name:
   full: Restoration
   aliases: []
 description: "Restoration is an arcane incantation of the Jmôrvi convocation."
-id: KUGAAtAfER0lzBYy
-slug: restoration
 shortcode: restoration
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: KUGAAtAfER0lzBYy
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: jmorvi
 ---

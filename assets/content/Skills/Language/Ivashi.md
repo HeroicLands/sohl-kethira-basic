@@ -4,15 +4,15 @@ name:
   full: Ivashi
   aliases: []
 description: "Ivashi is a language."
-id: dA4dgGTRAcDuXRBI
-slug: ivashi
 shortcode: ivashi
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: dA4dgGTRAcDuXRBI
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

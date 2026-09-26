@@ -4,15 +4,15 @@ name:
   full: Wasting
   aliases: []
 description: "Wasting is an arcane incantation of the Fývria convocation."
-id: lsOd0Ta0cL0DoqOF
-slug: wasting
 shortcode: wasting
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: lsOd0Ta0cL0DoqOF
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: fyvria
 ---

@@ -4,15 +4,15 @@ name:
   full: Lance
   aliases: []
 description: "Lance is an arcane incantation of the Jmôrvi convocation."
-id: 9HMnaGx1T7bMTRos
-slug: lance
 shortcode: lance
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: 9HMnaGx1T7bMTRos
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: jmorvi
 ---

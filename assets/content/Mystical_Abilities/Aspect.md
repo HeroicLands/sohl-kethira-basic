@@ -4,15 +4,15 @@ name:
   full: Aspect
   aliases: []
 description: "Aspect is an arcane incantation of the Jmôrvi convocation."
-id: 5NBX1wp4qSgXFLuU
-slug: aspect
 shortcode: aspect
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: 5NBX1wp4qSgXFLuU
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: jmorvi
 ---

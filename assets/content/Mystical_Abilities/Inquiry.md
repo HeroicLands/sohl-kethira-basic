@@ -4,15 +4,15 @@ name:
   full: Inquiry
   aliases: []
 description: "Inquiry is an arcane incantation of the Sàvôrya convocation."
-id: dA2o3DXEJpdvk1a8
-slug: inquiry
 shortcode: inquiry
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
+  id: dA2o3DXEJpdvk1a8
+  packFolder: savorya
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: savorya
 ---

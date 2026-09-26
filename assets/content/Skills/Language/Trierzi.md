@@ -4,15 +4,15 @@ name:
   full: Tríerzi
   aliases: []
 description: "Tríerzi is a language."
-id: JPmWxj9EyWMMEusI
-slug: trierzi
 shortcode: trierzi
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: JPmWxj9EyWMMEusI
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

@@ -4,15 +4,15 @@ name:
   full: Eyes
   aliases: []
 description: "Eyes is an arcane incantation of the Pèleáhn convocation."
-id: 2EitMhTLIk7rUDav
-slug: eyes
 shortcode: eyes
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: 2EitMhTLIk7rUDav
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: peleahn
 ---

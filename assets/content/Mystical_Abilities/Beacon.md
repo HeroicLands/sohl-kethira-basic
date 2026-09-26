@@ -4,15 +4,15 @@ name:
   full: Beacon
   aliases: []
 description: "Beacon is an arcane incantation of the Lyáhvi convocation."
-id: SNZXHUNn7ZJuoyYR
-slug: beacon
 shortcode: beacon
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: SNZXHUNn7ZJuoyYR
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: lyahvi
 ---

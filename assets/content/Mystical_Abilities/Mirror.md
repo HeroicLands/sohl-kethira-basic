@@ -4,15 +4,15 @@ name:
   full: Mirror
   aliases: []
 description: "Mirror is an arcane incantation of the Lyáhvi convocation."
-id: vbqeHTlmObvyegWR
-slug: mirror
 shortcode: mirror
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: vbqeHTlmObvyegWR
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: lyahvi
 ---

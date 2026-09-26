@@ -3,17 +3,8 @@ tags: []
 name:
   full: Bandit 4
   aliases: []
-id: TNcBgsbpfb4Fv0C8
-packFolder: characters
 shortcode: bandit4
-slug: bandit-4
 type: being
-pack: characters
-social:
-  occupation: "Bandit"
-  station: ""
-  class: "Free"
-  society: "Palithane"
 data:
   icon: sohl-none-icon-person
   templatePriority: 100
@@ -29,6 +20,14 @@ data:
     skin_color: olive
     complexion: fair
     extra_features: []
+  id: TNcBgsbpfb4Fv0C8
+  packFolder: characters
+  pack: characters
+  social:
+    occupation: "Bandit"
+    station: ""
+    class: "Free"
+    society: "Palithane"
 sohl:
   items:
     - { model: attribute-str, system: { scoreBase: 8 } }

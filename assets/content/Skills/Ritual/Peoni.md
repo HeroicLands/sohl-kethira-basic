@@ -4,15 +4,15 @@ name:
   full: Peóni
   aliases: []
 description: "Peóni is a mystical skill."
-id: gevm9nRwQonHFsgE
-slug: peoni
 shortcode: peoni
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: image-kppeoni
   templatePriority: 0
+  id: gevm9nRwQonHFsgE
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: rituals
 ---

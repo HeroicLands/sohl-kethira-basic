@@ -4,15 +4,15 @@ name:
   full: Búqdin
   aliases: []
 description: "Búqdin is a language."
-id: jiZ1XFCAywuCSzav
-slug: buqdin
 shortcode: buqdin
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: jiZ1XFCAywuCSzav
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

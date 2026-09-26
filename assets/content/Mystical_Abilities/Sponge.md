@@ -4,15 +4,15 @@ name:
   full: Sponge
   aliases: []
 description: "Sponge is an arcane incantation of the Odívshè convocation."
-id: ZMFOLOH2ycRK9sCj
-slug: sponge
 shortcode: sponge
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: ZMFOLOH2ycRK9sCj
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: odivshe
 ---

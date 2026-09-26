@@ -4,15 +4,15 @@ name:
   full: Laráni
   aliases: []
 description: "Laráni is a mystical skill."
-id: FruDplKZAChdF261
-slug: larani
 shortcode: larani
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: image-kplarani
   templatePriority: 0
+  id: FruDplKZAChdF261
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: rituals
 ---

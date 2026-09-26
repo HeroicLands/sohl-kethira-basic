@@ -4,15 +4,15 @@ name:
   full: Meld
   aliases: []
 description: "Meld is an arcane incantation of the Fývria convocation."
-id: U9f6mY1e1XyNjHRA
-slug: meld
 shortcode: meld
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: U9f6mY1e1XyNjHRA
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: fyvria
 ---

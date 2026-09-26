@@ -4,15 +4,15 @@ name:
   full: Insight
   aliases: []
 description: "Insight is an arcane incantation of the Sàvôrya convocation."
-id: fn4UG5yA494XzOMd
-slug: insight
 shortcode: insight
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
+  id: fn4UG5yA494XzOMd
+  packFolder: savorya
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: savorya
 ---

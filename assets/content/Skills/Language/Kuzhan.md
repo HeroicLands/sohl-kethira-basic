@@ -4,15 +4,15 @@ name:
   full: Kúzhan
   aliases: []
 description: "Kúzhan is a language."
-id: 2bTEKOeV2DQCdcYc
-slug: kuzhan
 shortcode: kuzhan
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: 2bTEKOeV2DQCdcYc
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

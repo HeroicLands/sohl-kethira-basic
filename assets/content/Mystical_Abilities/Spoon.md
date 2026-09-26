@@ -4,15 +4,15 @@ name:
   full: Spoon
   aliases: []
 description: "Spoon is an arcane incantation of the Odívshè convocation."
-id: BE88Hbv0bK1RfujF
-slug: spoon
 shortcode: spoon
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: BE88Hbv0bK1RfujF
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: odivshe
 ---

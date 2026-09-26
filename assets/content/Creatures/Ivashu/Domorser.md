@@ -5,13 +5,12 @@ name:
   full: Dómôrsèr
   aliases:
     - Nightcrawler
-id: DomorserNghtcrw
 shortcode: domorser
-slug: domorser
 type: being
 data:
   icon: sohl-none-icon-wolfhead
   templatePriority: 0
+  id: DomorserNghtcrw
 sohl:
   attrRollFormula:
     str: 1d6+13

@@ -4,15 +4,15 @@ name:
   full: Thirst
   aliases: []
 description: "Thirst is an arcane incantation of the Pèleáhn convocation."
-id: rDBOa919PgsSBlUQ
-slug: thirst
 shortcode: thirst
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: rDBOa919PgsSBlUQ
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: peleahn
 ---

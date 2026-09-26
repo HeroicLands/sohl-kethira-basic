@@ -4,15 +4,15 @@ name:
   full: Transmutation
   aliases: []
 description: "Transmutation is an arcane talent."
-id: mW6pCO4zFiwfJFhA
-slug: transmutation
 shortcode: xmut
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
+  id: mW6pCO4zFiwfJFhA
+  packFolder: arcanetalents
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -21,5 +21,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: arcanetalents
 ---

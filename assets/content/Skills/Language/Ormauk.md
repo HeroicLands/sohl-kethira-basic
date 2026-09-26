@@ -4,15 +4,15 @@ name:
   full: Ormauk
   aliases: []
 description: "Ormauk is a language."
-id: qXjITjPhnyoyJdDi
-slug: ormauk
 shortcode: ormauk
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: qXjITjPhnyoyJdDi
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

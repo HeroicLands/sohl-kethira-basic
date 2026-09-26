@@ -4,15 +4,15 @@ name:
   full: Tiánta
   aliases: []
 description: "Tiánta is a script."
-id: HZQuPFugy024lS8y
-slug: tianta
 shortcode: tianta
 type: skill
 subType: script
-pack: characteristics
 data:
   icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
+  id: HZQuPFugy024lS8y
+  packFolder: scripts
+  pack: characteristics
 sohl:
   kbcat: script
   system:
@@ -26,5 +26,4 @@ sohl:
       - vital
       - core
       - manipulator
-packFolder: scripts
 ---

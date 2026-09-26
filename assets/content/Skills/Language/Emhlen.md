@@ -4,15 +4,15 @@ name:
   full: Émhlèn
   aliases: []
 description: "Émhlèn is a language."
-id: q2Md4Qa3OCWyCDB5
-slug: emhlen
 shortcode: emhlen
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 100
+  id: q2Md4Qa3OCWyCDB5
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

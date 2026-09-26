@@ -4,15 +4,15 @@ name:
   full: Elarána
   aliases: []
 description: "Elarána is a mystical skill."
-id: 1CIfdazeKD5unKwu
-slug: elarana
 shortcode: elarana
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
+  id: 1CIfdazeKD5unKwu
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: rituals
 ---

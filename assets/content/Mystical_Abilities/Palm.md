@@ -4,15 +4,15 @@ name:
   full: Palm
   aliases: []
 description: "Palm is an arcane incantation of the Lyáhvi convocation."
-id: 8hM5dok9IkReGrcF
-slug: palm
 shortcode: palm
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: 8hM5dok9IkReGrcF
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: lyahvi
 ---

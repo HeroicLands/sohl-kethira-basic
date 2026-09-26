@@ -4,15 +4,15 @@ name:
   full: Protection
   aliases: []
 description: "Protection is an arcane incantation of the Jmôrvi convocation."
-id: 7NvRLREmWG5n5IP3
-slug: protection
 shortcode: protection
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: 7NvRLREmWG5n5IP3
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: jmorvi
 ---

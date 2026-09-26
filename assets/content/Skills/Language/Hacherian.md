@@ -4,15 +4,15 @@ name:
   full: Hácherian
   aliases: []
 description: "Hácherian is a language."
-id: oGdPt6gOeEEwBwec
-slug: hacherian
 shortcode: hacherian
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: oGdPt6gOeEEwBwec
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

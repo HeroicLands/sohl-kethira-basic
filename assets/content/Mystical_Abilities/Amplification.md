@@ -4,15 +4,15 @@ name:
   full: Amplification
   aliases: []
 description: "Amplification is an arcane talent."
-id: f2kNbG0MoglMLN31
-slug: amplification
 shortcode: ampl
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
+  id: f2kNbG0MoglMLN31
+  packFolder: arcanetalents
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -21,5 +21,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: arcanetalents
 ---

@@ -3,17 +3,8 @@ tags: []
 name:
   full: Kôris al Sýndalr
   aliases: []
-id: Nwxk1ehiccvUnhIZ
-packFolder: characters
 shortcode: korisalsyndalr
-slug: koris-al-syndalr
 type: being
-pack: characters
-social:
-  occupation: ""
-  station: ""
-  class: ""
-  society: ""
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
@@ -29,6 +20,14 @@ data:
     skin_color: pale
     complexion: fair
     extra_features: []
+  id: Nwxk1ehiccvUnhIZ
+  packFolder: characters
+  pack: characters
+  social:
+    occupation: ""
+    station: ""
+    class: ""
+    society: ""
 sohl:
   items:
     - { model: attribute-str, system: { scoreBase: 17 } }

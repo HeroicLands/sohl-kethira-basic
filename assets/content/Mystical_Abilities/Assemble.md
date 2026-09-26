@@ -4,15 +4,15 @@ name:
   full: Assemble
   aliases: []
 description: "Assemble is an arcane incantation of the Jmôrvi convocation."
-id: Fxg6egfBMgjnNS0C
-slug: assemble
 shortcode: assemble
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
+  id: Fxg6egfBMgjnNS0C
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: jmorvi
 ---

@@ -4,15 +4,15 @@ name:
   full: Pyre
   aliases: []
 description: "Pyre is an arcane incantation of the Pèleáhn convocation."
-id: cy1KEa0UjiRfqea3
-slug: pyre
 shortcode: pyre
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: cy1KEa0UjiRfqea3
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: peleahn
 ---

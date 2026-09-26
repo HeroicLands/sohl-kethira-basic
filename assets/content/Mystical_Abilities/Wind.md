@@ -4,15 +4,15 @@ name:
   full: Wind
   aliases: []
 description: "Wind is an arcane incantation of the Lyáhvi convocation."
-id: bcss8Ae9ZrrgvDBU
-slug: wind
 shortcode: wind
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: bcss8Ae9ZrrgvDBU
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: lyahvi
 ---

@@ -4,15 +4,15 @@ name:
   full: Cult of the Covenant
   aliases: []
 description: "Cult of the Covenant is a mystical skill."
-id: liCBbVMwqkxXvutz
-slug: cult-of-the-covenant
 shortcode: cultcovenant
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: sohl-none-icon-circle
   templatePriority: 0
+  id: liCBbVMwqkxXvutz
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: rituals
 ---

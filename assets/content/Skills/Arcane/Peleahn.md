@@ -4,15 +4,15 @@ name:
   full: Pèleáhn
   aliases: []
 description: "Pèleáhn is a mystical skill."
-id: mz9bCjPmh8SuX9QE
-slug: peleahn
 shortcode: peleahn
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: mz9bCjPmh8SuX9QE
+  packFolder: esoteric
+  pack: characteristics
 sohl:
   kbcat: arcane
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: esoteric
 ---

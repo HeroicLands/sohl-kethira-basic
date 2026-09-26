@@ -3,17 +3,8 @@ tags: []
 name:
   full: Bandit Leader 1
   aliases: []
-id: WN1Z4BNdEXWuSWNz
-packFolder: characters
 shortcode: banditleader1
-slug: bandit-leader-1
 type: being
-pack: characters
-social:
-  occupation: "Bandit Leader"
-  station: ""
-  class: "Free"
-  society: "Palithane"
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
@@ -30,6 +21,14 @@ data:
     complexion: fair
     extra_features:
       - a scar on the left foot
+  id: WN1Z4BNdEXWuSWNz
+  packFolder: characters
+  pack: characters
+  social:
+    occupation: "Bandit Leader"
+    station: ""
+    class: "Free"
+    society: "Palithane"
 sohl:
   items:
     - { model: attribute-str, system: { scoreBase: 13 } }

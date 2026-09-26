@@ -4,15 +4,15 @@ name:
   full: Fireworks
   aliases: []
 description: "Fireworks is an arcane incantation of the Pèleáhn convocation."
-id: XZTdBIZ4IvRSdYQ1
-slug: fireworks
 shortcode: fireworks
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: XZTdBIZ4IvRSdYQ1
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: peleahn
 ---

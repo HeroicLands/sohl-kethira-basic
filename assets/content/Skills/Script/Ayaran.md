@@ -4,15 +4,15 @@ name:
   full: Ayâran
   aliases: []
 description: "Ayâran is a script."
-id: kAI2d1vXajl7XdD7
-slug: ayaran
 shortcode: ayaran
 type: skill
 subType: script
-pack: characteristics
 data:
   icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
+  id: kAI2d1vXajl7XdD7
+  packFolder: scripts
+  pack: characteristics
 sohl:
   kbcat: script
   system:
@@ -26,5 +26,4 @@ sohl:
       - vital
       - core
       - manipulator
-packFolder: scripts
 ---

@@ -4,15 +4,15 @@ name:
   full: Alánta
   aliases: []
 description: "Alánta is a script."
-id: 2IWu6lZ30D6ioTkp
-slug: alanta
 shortcode: alanta
 type: skill
 subType: script
-pack: characteristics
 data:
   icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
+  id: 2IWu6lZ30D6ioTkp
+  packFolder: scripts
+  pack: characteristics
 sohl:
   kbcat: script
   system:
@@ -26,5 +26,4 @@ sohl:
       - vital
       - core
       - manipulator
-packFolder: scripts
 ---

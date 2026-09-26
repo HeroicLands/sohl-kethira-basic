@@ -4,15 +4,15 @@ name:
   full: Perspective
   aliases: []
 description: "Perspective is an arcane incantation of the Sàvôrya convocation."
-id: oxRe09hrasyj8auL
-slug: perspective
 shortcode: perspective
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
+  id: oxRe09hrasyj8auL
+  packFolder: savorya
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: savorya
 ---

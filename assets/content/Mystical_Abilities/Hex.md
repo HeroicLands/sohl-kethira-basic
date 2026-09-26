@@ -4,15 +4,15 @@ name:
   full: Hex
   aliases: []
 description: "Hex is an arcane talent."
-id: Iz2Lf8bESdZVpPZJ
-slug: hex
 shortcode: hex
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
+  id: Iz2Lf8bESdZVpPZJ
+  packFolder: arcanetalents
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -21,5 +21,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: arcanetalents
 ---

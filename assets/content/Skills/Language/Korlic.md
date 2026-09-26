@@ -4,15 +4,15 @@ name:
   full: Kôrlic
   aliases: []
 description: "Kôrlic is a language."
-id: dCsXmYoIUfKtrtzg
-slug: korlic
 shortcode: korlic
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: dCsXmYoIUfKtrtzg
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

@@ -4,15 +4,15 @@ name:
   full: Dálken
   aliases: []
 description: "Dálken is a language."
-id: eaXFpnZVvDPacga0
-slug: dalken
 shortcode: dalken
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: eaXFpnZVvDPacga0
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

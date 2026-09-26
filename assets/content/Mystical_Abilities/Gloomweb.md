@@ -4,15 +4,15 @@ name:
   full: Gloomweb
   aliases: []
 description: "Gloomweb is an arcane incantation of the Odívshè convocation."
-id: 54KaLINTGG19HNCU
-slug: gloomweb
 shortcode: gloomweb
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: 54KaLINTGG19HNCU
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: odivshe
 ---

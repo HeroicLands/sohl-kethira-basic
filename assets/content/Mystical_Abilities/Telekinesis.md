@@ -4,15 +4,15 @@ name:
   full: Telekinesis
   aliases: []
 description: "Telekinesis is an arcane talent."
-id: NDRL0yD5OPELKNBM
-slug: telekinesis
 shortcode: telek
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
+  id: NDRL0yD5OPELKNBM
+  packFolder: arcanetalents
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -21,5 +21,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: arcanetalents
 ---

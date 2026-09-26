@@ -4,15 +4,15 @@ name:
   full: Lyáhvi
   aliases: []
 description: "Lyáhvi is an arcane convocation."
-id: OmtVbKOrNZ7MPRGS
-slug: lyahvi
 shortcode: lyahvi
 type: affiliation
 subType: arcanetradition
-pack: mysteries
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: OmtVbKOrNZ7MPRGS
+  packFolder: affiliations
+  pack: mysteries
 sohl:
   kbcat: affiliation
   system:
@@ -20,5 +20,4 @@ sohl:
     office: ""
     title: ""
     level: 1
-packFolder: affiliations
 ---

@@ -3,17 +3,8 @@ tags: []
 name:
   full: Bandit Leader 2
   aliases: []
-id: jdISJzggKnlX5LAn
-packFolder: characters
 shortcode: banditleader2
-slug: bandit-leader-2
 type: being
-pack: characters
-social:
-  occupation: "Bandit Leader"
-  station: ""
-  class: "Free"
-  society: "Palithane"
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
@@ -30,6 +21,14 @@ data:
     complexion: fair
     extra_features:
       - a scar across the bridge of the nose
+  id: jdISJzggKnlX5LAn
+  packFolder: characters
+  pack: characters
+  social:
+    occupation: "Bandit Leader"
+    station: ""
+    class: "Free"
+    society: "Palithane"
 sohl:
   items:
     - { model: attribute-str, system: { scoreBase: 12 } }

@@ -4,15 +4,15 @@ name:
   full: Selénian
   aliases: []
 description: "Selénian is a script."
-id: uHUQlGqPrqR9LKhu
-slug: selenian
 shortcode: selenian
 type: skill
 subType: script
-pack: characteristics
 data:
   icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
+  id: uHUQlGqPrqR9LKhu
+  packFolder: scripts
+  pack: characteristics
 sohl:
   kbcat: script
   system:
@@ -26,5 +26,4 @@ sohl:
       - vital
       - core
       - manipulator
-packFolder: scripts
 ---

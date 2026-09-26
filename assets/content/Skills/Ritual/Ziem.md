@@ -4,15 +4,15 @@ name:
   full: Ziém
   aliases: []
 description: "Ziém is a mystical skill."
-id: VapTwmCTNH03SfQe
-slug: ziem
 shortcode: ziem
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
+  id: VapTwmCTNH03SfQe
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: rituals
 ---

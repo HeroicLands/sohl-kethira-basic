@@ -4,15 +4,15 @@ name:
   full: False Soul
   aliases: []
 description: "False Soul is an arcane incantation of the Neutral convocation."
-id: 06VXNQr0zZAkUDQj
-slug: false-soul
 shortcode: falsesoul
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: 06VXNQr0zZAkUDQj
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: neutral
 ---

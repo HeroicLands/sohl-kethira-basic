@@ -4,15 +4,15 @@ name:
   full: Figure
   aliases: []
 description: "Figure is an arcane incantation of the Lyáhvi convocation."
-id: r6Tsn2wZpjCV9BL7
-slug: figure
 shortcode: figure
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: r6Tsn2wZpjCV9BL7
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: lyahvi
 ---

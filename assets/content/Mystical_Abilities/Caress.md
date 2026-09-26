@@ -4,15 +4,15 @@ name:
   full: Caress
   aliases: []
 description: "Caress is an arcane incantation of the Pèleáhn convocation."
-id: RaAWytgUhHcoTaQ0
-slug: caress
 shortcode: caress
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
+  id: RaAWytgUhHcoTaQ0
+  packFolder: peleahn
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: peleahn
 ---

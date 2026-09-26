@@ -4,15 +4,15 @@ name:
   full: Balm
   aliases: []
 description: "Balm is an arcane incantation of the Fývria convocation."
-id: NOsSmUI9oIcVWg3M
-slug: balm
 shortcode: balm
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: NOsSmUI9oIcVWg3M
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: fyvria
 ---

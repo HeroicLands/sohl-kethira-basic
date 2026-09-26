@@ -4,15 +4,15 @@ name:
   full: Trigger
   aliases: []
 description: "Trigger is an arcane incantation of the Neutral convocation."
-id: ZmUxLCHuzUPdPfrm
-slug: trigger
 shortcode: trigger
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: ZmUxLCHuzUPdPfrm
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: neutral
 ---

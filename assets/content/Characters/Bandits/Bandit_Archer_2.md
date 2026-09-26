@@ -3,17 +3,8 @@ tags: []
 name:
   full: Bandit Archer 2
   aliases: []
-id: ZiazKvY6oIARxx3b
-packFolder: characters
 shortcode: banditarcher2
-slug: bandit-archer-2
 type: being
-pack: characters
-social:
-  occupation: "Bandit Archer"
-  station: ""
-  class: "Free"
-  society: "Palithane"
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
@@ -30,6 +21,14 @@ data:
     complexion: fair
     extra_features:
       - a scar on the right side of the face
+  id: ZiazKvY6oIARxx3b
+  packFolder: characters
+  pack: characters
+  social:
+    occupation: "Bandit Archer"
+    station: ""
+    class: "Free"
+    society: "Palithane"
 sohl:
   items:
     - { model: attribute-str, system: { scoreBase: 12 } }

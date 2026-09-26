@@ -4,15 +4,15 @@ name:
   full: Condensation
   aliases: []
 description: "Condensation is an arcane incantation of the Odívshè convocation."
-id: YZ8ZCQnQibeONXc5
-slug: condensation
 shortcode: condensation
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: YZ8ZCQnQibeONXc5
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: odivshe
 ---

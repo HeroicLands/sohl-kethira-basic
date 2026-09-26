@@ -4,15 +4,15 @@ name:
   full: Animus
   aliases: []
 description: "Animus is an arcane incantation of the Fývria convocation."
-id: CY6DBviTrF8kHSS3
-slug: animus
 shortcode: animus
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: CY6DBviTrF8kHSS3
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: fyvria
 ---

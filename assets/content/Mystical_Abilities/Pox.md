@@ -4,15 +4,15 @@ name:
   full: Pox
   aliases: []
 description: "Pox is an arcane incantation of the Fývria convocation."
-id: UkIh8mL8MngvvBxZ
-slug: pox
 shortcode: pox
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: UkIh8mL8MngvvBxZ
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: fyvria
 ---

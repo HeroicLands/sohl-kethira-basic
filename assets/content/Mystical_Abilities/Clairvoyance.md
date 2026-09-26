@@ -4,15 +4,15 @@ name:
   full: Clairvoyance
   aliases: []
 description: "Clairvoyance is an arcane talent."
-id: N2SuuuRJq86wgYy6
-slug: clairvoyance
 shortcode: clrv
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
+  id: N2SuuuRJq86wgYy6
+  packFolder: arcanetalents
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -21,5 +21,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: arcanetalents
 ---

@@ -3,17 +3,8 @@ tags: []
 name:
   full: Tórnis al Kúbrý
   aliases: []
-id: QgVdOPUTxTLxEvBf
-packFolder: characters
 shortcode: tornisalkubry
-slug: tornis-al-kubry
 type: being
-pack: characters
-social:
-  occupation: ""
-  station: ""
-  class: ""
-  society: ""
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
@@ -29,6 +20,14 @@ data:
     skin_color: pale
     complexion: fair
     extra_features: []
+  id: QgVdOPUTxTLxEvBf
+  packFolder: characters
+  pack: characters
+  social:
+    occupation: ""
+    station: ""
+    class: ""
+    society: ""
 sohl:
   items:
     - { model: attribute-str, system: { scoreBase: 10 } }

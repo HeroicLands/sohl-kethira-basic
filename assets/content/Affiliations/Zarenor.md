@@ -4,15 +4,15 @@ name:
   full: Zârenor
   aliases: []
 description: "Zârenor is a faith tradition."
-id: e5vQ9Bfcnpp8UxG0
-slug: zarenor
 shortcode: zarenor
 type: affiliation
 subType: faithtradition
-pack: mysteries
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
+  id: e5vQ9Bfcnpp8UxG0
+  packFolder: affiliations
+  pack: mysteries
 sohl:
   kbcat: affiliation
   system:
@@ -20,5 +20,4 @@ sohl:
     office: ""
     title: ""
     level: 1
-packFolder: affiliations
 ---

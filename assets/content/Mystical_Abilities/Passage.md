@@ -4,15 +4,15 @@ name:
   full: Passage
   aliases: []
 description: "Passage is an arcane incantation of the Lyáhvi convocation."
-id: mkLoQdUZm8T0i841
-slug: passage
 shortcode: passage
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: mkLoQdUZm8T0i841
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: lyahvi
 ---

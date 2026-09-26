@@ -4,15 +4,15 @@ name:
   full: River
   aliases: []
 description: "River is an arcane incantation of the Odívshè convocation."
-id: UnOrHN4Lmfq26Cpn
-slug: river
 shortcode: river
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: UnOrHN4Lmfq26Cpn
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: odivshe
 ---

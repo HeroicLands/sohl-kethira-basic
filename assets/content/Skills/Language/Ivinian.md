@@ -4,15 +4,15 @@ name:
   full: Ivínian
   aliases: []
 description: "Ivínian is a language."
-id: 2yfbMe6ZTqPR1nFb
-slug: ivinian
 shortcode: ivinian
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: 2yfbMe6ZTqPR1nFb
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

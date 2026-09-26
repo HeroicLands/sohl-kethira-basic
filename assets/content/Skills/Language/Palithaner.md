@@ -4,15 +4,15 @@ name:
   full: Pálithàner
   aliases: []
 description: "Pálithàner is a language."
-id: N21J8mDOazsflqZR
-slug: palithaner
 shortcode: palithaner
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: N21J8mDOazsflqZR
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

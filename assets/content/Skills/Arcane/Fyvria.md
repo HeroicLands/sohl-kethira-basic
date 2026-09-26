@@ -4,15 +4,15 @@ name:
   full: Fývria
   aliases: []
 description: "Fývria is a mystical skill."
-id: XNP6dybkONMzpEVF
-slug: fyvria
 shortcode: fyvria
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: XNP6dybkONMzpEVF
+  packFolder: esoteric
+  pack: characteristics
 sohl:
   kbcat: arcane
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: esoteric
 ---

@@ -4,15 +4,15 @@ name:
   full: Transference
   aliases: []
 description: "Transference is an arcane talent."
-id: RPAfGBjZbNsYCfn8
-slug: transference
 shortcode: trnsf
 type: mysticalability
 subType: arcanetalent
-pack: mysteries
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
+  id: RPAfGBjZbNsYCfn8
+  packFolder: arcanetalents
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -21,5 +21,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: arcanetalents
 ---

@@ -4,15 +4,15 @@ name:
   full: Tube
   aliases: []
 description: "Tube is an arcane incantation of the Lyáhvi convocation."
-id: ozT5yQWbnprGjLhe
-slug: tube
 shortcode: tube
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
+  id: ozT5yQWbnprGjLhe
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: lyahvi
 ---

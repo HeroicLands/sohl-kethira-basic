@@ -4,15 +4,15 @@ name:
   full: Ilvîr
   aliases: []
 description: "Ilvîr is a mystical skill."
-id: BL0SMfIJsWRVDXsP
-slug: ilvir
 shortcode: ilvir
 type: skill
 subType: mystical
-pack: characteristics
 data:
   icon: image-kpilvir
   templatePriority: 0
+  id: BL0SMfIJsWRVDXsP
+  packFolder: rituals
+  pack: characteristics
 sohl:
   kbcat: ritual
   system:
@@ -24,5 +24,4 @@ sohl:
     initSkillMult: 0
     impairedByRoles:
       - vital
-packFolder: rituals
 ---

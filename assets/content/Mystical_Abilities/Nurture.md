@@ -4,15 +4,15 @@ name:
   full: Nurture
   aliases: []
 description: "Nurture is an arcane incantation of the Fývria convocation."
-id: jCURkbYXXmNa2JuE
-slug: nurture
 shortcode: nurture
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
+  id: jCURkbYXXmNa2JuE
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: fyvria
 ---

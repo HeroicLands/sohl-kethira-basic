@@ -4,15 +4,15 @@ name:
   full: Tide
   aliases: []
 description: "Tide is an arcane incantation of the Odívshè convocation."
-id: eK3LH3Yeuc73HdIn
-slug: tide
 shortcode: tide
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: eK3LH3Yeuc73HdIn
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: odivshe
 ---

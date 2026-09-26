@@ -4,15 +4,15 @@ name:
   full: Lakíse
   aliases: []
 description: "Lakíse is a script."
-id: DiFLbQpEF1ZJm262
-slug: lakise
 shortcode: lakise
 type: skill
 subType: script
-pack: characteristics
 data:
   icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
+  id: DiFLbQpEF1ZJm262
+  packFolder: scripts
+  pack: characteristics
 sohl:
   kbcat: script
   system:
@@ -26,5 +26,4 @@ sohl:
       - vital
       - core
       - manipulator
-packFolder: scripts
 ---

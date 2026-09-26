@@ -6,13 +6,12 @@ name:
   full: Gârgún Kyáni
   aliases:
     - White Gârgún
-id: Ga0rgunKyani01A
 shortcode: kyani
-slug: gargun-kyani
 type: being
 data:
   icon: sohl-none-icon-orchead
   templatePriority: 0
+  id: Ga0rgunKyani01A
 sohl:
   attrRollFormula:
     str: 1d6+8

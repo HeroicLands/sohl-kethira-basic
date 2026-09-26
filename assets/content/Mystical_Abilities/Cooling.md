@@ -4,15 +4,15 @@ name:
   full: Cooling
   aliases: []
 description: "Cooling is an arcane incantation of the Odívshè convocation."
-id: 2M689o5LuNZUd2bE
-slug: cooling
 shortcode: cooling
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
+  id: 2M689o5LuNZUd2bE
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: odivshe
 ---

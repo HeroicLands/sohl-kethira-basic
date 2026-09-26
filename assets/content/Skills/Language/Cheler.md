@@ -4,15 +4,15 @@ name:
   full: Chéler
   aliases: []
 description: "Chéler is a language."
-id: 0tbEqvhpocGmcWVH
-slug: cheler
 shortcode: cheler
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: 0tbEqvhpocGmcWVH
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

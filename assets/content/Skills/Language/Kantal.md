@@ -4,15 +4,15 @@ name:
   full: Kántâl
   aliases: []
 description: "Kántâl is a language."
-id: fUDhikuD8BfYKQ6s
-slug: kantal
 shortcode: kantal
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 100
+  id: fUDhikuD8BfYKQ6s
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---

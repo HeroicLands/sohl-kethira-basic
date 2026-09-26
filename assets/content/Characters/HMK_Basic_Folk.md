@@ -3,17 +3,8 @@ tags: []
 name:
   full: HMK Basic Folk
   aliases: []
-id: Wa6qOUFVsckRKO6R
-packFolder: characters
 shortcode: hmkbasicfolk
-slug: hmk-basic-folk
 type: being
-pack: characters
-social:
-  occupation: ""
-  station: ""
-  class: ""
-  society: ""
 data:
   icon: sohl-none-icon-person
   templatePriority: 100
@@ -29,6 +20,14 @@ data:
     skin_color: pale
     complexion: fair
     extra_features: []
+  id: Wa6qOUFVsckRKO6R
+  packFolder: characters
+  pack: characters
+  social:
+    occupation: ""
+    station: ""
+    class: ""
+    society: ""
 sohl:
   items:
     - { model: attribute-str, system: { scoreBase: 10 } }

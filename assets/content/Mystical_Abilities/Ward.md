@@ -4,15 +4,15 @@ name:
   full: Ward
   aliases: []
 description: "Ward is an arcane incantation of the Neutral convocation."
-id: 7MdmH180C57trJ1m
-slug: ward
 shortcode: ward
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: 7MdmH180C57trJ1m
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: neutral
 ---

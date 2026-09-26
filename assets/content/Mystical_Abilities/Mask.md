@@ -4,15 +4,15 @@ name:
   full: Mask
   aliases: []
 description: "Mask is an arcane incantation of the Neutral convocation."
-id: BKyySEZ0VurkgFaW
-slug: mask
 shortcode: mask
 type: mysticalability
 subType: arcaneincantation
-pack: mysteries
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
+  id: BKyySEZ0VurkgFaW
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:
@@ -23,5 +23,4 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: neutral
 ---

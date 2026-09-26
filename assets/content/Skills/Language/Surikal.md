@@ -4,15 +4,15 @@ name:
   full: Surikal
   aliases: []
 description: "Surikal is a language."
-id: j8hikYNaljD8eqz1
-slug: surikal
 shortcode: surikal
 type: skill
 subType: language
-pack: characteristics
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
+  id: j8hikYNaljD8eqz1
+  packFolder: languages
+  pack: characteristics
 sohl:
   kbcat: language
   system:
@@ -25,5 +25,4 @@ sohl:
     impairedByRoles:
       - vital
       - core
-packFolder: languages
 ---
