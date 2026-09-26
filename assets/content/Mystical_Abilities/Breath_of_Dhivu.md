@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Breath of Dhivu
-  aliases: []
-description: "Breath of Dhivu is an arcane incantation of the Odívshè convocation."
 shortcode: breathofdhivu
+name: {full: Breath of Dhivu, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Breath of Dhivu is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

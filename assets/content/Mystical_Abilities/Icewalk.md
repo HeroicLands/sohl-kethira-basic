@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Icewalk
-  aliases: []
-description: "Icewalk is an arcane incantation of the Odívshè convocation."
 shortcode: icewalk
+name: {full: Icewalk, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Icewalk is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Focus
-  aliases: []
-description: "Focus is an arcane incantation of the Neutral convocation."
 shortcode: focus
+name: {full: Focus, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Focus is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

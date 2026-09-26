@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Sàvôrya
-  aliases: []
-description: "Sàvôrya is a mystical skill."
 shortcode: savorya
+name: {full: Sàvôrya, aliases: []}
 type: skill
 subType: mystical
+description: "Sàvôrya is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---

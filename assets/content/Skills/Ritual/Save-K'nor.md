@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Sávè-K'nôr
-  aliases: []
-description: "Sávè-K'nôr is a mystical skill."
 shortcode: saveknor
+name: {full: Sávè-K'nôr, aliases: []}
 type: skill
 subType: mystical
+description: "Sávè-K'nôr is a mystical skill."
+tags: []
 data:
   icon: image-kpsaveknor
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---

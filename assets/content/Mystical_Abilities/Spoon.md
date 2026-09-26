@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Spoon
-  aliases: []
-description: "Spoon is an arcane incantation of the Odívshè convocation."
 shortcode: spoon
+name: {full: Spoon, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Spoon is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

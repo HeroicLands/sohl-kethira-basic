@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Hârnic
-  aliases: []
-description: "Hârnic is a language."
 shortcode: harnic
+name: {full: Hârnic, aliases: []}
 type: skill
 subType: language
+description: "Hârnic is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
+    impairedByRoles: [vital, core]
 ---

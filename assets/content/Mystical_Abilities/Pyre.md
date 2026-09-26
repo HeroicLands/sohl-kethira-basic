@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Pyre
-  aliases: []
-description: "Pyre is an arcane incantation of the Pèleáhn convocation."
 shortcode: pyre
+name: {full: Pyre, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Pyre is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Ùlándus-Arálius
-  aliases: []
-description: "Ùlándus-Arálius is a birthsign."
 shortcode: ulandusaralius
+name: {full: Ùlándus-Arálius, aliases: []}
 type: mystery
 subType: birthsign
+description: "Ùlándus-Arálius is a birthsign."
+tags: []
 data:
   icon: sohl-none-icon-astrology
   templatePriority: 0
@@ -15,10 +13,7 @@ data:
   pack: mysteries
 sohl:
   kbcat: sunsign
-  system:
-    charges:
-      value: null
-      max: null
+  system: {charges: {value: null, max: null}}
   effects:
     - name: "Ùlándus-Arálius — Earth skills (+15 EML)"
       type: sohleffectdata
@@ -26,11 +21,7 @@ sohl:
       system:
         scope: skill
         test: 'itemLogic.data.subType === "nature" || has(itemLogic.data.shortcode, ["earth", "fyvria"])'
-        changes:
-          - key: "mod:logic.masteryLevel"
-            type: add
-            value: "15"
-            priority: null
+        changes: [{key: "mod:logic.masteryLevel", type: add, value: "15", priority: null}]
       _key: "!items.effects!Cx98NqPIY4BNzuja.7Af9miM7i0r8e8fy"
     - name: "Ùlándus-Arálius — Metal skills (+10 EML)"
       type: sohleffectdata
@@ -38,11 +29,7 @@ sohl:
       system:
         scope: skill
         test: 'has(itemLogic.data.subType, ["script", "craft"]) || has(itemLogic.data.shortcode, ["metal", "jmorvi"])'
-        changes:
-          - key: "mod:logic.masteryLevel"
-            type: add
-            value: "10"
-            priority: null
+        changes: [{key: "mod:logic.masteryLevel", type: add, value: "10", priority: null}]
       _key: "!items.effects!Cx98NqPIY4BNzuja.ifdqCQB79Pd5I30x"
     - name: "Ùlándus-Arálius — Air skills (-10 EML)"
       type: sohleffectdata
@@ -50,11 +37,7 @@ sohl:
       system:
         scope: skill
         test: 'itemLogic.data.subType === "physical" || has(itemLogic.data.shortcode, ["air", "lyahvi"])'
-        changes:
-          - key: "mod:logic.masteryLevel"
-            type: add
-            value: "-10"
-            priority: null
+        changes: [{key: "mod:logic.masteryLevel", type: add, value: "-10", priority: null}]
       _key: "!items.effects!Cx98NqPIY4BNzuja.GKHfXPsuTCklqSha"
     - name: "Ùlándus-Arálius — Spirit skills (-5 EML)"
       type: sohleffectdata
@@ -62,11 +45,7 @@ sohl:
       system:
         scope: skill
         test: 'has(itemLogic.data.subType, ["mystical", "lore"]) || has(itemLogic.data.shortcode, ["spirit", "savorya"])'
-        changes:
-          - key: "mod:logic.masteryLevel"
-            type: add
-            value: "-5"
-            priority: null
+        changes: [{key: "mod:logic.masteryLevel", type: add, value: "-5", priority: null}]
       _key: "!items.effects!Cx98NqPIY4BNzuja.cbe9dc44eK5tP570"
     - name: "Ùlándus-Arálius — Water skills (+5 EML)"
       type: sohleffectdata
@@ -74,10 +53,6 @@ sohl:
       system:
         scope: skill
         test: 'has(itemLogic.data.subType, ["language", "social"]) || has(itemLogic.data.shortcode, ["water", "odivshe"])'
-        changes:
-          - key: "mod:logic.masteryLevel"
-            type: add
-            value: "5"
-            priority: null
+        changes: [{key: "mod:logic.masteryLevel", type: add, value: "5", priority: null}]
       _key: "!items.effects!Cx98NqPIY4BNzuja.7duRWyQfWrTWV9f7"
 ---

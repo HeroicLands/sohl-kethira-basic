@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Hush
-  aliases: []
-description: "Hush is an arcane incantation of the Odívshè convocation."
 shortcode: hush
+name: {full: Hush, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Hush is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

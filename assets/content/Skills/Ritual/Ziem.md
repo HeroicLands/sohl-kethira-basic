@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Ziém
-  aliases: []
-description: "Ziém is a mystical skill."
 shortcode: ziem
+name: {full: Ziém, aliases: []}
 type: skill
 subType: mystical
+description: "Ziém is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---

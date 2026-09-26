@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Dispel
-  aliases: []
-description: "Dispel is an arcane incantation of the Neutral convocation."
 shortcode: dispel
+name: {full: Dispel, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Dispel is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

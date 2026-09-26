@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Basalm
-  aliases: []
-description: "Basalm is an arcane incantation of the Fývria convocation."
 shortcode: basalm
+name: {full: Basalm, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Basalm is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

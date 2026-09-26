@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Decay
-  aliases: []
-description: "Decay is an arcane incantation of the Fývria convocation."
 shortcode: decay
+name: {full: Decay, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Decay is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

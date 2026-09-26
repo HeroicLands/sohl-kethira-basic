@@ -1,24 +1,15 @@
 ---
-tags: []
-name:
-  full: Psychometry
-  aliases: []
-description: "Psychometry is an arcane talent."
 shortcode: phyc
+name: {full: Psychometry, aliases: []}
 type: mysticalability
 subType: arcanetalent
+description: "Psychometry is an arcane talent."
+tags: []
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
   id: nh4gsSvE5XhQEQ5X
   packFolder: arcanetalents
   pack: mysteries
-sohl:
-  kbcat: null
-  system:
-    masteryLevelBase: 0
-    levelBase: 0
-    charges:
-      value: null
-      max: null
+sohl: {kbcat: null, system: {masteryLevelBase: 0, levelBase: 0, charges: {value: null, max: null}}}
 ---

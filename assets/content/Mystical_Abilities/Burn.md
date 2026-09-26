@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Burn
-  aliases: []
-description: "Burn is an arcane incantation of the Pèleáhn convocation."
 shortcode: burn
+name: {full: Burn, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Burn is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

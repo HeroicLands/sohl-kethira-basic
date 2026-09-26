@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Converse
-  aliases: []
-description: "Converse is an arcane incantation of the Neutral convocation."
 shortcode: converse
+name: {full: Converse, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Converse is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

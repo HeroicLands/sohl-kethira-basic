@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Gáranik
-  aliases: []
-description: "Gáranik is a mystical skill."
 shortcode: garanik
+name: {full: Gáranik, aliases: []}
 type: skill
 subType: mystical
+description: "Gáranik is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---

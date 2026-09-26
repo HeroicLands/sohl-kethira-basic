@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Personality
-  aliases: []
-description: "Personality is an arcane incantation of the Neutral convocation."
 shortcode: personality
+name: {full: Personality, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Personality is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Vanáer
-  aliases: []
-description: "Vanáer is a mystical skill."
 shortcode: vanaer
+name: {full: Vanáer, aliases: []}
 type: skill
 subType: mystical
+description: "Vanáer is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---

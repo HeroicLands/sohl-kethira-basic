@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Lance
-  aliases: []
-description: "Lance is an arcane incantation of the Jmôrvi convocation."
 shortcode: lance
+name: {full: Lance, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Lance is an arcane incantation of the Jmôrvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: jmorvi
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

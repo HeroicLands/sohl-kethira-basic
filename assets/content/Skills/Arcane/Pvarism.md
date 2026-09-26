@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Pvârism
-  aliases: []
-description: "Pvârism is a mystical skill."
 shortcode: pvarism
+name: {full: Pvârism, aliases: []}
 type: skill
 subType: mystical
+description: "Pvârism is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---

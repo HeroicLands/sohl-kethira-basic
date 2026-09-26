@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Insight
-  aliases: []
-description: "Insight is an arcane incantation of the Sàvôrya convocation."
 shortcode: insight
+name: {full: Insight, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Insight is an arcane incantation of the Sàvôrya convocation."
+tags: []
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: savorya
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

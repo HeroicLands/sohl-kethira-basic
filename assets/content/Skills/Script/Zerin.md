@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Zérin
-  aliases: []
-description: "Zérin is a script."
 shortcode: zerin
+name: {full: Zérin, aliases: []}
 type: skill
 subType: script
+description: "Zérin is a script."
+tags: []
 data:
   icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-      - manipulator
+    impairedByRoles: [vital, core, manipulator]
 ---

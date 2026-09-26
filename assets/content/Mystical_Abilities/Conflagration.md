@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Conflagration
-  aliases: []
-description: "Conflagration is an arcane incantation of the Pèleáhn convocation."
 shortcode: conflagration
+name: {full: Conflagration, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Conflagration is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

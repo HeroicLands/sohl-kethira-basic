@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Úlana
-  aliases: []
-description: "Úlana is a mystical skill."
 shortcode: ulana
+name: {full: Úlana, aliases: []}
 type: skill
 subType: mystical
+description: "Úlana is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---

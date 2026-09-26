@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Characters"
 shortcode: characters
+name: {full: "Characters"}
 type: folder
-data:
-  color: "#2337c9"
-  id: wDgcy5cLIaLoFogp
+data: {color: "#2337c9", id: wDgcy5cLIaLoFogp}
 ---

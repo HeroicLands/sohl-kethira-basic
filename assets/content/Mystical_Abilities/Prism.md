@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Prism
-  aliases: []
-description: "Prism is an arcane incantation of the Lyáhvi convocation."
 shortcode: prism
+name: {full: Prism, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Prism is an arcane incantation of the Lyáhvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: lyahvi
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

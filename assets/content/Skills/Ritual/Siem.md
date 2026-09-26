@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Siém
-  aliases: []
-description: "Siém is a mystical skill."
 shortcode: siem
+name: {full: Siém, aliases: []}
 type: skill
 subType: mystical
+description: "Siém is a mystical skill."
+tags: []
 data:
   icon: image-kpsiem
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---

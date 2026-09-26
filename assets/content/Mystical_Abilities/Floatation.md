@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Floatation
-  aliases: []
-description: "Floatation is an arcane incantation of the Odívshè convocation."
 shortcode: floatation
+name: {full: Floatation, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Floatation is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

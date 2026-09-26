@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Freeze
-  aliases: []
-description: "Freeze is an arcane incantation of the Odívshè convocation."
 shortcode: freeze
+name: {full: Freeze, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Freeze is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

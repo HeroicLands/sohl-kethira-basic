@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Enervation
-  aliases: []
-description: "Enervation is an arcane incantation of the Sàvôrya convocation."
 shortcode: enervation
+name: {full: Enervation, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Enervation is an arcane incantation of the Sàvôrya convocation."
+tags: []
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: savorya
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

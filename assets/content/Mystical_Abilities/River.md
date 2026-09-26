@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: River
-  aliases: []
-description: "River is an arcane incantation of the Odívshè convocation."
 shortcode: river
+name: {full: River, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "River is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

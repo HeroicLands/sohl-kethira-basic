@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Eyes
-  aliases: []
-description: "Eyes is an arcane incantation of the Pèleáhn convocation."
 shortcode: eyes
+name: {full: Eyes, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Eyes is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

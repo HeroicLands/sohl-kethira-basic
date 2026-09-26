@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Edâryr
-  aliases: []
-description: "Edâryr is a mystical skill."
 shortcode: edaryr
+name: {full: Edâryr, aliases: []}
 type: skill
 subType: mystical
+description: "Edâryr is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---

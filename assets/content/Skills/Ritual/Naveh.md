@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Navéh
-  aliases: []
-description: "Navéh is a mystical skill."
 shortcode: naveh
+name: {full: Navéh, aliases: []}
 type: skill
 subType: mystical
+description: "Navéh is a mystical skill."
+tags: []
 data:
   icon: image-kpnaveh
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---

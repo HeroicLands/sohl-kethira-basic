@@ -1,10 +1,6 @@
 ---
-name:
-  full: "Neutral"
 shortcode: neutral
+name: {full: "Neutral"}
 type: folder
-data:
-  parent: spells
-  color: "#5c5c5c"
-  id: tenkqzeQTszpAWXu
+data: {parent: spells, color: "#5c5c5c", id: tenkqzeQTszpAWXu}
 ---

@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Ayâran
-  aliases: []
-description: "Ayâran is a script."
 shortcode: ayaran
+name: {full: Ayâran, aliases: []}
 type: skill
 subType: script
+description: "Ayâran is a script."
+tags: []
 data:
   icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-      - manipulator
+    impairedByRoles: [vital, core, manipulator]
 ---

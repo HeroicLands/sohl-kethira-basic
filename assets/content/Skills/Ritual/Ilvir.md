@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Ilvîr
-  aliases: []
-description: "Ilvîr is a mystical skill."
 shortcode: ilvir
+name: {full: Ilvîr, aliases: []}
 type: skill
 subType: mystical
+description: "Ilvîr is a mystical skill."
+tags: []
 data:
   icon: image-kpilvir
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---

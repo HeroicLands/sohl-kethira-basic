@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Waterwalk
-  aliases: []
-description: "Waterwalk is an arcane incantation of the Odívshè convocation."
 shortcode: waterwalk
+name: {full: Waterwalk, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Waterwalk is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

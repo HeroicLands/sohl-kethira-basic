@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Reverse
-  aliases: []
-description: "Reverse is an arcane incantation of the Neutral convocation."
 shortcode: reverse
+name: {full: Reverse, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Reverse is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

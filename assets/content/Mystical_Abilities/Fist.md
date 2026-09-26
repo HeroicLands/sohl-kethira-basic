@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Fist
-  aliases: []
-description: "Fist is an arcane incantation of the Jmôrvi convocation."
 shortcode: fist
+name: {full: Fist, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Fist is an arcane incantation of the Jmôrvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: jmorvi
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

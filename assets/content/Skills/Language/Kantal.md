@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Kántâl
-  aliases: []
-description: "Kántâl is a language."
 shortcode: kantal
+name: {full: Kántâl, aliases: []}
 type: skill
 subType: language
+description: "Kántâl is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 100
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
+    impairedByRoles: [vital, core]
 ---

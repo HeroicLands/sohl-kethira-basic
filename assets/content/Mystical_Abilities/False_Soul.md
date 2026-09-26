@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: False Soul
-  aliases: []
-description: "False Soul is an arcane incantation of the Neutral convocation."
 shortcode: falsesoul
+name: {full: False Soul, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "False Soul is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

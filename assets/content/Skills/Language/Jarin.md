@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Jârin
-  aliases: []
-description: "Jârin is a language."
 shortcode: jarin
+name: {full: Jârin, aliases: []}
 type: skill
 subType: language
+description: "Jârin is a language."
+tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 0
@@ -22,7 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
+    impairedByRoles: [vital, core]
 ---

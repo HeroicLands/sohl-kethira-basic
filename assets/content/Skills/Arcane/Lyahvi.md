@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Lyáhvi
-  aliases: []
-description: "Lyáhvi is a mystical skill."
 shortcode: lyahvi
+name: {full: Lyáhvi, aliases: []}
 type: skill
 subType: mystical
+description: "Lyáhvi is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---

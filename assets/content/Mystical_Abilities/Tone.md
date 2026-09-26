@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Tone
-  aliases: []
-description: "Tone is an arcane incantation of the Lyáhvi convocation."
 shortcode: tone
+name: {full: Tone, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Tone is an arcane incantation of the Lyáhvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: lyahvi
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

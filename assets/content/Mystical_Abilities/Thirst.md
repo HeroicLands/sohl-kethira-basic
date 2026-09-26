@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Thirst
-  aliases: []
-description: "Thirst is an arcane incantation of the Pèleáhn convocation."
 shortcode: thirst
+name: {full: Thirst, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Thirst is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Fývria
-  aliases: []
-description: "Fývria is a mystical skill."
 shortcode: fyvria
+name: {full: Fývria, aliases: []}
 type: skill
 subType: mystical
+description: "Fývria is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---

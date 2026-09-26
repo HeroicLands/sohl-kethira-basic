@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Wave
-  aliases: []
-description: "Wave is an arcane incantation of the Odívshè convocation."
 shortcode: wave
+name: {full: Wave, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Wave is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Wall
-  aliases: []
-description: "Wall is an arcane incantation of the Pèleáhn convocation."
 shortcode: wall
+name: {full: Wall, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Wall is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Survey
-  aliases: []
-description: "Survey is an arcane incantation of the Neutral convocation."
 shortcode: survey
+name: {full: Survey, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Survey is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

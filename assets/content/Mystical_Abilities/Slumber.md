@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Slumber
-  aliases: []
-description: "Slumber is an arcane incantation of the Fývria convocation."
 shortcode: slumber
+name: {full: Slumber, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Slumber is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

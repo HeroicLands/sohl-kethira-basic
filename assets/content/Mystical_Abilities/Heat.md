@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Heat
-  aliases: []
-description: "Heat is an arcane incantation of the Pèleáhn convocation."
 shortcode: heat
+name: {full: Heat, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Heat is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

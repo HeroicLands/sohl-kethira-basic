@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Lakíse
-  aliases: []
-description: "Lakíse is a script."
 shortcode: lakise
+name: {full: Lakíse, aliases: []}
 type: skill
 subType: script
+description: "Lakíse is a script."
+tags: []
 data:
   icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
@@ -22,8 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
-      - core
-      - manipulator
+    impairedByRoles: [vital, core, manipulator]
 ---

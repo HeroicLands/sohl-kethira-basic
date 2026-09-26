@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Quenching
-  aliases: []
-description: "Quenching is an arcane incantation of the Odívshè convocation."
 shortcode: quenching
+name: {full: Quenching, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Quenching is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

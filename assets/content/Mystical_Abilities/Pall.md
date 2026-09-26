@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Pall
-  aliases: []
-description: "Pall is an arcane incantation of the Odívshè convocation."
 shortcode: pall
+name: {full: Pall, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Pall is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

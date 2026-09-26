@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Animus
-  aliases: []
-description: "Animus is an arcane incantation of the Fývria convocation."
 shortcode: animus
+name: {full: Animus, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Animus is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

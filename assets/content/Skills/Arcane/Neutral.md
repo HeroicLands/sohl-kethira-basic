@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Neutral
-  aliases: []
-description: "Neutral is a mystical skill."
 shortcode: neutral
+name: {full: Neutral, aliases: []}
 type: skill
 subType: mystical
+description: "Neutral is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---

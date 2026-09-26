@@ -1,46 +1,28 @@
 ---
-tags:
-  - creature
-name:
-  full: Umbáth
-  aliases:
-    - Umbathri
-    - Bearer of the Mask
-    - Gargoyle
 shortcode: umbath
+name: {full: Umbáth, aliases: [Umbathri, Bearer of the Mask, Gargoyle]}
 type: being
-data:
-  icon: sohl-none-icon-gargoyle
-  templatePriority: 0
-  id: UmbathBearerMsk
+tags: [creature]
+data: {icon: sohl-none-icon-gargoyle, templatePriority: 0, id: UmbathBearerMsk}
 sohl:
-  attrRollFormula:
-    aur: 1d6+16
-    wil: 1d6+9
-    rea: 1d6+10
-    cre: 1d6+13
+  attrRollFormula: {aur: 1d6+16, wil: 1d6+9, rea: 1d6+10, cre: 1d6+13}
   items:
-    - { model: attribute-aur, system: { scoreBase: 19 } }
-    - { model: attribute-wil, system: { scoreBase: 12 } }
-    - { model: attribute-rea, system: { scoreBase: 13 } }
-    - { model: attribute-cre, system: { scoreBase: 16 } }
-    - { model: skill-init, system: { masteryLevelBase: 65 } }
-    - { model: mysticalability-sprt, system: { masteryLevelBase: 80 } }
-    - { model: skill-dge, system: { masteryLevelBase: 70 } }
+    - {model: attribute-aur, system: {scoreBase: 19}}
+    - {model: attribute-wil, system: {scoreBase: 12}}
+    - {model: attribute-rea, system: {scoreBase: 13}}
+    - {model: attribute-cre, system: {scoreBase: 16}}
+    - {model: skill-init, system: {masteryLevelBase: 65}}
+    - {model: mysticalability-sprt, system: {masteryLevelBase: 80}}
+    - {model: skill-dge, system: {masteryLevelBase: 70}}
   system:
     body:
       structure:
-        zones:
-          - name: Form
-            shortcode: formzone
-            probWeight: 3
+        zones: [{name: Form, shortcode: formzone, probWeight: 3}]
         parts:
           - name: Form
             shortcode: formpart
             bodyZoneCode: formzone
-            roles:
-              - vital
-              - core
+            roles: [vital, core]
             canHoldItem: false
             probWeight: 10
         locations:
@@ -51,14 +33,8 @@ sohl:
             amputability: none
             shockValue: 0
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
-      weight:
-        base: 10
-        calc: "10"
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
+      weight: {base: 10, calc: "10"}
       reachBase: 0
       bodyScaleBase: 0.2
       personalFatigue: enc + 5

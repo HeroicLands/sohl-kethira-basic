@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Mask
-  aliases: []
-description: "Mask is an arcane incantation of the Neutral convocation."
 shortcode: mask
+name: {full: Mask, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Mask is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

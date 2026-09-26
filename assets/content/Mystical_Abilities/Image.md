@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Image
-  aliases: []
-description: "Image is an arcane incantation of the Lyáhvi convocation."
 shortcode: image
+name: {full: Image, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Image is an arcane incantation of the Lyáhvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: lyahvi
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

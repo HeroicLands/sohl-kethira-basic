@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Pèleáhn
-  aliases: []
-description: "Pèleáhn is a mystical skill."
 shortcode: peleahn
+name: {full: Pèleáhn, aliases: []}
 type: skill
 subType: mystical
+description: "Pèleáhn is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---

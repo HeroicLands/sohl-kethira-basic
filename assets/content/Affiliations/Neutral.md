@@ -1,23 +1,15 @@
 ---
-tags: []
-name:
-  full: Neutral
-  aliases: []
-description: "Neutral is an arcane convocation."
 shortcode: neutral
+name: {full: Neutral, aliases: []}
 type: affiliation
 subType: arcanetradition
+description: "Neutral is an arcane convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
   id: KdM5KuVXmabFxqEc
   packFolder: affiliations
   pack: mysteries
-sohl:
-  kbcat: affiliation
-  system:
-    society: ""
-    office: ""
-    title: ""
-    level: 1
+sohl: {kbcat: affiliation, system: {society: "", office: "", title: "", level: 1}}
 ---

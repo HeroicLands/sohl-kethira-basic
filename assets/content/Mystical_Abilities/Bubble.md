@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Bubble
-  aliases: []
-description: "Bubble is an arcane incantation of the Neutral convocation."
 shortcode: bubble
+name: {full: Bubble, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Bubble is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

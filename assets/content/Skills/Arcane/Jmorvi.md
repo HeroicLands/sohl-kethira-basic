@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Jmôrvi
-  aliases: []
-description: "Jmôrvi is a mystical skill."
 shortcode: jmorvi
+name: {full: Jmôrvi, aliases: []}
 type: skill
 subType: mystical
+description: "Jmôrvi is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---

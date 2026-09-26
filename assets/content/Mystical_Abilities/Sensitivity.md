@@ -1,24 +1,15 @@
 ---
-tags: []
-name:
-  full: Sensitivity
-  aliases: []
-description: "Sensitivity is an arcane talent."
 shortcode: snst
+name: {full: Sensitivity, aliases: []}
 type: mysticalability
 subType: arcanetalent
+description: "Sensitivity is an arcane talent."
+tags: []
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
   id: GvNrbskSwZjdAamV
   packFolder: arcanetalents
   pack: mysteries
-sohl:
-  kbcat: null
-  system:
-    masteryLevelBase: 0
-    levelBase: 0
-    charges:
-      value: null
-      max: null
+sohl: {kbcat: null, system: {masteryLevelBase: 0, levelBase: 0, charges: {value: null, max: null}}}
 ---

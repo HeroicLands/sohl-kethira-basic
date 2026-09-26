@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Cult of the Covenant
-  aliases: []
-description: "Cult of the Covenant is a mystical skill."
 shortcode: cultcovenant
+name: {full: Cult of the Covenant, aliases: []}
 type: skill
 subType: mystical
+description: "Cult of the Covenant is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-circle
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---

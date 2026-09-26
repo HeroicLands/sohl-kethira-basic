@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Sensation
-  aliases: []
-description: "Sensation is an arcane incantation of the Sàvôrya convocation."
 shortcode: sensation
+name: {full: Sensation, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Sensation is an arcane incantation of the Sàvôrya convocation."
+tags: []
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: savorya
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

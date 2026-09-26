@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Beam
-  aliases: []
-description: "Beam is an arcane incantation of the Lyáhvi convocation."
 shortcode: beam
+name: {full: Beam, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Beam is an arcane incantation of the Lyáhvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: lyahvi
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

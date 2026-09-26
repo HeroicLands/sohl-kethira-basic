@@ -1,24 +1,15 @@
 ---
-tags: []
-name:
-  full: Transference
-  aliases: []
-description: "Transference is an arcane talent."
 shortcode: trnsf
+name: {full: Transference, aliases: []}
 type: mysticalability
 subType: arcanetalent
+description: "Transference is an arcane talent."
+tags: []
 data:
   icon: sohl-none-icon-psionics
   templatePriority: 0
   id: RPAfGBjZbNsYCfn8
   packFolder: arcanetalents
   pack: mysteries
-sohl:
-  kbcat: null
-  system:
-    masteryLevelBase: 0
-    levelBase: 0
-    charges:
-      value: null
-      max: null
+sohl: {kbcat: null, system: {masteryLevelBase: 0, levelBase: 0, charges: {value: null, max: null}}}
 ---

@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Arálius
-  aliases: []
-description: "Arálius is a birthsign."
 shortcode: aralius
+name: {full: Arálius, aliases: []}
 type: mystery
 subType: birthsign
+description: "Arálius is a birthsign."
+tags: []
 data:
   icon: sohl-none-icon-astrology
   templatePriority: 0
@@ -15,10 +13,7 @@ data:
   pack: mysteries
 sohl:
   kbcat: sunsign
-  system:
-    charges:
-      value: null
-      max: null
+  system: {charges: {value: null, max: null}}
   effects:
     - name: "Arálius — Earth skills (+10 EML)"
       type: sohleffectdata
@@ -26,11 +21,7 @@ sohl:
       system:
         scope: skill
         test: 'itemLogic.data.subType === "nature" || has(itemLogic.data.shortcode, ["earth", "fyvria"])'
-        changes:
-          - key: "mod:logic.masteryLevel"
-            type: add
-            value: "10"
-            priority: null
+        changes: [{key: "mod:logic.masteryLevel", type: add, value: "10", priority: null}]
       _key: "!items.effects!ob9DL9Qd3GZOaXIE.YwsZFl7EnqOs9wBk"
     - name: "Arálius — Metal skills (+10 EML)"
       type: sohleffectdata
@@ -38,11 +29,7 @@ sohl:
       system:
         scope: skill
         test: 'has(itemLogic.data.subType, ["script", "craft"]) || has(itemLogic.data.shortcode, ["metal", "jmorvi"])'
-        changes:
-          - key: "mod:logic.masteryLevel"
-            type: add
-            value: "10"
-            priority: null
+        changes: [{key: "mod:logic.masteryLevel", type: add, value: "10", priority: null}]
       _key: "!items.effects!ob9DL9Qd3GZOaXIE.Nfj4MXD2dvbco58U"
     - name: "Arálius — Air skills (-10 EML)"
       type: sohleffectdata
@@ -50,11 +37,7 @@ sohl:
       system:
         scope: skill
         test: 'itemLogic.data.subType === "physical" || has(itemLogic.data.shortcode, ["air", "lyahvi"])'
-        changes:
-          - key: "mod:logic.masteryLevel"
-            type: add
-            value: "-10"
-            priority: null
+        changes: [{key: "mod:logic.masteryLevel", type: add, value: "-10", priority: null}]
       _key: "!items.effects!ob9DL9Qd3GZOaXIE.NnUMAPuyZIEmidBP"
     - name: "Arálius — Spirit skills (-10 EML)"
       type: sohleffectdata
@@ -62,10 +45,6 @@ sohl:
       system:
         scope: skill
         test: 'has(itemLogic.data.subType, ["mystical", "lore"]) || has(itemLogic.data.shortcode, ["spirit", "savorya"])'
-        changes:
-          - key: "mod:logic.masteryLevel"
-            type: add
-            value: "-10"
-            priority: null
+        changes: [{key: "mod:logic.masteryLevel", type: add, value: "-10", priority: null}]
       _key: "!items.effects!ob9DL9Qd3GZOaXIE.Pj5GTveJbztiUcLo"
 ---

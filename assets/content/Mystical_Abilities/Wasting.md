@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Wasting
-  aliases: []
-description: "Wasting is an arcane incantation of the Fývria convocation."
 shortcode: wasting
+name: {full: Wasting, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Wasting is an arcane incantation of the Fývria convocation."
+tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: fyvria
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

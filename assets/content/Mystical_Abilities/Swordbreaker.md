@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Swordbreaker
-  aliases: []
-description: "Swordbreaker is an arcane incantation of the Jmôrvi convocation."
 shortcode: swordbreaker
+name: {full: Swordbreaker, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Swordbreaker is an arcane incantation of the Jmôrvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: jmorvi
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Sphere
-  aliases: []
-description: "Sphere is an arcane incantation of the Pèleáhn convocation."
 shortcode: sphere
+name: {full: Sphere, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Sphere is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

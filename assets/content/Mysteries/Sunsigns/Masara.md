@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Masâra
-  aliases: []
-description: "Masâra is a birthsign."
 shortcode: masara
+name: {full: Masâra, aliases: []}
 type: mystery
 subType: birthsign
+description: "Masâra is a birthsign."
+tags: []
 data:
   icon: sohl-none-icon-astrology
   templatePriority: 0
@@ -15,10 +13,7 @@ data:
   pack: mysteries
 sohl:
   kbcat: sunsign
-  system:
-    charges:
-      value: null
-      max: null
+  system: {charges: {value: null, max: null}}
   effects:
     - name: "Masâra — Earth skills (+5 EML)"
       type: sohleffectdata
@@ -26,11 +21,7 @@ sohl:
       system:
         scope: skill
         test: 'itemLogic.data.subType === "nature" || has(itemLogic.data.shortcode, ["earth", "fyvria"])'
-        changes:
-          - key: "mod:logic.masteryLevel"
-            type: add
-            value: "5"
-            priority: null
+        changes: [{key: "mod:logic.masteryLevel", type: add, value: "5", priority: null}]
       _key: "!items.effects!hTjG4MP2ILxzInZ1.h1eeRzpLCmt568NP"
     - name: "Masâra — Metal skills (-5 EML)"
       type: sohleffectdata
@@ -38,11 +29,7 @@ sohl:
       system:
         scope: skill
         test: 'has(itemLogic.data.subType, ["script", "craft"]) || has(itemLogic.data.shortcode, ["metal", "jmorvi"])'
-        changes:
-          - key: "mod:logic.masteryLevel"
-            type: add
-            value: "-5"
-            priority: null
+        changes: [{key: "mod:logic.masteryLevel", type: add, value: "-5", priority: null}]
       _key: "!items.effects!hTjG4MP2ILxzInZ1.gGuuSdhU1mtKRFKT"
     - name: "Masâra — Fire skills (-15 EML)"
       type: sohleffectdata
@@ -50,11 +37,7 @@ sohl:
       system:
         scope: skill
         test: 'has(itemLogic.data.subType, ["combattechnique", "combat"]) || has(itemLogic.data.shortcode, ["fire", "peleahn"])'
-        changes:
-          - key: "mod:logic.masteryLevel"
-            type: add
-            value: "-15"
-            priority: null
+        changes: [{key: "mod:logic.masteryLevel", type: add, value: "-15", priority: null}]
       _key: "!items.effects!hTjG4MP2ILxzInZ1.pVOwkacavWBZwwOm"
     - name: "Masâra — Air skills (-5 EML)"
       type: sohleffectdata
@@ -62,11 +45,7 @@ sohl:
       system:
         scope: skill
         test: 'itemLogic.data.subType === "physical" || has(itemLogic.data.shortcode, ["air", "lyahvi"])'
-        changes:
-          - key: "mod:logic.masteryLevel"
-            type: add
-            value: "-5"
-            priority: null
+        changes: [{key: "mod:logic.masteryLevel", type: add, value: "-5", priority: null}]
       _key: "!items.effects!hTjG4MP2ILxzInZ1.7jbCGrUgRbcCFSbV"
     - name: "Masâra — Spirit skills (+5 EML)"
       type: sohleffectdata
@@ -74,11 +53,7 @@ sohl:
       system:
         scope: skill
         test: 'has(itemLogic.data.subType, ["mystical", "lore"]) || has(itemLogic.data.shortcode, ["spirit", "savorya"])'
-        changes:
-          - key: "mod:logic.masteryLevel"
-            type: add
-            value: "5"
-            priority: null
+        changes: [{key: "mod:logic.masteryLevel", type: add, value: "5", priority: null}]
       _key: "!items.effects!hTjG4MP2ILxzInZ1.Apy5019SAUMLepRS"
     - name: "Masâra — Water skills (+15 EML)"
       type: sohleffectdata
@@ -86,10 +61,6 @@ sohl:
       system:
         scope: skill
         test: 'has(itemLogic.data.subType, ["language", "social"]) || has(itemLogic.data.shortcode, ["water", "odivshe"])'
-        changes:
-          - key: "mod:logic.masteryLevel"
-            type: add
-            value: "15"
-            priority: null
+        changes: [{key: "mod:logic.masteryLevel", type: add, value: "15", priority: null}]
       _key: "!items.effects!hTjG4MP2ILxzInZ1.Pos2f7LeD68tMusn"
 ---

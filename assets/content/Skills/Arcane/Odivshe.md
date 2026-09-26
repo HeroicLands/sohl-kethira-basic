@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Odívshè
-  aliases: []
-description: "Odívshè is a mystical skill."
 shortcode: odivshe
+name: {full: Odívshè, aliases: []}
 type: skill
 subType: mystical
+description: "Odívshè is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---

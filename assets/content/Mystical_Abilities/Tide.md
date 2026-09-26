@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Tide
-  aliases: []
-description: "Tide is an arcane incantation of the Odívshè convocation."
 shortcode: tide
+name: {full: Tide, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Tide is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

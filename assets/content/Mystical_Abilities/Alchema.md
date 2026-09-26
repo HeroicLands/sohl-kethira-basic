@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Alchema
-  aliases: []
-description: "Alchema is an arcane incantation of the Odívshè convocation."
 shortcode: alchema
+name: {full: Alchema, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Alchema is an arcane incantation of the Odívshè convocation."
+tags: []
 data:
   icon: sohl-none-icon-wavecrest
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: odivshe
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

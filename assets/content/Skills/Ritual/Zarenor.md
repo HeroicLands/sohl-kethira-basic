@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Zârenor
-  aliases: []
-description: "Zârenor is a mystical skill."
 shortcode: zarenor
+name: {full: Zârenor, aliases: []}
 type: skill
 subType: mystical
+description: "Zârenor is a mystical skill."
+tags: []
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---

@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Doom Flame
-  aliases: []
-description: "Doom Flame is an arcane incantation of the Pèleáhn convocation."
 shortcode: doomflame
+name: {full: Doom Flame, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Doom Flame is an arcane incantation of the Pèleáhn convocation."
+tags: []
 data:
   icon: sohl-none-icon-fire
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: peleahn
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

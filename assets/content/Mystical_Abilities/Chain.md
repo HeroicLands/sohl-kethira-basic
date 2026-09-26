@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Chain
-  aliases: []
-description: "Chain is an arcane incantation of the Neutral convocation."
 shortcode: chain
+name: {full: Chain, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Chain is an arcane incantation of the Neutral convocation."
+tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: neutral
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

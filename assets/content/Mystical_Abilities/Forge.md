@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Forge
-  aliases: []
-description: "Forge is an arcane incantation of the Jmôrvi convocation."
 shortcode: forge
+name: {full: Forge, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Forge is an arcane incantation of the Jmôrvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: jmorvi
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Hand
-  aliases: []
-description: "Hand is an arcane incantation of the Jmôrvi convocation."
 shortcode: hand
+name: {full: Hand, aliases: []}
 type: mysticalability
 subType: arcaneincantation
+description: "Hand is an arcane incantation of the Jmôrvi convocation."
+tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
@@ -20,7 +18,5 @@ sohl:
     assocAffiliationCode: jmorvi
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---

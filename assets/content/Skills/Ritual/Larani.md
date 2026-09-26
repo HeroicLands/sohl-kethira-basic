@@ -1,12 +1,10 @@
 ---
-tags: []
-name:
-  full: Laráni
-  aliases: []
-description: "Laráni is a mystical skill."
 shortcode: larani
+name: {full: Laráni, aliases: []}
 type: skill
 subType: mystical
+description: "Laráni is a mystical skill."
+tags: []
 data:
   icon: image-kplarani
   templatePriority: 0
@@ -22,6 +20,5 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-    impairedByRoles:
-      - vital
+    impairedByRoles: [vital]
 ---
