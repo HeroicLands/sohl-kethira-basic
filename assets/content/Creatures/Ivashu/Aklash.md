@@ -25,24 +25,24 @@ sohl:
     emp: 1d4+1
     elo: 1d4
   items:
-    - { model: attribute-str, system: { scoreBase: 24 } }
-    - { model: attribute-end, system: { scoreBase: 18 } }
-    - { model: attribute-dex, system: { scoreBase: 10 } }
-    - { model: attribute-agl, system: { scoreBase: 8 } }
-    - { model: attribute-per, system: { scoreBase: 7 } }
-    - { model: attribute-aur, system: { scoreBase: 5 } }
-    - { model: attribute-wil, system: { scoreBase: 14 } }
-    - { model: attribute-rea, system: { scoreBase: 4 } }
-    - { model: attribute-cre, system: { scoreBase: 2 } }
-    - { model: attribute-emp, system: { scoreBase: 3 } }
-    - { model: attribute-elo, system: { scoreBase: 2 } }
-    - { model: skill-awar, system: { masteryLevelBase: 50 } }
-    - { model: skill-init, system: { masteryLevelBase: 60 } }
-    - { model: skill-shok, system: { masteryLevelBase: 88 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 24 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 7 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 5 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 4 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 2 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 3 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 2 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 50 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 88 } }
     - { model: mysticalability-sprt, system: { masteryLevelBase: 27 } }
-    - { model: skill-stlth, system: { masteryLevelBase: 40 } }
-    - { model: skill-trak, system: { masteryLevelBase: 25 } }
-    - { model: skill-dge, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-trak, system: { masteryLevelBase: 25 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 40 } }
     - name: Claw
       type: skill
       system:
