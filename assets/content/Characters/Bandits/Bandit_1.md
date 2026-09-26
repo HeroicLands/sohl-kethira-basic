@@ -24,57 +24,57 @@ data:
   social: {occupation: "Bandit", station: "", class: "Free", society: "Palithane"}
 sohl:
   items:
-    - {model: attribute-str, system: {scoreBase: 11}}
-    - {model: attribute-end, system: {scoreBase: 14}}
-    - {model: attribute-dex, system: {scoreBase: 9}}
-    - {model: attribute-agl, system: {scoreBase: 12}}
-    - {model: attribute-per, system: {scoreBase: 12}}
-    - {model: attribute-cml, system: {scoreBase: 16}}
-    - {model: attribute-aur, system: {scoreBase: 8}}
-    - {model: attribute-wil, system: {scoreBase: 10}}
-    - {model: attribute-rea, system: {scoreBase: 12}}
-    - {model: attribute-cre, system: {scoreBase: 7}}
-    - {model: attribute-emp, system: {scoreBase: 10}}
-    - {model: attribute-elo, system: {scoreBase: 10}}
-    - {model: attribute-mor, system: {scoreBase: 8}}
-    - {model: attribute-voi, system: {scoreBase: 10}}
-    - {model: skill-chrm, system: {masteryLevelBase: 39}}
-    - {model: skill-cmd, system: {masteryLevelBase: 20}}
-    - {model: skill-dscr, system: {masteryLevelBase: 44}}
-    - {model: skill-guil, system: {masteryLevelBase: 36}}
-    - {model: skill-intr, system: {masteryLevelBase: 55}}
-    - {model: skill-thtcs, system: {masteryLevelBase: 8}}
-    - {model: skill-srvl, system: {masteryLevelBase: 33}}
-    - {model: skill-sing, system: {masteryLevelBase: 27}}
-    - {model: skill-draw, system: {masteryLevelBase: 16}}
-    - {model: skill-cook, system: {masteryLevelBase: 36}}
-    - {model: skill-folklr, system: {masteryLevelBase: 22}}
-    - {model: skill-pysn, system: {masteryLevelBase: 12}}
-    - {model: skill-awar, system: {masteryLevelBase: 55}}
-    - {model: skill-clmb, system: {masteryLevelBase: 33}}
-    - {model: skill-dnce, system: {masteryLevelBase: 20}}
-    - {model: skill-jump, system: {masteryLevelBase: 36}}
-    - {model: skill-ridg, system: {masteryLevelBase: 11}}
-    - {model: skill-stlth, system: {masteryLevelBase: 33}}
-    - {model: skill-swim, system: {masteryLevelBase: 13}}
-    - {model: skill-init, system: {masteryLevelBase: 44}}
-    - {model: skill-shok, system: {masteryLevelBase: 48}}
-    - {model: skill-melee, system: {masteryLevelBase: 50}}
-    - {model: skill-dge, system: {masteryLevelBase: 60}}
-    - {model: skill-archery, system: {masteryLevelBase: 11}}
-    - {model: skill-thro, system: {masteryLevelBase: 50}}
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 9}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-cml, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 7}}
+    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-mor, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
+    - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 39}}
+    - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 20}}
+    - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 44}}
+    - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-intr, system: {masteryLevelBase: 55}}
+    - {model: sohl-sohl-skill-thtcs, system: {masteryLevelBase: 8}}
+    - {model: sohl-sohl-skill-srvl, system: {masteryLevelBase: 33}}
+    - {model: sohl-sohl-skill-sing, system: {masteryLevelBase: 27}}
+    - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 16}}
+    - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 22}}
+    - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 12}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 55}}
+    - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 33}}
+    - {model: sohl-sohl-skill-dnce, system: {masteryLevelBase: 20}}
+    - {model: sohl-sohl-skill-jump, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-ridg, system: {masteryLevelBase: 11}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 33}}
+    - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 13}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 44}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 48}}
+    - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 50}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-archery, system: {masteryLevelBase: 11}}
+    - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 50}}
     - {model: skill-peoni}
-    - {model: mysticalability-fate}
+    - {model: sohl-sohl-mysticalability-fate}
     - {model: mysticalability-sprt}
     - {model: mystery-ulandus}
     - {model: affiliation-peoni}
-    - {model: miscgear-pence, system: {quantity: 18}}
-    - {model: armorgear-rhtunic, system: {isWorn: true}}
-    - {model: armorgear-cshirt, system: {isWorn: true}}
-    - {model: armorgear-ctrsr, system: {isWorn: true}}
-    - {model: armorgear-rhshoe, system: {isWorn: true}}
-    - {model: weapongear-haxe}
-    - {model: weapongear-rndsh}
+    - {model: sohl-sohl-miscgear-pence, system: {quantity: 18}}
+    - {model: sohl-sohl-armorgear-rhtunic, system: {isWorn: true}}
+    - {model: sohl-sohl-armorgear-cshirt, system: {isWorn: true}}
+    - {model: sohl-sohl-armorgear-ctrsr, system: {isWorn: true}}
+    - {model: sohl-sohl-armorgear-rhshoe, system: {isWorn: true}}
+    - {model: sohl-sohl-weapongear-haxe}
+    - {model: sohl-sohl-weapongear-rndsh}
   system:
     body:
       structure:

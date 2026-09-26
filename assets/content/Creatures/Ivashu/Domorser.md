@@ -16,23 +16,23 @@ sohl:
     rea: 1d4+6
     cre: 1d4+4
   items:
-    - {model: attribute-str, system: {scoreBase: 16}}
-    - {model: attribute-end, system: {scoreBase: 18}}
-    - {model: attribute-dex, system: {scoreBase: 8}}
-    - {model: attribute-agl, system: {scoreBase: 14}}
-    - {model: attribute-per, system: {scoreBase: 20}}
-    - {model: attribute-aur, system: {scoreBase: 12}}
-    - {model: attribute-wil, system: {scoreBase: 16}}
-    - {model: attribute-rea, system: {scoreBase: 8}}
-    - {model: attribute-cre, system: {scoreBase: 6}}
-    - {model: skill-awar, system: {masteryLevelBase: 90}}
-    - {model: skill-clmb, system: {masteryLevelBase: 55}}
-    - {model: skill-init, system: {masteryLevelBase: 60}}
-    - {model: skill-shok, system: {masteryLevelBase: 75}}
-    - {model: skill-jump, system: {masteryLevelBase: 75}}
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 18}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 20}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 6}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 90}}
+    - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 55}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 75}}
+    - {model: sohl-sohl-skill-jump, system: {masteryLevelBase: 75}}
     - {model: mysticalability-sprt, system: {masteryLevelBase: 56}}
-    - {model: skill-stlth, system: {masteryLevelBase: 85}}
-    - {model: skill-dge, system: {masteryLevelBase: 85}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 85}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 85}}
     - name: Bite
       type: skill
       system:

@@ -24,54 +24,54 @@ data:
   social: {occupation: "", station: "", class: "", society: ""}
 sohl:
   items:
-    - {model: attribute-str, system: {scoreBase: 8}}
-    - {model: attribute-end, system: {scoreBase: 9}}
-    - {model: attribute-dex, system: {scoreBase: 14}}
-    - {model: attribute-agl, system: {scoreBase: 10}}
-    - {model: attribute-per, system: {scoreBase: 15}}
-    - {model: attribute-cml, system: {scoreBase: 13}}
-    - {model: attribute-aur, system: {scoreBase: 17}}
-    - {model: attribute-wil, system: {scoreBase: 10}}
-    - {model: attribute-rea, system: {scoreBase: 14}}
-    - {model: attribute-cre, system: {scoreBase: 14}}
-    - {model: attribute-emp, system: {scoreBase: 15}}
-    - {model: attribute-elo, system: {scoreBase: 10}}
-    - {model: attribute-mor, system: {scoreBase: 11}}
-    - {model: attribute-voi, system: {scoreBase: 16}}
-    - {model: skill-chrm, system: {masteryLevelBase: 70}}
-    - {model: skill-cmd, system: {masteryLevelBase: 20}}
-    - {model: skill-dscr, system: {masteryLevelBase: 24}}
-    - {model: skill-guil, system: {masteryLevelBase: 45}}
-    - {model: skill-intr, system: {masteryLevelBase: 45}}
-    - {model: skill-sing, system: {masteryLevelBase: 60}}
-    - {model: skill-thtcs, system: {masteryLevelBase: 60}}
-    - {model: skill-srvl, system: {masteryLevelBase: 26}}
-    - {model: skill-draw, system: {masteryLevelBase: 45}}
-    - {model: skill-cook, system: {masteryLevelBase: 30}}
-    - {model: skill-folklr, system: {masteryLevelBase: 36}}
-    - {model: skill-pysn, system: {masteryLevelBase: 70}}
-    - {model: skill-awar, system: {masteryLevelBase: 39}}
-    - {model: skill-clmb, system: {masteryLevelBase: 36}}
-    - {model: skill-dnce, system: {masteryLevelBase: 20}}
-    - {model: skill-jump, system: {masteryLevelBase: 27}}
-    - {model: skill-ridg, system: {masteryLevelBase: 13}}
-    - {model: skill-stlth, system: {masteryLevelBase: 36}}
-    - {model: skill-swim, system: {masteryLevelBase: 9}}
-    - {model: skill-init, system: {masteryLevelBase: 36}}
-    - {model: skill-shok, system: {masteryLevelBase: 24}}
-    - {model: skill-melee, system: {masteryLevelBase: 24}}
-    - {model: skill-dge, system: {masteryLevelBase: 24}}
-    - {model: skill-archery, system: {masteryLevelBase: 15}}
-    - {model: skill-thro, system: {masteryLevelBase: 56}}
-    - {model: mysticalability-fate}
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 9}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-cml, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 17}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-mor, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 16}}
+    - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 20}}
+    - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 24}}
+    - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 45}}
+    - {model: sohl-sohl-skill-intr, system: {masteryLevelBase: 45}}
+    - {model: sohl-sohl-skill-sing, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-thtcs, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-srvl, system: {masteryLevelBase: 26}}
+    - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 45}}
+    - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 30}}
+    - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 39}}
+    - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-dnce, system: {masteryLevelBase: 20}}
+    - {model: sohl-sohl-skill-jump, system: {masteryLevelBase: 27}}
+    - {model: sohl-sohl-skill-ridg, system: {masteryLevelBase: 13}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 9}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 24}}
+    - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 24}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 24}}
+    - {model: sohl-sohl-skill-archery, system: {masteryLevelBase: 15}}
+    - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 56}}
+    - {model: sohl-sohl-mysticalability-fate}
     - {model: mysticalability-sprt, system: {levelBase: 0, charges: {value: 0, max: 0}}}
     - {model: mystery-masara}
-    - {model: skill-anmcft, system: {masteryLevelBase: 26}}
-    - {model: skill-herb, system: {masteryLevelBase: 70}}
-    - {model: skill-mnrl, system: {masteryLevelBase: 28}}
-    - {model: skill-mtlc, system: {masteryLevelBase: 36}}
-    - {model: skill-math, system: {masteryLevelBase: 42}}
-    - {model: mysticalability-alch, system: {masteryLevelBase: 80}}
+    - {model: sohl-sohl-skill-anmcft, system: {masteryLevelBase: 26}}
+    - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-skill-mnrl, system: {masteryLevelBase: 28}}
+    - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 42}}
+    - {model: sohl-sohl-mysticalability-alch, system: {masteryLevelBase: 80}}
     - {model: skill-palithaner, system: {masteryLevelBase: 60}}
     - {model: skill-trierzi, system: {masteryLevelBase: 36}}
     - {model: skill-emelan, system: {masteryLevelBase: 60}}
@@ -79,24 +79,24 @@ sohl:
     - {model: skill-harnic, system: {masteryLevelBase: 36}}
     - {model: skill-kantal, system: {masteryLevelBase: 36}}
     - {model: skill-lakise, system: {masteryLevelBase: 42}}
-    - {model: skill-runic, system: {masteryLevelBase: 28}}
-    - {model: skill-script, system: {masteryLevelBase: 42}}
+    - {model: sohl-sohl-skill-runic, system: {masteryLevelBase: 28}}
+    - {model: sohl-sohl-skill-script, system: {masteryLevelBase: 42}}
     - {model: skill-saveknor, system: {masteryLevelBase: 12}}
     - {model: affiliation-saveknor}
-    - {model: containergear-beltpouchl3}
-    - model: miscgear-gldcrwn
+    - {model: sohl-sohl-containergear-beltpouchl3}
+    - model: sohl-sohl-miscgear-gldcrwn
       system: {quantity: 2, note: One gold crown in secret compartment in heel of each boot}
-    - {model: armorgear-wleg, system: {isWorn: true}}
-    - {model: armorgear-wcap, system: {isWorn: true}}
-    - {model: armorgear-lskirt, system: {isWorn: true}}
-    - {model: armorgear-lstnc, system: {isWorn: true}}
-    - {model: armorgear-pvest, system: {isWorn: true}}
-    - {model: armorgear-wclk, system: {isWorn: true}}
-    - {model: armorgear-wcowl, system: {isWorn: true}}
-    - {model: armorgear-rhcboot, system: {isWorn: true}}
-    - {model: weapongear-dgr}
-    - {model: containergear-backpk}
-    - {model: containergear-bpchmd}
+    - {model: sohl-sohl-armorgear-wleg, system: {isWorn: true}}
+    - {model: sohl-sohl-armorgear-wcap, system: {isWorn: true}}
+    - {model: sohl-sohl-armorgear-lskirt, system: {isWorn: true}}
+    - {model: sohl-sohl-armorgear-lstnc, system: {isWorn: true}}
+    - {model: sohl-sohl-armorgear-pvest, system: {isWorn: true}}
+    - {model: sohl-sohl-armorgear-wclk, system: {isWorn: true}}
+    - {model: sohl-sohl-armorgear-wcowl, system: {isWorn: true}}
+    - {model: sohl-sohl-armorgear-rhcboot, system: {isWorn: true}}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-containergear-backpk}
+    - {model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

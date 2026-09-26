@@ -24,59 +24,59 @@ data:
   social: {occupation: "Bandit Archer", station: "", class: "Free", society: "Palithane"}
 sohl:
   items:
-    - {model: attribute-str, system: {scoreBase: 12}}
-    - {model: attribute-end, system: {scoreBase: 16}}
-    - {model: attribute-dex, system: {scoreBase: 12}}
-    - {model: attribute-agl, system: {scoreBase: 11}}
-    - {model: attribute-per, system: {scoreBase: 14}}
-    - {model: attribute-cml, system: {scoreBase: 16}}
-    - {model: attribute-aur, system: {scoreBase: 16}}
-    - {model: attribute-wil, system: {scoreBase: 12}}
-    - {model: attribute-rea, system: {scoreBase: 10}}
-    - {model: attribute-cre, system: {scoreBase: 14}}
-    - {model: attribute-emp, system: {scoreBase: 18}}
-    - {model: attribute-elo, system: {scoreBase: 10}}
-    - {model: attribute-mor, system: {scoreBase: 10}}
-    - {model: attribute-voi, system: {scoreBase: 15}}
-    - {model: skill-chrm, system: {masteryLevelBase: 51}}
-    - {model: skill-cmd, system: {masteryLevelBase: 22}}
-    - {model: skill-dscr, system: {masteryLevelBase: 20}}
-    - {model: skill-guil, system: {masteryLevelBase: 80}}
-    - {model: skill-intr, system: {masteryLevelBase: 70}}
-    - {model: skill-thtcs, system: {masteryLevelBase: 12}}
-    - {model: skill-srvl, system: {masteryLevelBase: 33}}
-    - {model: skill-sing, system: {masteryLevelBase: 45}}
-    - {model: skill-draw, system: {masteryLevelBase: 13}}
-    - {model: skill-cook, system: {masteryLevelBase: 24}}
-    - {model: skill-folklr, system: {masteryLevelBase: 22}}
-    - {model: skill-pysn, system: {masteryLevelBase: 12}}
-    - {model: skill-awar, system: {masteryLevelBase: 65}}
-    - {model: skill-clmb, system: {masteryLevelBase: 33}}
-    - {model: skill-dnce, system: {masteryLevelBase: 24}}
-    - {model: skill-jump, system: {masteryLevelBase: 44}}
-    - {model: skill-ridg, system: {masteryLevelBase: 15}}
-    - {model: skill-stlth, system: {masteryLevelBase: 33}}
-    - {model: skill-swim, system: {masteryLevelBase: 26}}
-    - {model: skill-init, system: {masteryLevelBase: 44}}
-    - {model: skill-shok, system: {masteryLevelBase: 56}}
-    - {model: skill-melee, system: {masteryLevelBase: 48}}
-    - {model: skill-dge, system: {masteryLevelBase: 48}}
-    - {model: skill-archery, system: {masteryLevelBase: 65}}
-    - {model: skill-thro, system: {masteryLevelBase: 52}}
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-cml, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 18}}
+    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-mor, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 15}}
+    - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 51}}
+    - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 22}}
+    - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 20}}
+    - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 80}}
+    - {model: sohl-sohl-skill-intr, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-skill-thtcs, system: {masteryLevelBase: 12}}
+    - {model: sohl-sohl-skill-srvl, system: {masteryLevelBase: 33}}
+    - {model: sohl-sohl-skill-sing, system: {masteryLevelBase: 45}}
+    - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 13}}
+    - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 24}}
+    - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 22}}
+    - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 12}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 65}}
+    - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 33}}
+    - {model: sohl-sohl-skill-dnce, system: {masteryLevelBase: 24}}
+    - {model: sohl-sohl-skill-jump, system: {masteryLevelBase: 44}}
+    - {model: sohl-sohl-skill-ridg, system: {masteryLevelBase: 15}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 33}}
+    - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 26}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 44}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 56}}
+    - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 48}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 48}}
+    - {model: sohl-sohl-skill-archery, system: {masteryLevelBase: 65}}
+    - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 52}}
     - {model: skill-peoni}
-    - {model: mysticalability-fate}
+    - {model: sohl-sohl-mysticalability-fate}
     - {model: mysticalability-sprt}
     - {model: mystery-ulandus}
     - {model: affiliation-peoni}
-    - {model: miscgear-pence, system: {quantity: 1}}
-    - {model: containergear-quiversmsh}
-    - {model: weapongear-lbw125}
-    - {model: projectilegear-arwhbrd, system: {quantity: 12}}
-    - {model: weapongear-shrtswd}
-    - {model: armorgear-rhtunic, system: {isWorn: true}}
-    - {model: armorgear-cshirt, system: {isWorn: true}}
-    - {model: armorgear-ctrsr, system: {isWorn: true}}
-    - {model: armorgear-rhshoe, system: {isWorn: true}}
+    - {model: sohl-sohl-miscgear-pence, system: {quantity: 1}}
+    - {model: sohl-sohl-containergear-quiversmsh}
+    - {model: sohl-sohl-weapongear-lbw125}
+    - {model: sohl-sohl-projectilegear-arwhbrd, system: {quantity: 12}}
+    - {model: sohl-sohl-weapongear-shrtswd}
+    - {model: sohl-sohl-armorgear-rhtunic, system: {isWorn: true}}
+    - {model: sohl-sohl-armorgear-cshirt, system: {isWorn: true}}
+    - {model: sohl-sohl-armorgear-ctrsr, system: {isWorn: true}}
+    - {model: sohl-sohl-armorgear-rhshoe, system: {isWorn: true}}
   system:
     body:
       structure:

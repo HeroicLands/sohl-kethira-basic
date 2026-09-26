@@ -2,6 +2,7 @@
 shortcode: hmkbasicfolk
 name: {full: HMK Basic Folk, aliases: []}
 type: being
+description: A character template with standard attributes and common skills.
 tags: []
 data:
   icon: sohl-none-icon-person
@@ -24,48 +25,48 @@ data:
   social: {occupation: "", station: "", class: "", society: ""}
 sohl:
   items:
-    - {model: attribute-str, system: {scoreBase: 10}}
-    - {model: attribute-end, system: {scoreBase: 10}}
-    - {model: attribute-dex, system: {scoreBase: 10}}
-    - {model: attribute-agl, system: {scoreBase: 10}}
-    - {model: attribute-per, system: {scoreBase: 10}}
-    - {model: attribute-cml, system: {scoreBase: 10}}
-    - {model: attribute-aur, system: {scoreBase: 10}}
-    - {model: attribute-wil, system: {scoreBase: 10}}
-    - {model: attribute-rea, system: {scoreBase: 10}}
-    - {model: attribute-cre, system: {scoreBase: 10}}
-    - {model: attribute-emp, system: {scoreBase: 10}}
-    - {model: attribute-elo, system: {scoreBase: 10}}
-    - {model: attribute-mor, system: {scoreBase: 10}}
-    - {model: attribute-voi, system: {scoreBase: 10}}
-    - {model: skill-chrm}
-    - {model: skill-cmd}
-    - {model: skill-dscr}
-    - {model: skill-guil}
-    - {model: skill-intr}
-    - {model: skill-thtcs}
-    - {model: skill-srvl}
-    - {model: skill-sing}
-    - {model: skill-draw}
-    - {model: skill-cook}
-    - {model: skill-folklr}
-    - {model: skill-pysn}
-    - {model: skill-awar}
-    - {model: skill-clmb}
-    - {model: skill-dnce}
-    - {model: skill-jump}
-    - {model: skill-ridg}
-    - {model: skill-stlth}
-    - {model: skill-swim}
-    - {model: skill-init}
-    - {model: skill-shok}
-    - {model: skill-melee}
-    - {model: skill-dge}
-    - {model: skill-archery}
-    - {model: skill-thro}
-    - {model: mysticalability-fate}
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-cml, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-mor, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
+    - {model: sohl-sohl-skill-chrm}
+    - {model: sohl-sohl-skill-cmd}
+    - {model: sohl-sohl-skill-dscr}
+    - {model: sohl-sohl-skill-guil}
+    - {model: sohl-sohl-skill-intr}
+    - {model: sohl-sohl-skill-thtcs}
+    - {model: sohl-sohl-skill-srvl}
+    - {model: sohl-sohl-skill-sing}
+    - {model: sohl-sohl-skill-draw}
+    - {model: sohl-sohl-skill-cook}
+    - {model: sohl-sohl-skill-folklr}
+    - {model: sohl-sohl-skill-pysn}
+    - {model: sohl-sohl-skill-awar}
+    - {model: sohl-sohl-skill-clmb}
+    - {model: sohl-sohl-skill-dnce}
+    - {model: sohl-sohl-skill-jump}
+    - {model: sohl-sohl-skill-ridg}
+    - {model: sohl-sohl-skill-stlth}
+    - {model: sohl-sohl-skill-swim}
+    - {model: sohl-sohl-skill-init}
+    - {model: sohl-sohl-skill-shok}
+    - {model: sohl-sohl-skill-melee}
+    - {model: sohl-sohl-skill-dge}
+    - {model: sohl-sohl-skill-archery}
+    - {model: sohl-sohl-skill-thro}
+    - {model: sohl-sohl-mysticalability-fate}
     - {model: mysticalability-sprt}
-    - {model: miscgear-pence}
+    - {model: sohl-sohl-miscgear-pence}
   system:
     body:
       structure:
@@ -381,19 +382,3 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
-
-# Appearance {#appearance}
-
-TBD
-
-# Dossier {#dossier}
-
-TBD
-
-## Data
-
-TBD
-
-## Life Story
-
-TBD

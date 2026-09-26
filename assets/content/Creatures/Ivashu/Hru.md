@@ -18,23 +18,23 @@ sohl:
     emp: 1d4+4
     elo: 1d4
   items:
-    - {model: attribute-str, system: {scoreBase: 50}}
-    - {model: attribute-end, system: {scoreBase: 40}}
-    - {model: attribute-dex, system: {scoreBase: 8}}
-    - {model: attribute-agl, system: {scoreBase: 6}}
-    - {model: attribute-per, system: {scoreBase: 8}}
-    - {model: attribute-aur, system: {scoreBase: 6}}
-    - {model: attribute-wil, system: {scoreBase: 12}}
-    - {model: attribute-rea, system: {scoreBase: 10}}
-    - {model: attribute-cre, system: {scoreBase: 4}}
-    - {model: attribute-emp, system: {scoreBase: 6}}
-    - {model: attribute-elo, system: {scoreBase: 1}}
-    - {model: skill-awar, system: {masteryLevelBase: 30}}
-    - {model: skill-init, system: {masteryLevelBase: 55}}
-    - {model: skill-shok, system: {masteryLevelBase: 90}}
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 50}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 40}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 6}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 6}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 4}}
+    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 6}}
+    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 1}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 30}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 55}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 90}}
     - {model: mysticalability-sprt, system: {masteryLevelBase: 27}}
-    - {model: skill-stlth, system: {masteryLevelBase: 21}}
-    - {model: skill-dge, system: {masteryLevelBase: 35}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 21}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 35}}
     - name: Kick
       type: skill
       system:

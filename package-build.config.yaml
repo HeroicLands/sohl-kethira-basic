@@ -12,10 +12,10 @@ relationships:
     systems:
         - id: sohl
           type: system
-          manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/download/v0.8.6/system.json
+          manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/download/v0.8.7/system.json
           compatibility:
-              minimum: "0.8.0"
-              verified: "0.8.6"
+              minimum: "0.8.7"
+              verified: "0.8.7"
           # The `characters` pass resolves a being's embedded items — `attribute:str`,
           # `skill:init` and similar — against this system's Item packs, fetched by
           # `npm run build:deps`; a cold cache fails naming that command rather than
