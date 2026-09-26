@@ -8,6 +8,7 @@ packFolder: characters
 shortcode: hmkbasicfolk
 slug: hmk-basic-folk
 type: being
+description: A character template with standard attributes and common skills.
 pack: characters
 social:
   occupation: ""
@@ -532,19 +533,3 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
-
-# Appearance {#appearance}
-
-TBD
-
-# Dossier {#dossier}
-
-TBD
-
-## Data
-
-TBD
-
-## Life Story
-
-TBD
