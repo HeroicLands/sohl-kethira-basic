@@ -66,7 +66,7 @@ jobs:
             # Without it, both address checks refuse to run rather than guess:
             #
             #     sohl is a declared dependency but its content index has not
-            #     been fetched. Run `content-build deps fetch` first.
+            #     been fetched. Run `package-build deps fetch` first.
             #
             # The compile job already fetches, by way of `build:db`; this job
             # never did. It went unnoticed because the retired `packs[].folders`
