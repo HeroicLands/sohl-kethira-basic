@@ -8,7 +8,7 @@ data:
   templatePriority: 100
   gender: unknown
   age: 23
-  born: 696/3/5
+  born: 696.065
   height: 1.8
   weight: 70.31
   frame: medium

@@ -8,7 +8,7 @@ data:
   templatePriority: 100
   gender: male
   age: 25
-  born: 694/9/10
+  born: 694.250
   height: 1.78
   weight: 76.2
   frame: large
