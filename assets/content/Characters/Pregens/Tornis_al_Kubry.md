@@ -2,10 +2,12 @@
 shortcode: tornisalkubry
 name: {full: Tórnis al Kúbrý, aliases: []}
 type: being
+subType: character
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
+  archetypes: [infiltrator, trader]
   gender: unknown
   age: 29
   born: 690.032

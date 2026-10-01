@@ -2,10 +2,12 @@
 shortcode: bandit1
 name: {full: Bandit 1, aliases: []}
 type: being
+subType: npc
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 100
+  archetypes: [skirmisher]
   gender: male
   age: 41
   born: 678.007

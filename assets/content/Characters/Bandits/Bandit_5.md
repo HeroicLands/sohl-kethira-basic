@@ -2,10 +2,12 @@
 shortcode: bandit5
 name: {full: Bandit 5, aliases: []}
 type: being
+subType: npc
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 100
+  archetypes: [skirmisher]
   gender: unknown
   age: 43
   born: 676.335

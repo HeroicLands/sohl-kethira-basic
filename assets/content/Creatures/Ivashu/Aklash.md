@@ -2,7 +2,8 @@
 shortcode: aklash
 name: {full: Áklash, aliases: []}
 type: being
-tags: [creature]
+subType: creature
+tags: []
 data: {icon: sohl-none-icon-troll, templatePriority: 0, id: AklashChokeWind}
 sohl:
   attrRollFormula:

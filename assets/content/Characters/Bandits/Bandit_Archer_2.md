@@ -2,10 +2,12 @@
 shortcode: banditarcher2
 name: {full: Bandit Archer 2, aliases: []}
 type: being
+subType: npc
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
+  archetypes: [skirmisher]
   gender: unknown
   age: 29
   born: 690.232

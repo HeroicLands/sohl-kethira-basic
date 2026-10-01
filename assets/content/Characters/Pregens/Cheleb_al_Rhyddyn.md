@@ -2,10 +2,12 @@
 shortcode: chelebalrhyddyn
 name: {full: Chéleb al Rhýddyn, aliases: []}
 type: being
+subType: character
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
+  archetypes: [woodsman, skirmisher]
   gender: unknown
   age: 31
   born: 688.170

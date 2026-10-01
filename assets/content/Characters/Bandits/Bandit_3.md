@@ -2,10 +2,12 @@
 shortcode: bandit3
 name: {full: Bandit 3, aliases: []}
 type: being
+subType: npc
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 100
+  archetypes: [skirmisher]
   gender: male
   age: 44
   born: 675.314
