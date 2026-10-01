@@ -54,9 +54,9 @@ A grey, squat and exceedingly ugly humanoid figure barely two feet tall, with ye
 
 # Dossier {#dossier}
 
-Otherwise known as _Bearers of the Mask_ or _Gargoyles_, the Umbathri are found in all parts of Kethíra — above or below ground, in cities or the wilderness. They act both alone and in insanely babbling packs of up to two dozen, and their behaviour is capricious and often maddening.
+Otherwise known as _Bearers of the Mask_ or _Gargoyles_, the Umbathri are found in all parts of Kethíra—above or below ground, in cities or the wilderness. They act both alone and in insanely babbling packs of up to two dozen, and their behaviour is capricious and often maddening.
 
-An Umbath's body is that of an incarnated spirit. It has a definite shape, but an observer must succeed at an Awareness test to see it in dim lighting, and a Critical Success to see it in deep shadow. It has only three zone numbers in its body location table, and only enchanted weapons or spells have any effect on it at all. If struck, it must test Spirit or dissolve and lose form for d6 days — 3d6 on a Critical Failure — after which it automatically reassumes its shape.
+An Umbath's body is that of an incarnated spirit. It has a definite shape, but an observer must succeed at an Awareness test to see it in dim lighting, and a Critical Success to see it in deep shadow. It has only three zone numbers in its body location table, and only enchanted weapons or spells have any effect on it at all. If struck, it must test Spirit or dissolve and lose form for d6 days—3d6 on a Critical Failure—after which it automatically reassumes its shape.
 
 **Torment.** The Umbath chitters unintelligibly at a target within five feet, testing its Torment talent. A success imparts chaotic thoughts, forcing the victim to test Spirit at a −20 penalty on the Umbath's Critical Success. A failed Spirit test costs the victim two Psyche Stress levels, and the Umbath decides by a d10 against TN6 whether to return and torment them again in d12 or 2d12 hours. Umbathri fly away when they cease harassing a target.
 
@@ -64,10 +64,10 @@ The Torment talent has no corresponding skill in this system and is not shipped 
 
 ## Attributes
 
-- **Aura:** 17-22 (1d6+16)
+- **Aura:** 17–22 (1d6+16)
 
-- **Will:** 10-15 (1d6+9)
+- **Will:** 10–15 (1d6+9)
 
-- **Reasoning:** 11-16 (1d6+10)
+- **Reasoning:** 11–16 (1d6+10)
 
-- **Creativity:** 14-19 (1d6+13)
+- **Creativity:** 14–19 (1d6+13)

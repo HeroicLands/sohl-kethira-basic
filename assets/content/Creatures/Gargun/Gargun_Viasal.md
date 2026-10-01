@@ -274,26 +274,26 @@ Every Gârgún fights bare-handed when it must, and the Red Gârgún is no excep
 
 ## Attributes
 
-- **Strength:** 10-15 (1d6+9)
+- **Strength:** 10–15 (1d6+9)
 
-- **Endurance:** 10-15 (1d6+9)
+- **Endurance:** 10–15 (1d6+9)
 
-- **Dexterity:** 10-15 (1d6+9)
+- **Dexterity:** 10–15 (1d6+9)
 
-- **Agility:** 8-13 (1d6+7)
+- **Agility:** 8–13 (1d6+7)
 
-- **Perception:** 8-13 (1d6+7)
+- **Perception:** 8–13 (1d6+7)
 
-- **Aura:** 7-10 (1d4+6)
+- **Aura:** 7–10 (1d4+6)
 
-- **Will:** 11-16 (1d6+10)
+- **Will:** 11–16 (1d6+10)
 
-- **Reasoning:** 8-11 (1d4+7)
+- **Reasoning:** 8–11 (1d4+7)
 
-- **Creativity:** 6-9 (1d4+5)
+- **Creativity:** 6–9 (1d4+5)
 
-- **Empathy:** 3-6 (1d4+2)
+- **Empathy:** 3–6 (1d4+2)
 
-- **Eloquence:** 7-10 (1d4+6)
+- **Eloquence:** 7–10 (1d4+6)
 
-- **Morality:** 5-8 (1d4+4)
+- **Morality:** 5–8 (1d4+4)

@@ -263,7 +263,7 @@ A squat, heavy-shouldered Gârgún the colour of wet clay, the Hyéka is built l
 
 # Dossier {#dossier}
 
-The Hyéka are the miners and smiths of the Gârgún, and the most numerous of the five. Their tunnels honeycomb the roots of mountains, and the metalwork that comes out of them — crude, heavy, and serviceable — arms every other species. A Hyéka fights with the five-pound pickaxe it works with, two-handed and without artistry, and will keep swinging long after a wiser creature has run. They are indifferent soldiers in the open field and ruinous opponents in a tunnel.
+The Hyéka are the miners and smiths of the Gârgún, and the most numerous of the five. Their tunnels honeycomb the roots of mountains, and the metalwork that comes out of them—crude, heavy, and serviceable—arms every other species. A Hyéka fights with the five-pound pickaxe it works with, two-handed and without artistry, and will keep swinging long after a wiser creature has run. They are indifferent soldiers in the open field and ruinous opponents in a tunnel.
 
 ## Attack Methods
 
@@ -273,26 +273,26 @@ Every Gârgún fights bare-handed when it must, and the Brown Gârgún is no exc
 
 ## Attributes
 
-- **Strength:** 9-14 (1d6+8)
+- **Strength:** 9–14 (1d6+8)
 
-- **Endurance:** 9-14 (1d6+8)
+- **Endurance:** 9–14 (1d6+8)
 
-- **Dexterity:** 10-15 (1d6+9)
+- **Dexterity:** 10–15 (1d6+9)
 
-- **Agility:** 8-11 (1d4+7)
+- **Agility:** 8–11 (1d4+7)
 
-- **Perception:** 9-14 (1d6+8)
+- **Perception:** 9–14 (1d6+8)
 
-- **Aura:** 6-9 (1d4+5)
+- **Aura:** 6–9 (1d4+5)
 
-- **Will:** 9-14 (1d6+8)
+- **Will:** 9–14 (1d6+8)
 
-- **Reasoning:** 8-11 (1d4+7)
+- **Reasoning:** 8–11 (1d4+7)
 
-- **Creativity:** 5-8 (1d4+4)
+- **Creativity:** 5–8 (1d4+4)
 
-- **Empathy:** 4-7 (1d4+3)
+- **Empathy:** 4–7 (1d4+3)
 
-- **Eloquence:** 8-11 (1d4+7)
+- **Eloquence:** 8–11 (1d4+7)
 
-- **Morality:** 5-8 (1d4+4)
+- **Morality:** 5–8 (1d4+4)

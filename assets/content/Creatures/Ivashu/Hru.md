@@ -289,24 +289,24 @@ Groups of up to forty Hru lie strewn across high mountain wastes through the day
 
 ## Attributes
 
-- **Strength:** 48-53 (1d6+47)
+- **Strength:** 48–53 (1d6+47)
 
-- **Endurance:** 38-43 (1d6+37)
+- **Endurance:** 38–43 (1d6+37)
 
-- **Dexterity:** 7-10 (1d4+6)
+- **Dexterity:** 7–10 (1d4+6)
 
-- **Agility:** 5-8 (1d4+4)
+- **Agility:** 5–8 (1d4+4)
 
-- **Perception:** 7-10 (1d4+6)
+- **Perception:** 7–10 (1d4+6)
 
-- **Aura:** 5-8 (1d4+4)
+- **Aura:** 5–8 (1d4+4)
 
-- **Will:** 10-15 (1d6+9)
+- **Will:** 10–15 (1d6+9)
 
-- **Reasoning:** 8-13 (1d6+7)
+- **Reasoning:** 8–13 (1d6+7)
 
-- **Creativity:** 3-6 (1d4+2)
+- **Creativity:** 3–6 (1d4+2)
 
-- **Empathy:** 5-8 (1d4+4)
+- **Empathy:** 5–8 (1d4+4)
 
-- **Eloquence:** 1-4 (1d4)
+- **Eloquence:** 1–4 (1d4)

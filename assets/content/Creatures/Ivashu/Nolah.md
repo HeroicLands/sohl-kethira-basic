@@ -262,30 +262,30 @@ _The Dank Stalker_ inhabits damp caves and ruined dungeons, or hides beneath rem
 
 **Contort.** Nolahrin may squeeze through cracks at least three inches wide, at Move 10.
 
-**Yearning Geas.** As a one-minute action, a Nólah tests its Geas talent against any creature within half Index miles, attempting to lure it to the Nólah's location — not always its lair. The victim opposes with a Spirit test, ties broken in the victim's favour, and an awake target gets a +20 bonus. Resisted at one level, the victim merely shrugs it off; at three, it senses the Nólah's lair as well. Lured, it arrives confused, stunned, or still sleepwalking, by the margin of its loss.
+**Yearning Geas.** As a one-minute action, a Nólah tests its Geas talent against any creature within half Index miles, attempting to lure it to the Nólah's location—not always its lair. The victim opposes with a Spirit test, ties broken in the victim's favour, and an awake target gets a +20 bonus. Resisted at one level, the victim merely shrugs it off; at three, it senses the Nólah's lair as well. Lured, it arrives confused, stunned, or still sleepwalking, by the margin of its loss.
 
-The Geas talent has no corresponding skill in this system and is not shipped as an item; run it from this description. A Nólah's morningstar is ordinary gear rather than a natural weapon, so it is not shipped either — arm one from the weapons compendium as you see fit.
+The Geas talent has no corresponding skill in this system and is not shipped as an item; run it from this description. A Nólah's morningstar is ordinary gear rather than a natural weapon, so it is not shipped either—arm one from the weapons compendium as you see fit.
 
 ## Attributes
 
-- **Strength:** 12-17 (1d6+11)
+- **Strength:** 12–17 (1d6+11)
 
-- **Endurance:** 17-22 (1d6+16)
+- **Endurance:** 17–22 (1d6+16)
 
-- **Dexterity:** 10-15 (1d6+9)
+- **Dexterity:** 10–15 (1d6+9)
 
-- **Agility:** 15-20 (1d6+14)
+- **Agility:** 15–20 (1d6+14)
 
-- **Perception:** 11-16 (1d6+10)
+- **Perception:** 11–16 (1d6+10)
 
-- **Aura:** 13-18 (1d6+12)
+- **Aura:** 13–18 (1d6+12)
 
-- **Will:** 9-14 (1d6+8)
+- **Will:** 9–14 (1d6+8)
 
-- **Reasoning:** 10-15 (1d6+9)
+- **Reasoning:** 10–15 (1d6+9)
 
-- **Creativity:** 10-15 (1d6+9)
+- **Creativity:** 10–15 (1d6+9)
 
-- **Empathy:** 7-10 (1d4+6)
+- **Empathy:** 7–10 (1d4+6)
 
-- **Eloquence:** 4-7 (1d4+3)
+- **Eloquence:** 4–7 (1d4+3)
