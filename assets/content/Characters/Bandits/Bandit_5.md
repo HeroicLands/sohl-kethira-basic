@@ -393,8 +393,35 @@ sohl:
 
 # Appearance {#appearance}
 
+|                            |                                                        |
+| -------------------------- | ------------------------------------------------------ |
+| **Apparent Age**           | 43                                                     |
+| **Culture**                | Pálithàner                                             |
+| **Social Class**           | Free                                                   |
+| **Height**                 | 6'0"                                                   |
+| **Frame**                  | Medium                                                 |
+| **Weight**                 | 167                                                    |
+| **Appearance/Comeliness**  |                                                        |
+| **Hair Color**             | Black                                                  |
+| **Eye Color**              | Brown                                                  |
+| **Voice**                  |                                                        |
+| **Obvious Medical Traits** |                                                        |
+| **Apparent Occupation**    | Bandit                                                 |
+| **Apparent Wealth**        |                                                        |
+| **Weapons**                |                                                        |
+| **Armour**                 |                                                        |
+| **Companions**             |                                                        |
+| **Other obvious features** | pixie-style cut hair; a tattoo of a horse on the thigh |
+
 ## Physical Description
 
 Age 43, 6'0", 167 lbs, Brown eyes, Black with pixie-style cut hair, with a tattoo of a horse on the thigh.
 
 # Dossier {#dossier}
+
+|                    |              |
+| ------------------ | ------------ |
+| **Birthdate**      | 5 Morgát 676 |
+| **Birthplace**     | Palíthanè    |
+| **Medical Traits** |              |
+| **Psyche Traits**  |              |
