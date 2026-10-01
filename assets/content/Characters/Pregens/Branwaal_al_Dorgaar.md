@@ -79,14 +79,14 @@ sohl:
     - {model: skill-emhlen, system: {masteryLevelBase: 39}}
     - {model: skill-kantal, system: {masteryLevelBase: 52}}
     - {model: skill-lakise, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-armorgear-ctrsr, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-cstnc, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-rhkboot, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-rhgntl, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-mbyr, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-pcap, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-pcoat, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-pl34hlm, system: {isWorn: true}}
+    - {model: sohl-sohl-armorgear-ctrsr}
+    - {model: sohl-sohl-armorgear-cstnc}
+    - {model: sohl-sohl-armorgear-rhkboot}
+    - {model: sohl-sohl-armorgear-rhgntl}
+    - {model: sohl-sohl-armorgear-mbyr}
+    - {model: sohl-sohl-armorgear-pcap}
+    - {model: sohl-sohl-armorgear-pcoat}
+    - {model: sohl-sohl-armorgear-pl34hlm}
     - {model: sohl-sohl-weapongear-rndsh}
     - {model: sohl-sohl-weapongear-brdswd}
     - {model: sohl-sohl-weapongear-dgr}

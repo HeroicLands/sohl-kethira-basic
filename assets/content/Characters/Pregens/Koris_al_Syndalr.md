@@ -76,15 +76,15 @@ sohl:
     - {model: skill-emhlen, system: {masteryLevelBase: 18}}
     - {model: skill-kantal, system: {masteryLevelBase: 27}}
     - {model: skill-palithaner, system: {masteryLevelBase: 45}}
-    - {model: sohl-sohl-armorgear-ctrsr, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-cswd, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-cstnc, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-rhcboot, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-rhgntl, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-sbyrn, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-pcap, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-pstnc, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-plhhelm, system: {isWorn: true}}
+    - {model: sohl-sohl-armorgear-ctrsr}
+    - {model: sohl-sohl-armorgear-cswd}
+    - {model: sohl-sohl-armorgear-cstnc}
+    - {model: sohl-sohl-armorgear-rhcboot}
+    - {model: sohl-sohl-armorgear-rhgntl}
+    - {model: sohl-sohl-armorgear-sbyrn}
+    - {model: sohl-sohl-armorgear-pcap}
+    - {model: sohl-sohl-armorgear-pstnc}
+    - {model: sohl-sohl-armorgear-plhhelm}
     - {model: sohl-sohl-weapongear-rndsh}
     - {model: sohl-sohl-weapongear-baxe}
     - {model: sohl-sohl-weapongear-dgr}

@@ -79,11 +79,11 @@ sohl:
     - {model: skill-harnic, system: {masteryLevelBase: 22}}
     - {model: skill-cultcovenant, system: {masteryLevelBase: 12}}
     - {model: affiliation-cultcovenant}
-    - {model: sohl-sohl-armorgear-cshirt, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-cbrch, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-cswd, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-rhcboot, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-bclk, system: {isWorn: true}}
+    - {model: sohl-sohl-armorgear-cshirt}
+    - {model: sohl-sohl-armorgear-cbrch}
+    - {model: sohl-sohl-armorgear-cswd}
+    - {model: sohl-sohl-armorgear-rhcboot}
+    - {model: sohl-sohl-armorgear-bclk}
     - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-weapongear-lbw100}
     - {model: sohl-sohl-containergear-backpk}
