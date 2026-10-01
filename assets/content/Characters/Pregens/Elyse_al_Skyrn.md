@@ -2,10 +2,12 @@
 shortcode: elysealskyrn
 name: {full: Elýsè al Skýrn, aliases: []}
 type: being
+subType: character
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
+  archetypes: [healer, guildsperson]
   gender: unknown
   age: 26
   born: 693.325

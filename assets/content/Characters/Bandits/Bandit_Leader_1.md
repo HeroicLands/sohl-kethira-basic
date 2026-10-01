@@ -2,10 +2,12 @@
 shortcode: banditleader1
 name: {full: Bandit Leader 1, aliases: []}
 type: being
+subType: npc
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
+  archetypes: [warrior]
   gender: unknown
   age: 27
   born: 692.073

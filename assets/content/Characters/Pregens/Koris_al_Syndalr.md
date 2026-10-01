@@ -2,10 +2,12 @@
 shortcode: korisalsyndalr
 name: {full: Kôris al Sýndalr, aliases: []}
 type: being
+subType: character
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
+  archetypes: [warrior]
   gender: unknown
   age: 27
   born: 692.188

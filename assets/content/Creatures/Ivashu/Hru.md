@@ -2,7 +2,8 @@
 shortcode: hru
 name: {full: Hrú, aliases: [Rock Giant]}
 type: being
-tags: [creature]
+subType: creature
+tags: []
 data: {icon: sohl-none-icon-rockgolem, templatePriority: 0, id: HruRockGiant001}
 sohl:
   attrRollFormula:

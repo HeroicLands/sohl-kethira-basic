@@ -2,7 +2,8 @@
 shortcode: umbath
 name: {full: Umbáth, aliases: [Umbathri, Bearer of the Mask, Gargoyle]}
 type: being
-tags: [creature]
+subType: creature
+tags: []
 data: {icon: sohl-none-icon-gargoyle, templatePriority: 0, id: UmbathBearerMsk}
 sohl:
   attrRollFormula: {aur: 1d6+16, wil: 1d6+9, rea: 1d6+10, cre: 1d6+13}
