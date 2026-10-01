@@ -2,7 +2,8 @@
 shortcode: vlasta
 name: {full: Vlásta, aliases: [Swift One, Eater of Eyes]}
 type: being
-tags: [creature]
+subType: creature
+tags: []
 data: {icon: sohl-none-icon-birdclaw, templatePriority: 0, id: VlastaSwiftOne1}
 sohl:
   attrRollFormula:

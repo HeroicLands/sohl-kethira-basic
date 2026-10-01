@@ -2,15 +2,17 @@
 shortcode: banditleader1
 name: {full: Bandit Leader 1, aliases: []}
 type: being
+subType: npc
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
+  archetypes: [warrior]
   gender: unknown
   age: 27
   born: 692.073
-  height: 1.88
-  weight: 83.01
+  height: 6' 2"
+  weight: 183 lbs
   frame: medium
   appearance:
     eye_color: grey

@@ -2,7 +2,8 @@
 shortcode: domorser
 name: {full: Dómôrsèr, aliases: [Nightcrawler]}
 type: being
-tags: [creature]
+subType: creature
+tags: []
 data: {icon: sohl-none-icon-wolfhead, templatePriority: 0, id: DomorserNghtcrw}
 sohl:
   attrRollFormula:

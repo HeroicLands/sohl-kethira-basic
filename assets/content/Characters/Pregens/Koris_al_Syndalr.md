@@ -2,15 +2,17 @@
 shortcode: korisalsyndalr
 name: {full: Kôris al Sýndalr, aliases: []}
 type: being
+subType: character
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
+  archetypes: [warrior]
   gender: unknown
   age: 27
   born: 692.188
-  height: 1.93
-  weight: 97.52
+  height: 6' 4"
+  weight: 215 lbs
   frame: medium
   appearance:
     eye_color: brown

@@ -2,6 +2,7 @@
 shortcode: kyani
 name: {full: Gârgún Kyáni, aliases: [White Gârgún]}
 type: being
+subType: creature
 tags: [folk, gargun]
 data: {icon: sohl-none-icon-orchead, templatePriority: 0, id: Ga0rgunKyani01A}
 sohl:

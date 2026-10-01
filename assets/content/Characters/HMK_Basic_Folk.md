@@ -2,16 +2,16 @@
 shortcode: hmkbasicfolk
 name: {full: HMK Basic Folk, aliases: []}
 type: being
+subType: character
 description: A character template with standard attributes and common skills.
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 100
+  archetypes: [commoner]
   gender: unknown
   age: 0
   born: 720.001
-  height: 0
-  weight: 0
   frame: medium
   appearance:
     eye_color: brown

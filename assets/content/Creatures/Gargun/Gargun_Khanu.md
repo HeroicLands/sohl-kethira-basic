@@ -2,6 +2,7 @@
 shortcode: khanu
 name: {full: Gârgún Khánu, aliases: [Great Gârgún]}
 type: being
+subType: creature
 tags: [folk, gargun]
 data: {icon: sohl-none-icon-orchead, templatePriority: 0, id: Ga0rgunKhanu01A}
 sohl:

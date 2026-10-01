@@ -2,7 +2,8 @@
 shortcode: nolah
 name: {full: Nólah, aliases: [Nolahrin, Dank Stalker]}
 type: being
-tags: [creature]
+subType: creature
+tags: []
 data: {icon: sohl-none-icon-spectre, templatePriority: 0, id: NolahDankStalkr}
 sohl:
   attrRollFormula:

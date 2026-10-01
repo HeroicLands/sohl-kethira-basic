@@ -2,6 +2,7 @@
 shortcode: hyeka
 name: {full: Gârgún Hyéka, aliases: [Brown Gârgún]}
 type: being
+subType: creature
 tags: [folk, gargun]
 data: {icon: sohl-none-icon-orchead, templatePriority: 0, id: Ga0rgunHyeka01A}
 sohl:
