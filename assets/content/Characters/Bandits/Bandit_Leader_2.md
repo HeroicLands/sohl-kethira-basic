@@ -421,7 +421,7 @@ Age 31, 6'1", 172 lbs, Green eyes, Blonde with low ponytail hair, with a scar ac
 
 |                    |             |
 | ------------------ | ----------- |
-| **Birthdate**      | 1 Peónu 720 |
+| **Birthdate**      | 1 Peónu 688 |
 | **Birthplace**     | Palíthanè   |
 | **Medical Traits** |             |
 | **Psyche Traits**  |             |

@@ -424,7 +424,7 @@ Age 29, 5'10", 158 lbs, Brown eyes, Black close-cropped hair, with a scar on the
 
 |                    |               |
 | ------------------ | ------------- |
-| **Birthdate**      | 22 Hàláne 720 |
+| **Birthdate**      | 22 Hàláne 690 |
 | **Birthplace**     | Palíthanè     |
 | **Medical Traits** |               |
 | **Psyche Traits**  |               |

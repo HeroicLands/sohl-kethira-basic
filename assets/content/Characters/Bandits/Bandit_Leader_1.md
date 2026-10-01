@@ -421,7 +421,7 @@ Age 27, 6'2", 183 lbs, Grey eyes, Blonde with single braid hair, with a scar on 
 
 |                    |              |
 | ------------------ | ------------ |
-| **Birthdate**      | 13 Kèlén 720 |
+| **Birthdate**      | 13 Kèlén 692 |
 | **Birthplace**     | Palíthanè    |
 | **Medical Traits** |              |
 | **Psyche Traits**  |              |

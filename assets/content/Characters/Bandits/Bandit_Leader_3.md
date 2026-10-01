@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   gender: unknown
   age: 29
-  born: 690.290
+  born: "690.290"
   height: 6' 1"
   weight: 170 lbs
   frame: medium
@@ -421,7 +421,7 @@ Age 29, 6'1", 170 lbs, Hazel eyes, Brown bowl cut hair, with a tattoo of a serpe
 
 |                    |              |
 | ------------------ | ------------ |
-| **Birthdate**      | 20 Ilvín 720 |
+| **Birthdate**      | 20 Ilvín 690 |
 | **Birthplace**     | Palíthanè    |
 | **Medical Traits** |              |
 | **Psyche Traits**  |              |
