@@ -20,7 +20,6 @@ data:
     skin_color: light
     complexion: fair
     extra_features: [a scar on the left foot]
-  id: WN1Z4BNdEXWuSWNz
   packFolder: characters
   pack: characters
   social: {occupation: "Bandit Leader", station: "", class: "Free", society: "Palithane"}

@@ -5,12 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Shooting Star is an arcane incantation of the Pèleáhn convocation."
 tags: []
-data:
-  icon: sohl-none-icon-fire
-  templatePriority: 0
-  id: sAuSt7Xy13syOFJz
-  packFolder: peleahn
-  pack: mysteries
+data: {icon: sohl-none-icon-fire, templatePriority: 0, packFolder: peleahn, pack: mysteries}
 sohl:
   kbcat: null
   system:

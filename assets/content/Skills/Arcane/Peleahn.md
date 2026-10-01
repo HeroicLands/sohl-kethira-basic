@@ -5,12 +5,7 @@ type: skill
 subType: mystical
 description: "Pèleáhn is a mystical skill."
 tags: []
-data:
-  icon: sohl-none-icon-fire
-  templatePriority: 0
-  id: mz9bCjPmh8SuX9QE
-  packFolder: esoteric
-  pack: characteristics
+data: {icon: sohl-none-icon-fire, templatePriority: 0, packFolder: esoteric, pack: characteristics}
 sohl:
   kbcat: arcane
   system:

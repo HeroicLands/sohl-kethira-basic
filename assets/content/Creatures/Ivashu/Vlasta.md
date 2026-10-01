@@ -4,7 +4,7 @@ name: {full: Vlásta, aliases: [Swift One, Eater of Eyes]}
 type: being
 subType: creature
 tags: []
-data: {icon: sohl-none-icon-birdclaw, templatePriority: 0, id: VlastaSwiftOne1}
+data: {icon: sohl-none-icon-birdclaw, templatePriority: 0}
 sohl:
   attrRollFormula:
     str: 1d4+2

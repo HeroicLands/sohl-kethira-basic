@@ -8,7 +8,6 @@ tags: []
 data:
   icon: sohl-none-icon-anvil
   templatePriority: 0
-  id: Yk66XLvMNm6RD7ON
   packFolder: esoteric
   pack: characteristics
 sohl:

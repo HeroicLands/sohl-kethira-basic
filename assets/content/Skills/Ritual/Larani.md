@@ -5,12 +5,7 @@ type: skill
 subType: mystical
 description: "Laráni is a mystical skill."
 tags: []
-data:
-  icon: image-kplarani
-  templatePriority: 0
-  id: FruDplKZAChdF261
-  packFolder: rituals
-  pack: characteristics
+data: {icon: image-kplarani, templatePriority: 0, packFolder: rituals, pack: characteristics}
 sohl:
   kbcat: ritual
   system:

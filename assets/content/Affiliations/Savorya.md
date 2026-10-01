@@ -8,7 +8,6 @@ tags: []
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
-  id: l8jxsp9pGx9HqwqG
   packFolder: affiliations
   pack: mysteries
 sohl: {kbcat: affiliation, system: {society: "", office: "", title: "", level: 1}}

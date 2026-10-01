@@ -20,7 +20,6 @@ data:
     skin_color: light
     complexion: fair
     extra_features: [side braid hair]
-  id: apRBncJbSCYQswQc
   packFolder: characters
   pack: characters
   social: {occupation: "Bandit", station: "", class: "Free", society: "Palithane"}

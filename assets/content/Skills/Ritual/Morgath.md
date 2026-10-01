@@ -5,12 +5,7 @@ type: skill
 subType: mystical
 description: "Môrgath is a mystical skill."
 tags: []
-data:
-  icon: image-kpmorgath
-  templatePriority: 0
-  id: rCqyv7KMrp0FtqQX
-  packFolder: rituals
-  pack: characteristics
+data: {icon: image-kpmorgath, templatePriority: 0, packFolder: rituals, pack: characteristics}
 sohl:
   kbcat: ritual
   system:

@@ -5,12 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Ward is an arcane incantation of the Neutral convocation."
 tags: []
-data:
-  icon: sohl-none-icon-moebiusstar
-  templatePriority: 0
-  id: 7MdmH180C57trJ1m
-  packFolder: neutral
-  pack: mysteries
+data: {icon: sohl-none-icon-moebiusstar, templatePriority: 0, packFolder: neutral, pack: mysteries}
 sohl:
   kbcat: null
   system:

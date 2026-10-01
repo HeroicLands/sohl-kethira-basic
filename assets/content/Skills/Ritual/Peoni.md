@@ -5,12 +5,7 @@ type: skill
 subType: mystical
 description: "Peóni is a mystical skill."
 tags: []
-data:
-  icon: image-kppeoni
-  templatePriority: 0
-  id: gevm9nRwQonHFsgE
-  packFolder: rituals
-  pack: characteristics
+data: {icon: image-kppeoni, templatePriority: 0, packFolder: rituals, pack: characteristics}
 sohl:
   kbcat: ritual
   system:

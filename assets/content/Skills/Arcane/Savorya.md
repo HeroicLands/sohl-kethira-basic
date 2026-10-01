@@ -8,7 +8,6 @@ tags: []
 data:
   icon: sohl-none-icon-twoshadows
   templatePriority: 0
-  id: mw1tSeSda9RtkB2E
   packFolder: esoteric
   pack: characteristics
 sohl:

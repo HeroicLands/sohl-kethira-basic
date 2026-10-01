@@ -20,7 +20,6 @@ data:
     skin_color: olive
     complexion: fair
     extra_features: []
-  id: TNcBgsbpfb4Fv0C8
   packFolder: characters
   pack: characters
   social: {occupation: "Bandit", station: "", class: "Free", society: "Palithane"}

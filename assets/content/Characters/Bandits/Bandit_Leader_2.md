@@ -20,7 +20,6 @@ data:
     skin_color: light
     complexion: fair
     extra_features: [a scar across the bridge of the nose]
-  id: jdISJzggKnlX5LAn
   packFolder: characters
   pack: characters
   social: {occupation: "Bandit Leader", station: "", class: "Free", society: "Palithane"}

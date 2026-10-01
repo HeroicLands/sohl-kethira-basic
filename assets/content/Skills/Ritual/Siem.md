@@ -5,12 +5,7 @@ type: skill
 subType: mystical
 description: "Siém is a mystical skill."
 tags: []
-data:
-  icon: image-kpsiem
-  templatePriority: 0
-  id: TaiHOeQqjqJX4qqk
-  packFolder: rituals
-  pack: characteristics
+data: {icon: image-kpsiem, templatePriority: 0, packFolder: rituals, pack: characteristics}
 sohl:
   kbcat: ritual
   system:

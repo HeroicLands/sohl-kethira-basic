@@ -4,7 +4,7 @@ name: {full: Gârgún Kyáni, aliases: [White Gârgún]}
 type: being
 subType: creature
 tags: [folk, gargun]
-data: {icon: sohl-none-icon-orchead, templatePriority: 0, id: Ga0rgunKyani01A}
+data: {icon: sohl-none-icon-orchead, templatePriority: 0}
 sohl:
   attrRollFormula:
     str: 1d6+8

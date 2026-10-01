@@ -5,12 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Cooling is an arcane incantation of the Odívshè convocation."
 tags: []
-data:
-  icon: sohl-none-icon-wavecrest
-  templatePriority: 0
-  id: 2M689o5LuNZUd2bE
-  packFolder: odivshe
-  pack: mysteries
+data: {icon: sohl-none-icon-wavecrest, templatePriority: 0, packFolder: odivshe, pack: mysteries}
 sohl:
   kbcat: null
   system:

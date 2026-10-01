@@ -4,7 +4,7 @@ name: {full: Dómôrsèr, aliases: [Nightcrawler]}
 type: being
 subType: creature
 tags: []
-data: {icon: sohl-none-icon-wolfhead, templatePriority: 0, id: DomorserNghtcrw}
+data: {icon: sohl-none-icon-wolfhead, templatePriority: 0}
 sohl:
   attrRollFormula:
     str: 1d6+13

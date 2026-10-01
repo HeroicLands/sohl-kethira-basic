@@ -4,7 +4,7 @@ name: {full: Gârgún Arák, aliases: [Small Gârgún]}
 type: being
 subType: creature
 tags: [folk, gargun]
-data: {icon: sohl-none-icon-orchead, templatePriority: 0, id: Ga0rgunArak01AA}
+data: {icon: sohl-none-icon-orchead, templatePriority: 0}
 sohl:
   attrRollFormula:
     str: 1d6+7

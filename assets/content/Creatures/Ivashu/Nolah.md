@@ -4,7 +4,7 @@ name: {full: Nólah, aliases: [Nolahrin, Dank Stalker]}
 type: being
 subType: creature
 tags: []
-data: {icon: sohl-none-icon-spectre, templatePriority: 0, id: NolahDankStalkr}
+data: {icon: sohl-none-icon-spectre, templatePriority: 0}
 sohl:
   attrRollFormula:
     str: 1d6+11

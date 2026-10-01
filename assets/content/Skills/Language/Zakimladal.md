@@ -8,7 +8,6 @@ tags: []
 data:
   icon: sohl-none-icon-speaking
   templatePriority: 100
-  id: CsdzvLOYIrnU1Fre
   packFolder: languages
   pack: characteristics
 sohl:

@@ -4,7 +4,7 @@ name: {full: Áklash, aliases: []}
 type: being
 subType: creature
 tags: []
-data: {icon: sohl-none-icon-troll, templatePriority: 0, id: AklashChokeWind}
+data: {icon: sohl-none-icon-troll, templatePriority: 0}
 sohl:
   attrRollFormula:
     str: 1d6+21
