@@ -11,8 +11,8 @@ data:
   gender: unknown
   age: 29
   born: 690.290
-  height: 1.85
-  weight: 77.11
+  height: 6' 1"
+  weight: 170 lbs
   frame: medium
   appearance:
     eye_color: hazel

@@ -11,8 +11,8 @@ data:
   gender: male
   age: 25
   born: 694.250
-  height: 1.78
-  weight: 76.2
+  height: 5' 10"
+  weight: 168 lbs
   frame: large
   appearance:
     eye_color: brown

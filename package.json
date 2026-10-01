@@ -22,10 +22,11 @@
     "scripts": {
         "prepare": "git config core.hooksPath .githooks || true",
         "clean": "package-build clean",
+        "clean:stage": "package-build stage reset",
         "distclean": "package-build clean --distclean",
         "build": "npm ci && npm run build:noci",
         "build:local": "npm i && npm run build:noci",
-        "build:noci": "run-s build:deps lint build:db build:module",
+        "build:noci": "run-s build:deps lint clean:stage build:db build:module",
         "build:db": "run-s build:deps build:content-index build:assets build:compiledb",
         "build:deps": "package-build deps fetch",
         "build:assets": "package-build assets",
