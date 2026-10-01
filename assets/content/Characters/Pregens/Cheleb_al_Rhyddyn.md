@@ -10,7 +10,7 @@ data:
   archetypes: [woodsman, skirmisher]
   gender: unknown
   age: 31
-  born: 688.170
+  born: "688.170"
   height: 5' 11"
   weight: 155 lbs
   frame: medium

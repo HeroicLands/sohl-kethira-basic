@@ -425,7 +425,7 @@ Age 28, 5'11", 168 lbs, Brown eyes, Black with shaved sides hair, with a scar ru
 
 |                    |                |
 | ------------------ | -------------- |
-| **Birthdate**      | 26 Núzyael 720 |
+| **Birthdate**      | 26 Núzyael 691 |
 | **Birthplace**     | Palíthanè      |
 | **Medical Traits** |                |
 | **Psyche Traits**  |                |

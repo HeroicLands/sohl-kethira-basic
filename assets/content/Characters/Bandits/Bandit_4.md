@@ -395,8 +395,35 @@ sohl:
 
 # Appearance {#appearance}
 
+|                            |            |
+| -------------------------- | ---------- |
+| **Apparent Age**           | 29         |
+| **Culture**                | Pálithàner |
+| **Social Class**           | Free       |
+| **Height**                 | 5'6"       |
+| **Frame**                  | Slight     |
+| **Weight**                 | 130        |
+| **Appearance/Comeliness**  |            |
+| **Hair Color**             | Black      |
+| **Eye Color**              | Brown      |
+| **Voice**                  |            |
+| **Obvious Medical Traits** |            |
+| **Apparent Occupation**    | Bandit     |
+| **Apparent Wealth**        |            |
+| **Weapons**                |            |
+| **Armour**                 |            |
+| **Companions**             |            |
+| **Other obvious features** |            |
+
 ## Physical Description
 
 Age 29, 5'6", 130 lbs, Brown eyes, Black with wrapped braid hair.
 
 # Dossier {#dossier}
+
+|                    |              |
+| ------------------ | ------------ |
+| **Birthdate**      | 26 Nólus 690 |
+| **Birthplace**     | Palíthanè    |
+| **Medical Traits** |              |
+| **Psyche Traits**  |              |

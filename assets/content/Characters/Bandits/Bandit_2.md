@@ -10,7 +10,7 @@ data:
   archetypes: [skirmisher]
   gender: male
   age: 25
-  born: 694.250
+  born: "694.250"
   height: 5' 10"
   weight: 168 lbs
   frame: large
@@ -395,8 +395,35 @@ sohl:
 
 # Appearance {#appearance}
 
+|                            |                 |
+| -------------------------- | --------------- |
+| **Apparent Age**           | 25              |
+| **Culture**                | Pálithàner      |
+| **Social Class**           | Free            |
+| **Height**                 | 5'10"           |
+| **Frame**                  | Large           |
+| **Weight**                 | 168             |
+| **Appearance/Comeliness**  |                 |
+| **Hair Color**             | Black           |
+| **Eye Color**              | Brown           |
+| **Voice**                  |                 |
+| **Obvious Medical Traits** |                 |
+| **Apparent Occupation**    | Bandit          |
+| **Apparent Wealth**        |                 |
+| **Weapons**                |                 |
+| **Armour**                 |                 |
+| **Companions**             |                 |
+| **Other obvious features** | side braid hair |
+
 ## Physical Description
 
 Age 25, 5'10", 168 lbs, Brown eyes, Black with side braid hair.
 
 # Dossier {#dossier}
+
+|                    |              |
+| ------------------ | ------------ |
+| **Birthdate**      | 10 Savór 694 |
+| **Birthplace**     | Palíthanè    |
+| **Medical Traits** |              |
+| **Psyche Traits**  |              |
