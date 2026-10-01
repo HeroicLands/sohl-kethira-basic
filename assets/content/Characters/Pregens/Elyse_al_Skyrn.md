@@ -2,15 +2,17 @@
 shortcode: elysealskyrn
 name: {full: Elýsè al Skýrn, aliases: []}
 type: being
+subType: character
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
+  archetypes: [healer, guildsperson]
   gender: unknown
   age: 26
   born: 693.325
-  height: 1.68
-  weight: 58.97
+  height: 5' 6"
+  weight: 130 lbs
   frame: medium
   appearance:
     eye_color: brown

@@ -1,26 +1,26 @@
 # Authoritative label registry for the sohl-kethira-basic repository.
 #
 # This file is the machine-readable source of truth for §3 of
-# .github/ISSUE_REPORTING.md — the two are kept in sync by
+# .github/ISSUE_REPORTING.md—the two are kept in sync by
 # `utils/check-labels.mjs` (run as `npm run lint:labels`). Editing the registry
 # means editing BOTH: this file (name/color/description) and the §3 table.
 #
 # GitHub's labels are reconciled to this file by the org-wide labels action, run by
 # .github/workflows/labels-sync.yml. The set is CLOSED: any label on GitHub that
-# is not listed here is deleted on sync. Do not invent labels — extending the
+# is not listed here is deleted on sync. Do not invent labels—extending the
 # registry is a deliberate edit to this file and §3.
 #
 # The registry is deliberately the NARROWEST in the project: this repository
-# ships Foundry compendium packs and nothing else — no system code, no test
-# suite, and no site — so `system`, `tests`, and `site` are absent.
+# ships Foundry compendium packs and nothing else—no system code, no test
+# suite, and no site—so `system`, `tests`, and `site` are absent.
 
 - name: content
   color: "58ec8d"
-  description: Kethira material — notes, compendium packs, actors, items, journals, scenes, artwork.
+  description: Kethira material—notes, compendium packs, actors, items, journals, scenes, artwork.
 
 - name: documentation
   color: "0075ca"
-  description: Documentation about this repository — README, CLAUDE.md, process, authoring guides.
+  description: Documentation about this repository—README, CLAUDE.md, process, authoring guides.
 
 - name: devops
   color: "e07b31"

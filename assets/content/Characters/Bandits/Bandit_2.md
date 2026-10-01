@@ -2,15 +2,17 @@
 shortcode: bandit2
 name: {full: Bandit 2, aliases: []}
 type: being
+subType: npc
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 100
+  archetypes: [skirmisher]
   gender: male
   age: 25
   born: 694.250
-  height: 1.78
-  weight: 76.2
+  height: 5' 10"
+  weight: 168 lbs
   frame: large
   appearance:
     eye_color: brown
