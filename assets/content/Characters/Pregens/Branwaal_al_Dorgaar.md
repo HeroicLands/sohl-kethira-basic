@@ -8,7 +8,7 @@ data:
   templatePriority: 1
   gender: unknown
   age: 33
-  born: 686/5/16
+  born: 686.136
   height: 1.85
   weight: 81.65
   frame: medium

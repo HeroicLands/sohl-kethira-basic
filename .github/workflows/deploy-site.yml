@@ -12,7 +12,7 @@
 # The build itself is also this repository's — the shared workflow runs
 # `npm run build:site` and knows nothing about what that script does. It only
 # requires the tree land under `build/site/kethira/`, which is what the
-# generated `build/hugo/hugo.toml`'s `publishDir` arranges (`content-build
+# generated `build/hugo/hugo.toml`'s `publishDir` arranges (`package-build
 # site` writes it from package.json and package-build.config.yaml on every
 # run; this repository carries no Hugo configuration of its own).
 #

@@ -40,10 +40,6 @@ packs:
     - { name: journals, label: Journals, type: JournalEntry }
     - { name: characters, label: Characters, type: Actor }
 
-# The content tree publishes in full.
-publish:
-    site: content
-
 # This package's content is its site: with no `publish.address` prefix, a
 # page publishes at /kethira/<type>-<shortcode>/.
 site:
