@@ -76,12 +76,12 @@ sohl:
     - {model: skill-kantal, system: {masteryLevelBase: 52}}
     - {model: skill-lakise, system: {masteryLevelBase: 13}}
     - {model: skill-larani, system: {masteryLevelBase: 14}}
-    - {model: sohl-sohl-armorgear-wleg, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-wscoat, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-wclk, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-rhcboot, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-pvest, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-ltglove, system: {isWorn: true}}
+    - {model: sohl-sohl-armorgear-wleg}
+    - {model: sohl-sohl-armorgear-wscoat}
+    - {model: sohl-sohl-armorgear-wclk}
+    - {model: sohl-sohl-armorgear-rhcboot}
+    - {model: sohl-sohl-armorgear-pvest}
+    - {model: sohl-sohl-armorgear-ltglove}
     - {model: sohl-sohl-weapongear-brdswd}
     - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-weapongear-taburi, name: Tabûri 1, system: {shortcode: Taburi1}}
