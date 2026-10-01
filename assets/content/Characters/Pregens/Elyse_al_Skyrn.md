@@ -86,14 +86,14 @@ sohl:
     - {model: sohl-sohl-containergear-beltpouchl3}
     - model: sohl-sohl-miscgear-gldcrwn
       system: {quantity: 2, note: One gold crown in secret compartment in heel of each boot}
-    - {model: sohl-sohl-armorgear-wleg, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-wcap, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-lskirt, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-lstnc, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-pvest, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-wclk, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-wcowl, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-rhcboot, system: {isWorn: true}}
+    - {model: sohl-sohl-armorgear-wleg}
+    - {model: sohl-sohl-armorgear-wcap}
+    - {model: sohl-sohl-armorgear-lskirt}
+    - {model: sohl-sohl-armorgear-lstnc}
+    - {model: sohl-sohl-armorgear-pvest}
+    - {model: sohl-sohl-armorgear-wclk}
+    - {model: sohl-sohl-armorgear-wcowl}
+    - {model: sohl-sohl-armorgear-rhcboot}
     - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-containergear-backpk}
     - {model: sohl-sohl-containergear-bpchmd}

@@ -69,10 +69,10 @@ sohl:
     - {model: mystery-skorus}
     - {model: affiliation-peoni}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 1}}
-    - {model: sohl-sohl-armorgear-rhtunic, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-cshirt, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-ctrsr, system: {isWorn: true}}
-    - {model: sohl-sohl-armorgear-rhshoe, system: {isWorn: true}}
+    - {model: sohl-sohl-armorgear-rhtunic}
+    - {model: sohl-sohl-armorgear-cshirt}
+    - {model: sohl-sohl-armorgear-ctrsr}
+    - {model: sohl-sohl-armorgear-rhshoe}
     - {model: sohl-sohl-weapongear-shrtswd}
   system:
     body:
