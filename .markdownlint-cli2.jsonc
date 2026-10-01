@@ -1,0 +1,13 @@
+{
+    // Layout knowledge, which is this repository's rather than the shared rule
+    // set's: `ignores` replaces the shared list wholesale rather than extending
+    // it, so `CHANGELOG.md` is restated here. Every rule still comes from
+    // `@heroiclands/package-build`.
+    //
+    // `book-front.md` is the book's title page, and the second half of it is
+    // Keléstia's trademark notice reproduced verbatim, as the Fan Material
+    // Guidelines require. Its URLs are part of that text, so MD034 cannot be
+    // satisfied without editing the notice, and an inline disable is not an
+    // option either: a comment in a `pdf.front` file is typeset into the book.
+    "ignores": ["CHANGELOG.md", "book-front.md"],
+}

@@ -40,6 +40,25 @@ packs:
     - { name: journals, label: Journals, type: JournalEntry }
     - { name: characters, label: Characters, type: Actor }
 
+# The content tree published as a book, built by `package-build release` and
+# attached to the Release. The selection and its order live in `book.yaml`, and
+# `front` carries the title page, which reproduces Keléstia's trademark notice
+# because the Fan Material Guidelines require it wherever this material is
+# published.
+pdf:
+    title: HârnMaster Kethira Basic
+    subtitle: A Song of Heroic Lands Module
+    document: book.yaml
+    front:
+        - book-front.md
+    # All three faces are named, because an unnamed one is not a default but a
+    # fallback: `sans` resolves to `serif` when it is absent, so the headings
+    # the renderer sets in the sans slot come out in the body face.
+    fonts:
+        serif: Libertinus Serif
+        sans: Libertinus Sans
+        mono: Libertinus Mono
+
 # This package's content is its site: with no `publish.address` prefix, a
 # page publishes at /kethira/<type>-<shortcode>/.
 site:

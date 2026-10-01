@@ -16,18 +16,16 @@
 # site` writes it from package.json and package-build.config.yaml on every
 # run; this repository carries no Hugo configuration of its own).
 #
-# `min-pages` / `max-pages` are REQUIRED in `content` mode — the shared
-# workflow reads `publish.site` from the same config the build reads, and
-# fails the run rather than deploy an ungoverned page count. `min-pages` is a
-# floor set below a complete build's page count, not an assertion about
-# today's count: it catches a collapsed build (a taxonomy that stopped
-# rendering, a content tree the build stopped walking), not a change in how
-# many notes this package carries. `max-pages` is a ceiling with the same
-# margin the other way, catching a build that runs away rather than asserting
-# an upper bound on authored content. Both are measured against
-# `build/site/kethira`'s `index.html` count, less the one Hugo's own site root
-# contributes once the landing has an address of its own — see the shared
-# workflow's own comments for that arithmetic.
+# `min-pages` / `max-pages` are what declare that this package publishes
+# content pages: the shared workflow reads no mode from the configuration, so a
+# caller stating neither is held to its homepage alone. `min-pages` is a floor
+# set below a complete build's page count, not an assertion about today's
+# count: it catches a collapsed build (a taxonomy that stopped rendering, a
+# content tree the build stopped walking), not a change in how many notes this
+# package carries. `max-pages` is a ceiling with the same margin the other way,
+# catching a build that runs away. Both are measured against
+# `build/site/kethira`'s `index.html` count — see the shared workflow's own
+# comments for that arithmetic.
 #
 # `_headers` AND `_redirects` are written into the deployment root by
 # `package-build site-root`, which `npm run build:site` runs last. Pages reads
@@ -53,13 +51,14 @@ jobs:
             # Not derived from the package name: renaming a live Pages project
             # to fit a convention would break its deployment history.
             project: sohl-kethira-basic
-            # Measured: a complete build carries 398 pages (399 `index.html`
-            # files under `build/site/kethira`, less Hugo's own site root).
+            # Measured: a complete build carries 50 pages — the landing, the
+            # 27 beings that carry a body, and the 22 folder notes. A note
+            # with no body publishes no page, and this tree is mostly stubs.
             # Set with headroom on both sides of that figure — a floor and a
             # ceiling that catch a collapsed or runaway build, not a
             # description of today's count.
-            min-pages: 350
-            max-pages: 500
+            min-pages: 40
+            max-pages: 150
         # By name, never `secrets: inherit` — inheriting would hand a workflow in
         # another repository every secret this one holds for a job that needs two.
         secrets:
