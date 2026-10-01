@@ -212,34 +212,34 @@ Eighteen inches of mud-brown scale, powerful hind legs and tail, stunted forepaw
 
 # Dossier {#dossier}
 
-Vlásta are a true menace belied by their tiny size. They attack voraciously in groups of up to a dozen — usually in the dark — and the _Swift One_ darts about making running leaps of up to twenty feet. Not afraid even of human-sized targets, Vlásta aim for the face to peck out the eyes. Luckily for their victims these _Eaters of Eyes_ have very fragile bones, easily crushed, and they remain dormant during the day in underground warrens.
+Vlásta are a true menace belied by their tiny size. They attack voraciously in groups of up to a dozen—usually in the dark—and the _Swift One_ darts about making running leaps of up to twenty feet. Not afraid even of human-sized targets, Vlásta aim for the face to peck out the eyes. Luckily for their victims these _Eaters of Eyes_ have very fragile bones, easily crushed, and they remain dormant during the day in underground warrens.
 
 **Acute Senses.** A Vlásta sees perfectly in darkness and may track by its excellent sense of smell.
 
 **Disorientation.** In broad daylight, at the start of a Vlásta's turn, roll d10 against TN5; failure reduces all its tests by one success level for one round.
 
-**Eye Gouge.** When a Vlásta strikes the face, roll d4 on the Face Option subtable. A Grievous injury to an eye — at once or by compounding — plucks the eye out.
+**Eye Gouge.** When a Vlásta strikes the face, roll d4 on the Face Option subtable. A Grievous injury to an eye—at once or by compounding—plucks the eye out.
 
 **Leaping Attack.** A Vlásta always attempts leaping bite attacks against larger foes. With a Charge action it automatically strikes Zone 1 of a human-sized target and then centres its d6 location die around the face. Without a charge, a d10 against TN6 allows the same; on a failed leap, a successful strike rolls d8+2 for the zone struck.
 
 ## Attributes
 
-- **Strength:** 3-6 (1d4+2)
+- **Strength:** 3–6 (1d4+2)
 
-- **Endurance:** 8-13 (1d6+7)
+- **Endurance:** 8–13 (1d6+7)
 
-- **Dexterity:** 14-19 (1d6+13)
+- **Dexterity:** 14–19 (1d6+13)
 
-- **Agility:** 18-23 (1d6+17)
+- **Agility:** 18–23 (1d6+17)
 
-- **Perception:** 15-20 (1d6+14)
+- **Perception:** 15–20 (1d6+14)
 
-- **Scent:** 2-5 (1d4+1)
+- **Scent:** 2–5 (1d4+1)
 
-- **Aura:** 2-5 (1d4+1)
+- **Aura:** 2–5 (1d4+1)
 
-- **Will:** 8-13 (1d6+7)
+- **Will:** 8–13 (1d6+7)
 
-- **Reasoning:** 1-4 (1d4)
+- **Reasoning:** 1–4 (1d4)
 
-- **Creativity:** 3-6 (1d4+2)
+- **Creativity:** 3–6 (1d4+2)

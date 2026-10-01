@@ -261,7 +261,7 @@ sohl:
 
 # Appearance {#appearance}
 
-The Khánu stands a head and shoulders above any other Gârgún, a slab-bodied giant whose hide has hardened over the skull and across the chest into something between callus and horn. It carries the mang — a great two-handed blade of Gârgún make — as though it weighed nothing, and wears the scars of its command openly.
+The Khánu stands a head and shoulders above any other Gârgún, a slab-bodied giant whose hide has hardened over the skull and across the chest into something between callus and horn. It carries the mang—a great two-handed blade of Gârgún make—as though it weighed nothing, and wears the scars of its command openly.
 
 # Dossier {#dossier}
 
@@ -275,26 +275,26 @@ Every Gârgún fights bare-handed when it must, and the Great Gârgún is no exc
 
 ## Attributes
 
-- **Strength:** 11-16 (1d6+10)
+- **Strength:** 11–16 (1d6+10)
 
-- **Endurance:** 11-16 (1d6+10)
+- **Endurance:** 11–16 (1d6+10)
 
-- **Dexterity:** 10-15 (1d6+9)
+- **Dexterity:** 10–15 (1d6+9)
 
-- **Agility:** 8-11 (1d4+7)
+- **Agility:** 8–11 (1d4+7)
 
-- **Perception:** 8-13 (1d6+7)
+- **Perception:** 8–13 (1d6+7)
 
-- **Aura:** 8-11 (1d4+7)
+- **Aura:** 8–11 (1d4+7)
 
-- **Will:** 11-16 (1d6+10)
+- **Will:** 11–16 (1d6+10)
 
-- **Reasoning:** 8-13 (1d6+7)
+- **Reasoning:** 8–13 (1d6+7)
 
-- **Creativity:** 6-9 (1d4+5)
+- **Creativity:** 6–9 (1d4+5)
 
-- **Empathy:** 5-8 (1d4+4)
+- **Empathy:** 5–8 (1d4+4)
 
-- **Eloquence:** 8-13 (1d6+7)
+- **Eloquence:** 8–13 (1d6+7)
 
-- **Morality:** 5-8 (1d4+4)
+- **Morality:** 5–8 (1d4+4)
