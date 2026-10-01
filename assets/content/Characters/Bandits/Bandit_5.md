@@ -2,15 +2,17 @@
 shortcode: bandit5
 name: {full: Bandit 5, aliases: []}
 type: being
+subType: npc
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 100
+  archetypes: [skirmisher]
   gender: unknown
   age: 43
   born: 676.335
-  height: 1.83
-  weight: 75.75
+  height: 6'
+  weight: 167 lbs
   frame: medium
   appearance:
     eye_color: brown

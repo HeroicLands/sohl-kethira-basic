@@ -2,15 +2,17 @@
 shortcode: branwaalaldorgaar
 name: {full: Brànwâal al Dôrgaar, aliases: []}
 type: being
+subType: character
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
+  archetypes: [warrior, courtier]
   gender: unknown
   age: 33
   born: 686.136
-  height: 1.85
-  weight: 81.65
+  height: 6' 1"
+  weight: 180 lbs
   frame: medium
   appearance:
     eye_color: brown

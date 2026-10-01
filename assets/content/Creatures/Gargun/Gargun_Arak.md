@@ -2,6 +2,7 @@
 shortcode: arak
 name: {full: Gârgún Arák, aliases: [Small Gârgún]}
 type: being
+subType: creature
 tags: [folk, gargun]
 data: {icon: sohl-none-icon-orchead, templatePriority: 0, id: Ga0rgunArak01AA}
 sohl:
@@ -260,7 +261,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Barely four feet tall and wiry with it, the Arák is the smallest of the Gârgún — a hunched, quick-eyed thing with mottled grey-green hide drawn tight over knotted muscle. Its ears are large and mobile, its nose broad and constantly working; where its larger kin rely on bulk, the Arák relies on knowing the ground and everything moving on it.
+Barely four feet tall and wiry with it, the Arák is the smallest of the Gârgún—a hunched, quick-eyed thing with mottled grey-green hide drawn tight over knotted muscle. Its ears are large and mobile, its nose broad and constantly working; where its larger kin rely on bulk, the Arák relies on knowing the ground and everything moving on it.
 
 # Dossier {#dossier}
 
@@ -274,28 +275,28 @@ Every Gârgún fights bare-handed when it must, and the Small Gârgún is no exc
 
 ## Attributes
 
-- **Strength:** 8-13 (1d6+7)
+- **Strength:** 8–13 (1d6+7)
 
-- **Endurance:** 8-13 (1d6+7)
+- **Endurance:** 8–13 (1d6+7)
 
-- **Dexterity:** 11-16 (1d6+10)
+- **Dexterity:** 11–16 (1d6+10)
 
-- **Agility:** 8-13 (1d6+7)
+- **Agility:** 8–13 (1d6+7)
 
-- **Perception:** 11-16 (1d6+10)
+- **Perception:** 11–16 (1d6+10)
 
-- **Scent:** 1-4 (1d4)
+- **Scent:** 1–4 (1d4)
 
-- **Aura:** 8-11 (1d4+7)
+- **Aura:** 8–11 (1d4+7)
 
-- **Will:** 8-13 (1d6+7)
+- **Will:** 8–13 (1d6+7)
 
-- **Reasoning:** 8-13 (1d6+7)
+- **Reasoning:** 8–13 (1d6+7)
 
-- **Creativity:** 8-13 (1d6+7)
+- **Creativity:** 8–13 (1d6+7)
 
-- **Empathy:** 5-8 (1d4+4)
+- **Empathy:** 5–8 (1d4+4)
 
-- **Eloquence:** 8-13 (1d6+7)
+- **Eloquence:** 8–13 (1d6+7)
 
-- **Morality:** 5-8 (1d4+4)
+- **Morality:** 5–8 (1d4+4)

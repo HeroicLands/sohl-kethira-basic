@@ -2,15 +2,17 @@
 shortcode: banditarcher3
 name: {full: Bandit Archer 3, aliases: []}
 type: being
+subType: npc
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 1
+  archetypes: [skirmisher]
   gender: unknown
   age: 28
   born: 691.026
-  height: 1.8
-  weight: 76.2
+  height: 5' 11"
+  weight: 168 lbs
   frame: medium
   appearance:
     eye_color: brown

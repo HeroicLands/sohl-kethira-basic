@@ -2,7 +2,8 @@
 shortcode: aklash
 name: {full: Áklash, aliases: []}
 type: being
-tags: [creature]
+subType: creature
+tags: []
 data: {icon: sohl-none-icon-troll, templatePriority: 0, id: AklashChokeWind}
 sohl:
   attrRollFormula:
@@ -280,9 +281,9 @@ Six to eight feet of hairless bulk, its pale body hanging in rolls of fat mottle
 
 # Dossier {#dossier}
 
-A voracious and aggressive omnivore, an Áklash rapidly heals from wounds even when unconscious. While a large, fanged mouth and sharp talons make it a dangerous foe, most alarmingly an Áklash can also exhale a cloud of nauseating gas. Strangely, its brain resides in the thorax — which is why its torso is as vital a target as its head, and why beheading one settles nothing.
+A voracious and aggressive omnivore, an Áklash rapidly heals from wounds even when unconscious. While a large, fanged mouth and sharp talons make it a dangerous foe, most alarmingly an Áklash can also exhale a cloud of nauseating gas. Strangely, its brain resides in the thorax—which is why its torso is as vital a target as its head, and why beheading one settles nothing.
 
-**Choking Wind.** As a free action on its turn, an Áklash can try to belch a cloud of nauseating gas against one foe within ten feet. A test dictates whether enough is ready to discharge; failure leaves the gas dormant for a round or two before it may retest. If discharged, the cloud engulfs the target and forces a Shock Roll against SHK7 — at −20 on the Áklash's Critical Success.
+**Choking Wind.** As a free action on its turn, an Áklash can try to belch a cloud of nauseating gas against one foe within ten feet. A test dictates whether enough is ready to discharge; failure leaves the gas dormant for a round or two before it may retest. If discharged, the cloud engulfs the target and forces a Shock Roll against SHK7—at −20 on the Áklash's Critical Success.
 
 **Regeneration.** At the end of its turn, roll d10 against TN2. A success reduces its most severe injury level by one.
 
@@ -290,24 +291,24 @@ The Choking Wind talent has no corresponding skill in this system and is not shi
 
 ## Attributes
 
-- **Strength:** 22-27 (1d6+21)
+- **Strength:** 22–27 (1d6+21)
 
-- **Endurance:** 16-21 (1d6+15)
+- **Endurance:** 16–21 (1d6+15)
 
-- **Dexterity:** 8-13 (1d6+7)
+- **Dexterity:** 8–13 (1d6+7)
 
-- **Agility:** 7-10 (1d4+6)
+- **Agility:** 7–10 (1d4+6)
 
-- **Perception:** 6-9 (1d4+5)
+- **Perception:** 6–9 (1d4+5)
 
-- **Aura:** 4-7 (1d4+3)
+- **Aura:** 4–7 (1d4+3)
 
-- **Will:** 12-17 (1d6+11)
+- **Will:** 12–17 (1d6+11)
 
-- **Reasoning:** 3-6 (1d4+2)
+- **Reasoning:** 3–6 (1d4+2)
 
-- **Creativity:** 1-4 (1d4)
+- **Creativity:** 1–4 (1d4)
 
-- **Empathy:** 2-5 (1d4+1)
+- **Empathy:** 2–5 (1d4+1)
 
-- **Eloquence:** 1-4 (1d4)
+- **Eloquence:** 1–4 (1d4)

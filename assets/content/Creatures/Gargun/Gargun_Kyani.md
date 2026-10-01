@@ -2,6 +2,7 @@
 shortcode: kyani
 name: {full: Gârgún Kyáni, aliases: [White Gârgún]}
 type: being
+subType: creature
 tags: [folk, gargun]
 data: {icon: sohl-none-icon-orchead, templatePriority: 0, id: Ga0rgunKyani01A}
 sohl:
@@ -259,7 +260,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Pale to the point of bloodlessness, the Kyáni is the least brutish-looking of the Gârgún — lean, upright, with fine dark eyes and hands that do delicate work. A ridge of tougher hide runs over its shoulders, chest and thighs, the pallor there shading to bone.
+Pale to the point of bloodlessness, the Kyáni is the least brutish-looking of the Gârgún—lean, upright, with fine dark eyes and hands that do delicate work. A ridge of tougher hide runs over its shoulders, chest and thighs, the pallor there shading to bone.
 
 # Dossier {#dossier}
 
@@ -273,26 +274,26 @@ Every Gârgún fights bare-handed when it must, and the White Gârgún is no exc
 
 ## Attributes
 
-- **Strength:** 9-14 (1d6+8)
+- **Strength:** 9–14 (1d6+8)
 
-- **Endurance:** 9-14 (1d6+8)
+- **Endurance:** 9–14 (1d6+8)
 
-- **Dexterity:** 10-15 (1d6+9)
+- **Dexterity:** 10–15 (1d6+9)
 
-- **Agility:** 8-13 (1d6+7)
+- **Agility:** 8–13 (1d6+7)
 
-- **Perception:** 8-13 (1d6+7)
+- **Perception:** 8–13 (1d6+7)
 
-- **Aura:** 8-13 (1d6+7)
+- **Aura:** 8–13 (1d6+7)
 
-- **Will:** 10-15 (1d6+9)
+- **Will:** 10–15 (1d6+9)
 
-- **Reasoning:** 9-14 (1d6+8)
+- **Reasoning:** 9–14 (1d6+8)
 
-- **Creativity:** 8-11 (1d4+7)
+- **Creativity:** 8–11 (1d4+7)
 
-- **Empathy:** 7-10 (1d4+6)
+- **Empathy:** 7–10 (1d4+6)
 
-- **Eloquence:** 9-14 (1d6+8)
+- **Eloquence:** 9–14 (1d6+8)
 
-- **Morality:** 8-11 (1d4+7)
+- **Morality:** 8–11 (1d4+7)

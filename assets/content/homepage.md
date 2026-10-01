@@ -5,8 +5,8 @@ type: homepage
 ---
 
 A module for the [Song of Heroic Lands](/sohl/) system
-for Foundry VTT, carrying the basic mechanical pieces — skills, spells, sunsigns,
-convocations and gods — needed to play in the world of Kethira.
+for Foundry VTT, carrying the basic mechanical pieces—skills, spells, sunsigns,
+convocations and gods—needed to play in the world of Kethira.
 
 ## You will need the book
 

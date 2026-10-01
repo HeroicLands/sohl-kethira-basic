@@ -2,7 +2,8 @@
 shortcode: domorser
 name: {full: Dómôrsèr, aliases: [Nightcrawler]}
 type: being
-tags: [creature]
+subType: creature
+tags: []
 data: {icon: sohl-none-icon-wolfhead, templatePriority: 0, id: DomorserNghtcrw}
 sohl:
   attrRollFormula:
@@ -239,20 +240,20 @@ The Sensitivity and Telepathy talents have no corresponding skills in this syste
 
 ## Attributes
 
-- **Strength:** 14-19 (1d6+13)
+- **Strength:** 14–19 (1d6+13)
 
-- **Endurance:** 16-21 (1d6+15)
+- **Endurance:** 16–21 (1d6+15)
 
-- **Dexterity:** 7-10 (1d4+6)
+- **Dexterity:** 7–10 (1d4+6)
 
-- **Agility:** 12-17 (1d6+11)
+- **Agility:** 12–17 (1d6+11)
 
-- **Perception:** 18-23 (1d6+17)
+- **Perception:** 18–23 (1d6+17)
 
-- **Aura:** 10-15 (1d6+9)
+- **Aura:** 10–15 (1d6+9)
 
-- **Will:** 14-19 (1d6+13)
+- **Will:** 14–19 (1d6+13)
 
-- **Reasoning:** 7-10 (1d4+6)
+- **Reasoning:** 7–10 (1d4+6)
 
-- **Creativity:** 5-8 (1d4+4)
+- **Creativity:** 5–8 (1d4+4)

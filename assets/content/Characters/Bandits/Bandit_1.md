@@ -2,15 +2,17 @@
 shortcode: bandit1
 name: {full: Bandit 1, aliases: []}
 type: being
+subType: npc
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 100
+  archetypes: [skirmisher]
   gender: male
   age: 41
   born: 678.007
-  height: 1.73
-  weight: 65.77
+  height: 5' 8"
+  weight: 145 lbs
   frame: medium
   appearance:
     eye_color: brown

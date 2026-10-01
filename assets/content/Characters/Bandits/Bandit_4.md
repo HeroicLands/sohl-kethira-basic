@@ -2,15 +2,17 @@
 shortcode: bandit4
 name: {full: Bandit 4, aliases: []}
 type: being
+subType: npc
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 100
+  archetypes: [skirmisher]
   gender: unknown
   age: 29
   born: 690.116
-  height: 1.68
-  weight: 58.97
+  height: 5' 6"
+  weight: 130 lbs
   frame: slight
   appearance:
     eye_color: brown

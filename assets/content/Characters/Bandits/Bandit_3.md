@@ -2,15 +2,17 @@
 shortcode: bandit3
 name: {full: Bandit 3, aliases: []}
 type: being
+subType: npc
 tags: []
 data:
   icon: sohl-none-icon-person
   templatePriority: 100
+  archetypes: [skirmisher]
   gender: male
   age: 44
   born: 675.314
-  height: 1.83
-  weight: 71.67
+  height: 6'
+  weight: 158 lbs
   frame: medium
   appearance:
     eye_color: brown
