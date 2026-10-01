@@ -1,0 +1,17 @@
+# The book `pdf.document` names — which notes HârnMaster Kethira Basic carries
+# and in what order, one filter per being subtype: the characters a player
+# takes up, the NPCs a referee throws at them, then the creatures. A book
+# carries only notes with a body, so the module's mechanical entries — the
+# skills, mystical abilities, sunsigns and traditions — have no section here;
+# they are compendium items with no prose of their own, which is deliberate.
+# `folder` carries no section either, being compendium structure.
+contents:
+    - sectionName: Characters
+      contents:
+          - filter: "type = 'being' AND subType = 'character'"
+    - sectionName: Bandits
+      contents:
+          - filter: "type = 'being' AND subType = 'npc'"
+    - sectionName: Creatures
+      contents:
+          - filter: "type = 'being' AND subType = 'creature'"
