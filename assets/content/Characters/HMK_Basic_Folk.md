@@ -10,8 +10,6 @@ data:
   gender: unknown
   age: 0
   born: 720.001
-  height: 0
-  weight: 0
   frame: medium
   appearance:
     eye_color: brown

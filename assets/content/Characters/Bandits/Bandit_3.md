@@ -9,8 +9,8 @@ data:
   gender: male
   age: 44
   born: 675.314
-  height: 1.83
-  weight: 71.67
+  height: 6'
+  weight: 158 lbs
   frame: medium
   appearance:
     eye_color: brown
