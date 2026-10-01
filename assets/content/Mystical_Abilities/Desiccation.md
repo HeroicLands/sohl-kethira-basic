@@ -5,12 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Desiccation is an arcane incantation of the Pèleáhn convocation."
 tags: []
-data:
-  icon: sohl-none-icon-fire
-  templatePriority: 0
-  id: rtiWd0bR7EyLXHfB
-  packFolder: peleahn
-  pack: mysteries
+data: {icon: sohl-none-icon-fire, templatePriority: 0, packFolder: peleahn, pack: mysteries}
 sohl:
   kbcat: null
   system:

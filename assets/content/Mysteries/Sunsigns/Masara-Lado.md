@@ -5,12 +5,7 @@ type: mystery
 subType: birthsign
 description: "Masâra-Ládo is a birthsign."
 tags: []
-data:
-  icon: sohl-none-icon-astrology
-  templatePriority: 0
-  id: IxhlQpnsJvoz4FK5
-  packFolder: sunsigns
-  pack: mysteries
+data: {icon: sohl-none-icon-astrology, templatePriority: 0, packFolder: sunsigns, pack: mysteries}
 sohl:
   kbcat: sunsign
   system: {charges: {value: null, max: null}}

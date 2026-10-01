@@ -5,12 +5,7 @@ type: skill
 subType: mystical
 description: "Navéh is a mystical skill."
 tags: []
-data:
-  icon: image-kpnaveh
-  templatePriority: 0
-  id: wxyRLxUzl0yqeCYk
-  packFolder: rituals
-  pack: characteristics
+data: {icon: image-kpnaveh, templatePriority: 0, packFolder: rituals, pack: characteristics}
 sohl:
   kbcat: ritual
   system:

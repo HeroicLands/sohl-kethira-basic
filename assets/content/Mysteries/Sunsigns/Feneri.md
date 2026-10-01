@@ -5,12 +5,7 @@ type: mystery
 subType: birthsign
 description: "Fenéri is a birthsign."
 tags: []
-data:
-  icon: sohl-none-icon-astrology
-  templatePriority: 0
-  id: 0rUilHMn9WsYi9Hn
-  packFolder: sunsigns
-  pack: mysteries
+data: {icon: sohl-none-icon-astrology, templatePriority: 0, packFolder: sunsigns, pack: mysteries}
 sohl:
   kbcat: sunsign
   system: {charges: {value: null, max: null}}

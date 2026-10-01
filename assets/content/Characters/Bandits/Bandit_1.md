@@ -18,7 +18,6 @@ data:
     skin_color: olive
     complexion: fair
     extra_features: [hair parted down the middle]
-  id: Hu562HvSMuqz2ZRg
   packFolder: characters
   pack: characters
   social: {occupation: "Bandit", station: "", class: "Free", society: "Palithane"}

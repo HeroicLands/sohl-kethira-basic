@@ -5,12 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Tempering is an arcane incantation of the Jmôrvi convocation."
 tags: []
-data:
-  icon: sohl-none-icon-anvil
-  templatePriority: 0
-  id: ftyx0YdxOBcXppkF
-  packFolder: jmorvi
-  pack: mysteries
+data: {icon: sohl-none-icon-anvil, templatePriority: 0, packFolder: jmorvi, pack: mysteries}
 sohl:
   kbcat: null
   system:

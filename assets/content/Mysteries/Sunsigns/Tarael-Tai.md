@@ -5,12 +5,7 @@ type: mystery
 subType: birthsign
 description: "Táræl-Tai is a birthsign."
 tags: []
-data:
-  icon: sohl-none-icon-astrology
-  templatePriority: 0
-  id: tdc6S9CPTVAHpccG
-  packFolder: sunsigns
-  pack: mysteries
+data: {icon: sohl-none-icon-astrology, templatePriority: 0, packFolder: sunsigns, pack: mysteries}
 sohl:
   kbcat: sunsign
   system: {charges: {value: null, max: null}}

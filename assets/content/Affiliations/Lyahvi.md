@@ -8,7 +8,6 @@ tags: []
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
-  id: OmtVbKOrNZ7MPRGS
   packFolder: affiliations
   pack: mysteries
 sohl: {kbcat: affiliation, system: {society: "", office: "", title: "", level: 1}}

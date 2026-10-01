@@ -8,7 +8,6 @@ tags: []
 data:
   icon: sohl-none-icon-moebiusstar
   templatePriority: 0
-  id: NM3JB59VYMqlvi6K
   packFolder: esoteric
   pack: characteristics
 sohl:

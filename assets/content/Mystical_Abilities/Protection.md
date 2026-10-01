@@ -5,12 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Protection is an arcane incantation of the Jmôrvi convocation."
 tags: []
-data:
-  icon: sohl-none-icon-anvil
-  templatePriority: 0
-  id: 7NvRLREmWG5n5IP3
-  packFolder: jmorvi
-  pack: mysteries
+data: {icon: sohl-none-icon-anvil, templatePriority: 0, packFolder: jmorvi, pack: mysteries}
 sohl:
   kbcat: null
   system:

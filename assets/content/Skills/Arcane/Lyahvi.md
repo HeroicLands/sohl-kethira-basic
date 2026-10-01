@@ -8,7 +8,6 @@ tags: []
 data:
   icon: sohl-none-icon-whirlwind
   templatePriority: 0
-  id: XvFX3BgxHF2MVCwj
   packFolder: esoteric
   pack: characteristics
 sohl:

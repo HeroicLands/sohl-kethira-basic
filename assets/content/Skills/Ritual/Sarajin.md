@@ -5,12 +5,7 @@ type: skill
 subType: mystical
 description: "Sárajìn is a mystical skill."
 tags: []
-data:
-  icon: image-kpsarajin
-  templatePriority: 0
-  id: 4N4tdZFvVVXQeNcq
-  packFolder: rituals
-  pack: characteristics
+data: {icon: image-kpsarajin, templatePriority: 0, packFolder: rituals, pack: characteristics}
 sohl:
   kbcat: ritual
   system:

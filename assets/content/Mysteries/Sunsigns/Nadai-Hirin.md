@@ -5,12 +5,7 @@ type: mystery
 subType: birthsign
 description: "Nadái-Hîrin is a birthsign."
 tags: []
-data:
-  icon: sohl-none-icon-astrology
-  templatePriority: 0
-  id: xAbc5b0dM5lVNQj0
-  packFolder: sunsigns
-  pack: mysteries
+data: {icon: sohl-none-icon-astrology, templatePriority: 0, packFolder: sunsigns, pack: mysteries}
 sohl:
   kbcat: sunsign
   system: {charges: {value: null, max: null}}

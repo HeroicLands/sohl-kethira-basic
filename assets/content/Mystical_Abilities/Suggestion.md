@@ -5,12 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Suggestion is an arcane incantation of the Sàvôrya convocation."
 tags: []
-data:
-  icon: sohl-none-icon-twoshadows
-  templatePriority: 0
-  id: MKFGj6l9AyUHpb19
-  packFolder: savorya
-  pack: mysteries
+data: {icon: sohl-none-icon-twoshadows, templatePriority: 0, packFolder: savorya, pack: mysteries}
 sohl:
   kbcat: null
   system:

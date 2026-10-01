@@ -18,7 +18,6 @@ data:
     skin_color: light
     complexion: fair
     extra_features: [pixie-style cut hair, a tattoo of a horse on the thigh]
-  id: JtqPjLbs12KX9K80
   packFolder: characters
   pack: characters
   social: {occupation: "Bandit", station: "", class: "Free", society: "Palithane"}

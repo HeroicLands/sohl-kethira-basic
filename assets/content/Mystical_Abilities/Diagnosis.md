@@ -5,12 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Diagnosis is an arcane incantation of the Fývria convocation."
 tags: []
-data:
-  icon: sohl-none-icon-holyoak
-  templatePriority: 0
-  id: yJA2ul6TSfeAABnf
-  packFolder: fyvria
-  pack: mysteries
+data: {icon: sohl-none-icon-holyoak, templatePriority: 0, packFolder: fyvria, pack: mysteries}
 sohl:
   kbcat: null
   system:

@@ -19,7 +19,6 @@ data:
     skin_color: pale
     complexion: fair
     extra_features: []
-  id: Wa6qOUFVsckRKO6R
   packFolder: characters
   pack: characters
   social: {occupation: "", station: "", class: "", society: ""}

@@ -5,12 +5,7 @@ type: skill
 subType: mystical
 description: "Haléa is a mystical skill."
 tags: []
-data:
-  icon: image-kphalea
-  templatePriority: 0
-  id: LCaEFOhHOOhLSNvk
-  packFolder: rituals
-  pack: characteristics
+data: {icon: image-kphalea, templatePriority: 0, packFolder: rituals, pack: characteristics}
 sohl:
   kbcat: ritual
   system:

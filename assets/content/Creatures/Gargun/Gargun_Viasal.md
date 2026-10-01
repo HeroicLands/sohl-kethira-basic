@@ -3,7 +3,7 @@ shortcode: viasal
 name: {full: Gârgún Viásal, aliases: [Red Gârgún]}
 type: being
 tags: [folk, gargun]
-data: {icon: sohl-none-icon-orchead, templatePriority: 0, id: Ga0rgunViasal0A}
+data: {icon: sohl-none-icon-orchead, templatePriority: 0}
 sohl:
   attrRollFormula:
     str: 1d6+9

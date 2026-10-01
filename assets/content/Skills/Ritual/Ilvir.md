@@ -5,12 +5,7 @@ type: skill
 subType: mystical
 description: "Ilvîr is a mystical skill."
 tags: []
-data:
-  icon: image-kpilvir
-  templatePriority: 0
-  id: BL0SMfIJsWRVDXsP
-  packFolder: rituals
-  pack: characteristics
+data: {icon: image-kpilvir, templatePriority: 0, packFolder: rituals, pack: characteristics}
 sohl:
   kbcat: ritual
   system:

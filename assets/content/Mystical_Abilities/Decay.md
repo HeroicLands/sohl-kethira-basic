@@ -5,12 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Decay is an arcane incantation of the Fývria convocation."
 tags: []
-data:
-  icon: sohl-none-icon-holyoak
-  templatePriority: 0
-  id: Rn5TkoHUjQzy8xsL
-  packFolder: fyvria
-  pack: mysteries
+data: {icon: sohl-none-icon-holyoak, templatePriority: 0, packFolder: fyvria, pack: mysteries}
 sohl:
   kbcat: null
   system:

@@ -5,12 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Dart is an arcane incantation of the Jmôrvi convocation."
 tags: []
-data:
-  icon: sohl-none-icon-anvil
-  templatePriority: 0
-  id: oMwdl70b2uP8XE1y
-  packFolder: jmorvi
-  pack: mysteries
+data: {icon: sohl-none-icon-anvil, templatePriority: 0, packFolder: jmorvi, pack: mysteries}
 sohl:
   kbcat: null
   system:

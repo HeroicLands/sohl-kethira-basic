@@ -5,12 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Fever is an arcane incantation of the Pèleáhn convocation."
 tags: []
-data:
-  icon: sohl-none-icon-fire
-  templatePriority: 0
-  id: QUIc42B44yo3yuy0
-  packFolder: peleahn
-  pack: mysteries
+data: {icon: sohl-none-icon-fire, templatePriority: 0, packFolder: peleahn, pack: mysteries}
 sohl:
   kbcat: null
   system:

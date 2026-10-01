@@ -18,7 +18,6 @@ data:
     skin_color: light
     complexion: fair
     extra_features: [a scar on the right side of the face]
-  id: ZiazKvY6oIARxx3b
   packFolder: characters
   pack: characters
   social: {occupation: "Bandit Archer", station: "", class: "Free", society: "Palithane"}

@@ -5,12 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Beam is an arcane incantation of the Lyáhvi convocation."
 tags: []
-data:
-  icon: sohl-none-icon-whirlwind
-  templatePriority: 0
-  id: b5dYBcfSkfAO6skZ
-  packFolder: lyahvi
-  pack: mysteries
+data: {icon: sohl-none-icon-whirlwind, templatePriority: 0, packFolder: lyahvi, pack: mysteries}
 sohl:
   kbcat: null
   system:

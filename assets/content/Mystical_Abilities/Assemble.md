@@ -5,12 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Assemble is an arcane incantation of the Jmôrvi convocation."
 tags: []
-data:
-  icon: sohl-none-icon-anvil
-  templatePriority: 0
-  id: Fxg6egfBMgjnNS0C
-  packFolder: jmorvi
-  pack: mysteries
+data: {icon: sohl-none-icon-anvil, templatePriority: 0, packFolder: jmorvi, pack: mysteries}
 sohl:
   kbcat: null
   system:

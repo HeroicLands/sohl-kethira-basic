@@ -5,12 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Fire Fiend is an arcane incantation of the Pèleáhn convocation."
 tags: []
-data:
-  icon: sohl-none-icon-fire
-  templatePriority: 0
-  id: i8TCVZ58VDyZHwoV
-  packFolder: peleahn
-  pack: mysteries
+data: {icon: sohl-none-icon-fire, templatePriority: 0, packFolder: peleahn, pack: mysteries}
 sohl:
   kbcat: null
   system:

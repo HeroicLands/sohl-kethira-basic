@@ -18,7 +18,6 @@ data:
     skin_color: light
     complexion: fair
     extra_features: [a scar running down the right leg]
-  id: kaZVZSgYiMluKbD3
   packFolder: characters
   pack: characters
   social: {occupation: "Bandit Archer", station: "", class: "Free", society: "Palithane"}

@@ -3,7 +3,7 @@ shortcode: hyeka
 name: {full: Gârgún Hyéka, aliases: [Brown Gârgún]}
 type: being
 tags: [folk, gargun]
-data: {icon: sohl-none-icon-orchead, templatePriority: 0, id: Ga0rgunHyeka01A}
+data: {icon: sohl-none-icon-orchead, templatePriority: 0}
 sohl:
   attrRollFormula:
     str: 1d6+8

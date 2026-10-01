@@ -18,7 +18,6 @@ data:
     skin_color: light
     complexion: fair
     extra_features: [a tattoo of a serpent on the back]
-  id: 7ivelsuPSdm9OHrv
   packFolder: characters
   pack: characters
   social: {occupation: "Bandit Leader", station: "", class: "Free", society: "Palithane"}

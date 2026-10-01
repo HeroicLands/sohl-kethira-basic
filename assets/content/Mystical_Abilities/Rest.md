@@ -5,12 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Rest is an arcane incantation of the Odívshè convocation."
 tags: []
-data:
-  icon: sohl-none-icon-wavecrest
-  templatePriority: 0
-  id: vkhu5G6CqNzMHHAO
-  packFolder: odivshe
-  pack: mysteries
+data: {icon: sohl-none-icon-wavecrest, templatePriority: 0, packFolder: odivshe, pack: mysteries}
 sohl:
   kbcat: null
   system:

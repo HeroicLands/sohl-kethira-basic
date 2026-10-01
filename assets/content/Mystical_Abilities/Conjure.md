@@ -5,12 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Conjure is an arcane incantation of the Odívshè convocation."
 tags: []
-data:
-  icon: sohl-none-icon-wavecrest
-  templatePriority: 0
-  id: IXxyNHy1It9Og2VG
-  packFolder: odivshe
-  pack: mysteries
+data: {icon: sohl-none-icon-wavecrest, templatePriority: 0, packFolder: odivshe, pack: mysteries}
 sohl:
   kbcat: null
   system:

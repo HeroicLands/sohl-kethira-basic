@@ -8,7 +8,6 @@ tags: []
 data:
   icon: sohl-none-icon-circlenn
   templatePriority: 0
-  id: 66a9YrjEUqsOjyvc
   packFolder: rituals
   pack: characteristics
 sohl:

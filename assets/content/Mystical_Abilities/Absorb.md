@@ -5,12 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Absorb is an arcane incantation of the Neutral convocation."
 tags: []
-data:
-  icon: sohl-none-icon-moebiusstar
-  templatePriority: 0
-  id: 4cklnUPcocTdOXWu
-  packFolder: neutral
-  pack: mysteries
+data: {icon: sohl-none-icon-moebiusstar, templatePriority: 0, packFolder: neutral, pack: mysteries}
 sohl:
   kbcat: null
   system:

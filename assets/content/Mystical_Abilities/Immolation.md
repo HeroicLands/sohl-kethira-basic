@@ -5,12 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Immolation is an arcane incantation of the Pèleáhn convocation."
 tags: []
-data:
-  icon: sohl-none-icon-fire
-  templatePriority: 0
-  id: nomkk6fTJg8Iy4VX
-  packFolder: peleahn
-  pack: mysteries
+data: {icon: sohl-none-icon-fire, templatePriority: 0, packFolder: peleahn, pack: mysteries}
 sohl:
   kbcat: null
   system:

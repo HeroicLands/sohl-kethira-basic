@@ -5,12 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Hush is an arcane incantation of the Odívshè convocation."
 tags: []
-data:
-  icon: sohl-none-icon-wavecrest
-  templatePriority: 0
-  id: I6Lu7Q89YzepDFge
-  packFolder: odivshe
-  pack: mysteries
+data: {icon: sohl-none-icon-wavecrest, templatePriority: 0, packFolder: odivshe, pack: mysteries}
 sohl:
   kbcat: null
   system:

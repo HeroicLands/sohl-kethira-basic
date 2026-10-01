@@ -8,7 +8,6 @@ tags: []
 data:
   icon: sohl-none-icon-scrollunfurled
   templatePriority: 0
-  id: kAI2d1vXajl7XdD7
   packFolder: scripts
   pack: characteristics
 sohl:

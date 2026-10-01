@@ -8,7 +8,6 @@ tags: []
 data:
   icon: sohl-none-icon-holyoak
   templatePriority: 0
-  id: XNP6dybkONMzpEVF
   packFolder: esoteric
   pack: characteristics
 sohl:

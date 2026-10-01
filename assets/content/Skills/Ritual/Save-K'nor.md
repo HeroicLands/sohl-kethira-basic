@@ -5,12 +5,7 @@ type: skill
 subType: mystical
 description: "Sávè-K'nôr is a mystical skill."
 tags: []
-data:
-  icon: image-kpsaveknor
-  templatePriority: 0
-  id: gO8X0Xri4b3f3tId
-  packFolder: rituals
-  pack: characteristics
+data: {icon: image-kpsaveknor, templatePriority: 0, packFolder: rituals, pack: characteristics}
 sohl:
   kbcat: ritual
   system:
