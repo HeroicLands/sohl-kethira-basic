@@ -59,3 +59,7 @@ sohl:
         changes: [{key: "mod:logic.masteryLevel", type: add, value: "5", priority: null}]
       _key: "!items.effects!BA1LewIR8VJMqbag.15hcBaf4704yOXXU"
 ---
+
+Tai is a birthsign.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

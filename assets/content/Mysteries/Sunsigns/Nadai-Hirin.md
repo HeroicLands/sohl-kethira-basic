@@ -51,3 +51,7 @@ sohl:
         changes: [{key: "mod:logic.masteryLevel", type: add, value: "-5", priority: null}]
       _key: "!items.effects!xAbc5b0dM5lVNQj0.0Irw7mClS4KEznS8"
 ---
+
+Nadái-Hîrin is a birthsign.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

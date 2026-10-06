@@ -51,3 +51,7 @@ sohl:
         changes: [{key: "mod:logic.masteryLevel", type: add, value: "15", priority: null}]
       _key: "!items.effects!Hjv8cFoLgH5ywN7B.Y8TSP63fCBfuMHo7"
 ---
+
+Skôrus-Masâra is a birthsign.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

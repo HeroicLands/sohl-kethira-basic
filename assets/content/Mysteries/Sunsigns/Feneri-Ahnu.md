@@ -51,3 +51,7 @@ sohl:
         changes: [{key: "mod:logic.masteryLevel", type: add, value: "-5", priority: null}]
       _key: "!items.effects!HBe2jEz45xImY3X6.60vLbVJHxClh9mvb"
 ---
+
+Fenéri-Áhnù is a birthsign.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

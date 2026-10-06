@@ -15,3 +15,7 @@ sohl:
     levelBase: 5
     charges: {value: null, max: null}
 ---
+
+Wave is an arcane incantation of the Odívshè convocation.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

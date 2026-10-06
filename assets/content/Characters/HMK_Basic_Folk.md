@@ -381,3 +381,7 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+A character template with standard attributes and common skills.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

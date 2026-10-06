@@ -15,3 +15,7 @@ sohl:
     levelBase: 5
     charges: {value: null, max: null}
 ---
+
+Perspective is an arcane incantation of the Sàvôrya convocation.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

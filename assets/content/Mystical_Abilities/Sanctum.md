@@ -15,3 +15,7 @@ sohl:
     levelBase: 4
     charges: {value: null, max: null}
 ---
+
+Sanctum is an arcane incantation of the Neutral convocation.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

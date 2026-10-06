@@ -21,3 +21,7 @@ sohl:
     initSkillMult: 0
     impairedByRoles: [vital, core]
 ---
+
+Émhlèn is a language.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

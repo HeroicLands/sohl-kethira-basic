@@ -51,3 +51,7 @@ sohl:
         changes: [{key: "mod:logic.masteryLevel", type: add, value: "10", priority: null}]
       _key: "!items.effects!lXWpXFfh9Dbw3vJt.CgOp2KzvXK01KMjh"
 ---
+
+Ládo-Ùlándus is a birthsign.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

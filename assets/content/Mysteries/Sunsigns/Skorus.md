@@ -43,3 +43,7 @@ sohl:
         changes: [{key: "mod:logic.masteryLevel", type: add, value: "10", priority: null}]
       _key: "!items.effects!klMQI7Di94TBMgQR.r8DtQLsawkPzcMaj"
 ---
+
+Skôrus is a birthsign.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

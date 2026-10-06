@@ -15,3 +15,7 @@ sohl:
     levelBase: 3
     charges: {value: null, max: null}
 ---
+
+Brand is an arcane incantation of the Pèleáhn convocation.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.
