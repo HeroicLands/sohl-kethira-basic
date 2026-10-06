@@ -15,3 +15,7 @@ sohl:
     levelBase: 1
     charges: {value: null, max: null}
 ---
+
+Flame is an arcane incantation of the Pèleáhn convocation.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

@@ -51,3 +51,7 @@ sohl:
         changes: [{key: "mod:logic.masteryLevel", type: add, value: "-10", priority: null}]
       _key: "!items.effects!TBfKIrDH7Oj8axKT.JwqLZZd3HMLMumQB"
 ---
+
+Arálius-Fenéri is a birthsign.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

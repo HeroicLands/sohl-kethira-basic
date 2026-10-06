@@ -59,3 +59,7 @@ sohl:
         changes: [{key: "mod:logic.masteryLevel", type: add, value: "5", priority: null}]
       _key: "!items.effects!N8Ne5Vh4PPOLUTlM.DFczGwZF5xIfN3zV"
 ---
+
+Ùlándus is a birthsign.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

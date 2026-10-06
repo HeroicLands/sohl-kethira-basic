@@ -15,3 +15,7 @@ sohl:
     levelBase: 4
     charges: {value: null, max: null}
 ---
+
+Fist is an arcane incantation of the Jmôrvi convocation.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

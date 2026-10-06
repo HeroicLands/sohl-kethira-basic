@@ -59,3 +59,7 @@ sohl:
         changes: [{key: "mod:logic.masteryLevel", type: add, value: "-5", priority: null}]
       _key: "!items.effects!0rUilHMn9WsYi9Hn.qd9wm0vCmxctfsyh"
 ---
+
+Fenéri is a birthsign.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

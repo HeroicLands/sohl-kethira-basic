@@ -15,3 +15,7 @@ sohl:
     levelBase: 6
     charges: {value: null, max: null}
 ---
+
+Petrification is an arcane incantation of the Fývria convocation.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

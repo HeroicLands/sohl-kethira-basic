@@ -15,3 +15,7 @@ sohl:
     levelBase: 2
     charges: {value: null, max: null}
 ---
+
+Insight is an arcane incantation of the Sàvôrya convocation.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

@@ -17,3 +17,7 @@ sohl:
     initSkillMult: 0
     impairedByRoles: [vital]
 ---
+
+Pèleáhn is a mystical skill.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

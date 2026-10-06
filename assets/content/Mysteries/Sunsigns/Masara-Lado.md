@@ -51,3 +51,7 @@ sohl:
         changes: [{key: "mod:logic.masteryLevel", type: add, value: "15", priority: null}]
       _key: "!items.effects!IxhlQpnsJvoz4FK5.xwUHJcGTBPzCpfkk"
 ---
+
+Masâra-Ládo is a birthsign.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

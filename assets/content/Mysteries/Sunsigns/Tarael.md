@@ -43,3 +43,7 @@ sohl:
         changes: [{key: "mod:logic.masteryLevel", type: add, value: "10", priority: null}]
       _key: "!items.effects!OM8f6ntS6Ro08wSH.flw6c7dgKEOihmaq"
 ---
+
+Táræl is a birthsign.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

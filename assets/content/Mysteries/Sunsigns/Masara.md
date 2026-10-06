@@ -59,3 +59,7 @@ sohl:
         changes: [{key: "mod:logic.masteryLevel", type: add, value: "15", priority: null}]
       _key: "!items.effects!hTjG4MP2ILxzInZ1.Pos2f7LeD68tMusn"
 ---
+
+Masâra is a birthsign.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

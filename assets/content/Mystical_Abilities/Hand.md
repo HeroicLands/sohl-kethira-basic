@@ -15,3 +15,7 @@ sohl:
     levelBase: 5
     charges: {value: null, max: null}
 ---
+
+Hand is an arcane incantation of the Jmôrvi convocation.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.

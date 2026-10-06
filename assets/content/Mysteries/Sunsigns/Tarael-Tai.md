@@ -51,3 +51,7 @@ sohl:
         changes: [{key: "mod:logic.masteryLevel", type: add, value: "5", priority: null}]
       _key: "!items.effects!tdc6S9CPTVAHpccG.DqfurFpfpOVqfWL8"
 ---
+
+Táræl-Tai is a birthsign.
+
+Please see _HârnMaster and the World of Kethira_ documentation for more information.
