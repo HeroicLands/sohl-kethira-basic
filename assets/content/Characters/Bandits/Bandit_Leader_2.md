@@ -22,7 +22,7 @@ data:
     extra_features: [a scar across the bridge of the nose]
   packFolder: characters
   pack: characters
-  social: {occupation: "Bandit Leader", station: "", class: "Free", society: "Palithane"}
+  occupation: Bandit Leader
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
