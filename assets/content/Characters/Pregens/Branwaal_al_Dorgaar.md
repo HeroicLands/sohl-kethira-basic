@@ -22,7 +22,6 @@ data:
     extra_features: []
   packFolder: characters
   pack: characters
-  social: {occupation: "", station: "", class: "", society: ""}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}

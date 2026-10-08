@@ -22,7 +22,7 @@ data:
     extra_features: [hair parted down the middle]
   packFolder: characters
   pack: characters
-  social: {occupation: "Bandit", station: "", class: "Free", society: "Palithane"}
+  occupation: Bandit
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}

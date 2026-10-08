@@ -22,7 +22,7 @@ data:
     extra_features: [a scar on the left foot]
   packFolder: characters
   pack: characters
-  social: {occupation: "Bandit Leader", station: "", class: "Free", society: "Palithane"}
+  occupation: Bandit Leader
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}

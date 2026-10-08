@@ -22,7 +22,7 @@ data:
     extra_features: [a tattoo of a serpent on the back]
   packFolder: characters
   pack: characters
-  social: {occupation: "Bandit Leader", station: "", class: "Free", society: "Palithane"}
+  occupation: Bandit Leader
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
