@@ -32,6 +32,8 @@
 # both files only at that root, never inside the package prefix.
 name: Deploy the Kethira site to Cloudflare Pages
 
+# Deploying is gated by the repository variable HL_DEPLOY_ENABLED.
+
 on:
     # Every push to `main` republishes the page. No path filter: a rebuild is
     # cheap next to how quietly a hand-maintained path list goes stale, and a
@@ -46,7 +48,7 @@ permissions:
 
 jobs:
     deploy:
-        uses: HeroicLands/.github/.github/workflows/deploy-package-site.yml@main
+        uses: HeroicLands/.github/.gitea/workflows/deploy-package-site.yml@main
         with:
             # Not derived from the package name: renaming a live Pages project
             # to fit a convention would break its deployment history.
