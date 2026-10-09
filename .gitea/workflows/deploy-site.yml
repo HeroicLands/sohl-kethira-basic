@@ -53,14 +53,13 @@ jobs:
             # Not derived from the package name: renaming a live Pages project
             # to fit a convention would break its deployment history.
             project: sohl-kethira-basic
-            # Measured: a complete build carries 50 pages — the landing, the
-            # 27 beings that carry a body, and the 22 folder notes. A note
-            # with no body publishes no page, and this tree is mostly stubs.
-            # Set with headroom on both sides of that figure — a floor and a
-            # ceiling that catch a collapsed or runaway build, not a
-            # description of today's count.
-            min-pages: 40
-            max-pages: 150
+            # Measured: a complete build carries 393 pages — the landing, the
+            # folder notes, and every note, since each carries a body (at
+            # least its pointer to the published book). Set with headroom on
+            # both sides of that figure — a floor and a ceiling that catch a
+            # collapsed or runaway build, not a description of today's count.
+            min-pages: 300
+            max-pages: 500
         # By name, never `secrets: inherit` — inheriting would hand a workflow in
         # another repository every secret this one holds for a job that needs two.
         secrets:
