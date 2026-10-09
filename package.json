@@ -1,7 +1,7 @@
 {
     "name": "sohl-kethira-basic",
     "private": true,
-    "version": "0.5.3",
+    "version": "0.6.0",
     "homepage": "https://www.heroiclands.org/kethira/",
     "type": "module",
     "license": "SEE LICENSE IN LICENSE",
