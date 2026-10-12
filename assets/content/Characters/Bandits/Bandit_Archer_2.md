@@ -8,7 +8,7 @@ data:
   icon: sohl-none-icon-person
   templatePriority: 1
   archetypes: [skirmisher]
-  gender: unknown
+  gender: none
   age: 29
   born: 690.232
   height: 5' 10"

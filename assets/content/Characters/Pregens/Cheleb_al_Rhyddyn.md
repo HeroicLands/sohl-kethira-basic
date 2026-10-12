@@ -8,7 +8,7 @@ data:
   icon: sohl-none-icon-person
   templatePriority: 1
   archetypes: [woodsman, skirmisher]
-  gender: unknown
+  gender: none
   age: 31
   born: "688.170"
   height: 5' 11"

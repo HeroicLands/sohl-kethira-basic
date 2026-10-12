@@ -8,7 +8,7 @@ data:
   icon: sohl-none-icon-person
   templatePriority: 1
   archetypes: [warrior]
-  gender: unknown
+  gender: none
   age: 27
   born: 692.188
   height: 6' 4"

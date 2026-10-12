@@ -9,7 +9,7 @@ data:
   icon: sohl-none-icon-person
   templatePriority: 100
   archetypes: [commoner]
-  gender: unknown
+  gender: none
   age: 0
   born: 720.001
   frame: medium

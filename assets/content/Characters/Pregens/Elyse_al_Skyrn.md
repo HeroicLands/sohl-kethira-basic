@@ -8,7 +8,7 @@ data:
   icon: sohl-none-icon-person
   templatePriority: 1
   archetypes: [healer, guildsperson]
-  gender: unknown
+  gender: none
   age: 26
   born: 693.325
   height: 5' 6"

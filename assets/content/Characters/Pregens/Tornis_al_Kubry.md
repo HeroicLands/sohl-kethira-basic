@@ -8,7 +8,7 @@ data:
   icon: sohl-none-icon-person
   templatePriority: 1
   archetypes: [infiltrator, trader]
-  gender: unknown
+  gender: none
   age: 29
   born: 690.032
   height: 5' 10"

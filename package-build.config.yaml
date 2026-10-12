@@ -1,6 +1,11 @@
 contentPackage: kethira
 packageKind: modules
 
+authors:
+    - name: Tom Rodriguez
+      email: toasty@heroiclands.org
+      discord: toasty#8538
+
 stats:
     lastModifiedBy: kethirabuild0000
 
@@ -45,11 +50,20 @@ packs:
 # because the Fan Material Guidelines require it wherever this material is
 # published.
 pdf:
-    title: HârnMaster Kethira Basic
-    subtitle: A Song of Heroic Lands Module
-    document: book.yaml
-    front:
-        - book-front.md
+    books:
+        - id: core
+          title: HârnMaster Kethira Basic
+          subtitle: A Song of Heroic Lands Module
+          document: book.yaml
+          front:
+              - book-front.md
+          out: kethira
+    # The notice the Fan Material Guidelines require, printed at the foot of
+    # the title page.
+    license: |
+        This is unofficial Hârn fan material. Hârn®, HârnWorld®, and HârnMaster® are registered trademarks of Arien Crossby, licensed by Keléstia Productions Ltd (https://www.kelestia.com/). All related concepts and material are the property of Arien Crossby and Keléstia Productions Ltd (https://www.kelestia.com/). Used with permission.
+
+        For details, see the Kelestia.com Fanon Guidelines (https://www.kelestia.com/faq#n86).
     # All three faces are named, because an unnamed one is not a default but a
     # fallback: `sans` resolves to `serif` when it is absent, so the headings
     # the renderer sets in the sans slot come out in the body face.
@@ -112,10 +126,6 @@ packageBuild:
     manifest:
         title: HarnMaster Kethira Basic Items
         descriptionHtml: Basic items needed for playing Song of Heroic Lands in the world of Kethira
-        authors:
-            - name: Toasty
-              discord: toasty#8538
-              flags: {}
         license: LICENSE
         readme: README.md
         languages:

@@ -8,12 +8,12 @@ data:
   icon: sohl-none-icon-person
   templatePriority: 100
   archetypes: [skirmisher]
-  gender: unknown
+  gender: none
   age: 29
   born: 690.116
   height: 5' 6"
   weight: 130 lbs
-  frame: slight
+  frame: light
   appearance:
     eye_color: brown
     hair_color: black

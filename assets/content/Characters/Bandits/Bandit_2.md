@@ -13,7 +13,7 @@ data:
   born: "694.250"
   height: 5' 10"
   weight: 168 lbs
-  frame: large
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: black
