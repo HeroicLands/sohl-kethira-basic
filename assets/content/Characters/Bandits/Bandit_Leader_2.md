@@ -18,8 +18,7 @@ data:
     eye_color: green
     hair_color: blonde
     skin_color: light
-    complexion: fair
-    extra_features: [a scar across the bridge of the nose]
+    extra_features: [a scar across the bridge of the nose, "Complexion: fair"]
   packFolder: characters
   pack: characters
   occupation: Bandit Leader

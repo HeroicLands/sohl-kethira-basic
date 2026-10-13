@@ -17,8 +17,7 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: pale
-    complexion: fair
-    extra_features: []
+    extra_features: ["Complexion: fair"]
   packFolder: characters
   pack: characters
 sohl:

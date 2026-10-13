@@ -18,8 +18,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: light
-    complexion: fair
-    extra_features: [a scar running down the right leg]
+    extra_features: [a scar running down the right leg, "Complexion: fair"]
   packFolder: characters
   pack: characters
   occupation: Bandit Archer

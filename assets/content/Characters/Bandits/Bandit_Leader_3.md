@@ -18,8 +18,7 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: light
-    complexion: fair
-    extra_features: [a tattoo of a serpent on the back]
+    extra_features: [a tattoo of a serpent on the back, "Complexion: fair"]
   packFolder: characters
   pack: characters
   occupation: Bandit Leader

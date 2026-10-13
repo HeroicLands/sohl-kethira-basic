@@ -18,8 +18,7 @@ data:
     eye_color: grey
     hair_color: blonde
     skin_color: light
-    complexion: fair
-    extra_features: [a scar on the left foot]
+    extra_features: [a scar on the left foot, "Complexion: fair"]
   packFolder: characters
   pack: characters
   occupation: Bandit Leader

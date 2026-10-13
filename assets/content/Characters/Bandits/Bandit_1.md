@@ -18,8 +18,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: olive
-    complexion: fair
-    extra_features: [hair parted down the middle]
+    extra_features: [hair parted down the middle, "Complexion: fair"]
   packFolder: characters
   pack: characters
   occupation: Bandit

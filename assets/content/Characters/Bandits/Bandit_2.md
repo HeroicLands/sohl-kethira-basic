@@ -18,8 +18,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: light
-    complexion: fair
-    extra_features: [side braid hair]
+    extra_features: [side braid hair, "Complexion: fair"]
   packFolder: characters
   pack: characters
   occupation: Bandit

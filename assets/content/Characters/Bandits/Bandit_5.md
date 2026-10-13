@@ -18,8 +18,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: light
-    complexion: fair
-    extra_features: [pixie-style cut hair, a tattoo of a horse on the thigh]
+    extra_features: [pixie-style cut hair, a tattoo of a horse on the thigh, "Complexion: fair"]
   packFolder: characters
   pack: characters
   occupation: Bandit
