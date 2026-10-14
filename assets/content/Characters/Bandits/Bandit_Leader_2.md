@@ -18,7 +18,7 @@ data:
     eye_color: green
     hair_color: blonde
     skin_color: light
-    complexion: fair
+    complexion: [clear]
     extra_features: [a scar across the bridge of the nose]
   packFolder: characters
   pack: characters

@@ -18,7 +18,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: olive
-    complexion: fair
+    complexion: [clear]
     extra_features: [hair parted down the middle]
   packFolder: characters
   pack: characters

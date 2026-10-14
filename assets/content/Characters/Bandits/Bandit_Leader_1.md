@@ -18,7 +18,7 @@ data:
     eye_color: grey
     hair_color: blonde
     skin_color: light
-    complexion: fair
+    complexion: [clear]
     extra_features: [a scar on the left foot]
   packFolder: characters
   pack: characters

@@ -18,7 +18,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: light
-    complexion: fair
+    complexion: [clear]
     extra_features: [a scar running down the right leg]
   packFolder: characters
   pack: characters

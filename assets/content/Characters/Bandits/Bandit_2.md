@@ -18,7 +18,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: light
-    complexion: fair
+    complexion: [clear]
     extra_features: [side braid hair]
   packFolder: characters
   pack: characters

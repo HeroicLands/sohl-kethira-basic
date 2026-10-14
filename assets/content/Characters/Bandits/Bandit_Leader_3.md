@@ -18,7 +18,7 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: light
-    complexion: fair
+    complexion: [clear]
     extra_features: [a tattoo of a serpent on the back]
   packFolder: characters
   pack: characters
