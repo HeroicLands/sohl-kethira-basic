@@ -50,7 +50,7 @@ project. They are not redefined here.
 - A **bug** is _broken_; a **feature** is _missing_. That distinction resolves most ambiguity—decide which word fits before anything else.
 - An **epic** MUST link its sub-issues (native GitHub sub-issues; see §6) and SHOULD carry little implementation detail of its own. Its acceptance is "all sub-issues closed and the whole verified together."
 - A **spike** MUST state (a) the question it answers and (b) its timebox. It closes when the question is answered, and it typically _spawns_ follow-up feature/task/bug issues rather than doing the work itself.
-- A **refactor** that changes no external behavior is a **task**, tagged `tech-debt`—it is not a feature and not a bug.
+- A **refactor** that changes no external behavior is a **task**, tagged `flag/tech-debt`—it is not a feature and not a bug.
 
 **What "broken" means for content.** This repository ships prose and data, not
 running code, so a bug is usually a wrong or unloadable _fact_: a dead link, a
@@ -85,49 +85,45 @@ priority answers "when I next sit down, what deserves my time?" not "what is due
 
 - **MUST** set a priority on every issue.
 - **Default to Medium.** Anything higher MUST be justified in the body (one line: why the impact warrants it). Do not inflate—not everything is High.
-- Priority is independent of type, labels, **and** milestone. A `security`-labelled issue is **not** automatically Urgent: hardening with no known exploit can be Low; an exploit in the wild is Urgent. Judge impact, not the topic.
+- Priority is independent of type, labels, **and** milestone. A `flag/security`-labelled issue is **not** automatically Urgent: hardening with no known exploit can be Low; an exploit in the wild is Urgent. Judge impact, not the topic.
 - An **epic**'s priority reflects the initiative's importance, not the max of its children.
 
-## 3. Labels—the closed registry
+## 3. Labels—organization-level
 
-Labels are for **categorization only**. The table below is the **complete,
-authoritative set for this repository**. Its machine-readable twin is
-`.github/labels.yml`, which the `labels-sync` workflow reconciles onto GitHub (the
-set is _closed_—a label not in the registry is deleted on sync). `npm run
-lint:labels` fails if the two disagree (`check-labels`), so they cannot drift.
+Labels are defined once for the whole organization, in `labels.yml` of
+`HeroicLands/.github`. This repository keeps no registry of its own and never
+creates a label here; a gap in the set is raised in `HeroicLands/.github`.
 
-> **MUST NOT invent, rename, or improvise labels.** If no existing label fits, add
-> none and (if it matters) note the gap in the issue body for a maintainer to decide.
-> Extending this registry is a deliberate decision made by editing **both** this
-> table and `.github/labels.yml`, not something done at filing time.
+| Group         | Labels                                                                                                                       |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| `type/`       | `type/bug`, `type/feature`, `type/epic`, `type/task`, `type/spike` (exactly one per issue)                                   |
+| `area/`       | `area/documentation`, `area/devops`, `area/tests`, `area/content`, `area/system`, `area/site`, `area/layout`, `area/styling` |
+| `flag/`       | `flag/breaking-change`, `flag/security`, `flag/regression`, `flag/tech-debt`                                                 |
+| `status/`     | `status/blocked`, `status/question`                                                                                          |
+| `resolution/` | `resolution/duplicate`, `resolution/wontfix`                                                                                 |
+| `ci/`         | `ci/e2e`                                                                                                                     |
 
-**This registry is the narrowest in the project, on purpose.** Each repository's
-registry describes only what that repository can hold. `system`, `tests`, `site`,
-and `thalorna` are absent here: this repository ships no system code, no test
-suite, and no website, and every issue in it is Kethira by definition.
+**When to use them in this repository**
 
-| Label             | Scope                                                                                                                         |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| `content`         | Kethira material—notes, compendium packs, actors, items, journals, scenes, artwork.                                           |
-| `documentation`   | Documentation about this repository—README, CLAUDE.md, process, authoring guides.                                             |
-| `devops`          | Build, tooling, pack pipeline, release, repo config.                                                                          |
-| `security`        | Touches an attack surface: data integrity, macro/script execution, injection, or anything warranting private disclosure (§7). |
-| `tech-debt`       | Restructuring or cleanup of working content or tooling; refactors.                                                            |
-| `regression`      | Something that previously worked and stopped. Pairs with type `bug`.                                                          |
-| `breaking-change` | Alters a shortcode, document ID, or pack compatibility in a way existing worlds will notice.                                  |
-| `blocked`         | Cannot proceed until an external dependency or another issue clears.                                                          |
-| `duplicate`       | This issue or pull request already exists.                                                                                    |
-| `question`        | Further information is requested.                                                                                             |
-| `wontfix`         | This will not be worked on.                                                                                                   |
+- `area/content`—Kethira material: notes, compendium packs, actors, items, journals, scenes, artwork.
+- `area/documentation`—the README, CLAUDE.md, process and authoring guides.
+- `area/devops`—build, tooling, pack pipeline, release, repository configuration.
+- `flag/security`—touches an attack surface: data integrity, macro or script execution, injection, or anything warranting private disclosure (§7).
+- `flag/tech-debt`—restructuring or cleanup of working content or tooling; refactors.
+- `flag/regression`—something that worked and stopped; pairs with type `bug`.
+- `flag/breaking-change`—alters a shortcode, document ID, or pack compatibility in a way existing worlds will notice.
+- `status/blocked`—cannot proceed until an external dependency or another issue clears.
+
+This repository ships no system code, no test suite and no website, so
+`area/system`, `area/tests` and `area/site` do not apply.
 
 > **No capability-gate labels.** Progress toward a capability is tracked by
-> **milestones** (§4), not labels. Do not add `bestiary`-style or `v1.0`-style labels
-> to mark what a milestone already carries.
+> **milestones** (§4), not labels.
 
 **Label rules**
 
-- Choose labels **only** from this file. No exceptions.
-- Labels are additive and orthogonal—`content` + `devops` + `regression` on one bug is fine.
+- Choose labels only from the organization set. No exceptions.
+- Labels are additive and orthogonal—`area/content` + `area/devops` + `flag/regression` on one bug is fine.
 - Do not use a label to express something a type, the priority field, or a milestone already expresses.
 
 ## 4. Milestones—capability gates
@@ -158,7 +154,7 @@ the earlier one or is scoped too large.
 | Done when | all its sub-issues are closed              | all issues tagged to it are closed           |
 | Shape     | vertical: one initiative, decomposed       | horizontal: a slice across the whole package |
 
-**The milestone set is curated, like the label registry**—select from existing
+**The milestone set is curated**—select from existing
 gates and never invent one.
 
 - You MAY assign an issue to a milestone when its work **unambiguously advances exactly one existing gate**.
@@ -182,7 +178,7 @@ capability**, so the milestone progress bar is the only schedule the project kee
 
 Walk this in order; take the first match.
 
-1. Is something **broken** relative to intended behavior? → **bug** (add `regression` if it used to work).
+1. Is something **broken** relative to intended behavior? → **bug** (add `flag/regression` if it used to work).
 2. Is the outcome **genuinely uncertain** and the deliverable a **decision/answer**? → **spike** (state question + timebox).
 3. Is this too large to ship as one issue, needing **multiple sub-issues** to coordinate? → **epic**.
 4. Is it a **new capability or enhancement** that doesn't exist yet? → **feature**.
@@ -293,7 +289,7 @@ Note that follow-up feature/task/bug issues will be filed from the outcome.
 
 ## 7. Security issues—special handling
 
-If an issue would be labelled `security` **and** describes an exploitable weakness
+If an issue would be labelled `flag/security` **and** describes an exploitable weakness
 (not merely hardening), **do not open a public issue**. Use GitHub's private
 security advisories / vulnerability reporting instead—the "Report a
 vulnerability" button on this repository's Security tab, also linked from the issue
@@ -309,37 +305,37 @@ advisory—file it as a public `bug`.
 **Bug, Urgent**
 
 > **Title:** Replace the Keléstia deity sigils still shipped in the pantheon pack
-> **Type:** bug · **Priority:** Urgent · **Labels:** `content` · **Milestone:** _(unset)_
+> **Type:** bug · **Priority:** Urgent · **Labels:** `area/content` · **Milestone:** _(unset)_
 > Body: third-party art is shipping in a released pack—a licence breach with active exposure → Urgent.
 
 **Bug, Medium, regression**
 
 > **Title:** Fix the bestiary pack failing to compile after the shortcode charset change
-> **Type:** bug · **Priority:** Medium · **Labels:** `content`, `devops`, `regression` · **Milestone:** _(unset)_
+> **Type:** bug · **Priority:** Medium · **Labels:** `area/content`, `area/devops`, `flag/regression` · **Milestone:** _(unset)_
 > Body: compiled before, does not now; a local workaround exists → Medium.
 
 **Feature, Medium**
 
 > **Title:** Add the western kingdoms regional entries
-> **Type:** feature · **Priority:** Medium · **Labels:** `content` · **Milestone:** _(unset)_
+> **Type:** feature · **Priority:** Medium · **Labels:** `area/content` · **Milestone:** _(unset)_
 > Body: material that does not exist yet, shippable as one unit → Medium.
 
 **Epic, Medium**
 
 > **Title:** Cover the core bestiary
-> **Type:** epic · **Priority:** Medium · **Labels:** `content`
+> **Type:** epic · **Priority:** Medium · **Labels:** `area/content`
 > Body: coordinates a tree of sub-issues (one per creature family), each filed separately and linked.
 
 **Task, Low**
 
 > **Title:** Bump @heroiclands/package-build to the current release
-> **Type:** task · **Priority:** Low · **Labels:** `devops` · **Milestone:** _(unset)_
+> **Type:** task · **Priority:** Low · **Labels:** `area/devops` · **Milestone:** _(unset)_
 > Body: routine maintenance, deferrable → Low.
 
 **Spike, Medium**
 
 > **Title:** Decide how far this module may reference sohl package content
-> **Type:** spike · **Priority:** Medium · **Labels:** `content`
+> **Type:** spike · **Priority:** Medium · **Labels:** `area/content`
 > Body: **Question**—which cross-package references keep the carve-out withdrawable? **Timebox**—4 hours. **Deliverable**—a written rule. Follow-up issues filed from the finding.
 
 ## 9. Which repository does an issue belong in?
@@ -389,5 +385,5 @@ You should confirm all of these before submitting an issue:
 - [ ] No label duplicates what the type, priority field, or milestone already says.
 - [ ] **Milestone** set only when the issue clearly advances one existing capability gate (§4); otherwise unset. **Never** invented.
 - [ ] Title is imperative and specific; body follows the §6 shape for its type. Title should not encode labels or other field information.
-- [ ] If `security` + exploitable → routed to **private advisory**, not a public issue (§7).
+- [ ] If `flag/security` + exploitable → routed to **private advisory**, not a public issue (§7).
 - [ ] If **epic** → sub-issues are linked. If **spike** → question and timebox are present.

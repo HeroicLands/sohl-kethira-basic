@@ -97,12 +97,6 @@ jobs:
               if: ${{ !cancelled() }}
               run: npm run lint:content-links
 
-            # `.github/labels.yml` and the §3 table of the issue-reporting doc
-            # still name the same closed set.
-            - name: Check label registry
-              if: ${{ !cancelled() }}
-              run: npm run lint:labels
-
     build:
         name: Content pack compile
         runs-on: ubuntu-latest
