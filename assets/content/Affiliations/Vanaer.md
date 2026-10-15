@@ -11,7 +11,9 @@ data:
   packFolder: affiliations
   pack: mysteries
   governance:
-    ranks: [{level: 1, title: Layperson, description: An ordinary layperson of the faith.}]
+    ranks:
+      - {level: 0, title: Apostate, description: One who has renounced the faith.}
+      - {level: 1, title: Layperson, description: An ordinary layperson of the faith.}
 sohl: {kbcat: affiliation, system: {society: "", office: "", title: "", level: 1}}
 ---
 

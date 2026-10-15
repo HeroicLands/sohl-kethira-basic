@@ -108,9 +108,11 @@ site:
                     linkify: false
 
 packageBuild:
+    shippingLicenses:
+        - Harn Fanon
+
     assets:
         - { from: assets/artwork, to: assets/artwork }
-        - { from: assets/images, to: assets/images }
         - { from: assets/simple-calendar, to: assets/simple-calendar }
         - { from: lang, to: lang }
         - { from: LICENSE, to: LICENSE }
