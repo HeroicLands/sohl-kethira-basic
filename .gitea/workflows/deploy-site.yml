@@ -48,7 +48,7 @@ permissions:
 
 jobs:
     deploy:
-        uses: HeroicLands/.github/.gitea/workflows/deploy-package-site.yml@main
+        uses: HeroicLands/.github/.gitea/workflows/deploy-package-site.yml@83bb0cd0af7db952098ef5fe2e8312e7f41040eb # main
         with:
             # Not derived from the package name: renaming a live Pages project
             # to fit a convention would break its deployment history.
