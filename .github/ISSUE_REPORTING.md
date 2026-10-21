@@ -344,13 +344,13 @@ The project spans several repositories in the `HeroicLands` organization, and—
 of the process split—**each one tracks its own work.** There is no central
 tracker.
 
-| Repository                        | Tracks                                                                      |
-| --------------------------------- | --------------------------------------------------------------------------- |
-| `Song-of-Heroic-Lands-FoundryVTT` | The Foundry system code, the `sohl` package's content, and the system build |
-| `sohl-thalorna`                   | The `thalorna` package—original setting content and the `/thalorna` site    |
-| `sohl-kethira-basic`              | **This repository**—the `kethira` package, Foundry compendium packs only    |
-| `heroiclands-site`                | heroiclands.org—its content, Cloudflare Pages, the CDN                      |
-| `heroiclands-hugo-theme`          | The shared Hugo theme the project's sites render through                    |
+| Repository                        | Tracks                                                                           |
+| --------------------------------- | -------------------------------------------------------------------------------- |
+| `Song-of-Heroic-Lands-FoundryVTT` | The Foundry system code, the `sohl` package's content, and the system build      |
+| `sohl-thalorna`                   | The `thalorna` package—original setting content and the `/thalorna` site         |
+| `sohl-kethira-basic`              | **This repository**—the `kethira` package, Foundry compendium packs only         |
+| `heroiclands-site`                | heroiclands.org—its content, Cloudflare Pages, the CDN                           |
+| `package-build`                   | The shared build toolchain and the site theme the project's sites render through |
 
 **File the issue where the work will be done.** The rule is delivery, not subject: if
 the fix is an edit to a file in this repository, the issue belongs here, even when the

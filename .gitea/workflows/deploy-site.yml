@@ -1,6 +1,5 @@
 # Build and deploy /kethira — the authored homepage plus every page the
-# content tree compiles to (`publish.site: content` in
-# `package-build.config.yaml`).
+# content tree compiles to.
 #
 # The runner, the completeness guard, the hosting project, the custom domain and
 # the upload are identical for every package that publishes a subtree of
@@ -11,10 +10,8 @@
 #
 # The build itself is also this repository's — the shared workflow runs
 # `npm run build:site` and knows nothing about what that script does. It only
-# requires the tree land under `build/site/kethira/`, which is what the
-# generated `build/hugo/hugo.toml`'s `publishDir` arranges (`package-build
-# site` writes it from package.json and package-build.config.yaml on every
-# run; this repository carries no Hugo configuration of its own).
+# requires the tree land under `build/site/kethira/`, which is where
+# `package-build site build` writes it.
 #
 # `min-pages` / `max-pages` are what declare that this package publishes
 # content pages: the shared workflow reads no mode from the configuration, so a
@@ -27,9 +24,8 @@
 # `build/site/kethira`'s `index.html` count — see the shared workflow's own
 # comments for that arithmetic.
 #
-# `_headers` AND `_redirects` are written into the deployment root by
-# `package-build site-root`, which `npm run build:site` runs last. Pages reads
-# both files only at that root, never inside the package prefix.
+# `_headers` is written into the deployment root by `package-build site build`.
+# Pages reads it only at that root, never inside the package prefix.
 name: Deploy the Kethira site to Cloudflare Pages
 
 # Deploying is gated by the repository variable HL_DEPLOY_ENABLED.
@@ -48,7 +44,7 @@ permissions:
 
 jobs:
     deploy:
-        uses: HeroicLands/.github/.gitea/workflows/deploy-package-site.yml@83bb0cd0af7db952098ef5fe2e8312e7f41040eb # main
+        uses: HeroicLands/.github/.gitea/workflows/deploy-package-site.yml@3112eb1a40012b0f91a3f5c4aa8c47c43ebad0ef # main
         with:
             # Not derived from the package name: renaming a live Pages project
             # to fit a convention would break its deployment history.

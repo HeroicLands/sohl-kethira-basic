@@ -95,17 +95,6 @@ site:
             - title: Keléstia Productions
               url: https://www.kelestia.com/harnmaster
               text: Where HârnMaster Kethira itself is bought.
-    # The homepage reproduces Keléstia's trademark notice verbatim; Goldmark's
-    # GFM autolinker would otherwise swallow the closing parenthesis of
-    # `(https://www.kelestia.com/)` into the href, breaking a link in a
-    # required legal notice.
-    hugo:
-        params:
-            search: true
-        markup:
-            goldmark:
-                extensions:
-                    linkify: false
 
 packageBuild:
     shippingLicenses:
