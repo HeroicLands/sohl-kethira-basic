@@ -1,6 +1,6 @@
 ---
 shortcode: emhlen
-name: {full: Émhlèn, aliases: []}
+name: {full: Émhlèn}
 type: skill
 subType: language
 description: "Émhlèn is a language."

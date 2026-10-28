@@ -1,6 +1,6 @@
 ---
 shortcode: hunger
-name: {full: Hunger, aliases: []}
+name: {full: Hunger}
 type: mysticalability
 subType: arcaneincantation
 description: "Hunger is an arcane incantation of the Fývria convocation."

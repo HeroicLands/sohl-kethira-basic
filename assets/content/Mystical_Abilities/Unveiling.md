@@ -1,6 +1,6 @@
 ---
 shortcode: unveiling
-name: {full: Unveiling, aliases: []}
+name: {full: Unveiling}
 type: mysticalability
 subType: arcaneincantation
 description: "Unveiling is an arcane incantation of the Lyáhvi convocation."

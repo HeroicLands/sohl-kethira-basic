@@ -1,6 +1,6 @@
 ---
 shortcode: freeze
-name: {full: Freeze, aliases: []}
+name: {full: Freeze}
 type: mysticalability
 subType: arcaneincantation
 description: "Freeze is an arcane incantation of the Odívshè convocation."

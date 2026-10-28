@@ -1,6 +1,6 @@
 ---
 shortcode: missive
-name: {full: Missive, aliases: []}
+name: {full: Missive}
 type: mysticalability
 subType: arcaneincantation
 description: "Missive is an arcane incantation of the Sàvôrya convocation."

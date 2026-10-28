@@ -1,6 +1,6 @@
 ---
 shortcode: victual
-name: {full: Victual, aliases: []}
+name: {full: Victual}
 type: mysticalability
 subType: arcaneincantation
 description: "Victual is an arcane incantation of the Fývria convocation."

@@ -1,6 +1,6 @@
 ---
 shortcode: jmorvi
-name: {full: Jmôrvi, aliases: []}
+name: {full: Jmôrvi}
 type: affiliation
 subType: arcanetradition
 description: "Jmôrvi is an arcane convocation."

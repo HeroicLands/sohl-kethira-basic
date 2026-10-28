@@ -1,6 +1,6 @@
 ---
 shortcode: wind
-name: {full: Wind, aliases: []}
+name: {full: Wind}
 type: mysticalability
 subType: arcaneincantation
 description: "Wind is an arcane incantation of the Lyáhvi convocation."

@@ -1,6 +1,6 @@
 ---
 shortcode: ulandus
-name: {full: Ùlándus, aliases: []}
+name: {full: Ùlándus}
 type: mystery
 subType: birthsign
 description: "Ùlándus is a birthsign."

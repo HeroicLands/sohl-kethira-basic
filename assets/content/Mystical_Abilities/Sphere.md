@@ -1,6 +1,6 @@
 ---
 shortcode: sphere
-name: {full: Sphere, aliases: []}
+name: {full: Sphere}
 type: mysticalability
 subType: arcaneincantation
 description: "Sphere is an arcane incantation of the Pèleáhn convocation."

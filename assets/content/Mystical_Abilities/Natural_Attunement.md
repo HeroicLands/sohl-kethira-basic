@@ -1,6 +1,6 @@
 ---
 shortcode: natn
-name: {full: Natural Attunement, aliases: []}
+name: {full: Natural Attunement}
 type: mysticalability
 subType: arcanetalent
 description: "Natural Attunement is an arcane talent."

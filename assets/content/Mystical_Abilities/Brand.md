@@ -1,6 +1,6 @@
 ---
 shortcode: brand
-name: {full: Brand, aliases: []}
+name: {full: Brand}
 type: mysticalability
 subType: arcaneincantation
 description: "Brand is an arcane incantation of the Pèleáhn convocation."

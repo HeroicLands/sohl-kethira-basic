@@ -1,6 +1,6 @@
 ---
 shortcode: convoke
-name: {full: Convoke, aliases: []}
+name: {full: Convoke}
 type: mysticalability
 subType: arcaneincantation
 description: "Convoke is an arcane incantation of the Pèleáhn convocation."

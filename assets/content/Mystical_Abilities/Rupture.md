@@ -1,6 +1,6 @@
 ---
 shortcode: rupture
-name: {full: Rupture, aliases: []}
+name: {full: Rupture}
 type: mysticalability
 subType: arcaneincantation
 description: "Rupture is an arcane incantation of the Sàvôrya convocation."

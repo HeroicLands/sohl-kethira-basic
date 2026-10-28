@@ -1,6 +1,6 @@
 ---
 shortcode: falani
-name: {full: Faláni, aliases: []}
+name: {full: Faláni}
 type: skill
 subType: language
 description: "Faláni is a language."

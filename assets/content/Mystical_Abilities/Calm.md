@@ -1,6 +1,6 @@
 ---
 shortcode: calm
-name: {full: Calm, aliases: []}
+name: {full: Calm}
 type: mysticalability
 subType: arcaneincantation
 description: "Calm is an arcane incantation of the Odívshè convocation."

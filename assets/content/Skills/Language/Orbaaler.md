@@ -1,6 +1,6 @@
 ---
 shortcode: orbaaler
-name: {full: Orbáaler, aliases: []}
+name: {full: Orbáaler}
 type: skill
 subType: language
 description: "Orbáaler is a language."

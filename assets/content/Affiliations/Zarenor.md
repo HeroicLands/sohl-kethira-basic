@@ -1,6 +1,6 @@
 ---
 shortcode: zarenor
-name: {full: Zârenor, aliases: []}
+name: {full: Zârenor}
 type: affiliation
 subType: faithtradition
 description: "Zârenor is a faith tradition."

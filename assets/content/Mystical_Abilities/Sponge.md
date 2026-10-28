@@ -1,6 +1,6 @@
 ---
 shortcode: sponge
-name: {full: Sponge, aliases: []}
+name: {full: Sponge}
 type: mysticalability
 subType: arcaneincantation
 description: "Sponge is an arcane incantation of the Odívshè convocation."

@@ -1,6 +1,6 @@
 ---
 shortcode: flash
-name: {full: Flash, aliases: []}
+name: {full: Flash}
 type: mysticalability
 subType: arcaneincantation
 description: "Flash is an arcane incantation of the Lyáhvi convocation."

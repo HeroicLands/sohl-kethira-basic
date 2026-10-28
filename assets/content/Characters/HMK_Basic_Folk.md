@@ -1,6 +1,6 @@
 ---
 shortcode: hmkbasicfolk
-name: {full: HMK Basic Folk, aliases: []}
+name: {full: HMK Basic Folk}
 type: being
 subType: character
 description: A character template with standard attributes and common skills.

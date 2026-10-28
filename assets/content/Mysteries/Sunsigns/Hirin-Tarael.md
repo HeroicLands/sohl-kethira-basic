@@ -1,6 +1,6 @@
 ---
 shortcode: hirintarael
-name: {full: Hîrin-Táræl, aliases: []}
+name: {full: Hîrin-Táræl}
 type: mystery
 subType: birthsign
 description: "Hîrin-Táræl is a birthsign."

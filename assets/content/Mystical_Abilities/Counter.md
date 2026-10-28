@@ -1,6 +1,6 @@
 ---
 shortcode: counter
-name: {full: Counter, aliases: []}
+name: {full: Counter}
 type: mysticalability
 subType: arcaneincantation
 description: "Counter is an arcane incantation of the Neutral convocation."

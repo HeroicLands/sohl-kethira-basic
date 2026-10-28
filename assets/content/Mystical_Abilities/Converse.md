@@ -1,6 +1,6 @@
 ---
 shortcode: converse
-name: {full: Converse, aliases: []}
+name: {full: Converse}
 type: mysticalability
 subType: arcaneincantation
 description: "Converse is an arcane incantation of the Neutral convocation."

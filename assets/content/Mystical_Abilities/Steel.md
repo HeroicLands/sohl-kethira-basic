@@ -1,6 +1,6 @@
 ---
 shortcode: steel
-name: {full: Steel, aliases: []}
+name: {full: Steel}
 type: mysticalability
 subType: arcaneincantation
 description: "Steel is an arcane incantation of the Jmôrvi convocation."

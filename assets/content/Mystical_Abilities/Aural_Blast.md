@@ -1,6 +1,6 @@
 ---
 shortcode: auralblast
-name: {full: Aural Blast, aliases: []}
+name: {full: Aural Blast}
 type: mysticalability
 subType: arcaneincantation
 description: "Aural Blast is an arcane incantation of the Sàvôrya convocation."

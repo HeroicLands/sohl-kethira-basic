@@ -1,6 +1,6 @@
 ---
 shortcode: mordar
-name: {full: Môrdar, aliases: []}
+name: {full: Môrdar}
 type: affiliation
 subType: faithtradition
 description: "Môrdar is a faith tradition."

@@ -1,6 +1,6 @@
 ---
 shortcode: metal
-name: {full: Metal, aliases: []}
+name: {full: Metal}
 type: mysticalability
 subType: arcaneincantation
 description: "Metal is an arcane incantation of the Jmôrvi convocation."

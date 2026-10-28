@@ -1,6 +1,6 @@
 ---
 shortcode: slumber
-name: {full: Slumber, aliases: []}
+name: {full: Slumber}
 type: mysticalability
 subType: arcaneincantation
 description: "Slumber is an arcane incantation of the Fývria convocation."

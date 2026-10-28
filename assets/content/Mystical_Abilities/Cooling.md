@@ -1,6 +1,6 @@
 ---
 shortcode: cooling
-name: {full: Cooling, aliases: []}
+name: {full: Cooling}
 type: mysticalability
 subType: arcaneincantation
 description: "Cooling is an arcane incantation of the Odívshè convocation."

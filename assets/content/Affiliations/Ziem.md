@@ -1,6 +1,6 @@
 ---
 shortcode: ziem
-name: {full: Ziém, aliases: []}
+name: {full: Ziém}
 type: affiliation
 subType: faithtradition
 description: "Ziém is a faith tradition."

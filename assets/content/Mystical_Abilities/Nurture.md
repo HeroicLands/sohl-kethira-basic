@@ -1,6 +1,6 @@
 ---
 shortcode: nurture
-name: {full: Nurture, aliases: []}
+name: {full: Nurture}
 type: mysticalability
 subType: arcaneincantation
 description: "Nurture is an arcane incantation of the Fývria convocation."

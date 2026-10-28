@@ -1,6 +1,6 @@
 ---
 shortcode: harnic
-name: {full: Hârnic, aliases: []}
+name: {full: Hârnic}
 type: skill
 subType: language
 description: "Hârnic is a language."

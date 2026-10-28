@@ -1,6 +1,6 @@
 ---
 shortcode: domorser
-name: {full: Dómôrsèr, aliases: [Nightcrawler]}
+name: {full: Dómôrsèr, en: [Nightcrawler]}
 type: being
 subType: creature
 tags: []

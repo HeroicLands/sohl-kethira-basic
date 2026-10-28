@@ -1,6 +1,6 @@
 ---
 shortcode: odivshe
-name: {full: Odívshè, aliases: []}
+name: {full: Odívshè}
 type: skill
 subType: mystical
 description: "Odívshè is a mystical skill."

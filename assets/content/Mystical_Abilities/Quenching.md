@@ -1,6 +1,6 @@
 ---
 shortcode: quenching
-name: {full: Quenching, aliases: []}
+name: {full: Quenching}
 type: mysticalability
 subType: arcaneincantation
 description: "Quenching is an arcane incantation of the Odívshè convocation."

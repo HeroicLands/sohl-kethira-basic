@@ -1,6 +1,6 @@
 ---
 shortcode: spoon
-name: {full: Spoon, aliases: []}
+name: {full: Spoon}
 type: mysticalability
 subType: arcaneincantation
 description: "Spoon is an arcane incantation of the Odívshè convocation."

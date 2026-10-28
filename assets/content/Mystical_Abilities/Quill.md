@@ -1,6 +1,6 @@
 ---
 shortcode: quill
-name: {full: Quill, aliases: []}
+name: {full: Quill}
 type: mysticalability
 subType: arcaneincantation
 description: "Quill is an arcane incantation of the Sàvôrya convocation."

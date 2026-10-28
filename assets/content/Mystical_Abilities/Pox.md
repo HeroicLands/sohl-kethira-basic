@@ -1,6 +1,6 @@
 ---
 shortcode: pox
-name: {full: Pox, aliases: []}
+name: {full: Pox}
 type: mysticalability
 subType: arcaneincantation
 description: "Pox is an arcane incantation of the Fývria convocation."

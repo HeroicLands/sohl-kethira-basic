@@ -1,6 +1,6 @@
 ---
 shortcode: reverse
-name: {full: Reverse, aliases: []}
+name: {full: Reverse}
 type: mysticalability
 subType: arcaneincantation
 description: "Reverse is an arcane incantation of the Neutral convocation."

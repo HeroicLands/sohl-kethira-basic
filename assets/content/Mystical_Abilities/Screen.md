@@ -1,6 +1,6 @@
 ---
 shortcode: screen
-name: {full: Screen, aliases: []}
+name: {full: Screen}
 type: mysticalability
 subType: arcaneincantation
 description: "Screen is an arcane incantation of the Jmôrvi convocation."

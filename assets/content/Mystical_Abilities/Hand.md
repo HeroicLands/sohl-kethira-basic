@@ -1,6 +1,6 @@
 ---
 shortcode: hand
-name: {full: Hand, aliases: []}
+name: {full: Hand}
 type: mysticalability
 subType: arcaneincantation
 description: "Hand is an arcane incantation of the Jmôrvi convocation."

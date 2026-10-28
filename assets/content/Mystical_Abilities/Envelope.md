@@ -1,6 +1,6 @@
 ---
 shortcode: envelope
-name: {full: Envelope, aliases: []}
+name: {full: Envelope}
 type: mysticalability
 subType: arcaneincantation
 description: "Envelope is an arcane incantation of the Pèleáhn convocation."

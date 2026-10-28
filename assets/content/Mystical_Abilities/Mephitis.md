@@ -1,6 +1,6 @@
 ---
 shortcode: mephitis
-name: {full: Mephitis, aliases: []}
+name: {full: Mephitis}
 type: mysticalability
 subType: arcaneincantation
 description: "Mephitis is an arcane incantation of the Jmôrvi convocation."

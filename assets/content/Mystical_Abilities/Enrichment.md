@@ -1,6 +1,6 @@
 ---
 shortcode: enrichment
-name: {full: Enrichment, aliases: []}
+name: {full: Enrichment}
 type: mysticalability
 subType: arcaneincantation
 description: "Enrichment is an arcane incantation of the Sàvôrya convocation."

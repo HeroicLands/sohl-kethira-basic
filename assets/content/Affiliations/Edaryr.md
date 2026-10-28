@@ -1,6 +1,6 @@
 ---
 shortcode: edaryr
-name: {full: Edâryr, aliases: []}
+name: {full: Edâryr}
 type: affiliation
 subType: faithtradition
 description: "Edâryr is a faith tradition."

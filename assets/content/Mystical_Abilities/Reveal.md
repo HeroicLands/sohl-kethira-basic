@@ -1,6 +1,6 @@
 ---
 shortcode: reveal
-name: {full: Reveal, aliases: []}
+name: {full: Reveal}
 type: mysticalability
 subType: arcaneincantation
 description: "Reveal is an arcane incantation of the Neutral convocation."

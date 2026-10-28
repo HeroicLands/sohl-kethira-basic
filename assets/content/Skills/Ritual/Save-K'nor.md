@@ -1,6 +1,6 @@
 ---
 shortcode: saveknor
-name: {full: Sávè-K'nôr, aliases: []}
+name: {full: Sávè-K'nôr}
 type: skill
 subType: mystical
 description: "Sávè-K'nôr is a mystical skill."

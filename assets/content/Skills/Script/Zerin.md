@@ -1,6 +1,6 @@
 ---
 shortcode: zerin
-name: {full: Zérin, aliases: []}
+name: {full: Zérin}
 type: skill
 subType: script
 description: "Zérin is a script."

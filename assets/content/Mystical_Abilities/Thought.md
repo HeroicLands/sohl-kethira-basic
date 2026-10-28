@@ -1,6 +1,6 @@
 ---
 shortcode: thought
-name: {full: Thought, aliases: []}
+name: {full: Thought}
 type: mysticalability
 subType: arcaneincantation
 description: "Thought is an arcane incantation of the Sàvôrya convocation."

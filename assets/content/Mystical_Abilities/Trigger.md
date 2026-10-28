@@ -1,6 +1,6 @@
 ---
 shortcode: trigger
-name: {full: Trigger, aliases: []}
+name: {full: Trigger}
 type: mysticalability
 subType: arcaneincantation
 description: "Trigger is an arcane incantation of the Neutral convocation."

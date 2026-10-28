@@ -1,6 +1,6 @@
 ---
 shortcode: siem
-name: {full: Siém, aliases: []}
+name: {full: Siém}
 type: skill
 subType: mystical
 description: "Siém is a mystical skill."

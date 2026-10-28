@@ -1,6 +1,6 @@
 ---
 shortcode: flame
-name: {full: Flame, aliases: []}
+name: {full: Flame}
 type: mysticalability
 subType: arcaneincantation
 description: "Flame is an arcane incantation of the Pèleáhn convocation."

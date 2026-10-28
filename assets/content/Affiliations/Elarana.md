@@ -1,6 +1,6 @@
 ---
 shortcode: elarana
-name: {full: Elarána, aliases: []}
+name: {full: Elarána}
 type: affiliation
 subType: faithtradition
 description: "Elarána is a faith tradition."

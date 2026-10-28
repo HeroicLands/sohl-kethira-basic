@@ -1,6 +1,6 @@
 ---
 shortcode: skorusmasara
-name: {full: Skôrus-Masâra, aliases: []}
+name: {full: Skôrus-Masâra}
 type: mystery
 subType: birthsign
 description: "Skôrus-Masâra is a birthsign."

@@ -1,6 +1,6 @@
 ---
 shortcode: dalani
-name: {full: Dálani, aliases: []}
+name: {full: Dálani}
 type: skill
 subType: language
 description: "Dálani is a language."

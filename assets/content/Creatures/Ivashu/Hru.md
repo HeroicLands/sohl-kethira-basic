@@ -1,6 +1,6 @@
 ---
 shortcode: hru
-name: {full: Hrú, aliases: [Rock Giant]}
+name: {full: Hrú, en: [Rock Giant]}
 type: being
 subType: creature
 tags: []

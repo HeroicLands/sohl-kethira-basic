@@ -1,6 +1,6 @@
 ---
 shortcode: sarajin
-name: {full: Sárajìn, aliases: []}
+name: {full: Sárajìn}
 type: affiliation
 subType: faithtradition
 description: "Sárajìn is a faith tradition."

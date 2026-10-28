@@ -1,6 +1,6 @@
 ---
 shortcode: skorus
-name: {full: Skôrus, aliases: []}
+name: {full: Skôrus}
 type: mystery
 subType: birthsign
 description: "Skôrus is a birthsign."

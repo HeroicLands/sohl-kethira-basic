@@ -1,6 +1,6 @@
 ---
 shortcode: chelebalrhyddyn
-name: {full: Chéleb al Rhýddyn, aliases: []}
+name: {full: Chéleb al Rhýddyn}
 type: being
 subType: character
 tags: []

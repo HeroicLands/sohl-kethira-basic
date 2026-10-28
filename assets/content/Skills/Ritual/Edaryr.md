@@ -1,6 +1,6 @@
 ---
 shortcode: edaryr
-name: {full: Edâryr, aliases: []}
+name: {full: Edâryr}
 type: skill
 subType: mystical
 description: "Edâryr is a mystical skill."

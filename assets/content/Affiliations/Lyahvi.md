@@ -1,6 +1,6 @@
 ---
 shortcode: lyahvi
-name: {full: Lyáhvi, aliases: []}
+name: {full: Lyáhvi}
 type: affiliation
 subType: arcanetradition
 description: "Lyáhvi is an arcane convocation."

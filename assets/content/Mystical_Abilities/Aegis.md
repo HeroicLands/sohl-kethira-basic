@@ -1,6 +1,6 @@
 ---
 shortcode: aegis
-name: {full: Aegis, aliases: []}
+name: {full: Aegis}
 type: mysticalability
 subType: arcaneincantation
 description: "Aegis is an arcane incantation of the Neutral convocation."

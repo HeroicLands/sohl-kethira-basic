@@ -1,6 +1,6 @@
 ---
 shortcode: hacherian
-name: {full: Hácherian, aliases: []}
+name: {full: Hácherian}
 type: skill
 subType: language
 description: "Hácherian is a language."

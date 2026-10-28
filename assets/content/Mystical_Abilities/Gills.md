@@ -1,6 +1,6 @@
 ---
 shortcode: gills
-name: {full: Gills, aliases: []}
+name: {full: Gills}
 type: mysticalability
 subType: arcaneincantation
 description: "Gills is an arcane incantation of the Odívshè convocation."

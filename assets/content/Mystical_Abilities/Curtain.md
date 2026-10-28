@@ -1,6 +1,6 @@
 ---
 shortcode: curtain
-name: {full: Curtain, aliases: []}
+name: {full: Curtain}
 type: mysticalability
 subType: arcaneincantation
 description: "Curtain is an arcane incantation of the Lyáhvi convocation."

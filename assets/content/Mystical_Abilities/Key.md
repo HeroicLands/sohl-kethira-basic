@@ -1,6 +1,6 @@
 ---
 shortcode: key
-name: {full: Key, aliases: []}
+name: {full: Key}
 type: mysticalability
 subType: arcaneincantation
 description: "Key is an arcane incantation of the Sàvôrya convocation."

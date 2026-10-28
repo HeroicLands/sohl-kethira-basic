@@ -1,6 +1,6 @@
 ---
 shortcode: ivinian
-name: {full: Ivínian, aliases: []}
+name: {full: Ivínian}
 type: skill
 subType: language
 description: "Ivínian is a language."

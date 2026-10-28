@@ -1,6 +1,6 @@
 ---
 shortcode: savorya
-name: {full: Sàvôrya, aliases: []}
+name: {full: Sàvôrya}
 type: affiliation
 subType: arcanetradition
 description: "Sàvôrya is an arcane convocation."

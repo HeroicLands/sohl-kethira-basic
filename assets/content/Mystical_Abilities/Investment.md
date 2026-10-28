@@ -1,6 +1,6 @@
 ---
 shortcode: investment
-name: {full: Investment, aliases: []}
+name: {full: Investment}
 type: mysticalability
 subType: arcaneincantation
 description: "Investment is an arcane incantation of the Neutral convocation."

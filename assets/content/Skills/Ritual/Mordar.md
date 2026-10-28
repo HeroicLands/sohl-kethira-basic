@@ -1,6 +1,6 @@
 ---
 shortcode: mordar
-name: {full: Môrdar, aliases: []}
+name: {full: Môrdar}
 type: skill
 subType: mystical
 description: "Môrdar is a mystical skill."

@@ -1,6 +1,6 @@
 ---
 shortcode: arak
-name: {full: Gârgún Arák, aliases: [Small Gârgún]}
+name: {full: Gârgún Arák, en: [Small Gârgún]}
 type: being
 subType: creature
 tags: [folk, gargun]

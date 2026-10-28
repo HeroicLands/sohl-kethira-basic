@@ -1,6 +1,6 @@
 ---
 shortcode: succour
-name: {full: Succour, aliases: []}
+name: {full: Succour}
 type: mysticalability
 subType: arcaneincantation
 description: "Succour is an arcane incantation of the Fývria convocation."

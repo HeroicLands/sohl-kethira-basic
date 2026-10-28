@@ -1,6 +1,6 @@
 ---
 shortcode: pool
-name: {full: Pool, aliases: []}
+name: {full: Pool}
 type: mysticalability
 subType: arcaneincantation
 description: "Pool is an arcane incantation of the Neutral convocation."

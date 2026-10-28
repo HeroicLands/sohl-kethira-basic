@@ -1,6 +1,6 @@
 ---
 shortcode: growth
-name: {full: Growth, aliases: []}
+name: {full: Growth}
 type: mysticalability
 subType: arcaneincantation
 description: "Growth is an arcane incantation of the Fývria convocation."

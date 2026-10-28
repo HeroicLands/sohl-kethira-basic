@@ -1,6 +1,6 @@
 ---
 shortcode: zarenor
-name: {full: Zârenor, aliases: []}
+name: {full: Zârenor}
 type: skill
 subType: mystical
 description: "Zârenor is a mystical skill."

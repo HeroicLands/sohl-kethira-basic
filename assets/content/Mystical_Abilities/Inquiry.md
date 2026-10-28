@@ -1,6 +1,6 @@
 ---
 shortcode: inquiry
-name: {full: Inquiry, aliases: []}
+name: {full: Inquiry}
 type: mysticalability
 subType: arcaneincantation
 description: "Inquiry is an arcane incantation of the Sàvôrya convocation."

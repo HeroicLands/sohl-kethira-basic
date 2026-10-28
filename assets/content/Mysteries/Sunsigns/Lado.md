@@ -1,6 +1,6 @@
 ---
 shortcode: lado
-name: {full: Ládo, aliases: []}
+name: {full: Ládo}
 type: mystery
 subType: birthsign
 description: "Ládo is a birthsign."

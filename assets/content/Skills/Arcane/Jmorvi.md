@@ -1,6 +1,6 @@
 ---
 shortcode: jmorvi
-name: {full: Jmôrvi, aliases: []}
+name: {full: Jmôrvi}
 type: skill
 subType: mystical
 description: "Jmôrvi is a mystical skill."

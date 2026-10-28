@@ -1,6 +1,6 @@
 ---
 shortcode: wall
-name: {full: Wall, aliases: []}
+name: {full: Wall}
 type: mysticalability
 subType: arcaneincantation
 description: "Wall is an arcane incantation of the Pèleáhn convocation."

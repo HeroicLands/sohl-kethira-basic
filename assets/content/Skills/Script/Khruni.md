@@ -1,6 +1,6 @@
 ---
 shortcode: khruni
-name: {full: Khrúni, aliases: []}
+name: {full: Khrúni}
 type: skill
 subType: script
 description: "Khrúni is a script."

@@ -1,6 +1,6 @@
 ---
 shortcode: telp
-name: {full: Telepathy, aliases: []}
+name: {full: Telepathy}
 type: mysticalability
 subType: arcanetalent
 description: "Telepathy is an arcane talent."

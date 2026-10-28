@@ -1,6 +1,6 @@
 ---
 shortcode: negx
-name: {full: Negation, aliases: []}
+name: {full: Negation}
 type: mysticalability
 subType: arcanetalent
 description: "Negation is an arcane talent."

@@ -1,6 +1,6 @@
 ---
 shortcode: savorya
-name: {full: Sàvôrya, aliases: []}
+name: {full: Sàvôrya}
 type: skill
 subType: mystical
 description: "Sàvôrya is a mystical skill."

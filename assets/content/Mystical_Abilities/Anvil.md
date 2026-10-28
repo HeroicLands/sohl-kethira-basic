@@ -1,6 +1,6 @@
 ---
 shortcode: anvil
-name: {full: Anvil, aliases: []}
+name: {full: Anvil}
 type: mysticalability
 subType: arcaneincantation
 description: "Anvil is an arcane incantation of the Jmôrvi convocation."

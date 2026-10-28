@@ -1,6 +1,6 @@
 ---
 shortcode: lustre
-name: {full: Lustre, aliases: []}
+name: {full: Lustre}
 type: mysticalability
 subType: arcaneincantation
 description: "Lustre is an arcane incantation of the Jmôrvi convocation."

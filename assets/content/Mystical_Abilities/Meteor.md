@@ -1,6 +1,6 @@
 ---
 shortcode: meteor
-name: {full: Meteor, aliases: []}
+name: {full: Meteor}
 type: mysticalability
 subType: arcaneincantation
 description: "Meteor is an arcane incantation of the Pèleáhn convocation."

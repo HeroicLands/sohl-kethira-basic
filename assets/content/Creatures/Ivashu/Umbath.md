@@ -1,6 +1,6 @@
 ---
 shortcode: umbath
-name: {full: Umbáth, aliases: [Umbathri, Bearer of the Mask, Gargoyle]}
+name: {full: Umbáth, en: [Umbathri, Bearer of the Mask, Gargoyle]}
 type: being
 subType: creature
 tags: []

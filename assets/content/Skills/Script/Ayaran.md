@@ -1,6 +1,6 @@
 ---
 shortcode: ayaran
-name: {full: Ayâran, aliases: []}
+name: {full: Ayâran}
 type: skill
 subType: script
 description: "Ayâran is a script."

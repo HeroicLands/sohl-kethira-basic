@@ -1,6 +1,6 @@
 ---
 shortcode: fist
-name: {full: Fist, aliases: []}
+name: {full: Fist}
 type: mysticalability
 subType: arcaneincantation
 description: "Fist is an arcane incantation of the Jmôrvi convocation."

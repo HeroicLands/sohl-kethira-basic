@@ -1,6 +1,6 @@
 ---
 shortcode: gauntlet
-name: {full: Gauntlet, aliases: []}
+name: {full: Gauntlet}
 type: mysticalability
 subType: arcaneincantation
 description: "Gauntlet is an arcane incantation of the Pèleáhn convocation."

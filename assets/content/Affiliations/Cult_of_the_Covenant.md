@@ -1,6 +1,6 @@
 ---
 shortcode: cultcovenant
-name: {full: Cult of the Covenant, aliases: []}
+name: {full: Cult of the Covenant}
 type: affiliation
 subType: faithtradition
 description: "Cult of the Covenant is a faith tradition."

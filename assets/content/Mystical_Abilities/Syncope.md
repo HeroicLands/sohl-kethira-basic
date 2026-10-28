@@ -1,6 +1,6 @@
 ---
 shortcode: syncope
-name: {full: Syncope, aliases: []}
+name: {full: Syncope}
 type: mysticalability
 subType: arcaneincantation
 description: "Syncope is an arcane incantation of the Fývria convocation."

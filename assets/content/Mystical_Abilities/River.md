@@ -1,6 +1,6 @@
 ---
 shortcode: river
-name: {full: River, aliases: []}
+name: {full: River}
 type: mysticalability
 subType: arcaneincantation
 description: "River is an arcane incantation of the Odívshè convocation."

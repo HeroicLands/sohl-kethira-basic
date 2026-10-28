@@ -1,6 +1,6 @@
 ---
 shortcode: ilvir
-name: {full: Ilvîr, aliases: []}
+name: {full: Ilvîr}
 type: skill
 subType: mystical
 description: "Ilvîr is a mystical skill."

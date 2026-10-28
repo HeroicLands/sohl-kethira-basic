@@ -1,6 +1,6 @@
 ---
 shortcode: taiskorus
-name: {full: Tai-Skôrus, aliases: []}
+name: {full: Tai-Skôrus}
 type: mystery
 subType: birthsign
 description: "Tai-Skôrus is a birthsign."

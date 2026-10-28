@@ -1,6 +1,6 @@
 ---
 shortcode: chain
-name: {full: Chain, aliases: []}
+name: {full: Chain}
 type: mysticalability
 subType: arcaneincantation
 description: "Chain is an arcane incantation of the Neutral convocation."

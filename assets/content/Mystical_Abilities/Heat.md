@@ -1,6 +1,6 @@
 ---
 shortcode: heat
-name: {full: Heat, aliases: []}
+name: {full: Heat}
 type: mysticalability
 subType: arcaneincantation
 description: "Heat is an arcane incantation of the Pèleáhn convocation."

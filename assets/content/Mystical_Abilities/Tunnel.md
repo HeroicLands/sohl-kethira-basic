@@ -1,6 +1,6 @@
 ---
 shortcode: tunnel
-name: {full: Tunnel, aliases: []}
+name: {full: Tunnel}
 type: mysticalability
 subType: arcaneincantation
 description: "Tunnel is an arcane incantation of the Fývria convocation."

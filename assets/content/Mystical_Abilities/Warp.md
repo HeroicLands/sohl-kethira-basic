@@ -1,6 +1,6 @@
 ---
 shortcode: warp
-name: {full: Warp, aliases: []}
+name: {full: Warp}
 type: mysticalability
 subType: arcaneincantation
 description: "Warp is an arcane incantation of the Fývria convocation."

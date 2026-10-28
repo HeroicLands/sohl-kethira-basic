@@ -1,6 +1,6 @@
 ---
 shortcode: tap
-name: {full: Tap, aliases: []}
+name: {full: Tap}
 type: mysticalability
 subType: arcaneincantation
 description: "Tap is an arcane incantation of the Neutral convocation."

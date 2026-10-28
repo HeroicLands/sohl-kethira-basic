@@ -1,6 +1,6 @@
 ---
 shortcode: ahnuangberelius
-name: {full: Áhnù-Angberélius, aliases: []}
+name: {full: Áhnù-Angberélius}
 type: mystery
 subType: birthsign
 description: "Áhnù-Angberélius is a birthsign."

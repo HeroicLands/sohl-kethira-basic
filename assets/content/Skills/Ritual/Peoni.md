@@ -1,6 +1,6 @@
 ---
 shortcode: peoni
-name: {full: Peóni, aliases: []}
+name: {full: Peóni}
 type: skill
 subType: mystical
 description: "Peóni is a mystical skill."

@@ -1,6 +1,6 @@
 ---
 shortcode: shootingstar
-name: {full: Shooting Star, aliases: []}
+name: {full: Shooting Star}
 type: mysticalability
 subType: arcaneincantation
 description: "Shooting Star is an arcane incantation of the Pèleáhn convocation."

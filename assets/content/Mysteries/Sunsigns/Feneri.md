@@ -1,6 +1,6 @@
 ---
 shortcode: feneri
-name: {full: Fenéri, aliases: []}
+name: {full: Fenéri}
 type: mystery
 subType: birthsign
 description: "Fenéri is a birthsign."

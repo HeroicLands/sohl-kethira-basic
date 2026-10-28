@@ -1,6 +1,6 @@
 ---
 shortcode: image
-name: {full: Image, aliases: []}
+name: {full: Image}
 type: mysticalability
 subType: arcaneincantation
 description: "Image is an arcane incantation of the Lyáhvi convocation."

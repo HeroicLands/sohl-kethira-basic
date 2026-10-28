@@ -1,6 +1,6 @@
 ---
 shortcode: ampl
-name: {full: Amplification, aliases: []}
+name: {full: Amplification}
 type: mysticalability
 subType: arcanetalent
 description: "Amplification is an arcane talent."

@@ -1,6 +1,6 @@
 ---
 shortcode: doomflame
-name: {full: Doom Flame, aliases: []}
+name: {full: Doom Flame}
 type: mysticalability
 subType: arcaneincantation
 description: "Doom Flame is an arcane incantation of the Pèleáhn convocation."

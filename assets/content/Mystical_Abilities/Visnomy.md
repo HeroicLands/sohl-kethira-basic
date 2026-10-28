@@ -1,6 +1,6 @@
 ---
 shortcode: vsnm
-name: {full: Visnomy, aliases: []}
+name: {full: Visnomy}
 type: mysticalability
 subType: arcanetalent
 description: "Visnomy is an arcane talent."

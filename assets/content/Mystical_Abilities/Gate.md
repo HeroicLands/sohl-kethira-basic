@@ -1,6 +1,6 @@
 ---
 shortcode: gate
-name: {full: Gate, aliases: []}
+name: {full: Gate}
 type: mysticalability
 subType: arcaneincantation
 description: "Gate is an arcane incantation of the Neutral convocation."

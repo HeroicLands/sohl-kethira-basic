@@ -1,6 +1,6 @@
 ---
 shortcode: recollection
-name: {full: Recollection, aliases: []}
+name: {full: Recollection}
 type: mysticalability
 subType: arcaneincantation
 description: "Recollection is an arcane incantation of the Sàvôrya convocation."

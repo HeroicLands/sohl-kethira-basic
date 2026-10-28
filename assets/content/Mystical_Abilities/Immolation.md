@@ -1,6 +1,6 @@
 ---
 shortcode: immolation
-name: {full: Immolation, aliases: []}
+name: {full: Immolation}
 type: mysticalability
 subType: arcaneincantation
 description: "Immolation is an arcane incantation of the Pèleáhn convocation."

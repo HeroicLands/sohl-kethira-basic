@@ -1,6 +1,6 @@
 ---
 shortcode: sight
-name: {full: Sight, aliases: []}
+name: {full: Sight}
 type: mysticalability
 subType: arcaneincantation
 description: "Sight is an arcane incantation of the Jmôrvi convocation."

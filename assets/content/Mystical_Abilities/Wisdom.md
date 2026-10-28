@@ -1,6 +1,6 @@
 ---
 shortcode: wisdom
-name: {full: Wisdom, aliases: []}
+name: {full: Wisdom}
 type: mysticalability
 subType: arcaneincantation
 description: "Wisdom is an arcane incantation of the Sàvôrya convocation."

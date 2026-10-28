@@ -1,6 +1,6 @@
 ---
 shortcode: beam
-name: {full: Beam, aliases: []}
+name: {full: Beam}
 type: mysticalability
 subType: arcaneincantation
 description: "Beam is an arcane incantation of the Lyáhvi convocation."

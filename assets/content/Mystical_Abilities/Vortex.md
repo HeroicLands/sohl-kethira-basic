@@ -1,6 +1,6 @@
 ---
 shortcode: vortex
-name: {full: Vortex, aliases: []}
+name: {full: Vortex}
 type: mysticalability
 subType: arcaneincantation
 description: "Vortex is an arcane incantation of the Neutral convocation."

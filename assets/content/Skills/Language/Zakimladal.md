@@ -1,6 +1,6 @@
 ---
 shortcode: zakimladal
-name: {full: Zâkimladal, aliases: []}
+name: {full: Zâkimladal}
 type: skill
 subType: language
 description: "Zâkimladal is a language."

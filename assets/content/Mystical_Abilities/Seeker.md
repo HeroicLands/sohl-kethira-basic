@@ -1,6 +1,6 @@
 ---
 shortcode: seeker
-name: {full: Seeker, aliases: []}
+name: {full: Seeker}
 type: mysticalability
 subType: arcaneincantation
 description: "Seeker is an arcane incantation of the Pèleáhn convocation."

@@ -1,6 +1,6 @@
 ---
 shortcode: mantle
-name: {full: Mantle, aliases: []}
+name: {full: Mantle}
 type: mysticalability
 subType: arcaneincantation
 description: "Mantle is an arcane incantation of the Pèleáhn convocation."

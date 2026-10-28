@@ -1,6 +1,6 @@
 ---
 shortcode: sarajin
-name: {full: Sárajìn, aliases: []}
+name: {full: Sárajìn}
 type: skill
 subType: mystical
 description: "Sárajìn is a mystical skill."

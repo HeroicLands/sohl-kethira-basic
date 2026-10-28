@@ -1,6 +1,6 @@
 ---
 shortcode: dart
-name: {full: Dart, aliases: []}
+name: {full: Dart}
 type: mysticalability
 subType: arcaneincantation
 description: "Dart is an arcane incantation of the Jmôrvi convocation."

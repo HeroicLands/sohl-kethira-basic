@@ -1,6 +1,6 @@
 ---
 shortcode: viasal
-name: {full: Gârgún Viásal, aliases: [Red Gârgún]}
+name: {full: Gârgún Viásal, en: [Red Gârgún]}
 type: being
 subType: creature
 tags: [folk, gargun]

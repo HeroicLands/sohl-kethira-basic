@@ -1,6 +1,6 @@
 ---
 shortcode: resurge
-name: {full: Resurge, aliases: []}
+name: {full: Resurge}
 type: mysticalability
 subType: arcaneincantation
 description: "Resurge is an arcane incantation of the Neutral convocation."

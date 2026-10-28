@@ -1,6 +1,6 @@
 ---
 shortcode: sanctum
-name: {full: Sanctum, aliases: []}
+name: {full: Sanctum}
 type: mysticalability
 subType: arcaneincantation
 description: "Sanctum is an arcane incantation of the Neutral convocation."

@@ -1,6 +1,6 @@
 ---
 shortcode: redoubt
-name: {full: Redoubt, aliases: []}
+name: {full: Redoubt}
 type: mysticalability
 subType: arcaneincantation
 description: "Redoubt is an arcane incantation of the Jmôrvi convocation."

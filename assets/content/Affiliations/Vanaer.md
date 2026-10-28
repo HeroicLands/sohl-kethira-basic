@@ -1,6 +1,6 @@
 ---
 shortcode: vanaer
-name: {full: Vanáer, aliases: []}
+name: {full: Vanáer}
 type: affiliation
 subType: faithtradition
 description: "Vanáer is a faith tradition."

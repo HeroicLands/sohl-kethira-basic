@@ -1,6 +1,6 @@
 ---
 shortcode: fyvria
-name: {full: Fývria, aliases: []}
+name: {full: Fývria}
 type: affiliation
 subType: arcanetradition
 description: "Fývria is an arcane convocation."

@@ -1,6 +1,6 @@
 ---
 shortcode: motes
-name: {full: Motes, aliases: []}
+name: {full: Motes}
 type: mysticalability
 subType: arcaneincantation
 description: "Motes is an arcane incantation of the Lyáhvi convocation."

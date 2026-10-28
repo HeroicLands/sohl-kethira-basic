@@ -1,6 +1,6 @@
 ---
 shortcode: swordbreaker
-name: {full: Swordbreaker, aliases: []}
+name: {full: Swordbreaker}
 type: mysticalability
 subType: arcaneincantation
 description: "Swordbreaker is an arcane incantation of the Jmôrvi convocation."

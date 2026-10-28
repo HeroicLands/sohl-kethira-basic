@@ -1,6 +1,6 @@
 ---
 shortcode: neutral
-name: {full: Neutral, aliases: []}
+name: {full: Neutral}
 type: affiliation
 subType: arcanetradition
 description: "Neutral is an arcane convocation."

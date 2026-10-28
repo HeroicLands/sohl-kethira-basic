@@ -1,6 +1,6 @@
 ---
 shortcode: fireworks
-name: {full: Fireworks, aliases: []}
+name: {full: Fireworks}
 type: mysticalability
 subType: arcaneincantation
 description: "Fireworks is an arcane incantation of the Pèleáhn convocation."

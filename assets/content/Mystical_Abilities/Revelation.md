@@ -1,6 +1,6 @@
 ---
 shortcode: revelation
-name: {full: Revelation, aliases: []}
+name: {full: Revelation}
 type: mysticalability
 subType: arcaneincantation
 description: "Revelation is an arcane incantation of the Jmôrvi convocation."

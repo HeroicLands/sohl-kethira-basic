@@ -1,6 +1,6 @@
 ---
 shortcode: protection
-name: {full: Protection, aliases: []}
+name: {full: Protection}
 type: mysticalability
 subType: arcaneincantation
 description: "Protection is an arcane incantation of the Jmôrvi convocation."

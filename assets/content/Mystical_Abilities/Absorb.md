@@ -1,6 +1,6 @@
 ---
 shortcode: absorb
-name: {full: Absorb, aliases: []}
+name: {full: Absorb}
 type: mysticalability
 subType: arcaneincantation
 description: "Absorb is an arcane incantation of the Neutral convocation."

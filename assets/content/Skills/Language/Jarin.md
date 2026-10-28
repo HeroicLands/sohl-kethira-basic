@@ -1,6 +1,6 @@
 ---
 shortcode: jarin
-name: {full: Jârin, aliases: []}
+name: {full: Jârin}
 type: skill
 subType: language
 description: "Jârin is a language."

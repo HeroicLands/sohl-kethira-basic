@@ -1,6 +1,6 @@
 ---
 shortcode: beckon
-name: {full: Beckon, aliases: []}
+name: {full: Beckon}
 type: mysticalability
 subType: arcaneincantation
 description: "Beckon is an arcane incantation of the Fývria convocation."

@@ -1,6 +1,6 @@
 ---
 shortcode: cheler
-name: {full: Chéler, aliases: []}
+name: {full: Chéler}
 type: skill
 subType: language
 description: "Chéler is a language."

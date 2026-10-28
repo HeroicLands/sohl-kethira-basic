@@ -1,6 +1,6 @@
 ---
 shortcode: medm
-name: {full: Medium, aliases: []}
+name: {full: Medium}
 type: mysticalability
 subType: arcanetalent
 description: "Medium is an arcane talent."

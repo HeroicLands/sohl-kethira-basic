@@ -1,6 +1,6 @@
 ---
 shortcode: floatation
-name: {full: Floatation, aliases: []}
+name: {full: Floatation}
 type: mysticalability
 subType: arcaneincantation
 description: "Floatation is an arcane incantation of the Odívshè convocation."

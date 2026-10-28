@@ -1,6 +1,6 @@
 ---
 shortcode: solace
-name: {full: Solace, aliases: []}
+name: {full: Solace}
 type: mysticalability
 subType: arcaneincantation
 description: "Solace is an arcane incantation of the Sàvôrya convocation."

@@ -1,6 +1,6 @@
 ---
 shortcode: ahnu
-name: {full: Áhnù, aliases: []}
+name: {full: Áhnù}
 type: mystery
 subType: birthsign
 description: "Áhnù is a birthsign."

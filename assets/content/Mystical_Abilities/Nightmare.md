@@ -1,6 +1,6 @@
 ---
 shortcode: nightmare
-name: {full: Nightmare, aliases: []}
+name: {full: Nightmare}
 type: mysticalability
 subType: arcaneincantation
 description: "Nightmare is an arcane incantation of the Lyáhvi convocation."

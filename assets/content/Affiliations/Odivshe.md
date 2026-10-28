@@ -1,6 +1,6 @@
 ---
 shortcode: odivshe
-name: {full: Odívshè, aliases: []}
+name: {full: Odívshè}
 type: affiliation
 subType: arcanetradition
 description: "Odívshè is an arcane convocation."

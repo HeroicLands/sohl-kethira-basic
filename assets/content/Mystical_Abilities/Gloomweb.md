@@ -1,6 +1,6 @@
 ---
 shortcode: gloomweb
-name: {full: Gloomweb, aliases: []}
+name: {full: Gloomweb}
 type: mysticalability
 subType: arcaneincantation
 description: "Gloomweb is an arcane incantation of the Odívshè convocation."

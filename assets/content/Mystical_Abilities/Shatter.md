@@ -1,6 +1,6 @@
 ---
 shortcode: shatter
-name: {full: Shatter, aliases: []}
+name: {full: Shatter}
 type: mysticalability
 subType: arcaneincantation
 description: "Shatter is an arcane incantation of the Jmôrvi convocation."

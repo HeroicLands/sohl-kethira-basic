@@ -1,6 +1,6 @@
 ---
 shortcode: floe
-name: {full: Floe, aliases: []}
+name: {full: Floe}
 type: mysticalability
 subType: arcaneincantation
 description: "Floe is an arcane incantation of the Odívshè convocation."

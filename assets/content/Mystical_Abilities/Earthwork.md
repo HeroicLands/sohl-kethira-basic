@@ -1,6 +1,6 @@
 ---
 shortcode: earthwork
-name: {full: Earthwork, aliases: []}
+name: {full: Earthwork}
 type: mysticalability
 subType: arcaneincantation
 description: "Earthwork is an arcane incantation of the Fývria convocation."

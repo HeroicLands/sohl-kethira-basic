@@ -1,6 +1,6 @@
 ---
 shortcode: singingsword
-name: {full: Singing Sword, aliases: []}
+name: {full: Singing Sword}
 type: mysticalability
 subType: arcaneincantation
 description: "Singing Sword is an arcane incantation of the Jmôrvi convocation."

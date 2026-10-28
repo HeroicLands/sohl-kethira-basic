@@ -1,6 +1,6 @@
 ---
 shortcode: aspect
-name: {full: Aspect, aliases: []}
+name: {full: Aspect}
 type: mysticalability
 subType: arcaneincantation
 description: "Aspect is an arcane incantation of the Jmôrvi convocation."

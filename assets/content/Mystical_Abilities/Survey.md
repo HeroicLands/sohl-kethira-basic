@@ -1,6 +1,6 @@
 ---
 shortcode: survey
-name: {full: Survey, aliases: []}
+name: {full: Survey}
 type: mysticalability
 subType: arcaneincantation
 description: "Survey is an arcane incantation of the Neutral convocation."

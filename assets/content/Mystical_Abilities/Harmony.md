@@ -1,6 +1,6 @@
 ---
 shortcode: harmony
-name: {full: Harmony, aliases: []}
+name: {full: Harmony}
 type: mysticalability
 subType: arcaneincantation
 description: "Harmony is an arcane incantation of the Sàvôrya convocation."

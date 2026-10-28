@@ -1,6 +1,6 @@
 ---
 shortcode: hirin
-name: {full: Hîrin, aliases: []}
+name: {full: Hîrin}
 type: mystery
 subType: birthsign
 description: "Hîrin is a birthsign."

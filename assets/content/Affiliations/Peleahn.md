@@ -1,6 +1,6 @@
 ---
 shortcode: peleahn
-name: {full: Pèleáhn, aliases: []}
+name: {full: Pèleáhn}
 type: affiliation
 subType: arcanetradition
 description: "Pèleáhn is an arcane convocation."

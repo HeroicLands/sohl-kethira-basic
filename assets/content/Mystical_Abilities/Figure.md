@@ -1,6 +1,6 @@
 ---
 shortcode: figure
-name: {full: Figure, aliases: []}
+name: {full: Figure}
 type: mysticalability
 subType: arcaneincantation
 description: "Figure is an arcane incantation of the Lyáhvi convocation."

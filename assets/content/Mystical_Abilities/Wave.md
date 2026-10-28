@@ -1,6 +1,6 @@
 ---
 shortcode: wave
-name: {full: Wave, aliases: []}
+name: {full: Wave}
 type: mysticalability
 subType: arcaneincantation
 description: "Wave is an arcane incantation of the Odívshè convocation."

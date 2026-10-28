@@ -1,6 +1,6 @@
 ---
 shortcode: sinain
-name: {full: Sináin, aliases: []}
+name: {full: Sináin}
 type: skill
 subType: language
 description: "Sináin is a language."

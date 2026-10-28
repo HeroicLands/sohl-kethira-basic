@@ -1,6 +1,6 @@
 ---
 shortcode: basalm
-name: {full: Basalm, aliases: []}
+name: {full: Basalm}
 type: mysticalability
 subType: arcaneincantation
 description: "Basalm is an arcane incantation of the Fývria convocation."

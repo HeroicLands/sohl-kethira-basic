@@ -1,6 +1,6 @@
 ---
 shortcode: personality
-name: {full: Personality, aliases: []}
+name: {full: Personality}
 type: mysticalability
 subType: arcaneincantation
 description: "Personality is an arcane incantation of the Neutral convocation."

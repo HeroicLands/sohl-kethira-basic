@@ -1,6 +1,6 @@
 ---
 shortcode: vessel
-name: {full: Vessel, aliases: []}
+name: {full: Vessel}
 type: mysticalability
 subType: arcaneincantation
 description: "Vessel is an arcane incantation of the Neutral convocation."

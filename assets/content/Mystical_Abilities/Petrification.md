@@ -1,6 +1,6 @@
 ---
 shortcode: petrification
-name: {full: Petrification, aliases: []}
+name: {full: Petrification}
 type: mysticalability
 subType: arcaneincantation
 description: "Petrification is an arcane incantation of the Fývria convocation."

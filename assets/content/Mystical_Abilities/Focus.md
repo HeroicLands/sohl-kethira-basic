@@ -1,6 +1,6 @@
 ---
 shortcode: focus
-name: {full: Focus, aliases: []}
+name: {full: Focus}
 type: mysticalability
 subType: arcaneincantation
 description: "Focus is an arcane incantation of the Neutral convocation."

@@ -1,6 +1,6 @@
 ---
 shortcode: trnsf
-name: {full: Transference, aliases: []}
+name: {full: Transference}
 type: mysticalability
 subType: arcanetalent
 description: "Transference is an arcane talent."

@@ -1,6 +1,6 @@
 ---
 shortcode: thirst
-name: {full: Thirst, aliases: []}
+name: {full: Thirst}
 type: mysticalability
 subType: arcaneincantation
 description: "Thirst is an arcane incantation of the Pèleáhn convocation."

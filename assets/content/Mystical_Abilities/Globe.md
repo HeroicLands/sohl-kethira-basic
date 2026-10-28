@@ -1,6 +1,6 @@
 ---
 shortcode: globe
-name: {full: Globe, aliases: []}
+name: {full: Globe}
 type: mysticalability
 subType: arcaneincantation
 description: "Globe is an arcane incantation of the Lyáhvi convocation."

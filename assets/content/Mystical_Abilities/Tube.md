@@ -1,6 +1,6 @@
 ---
 shortcode: tube
-name: {full: Tube, aliases: []}
+name: {full: Tube}
 type: mysticalability
 subType: arcaneincantation
 description: "Tube is an arcane incantation of the Lyáhvi convocation."

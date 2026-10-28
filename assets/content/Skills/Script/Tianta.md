@@ -1,6 +1,6 @@
 ---
 shortcode: tianta
-name: {full: Tiánta, aliases: []}
+name: {full: Tiánta}
 type: skill
 subType: script
 description: "Tiánta is a script."

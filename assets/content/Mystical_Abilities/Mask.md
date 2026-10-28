@@ -1,6 +1,6 @@
 ---
 shortcode: mask
-name: {full: Mask, aliases: []}
+name: {full: Mask}
 type: mysticalability
 subType: arcaneincantation
 description: "Mask is an arcane incantation of the Neutral convocation."

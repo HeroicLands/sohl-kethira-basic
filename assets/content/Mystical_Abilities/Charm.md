@@ -1,6 +1,6 @@
 ---
 shortcode: charm
-name: {full: Charm, aliases: []}
+name: {full: Charm}
 type: mysticalability
 subType: arcaneincantation
 description: "Charm is an arcane incantation of the Jmôrvi convocation."

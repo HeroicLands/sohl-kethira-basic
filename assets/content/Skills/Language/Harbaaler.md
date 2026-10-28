@@ -1,6 +1,6 @@
 ---
 shortcode: harbaaler
-name: {full: Hârbáaler, aliases: []}
+name: {full: Hârbáaler}
 type: skill
 subType: language
 description: "Hârbáaler is a language."

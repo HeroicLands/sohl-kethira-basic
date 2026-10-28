@@ -1,6 +1,6 @@
 ---
 shortcode: guardian
-name: {full: Guardian, aliases: []}
+name: {full: Guardian}
 type: mysticalability
 subType: arcaneincantation
 description: "Guardian is an arcane incantation of the Fývria convocation."

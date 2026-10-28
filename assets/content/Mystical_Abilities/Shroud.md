@@ -1,6 +1,6 @@
 ---
 shortcode: shroud
-name: {full: Shroud, aliases: []}
+name: {full: Shroud}
 type: mysticalability
 subType: arcaneincantation
 description: "Shroud is an arcane incantation of the Jmôrvi convocation."

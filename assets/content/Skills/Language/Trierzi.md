@@ -1,6 +1,6 @@
 ---
 shortcode: trierzi
-name: {full: Tríerzi, aliases: []}
+name: {full: Tríerzi}
 type: skill
 subType: language
 description: "Tríerzi is a language."

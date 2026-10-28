@@ -1,6 +1,6 @@
 ---
 shortcode: byrian
-name: {full: Býrian, aliases: []}
+name: {full: Býrian}
 type: skill
 subType: language
 description: "Býrian is a language."

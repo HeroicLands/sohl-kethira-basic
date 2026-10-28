@@ -1,6 +1,6 @@
 ---
 shortcode: well
-name: {full: Well, aliases: []}
+name: {full: Well}
 type: mysticalability
 subType: arcaneincantation
 description: "Well is an arcane incantation of the Neutral convocation."

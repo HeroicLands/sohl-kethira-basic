@@ -1,6 +1,6 @@
 ---
 shortcode: diagnosis
-name: {full: Diagnosis, aliases: []}
+name: {full: Diagnosis}
 type: mysticalability
 subType: arcaneincantation
 description: "Diagnosis is an arcane incantation of the Fývria convocation."

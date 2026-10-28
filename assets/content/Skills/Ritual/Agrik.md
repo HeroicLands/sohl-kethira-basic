@@ -1,6 +1,6 @@
 ---
 shortcode: agrik
-name: {full: Ágrik, aliases: []}
+name: {full: Ágrik}
 type: skill
 subType: mystical
 description: "Ágrik is a mystical skill."

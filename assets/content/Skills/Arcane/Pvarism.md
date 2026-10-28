@@ -1,6 +1,6 @@
 ---
 shortcode: pvarism
-name: {full: Pvârism, aliases: []}
+name: {full: Pvârism}
 type: skill
 subType: mystical
 description: "Pvârism is a mystical skill."

@@ -1,6 +1,6 @@
 ---
 shortcode: lens
-name: {full: Lens, aliases: []}
+name: {full: Lens}
 type: mysticalability
 subType: arcaneincantation
 description: "Lens is an arcane incantation of the Lyáhvi convocation."

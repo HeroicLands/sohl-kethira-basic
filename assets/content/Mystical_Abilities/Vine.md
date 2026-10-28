@@ -1,6 +1,6 @@
 ---
 shortcode: vine
-name: {full: Vine, aliases: []}
+name: {full: Vine}
 type: mysticalability
 subType: arcaneincantation
 description: "Vine is an arcane incantation of the Fývria convocation."

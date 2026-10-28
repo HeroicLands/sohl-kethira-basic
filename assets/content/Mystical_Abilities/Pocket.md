@@ -1,6 +1,6 @@
 ---
 shortcode: pocket
-name: {full: Pocket, aliases: []}
+name: {full: Pocket}
 type: mysticalability
 subType: arcaneincantation
 description: "Pocket is an arcane incantation of the Lyáhvi convocation."

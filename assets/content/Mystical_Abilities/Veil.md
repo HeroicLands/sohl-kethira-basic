@@ -1,6 +1,6 @@
 ---
 shortcode: veil
-name: {full: Veil, aliases: []}
+name: {full: Veil}
 type: mysticalability
 subType: arcaneincantation
 description: "Veil is an arcane incantation of the Sàvôrya convocation."

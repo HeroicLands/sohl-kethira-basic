@@ -1,6 +1,6 @@
 ---
 shortcode: stay
-name: {full: Stay, aliases: []}
+name: {full: Stay}
 type: mysticalability
 subType: arcaneincantation
 description: "Stay is an arcane incantation of the Fývria convocation."

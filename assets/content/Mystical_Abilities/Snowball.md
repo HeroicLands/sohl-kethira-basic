@@ -1,6 +1,6 @@
 ---
 shortcode: snowball
-name: {full: Snowball, aliases: []}
+name: {full: Snowball}
 type: mysticalability
 subType: arcaneincantation
 description: "Snowball is an arcane incantation of the Odívshè convocation."

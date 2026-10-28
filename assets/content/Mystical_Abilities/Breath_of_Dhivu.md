@@ -1,6 +1,6 @@
 ---
 shortcode: breathofdhivu
-name: {full: Breath of Dhivu, aliases: []}
+name: {full: Breath of Dhivu}
 type: mysticalability
 subType: arcaneincantation
 description: "Breath of Dhivu is an arcane incantation of the Odívshè convocation."

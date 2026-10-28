@@ -1,6 +1,6 @@
 ---
 shortcode: surikal
-name: {full: Surikal, aliases: []}
+name: {full: Surikal}
 type: skill
 subType: language
 description: "Surikal is a language."

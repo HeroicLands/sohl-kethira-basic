@@ -1,6 +1,6 @@
 ---
 shortcode: tremor
-name: {full: Tremor, aliases: []}
+name: {full: Tremor}
 type: mysticalability
 subType: arcaneincantation
 description: "Tremor is an arcane incantation of the Fývria convocation."

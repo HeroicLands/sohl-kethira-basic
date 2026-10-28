@@ -1,6 +1,6 @@
 ---
 shortcode: tempering
-name: {full: Tempering, aliases: []}
+name: {full: Tempering}
 type: mysticalability
 subType: arcaneincantation
 description: "Tempering is an arcane incantation of the Jmôrvi convocation."

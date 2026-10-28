@@ -1,6 +1,6 @@
 ---
 shortcode: restoration
-name: {full: Restoration, aliases: []}
+name: {full: Restoration}
 type: mysticalability
 subType: arcaneincantation
 description: "Restoration is an arcane incantation of the Jmôrvi convocation."

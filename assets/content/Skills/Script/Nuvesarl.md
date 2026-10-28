@@ -1,6 +1,6 @@
 ---
 shortcode: nuvesarl
-name: {full: Nuvesarl, aliases: []}
+name: {full: Nuvesarl}
 type: skill
 subType: script
 description: "Nuvesarl is a script."

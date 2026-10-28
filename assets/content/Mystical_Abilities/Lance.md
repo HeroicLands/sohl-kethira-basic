@@ -1,6 +1,6 @@
 ---
 shortcode: lance
-name: {full: Lance, aliases: []}
+name: {full: Lance}
 type: mysticalability
 subType: arcaneincantation
 description: "Lance is an arcane incantation of the Jmôrvi convocation."

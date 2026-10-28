@@ -1,6 +1,6 @@
 ---
 shortcode: aklash
-name: {full: Áklash, aliases: []}
+name: {full: Áklash}
 type: being
 subType: creature
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: sensation
-name: {full: Sensation, aliases: []}
+name: {full: Sensation}
 type: mysticalability
 subType: arcaneincantation
 description: "Sensation is an arcane incantation of the Sàvôrya convocation."

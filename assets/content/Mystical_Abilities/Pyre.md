@@ -1,6 +1,6 @@
 ---
 shortcode: pyre
-name: {full: Pyre, aliases: []}
+name: {full: Pyre}
 type: mysticalability
 subType: arcaneincantation
 description: "Pyre is an arcane incantation of the Pèleáhn convocation."

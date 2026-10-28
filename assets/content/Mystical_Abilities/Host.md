@@ -1,6 +1,6 @@
 ---
 shortcode: host
-name: {full: Host, aliases: []}
+name: {full: Host}
 type: mysticalability
 subType: arcaneincantation
 description: "Host is an arcane incantation of the Sàvôrya convocation."

@@ -1,6 +1,6 @@
 ---
 shortcode: icewalk
-name: {full: Icewalk, aliases: []}
+name: {full: Icewalk}
 type: mysticalability
 subType: arcaneincantation
 description: "Icewalk is an arcane incantation of the Odívshè convocation."

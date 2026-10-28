@@ -1,6 +1,6 @@
 ---
 shortcode: khanu
-name: {full: Gârgún Khánu, aliases: [Great Gârgún]}
+name: {full: Gârgún Khánu, en: [Great Gârgún]}
 type: being
 subType: creature
 tags: [folk, gargun]

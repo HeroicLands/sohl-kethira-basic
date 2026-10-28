@@ -1,6 +1,6 @@
 ---
 shortcode: xtratemp
-name: {full: Extratemporality, aliases: []}
+name: {full: Extratemporality}
 type: mysticalability
 subType: arcanetalent
 description: "Extratemporality is an arcane talent."

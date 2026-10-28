@@ -1,6 +1,6 @@
 ---
 shortcode: garanik
-name: {full: Gáranik, aliases: []}
+name: {full: Gáranik}
 type: affiliation
 subType: faithtradition
 description: "Gáranik is a faith tradition."

@@ -1,6 +1,6 @@
 ---
 shortcode: fyvria
-name: {full: Fývria, aliases: []}
+name: {full: Fývria}
 type: skill
 subType: mystical
 description: "Fývria is a mystical skill."

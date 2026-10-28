@@ -1,6 +1,6 @@
 ---
 shortcode: glamour
-name: {full: Glamour, aliases: []}
+name: {full: Glamour}
 type: mysticalability
 subType: arcaneincantation
 description: "Glamour is an arcane incantation of the Lyáhvi convocation."

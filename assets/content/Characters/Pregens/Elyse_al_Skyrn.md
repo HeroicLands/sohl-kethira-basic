@@ -1,6 +1,6 @@
 ---
 shortcode: elysealskyrn
-name: {full: Elýsè al Skýrn, aliases: []}
+name: {full: Elýsè al Skýrn}
 type: being
 subType: character
 tags: []

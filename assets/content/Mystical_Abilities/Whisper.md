@@ -1,6 +1,6 @@
 ---
 shortcode: whisper
-name: {full: Whisper, aliases: []}
+name: {full: Whisper}
 type: mysticalability
 subType: arcaneincantation
 description: "Whisper is an arcane incantation of the Lyáhvi convocation."

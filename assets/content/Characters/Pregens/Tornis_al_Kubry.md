@@ -1,6 +1,6 @@
 ---
 shortcode: tornisalkubry
-name: {full: Tórnis al Kúbrý, aliases: []}
+name: {full: Tórnis al Kúbrý}
 type: being
 subType: character
 tags: []

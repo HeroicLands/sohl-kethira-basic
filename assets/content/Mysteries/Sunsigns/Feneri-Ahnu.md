@@ -1,6 +1,6 @@
 ---
 shortcode: feneriahnu
-name: {full: Fenéri-Áhnù, aliases: []}
+name: {full: Fenéri-Áhnù}
 type: mystery
 subType: birthsign
 description: "Fenéri-Áhnù is a birthsign."

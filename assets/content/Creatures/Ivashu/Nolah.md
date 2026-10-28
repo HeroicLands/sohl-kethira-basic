@@ -1,6 +1,6 @@
 ---
 shortcode: nolah
-name: {full: Nólah, aliases: [Nolahrin, Dank Stalker]}
+name: {full: Nólah, en: [Nolahrin, Dank Stalker]}
 type: being
 subType: creature
 tags: []

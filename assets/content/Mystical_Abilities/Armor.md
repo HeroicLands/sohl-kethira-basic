@@ -1,6 +1,6 @@
 ---
 shortcode: armor
-name: {full: Armor, aliases: []}
+name: {full: Armor}
 type: mysticalability
 subType: arcaneincantation
 description: "Armor is an arcane incantation of the Jmôrvi convocation."

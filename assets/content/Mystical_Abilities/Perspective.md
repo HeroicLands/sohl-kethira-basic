@@ -1,6 +1,6 @@
 ---
 shortcode: perspective
-name: {full: Perspective, aliases: []}
+name: {full: Perspective}
 type: mysticalability
 subType: arcaneincantation
 description: "Perspective is an arcane incantation of the Sàvôrya convocation."

@@ -1,6 +1,6 @@
 ---
 shortcode: ylvyr
-name: {full: Ylvýr, aliases: []}
+name: {full: Ylvýr}
 type: affiliation
 subType: faithtradition
 description: "Ylvýr is a faith tradition."

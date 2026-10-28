@@ -1,6 +1,6 @@
 ---
 shortcode: bane
-name: {full: Bane, aliases: []}
+name: {full: Bane}
 type: mysticalability
 subType: arcaneincantation
 description: "Bane is an arcane incantation of the Neutral convocation."

@@ -1,6 +1,6 @@
 ---
 shortcode: crystals
-name: {full: Crystals, aliases: []}
+name: {full: Crystals}
 type: mysticalability
 subType: arcaneincantation
 description: "Crystals is an arcane incantation of the Odívshè convocation."

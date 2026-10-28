@@ -1,6 +1,6 @@
 ---
 shortcode: resolve
-name: {full: Resolve, aliases: []}
+name: {full: Resolve}
 type: mysticalability
 subType: arcaneincantation
 description: "Resolve is an arcane incantation of the Neutral convocation."

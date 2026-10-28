@@ -1,6 +1,6 @@
 ---
 shortcode: candor
-name: {full: Candor, aliases: []}
+name: {full: Candor}
 type: mysticalability
 subType: arcaneincantation
 description: "Candor is an arcane incantation of the Sàvôrya convocation."

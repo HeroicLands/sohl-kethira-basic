@@ -1,6 +1,6 @@
 ---
 shortcode: dsbd
-name: {full: Disembodiment, aliases: []}
+name: {full: Disembodiment}
 type: mysticalability
 subType: arcanetalent
 description: "Disembodiment is an arcane talent."

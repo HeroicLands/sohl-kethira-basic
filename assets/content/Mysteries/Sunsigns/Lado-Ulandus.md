@@ -1,6 +1,6 @@
 ---
 shortcode: ladoulandus
-name: {full: Ládo-Ùlándus, aliases: []}
+name: {full: Ládo-Ùlándus}
 type: mystery
 subType: birthsign
 description: "Ládo-Ùlándus is a birthsign."

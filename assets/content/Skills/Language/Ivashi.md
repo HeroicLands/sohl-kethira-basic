@@ -1,6 +1,6 @@
 ---
 shortcode: ivashi
-name: {full: Ivashi, aliases: []}
+name: {full: Ivashi}
 type: skill
 subType: language
 description: "Ivashi is a language."

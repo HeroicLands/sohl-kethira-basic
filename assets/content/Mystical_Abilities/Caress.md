@@ -1,6 +1,6 @@
 ---
 shortcode: caress
-name: {full: Caress, aliases: []}
+name: {full: Caress}
 type: mysticalability
 subType: arcaneincantation
 description: "Caress is an arcane incantation of the Pèleáhn convocation."

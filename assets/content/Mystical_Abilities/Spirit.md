@@ -1,6 +1,6 @@
 ---
 shortcode: sprt
-name: {full: Spirit, aliases: []}
+name: {full: Spirit}
 type: mysticalability
 subType: arcanetalent
 description: "Spirit is an arcane talent."

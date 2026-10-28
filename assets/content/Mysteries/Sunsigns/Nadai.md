@@ -1,6 +1,6 @@
 ---
 shortcode: nadai
-name: {full: Nadái, aliases: []}
+name: {full: Nadái}
 type: mystery
 subType: birthsign
 description: "Nadái is a birthsign."

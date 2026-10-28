@@ -1,6 +1,6 @@
 ---
 shortcode: voice
-name: {full: Voice, aliases: []}
+name: {full: Voice}
 type: mysticalability
 subType: arcaneincantation
 description: "Voice is an arcane incantation of the Lyáhvi convocation."

@@ -1,6 +1,6 @@
 ---
 shortcode: feel
-name: {full: Feel, aliases: []}
+name: {full: Feel}
 type: mysticalability
 subType: arcaneincantation
 description: "Feel is an arcane incantation of the Sàvôrya convocation."

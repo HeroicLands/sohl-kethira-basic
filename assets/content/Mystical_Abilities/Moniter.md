@@ -1,6 +1,6 @@
 ---
 shortcode: moniter
-name: {full: Moniter, aliases: []}
+name: {full: Moniter}
 type: mysticalability
 subType: arcaneincantation
 description: "Moniter is an arcane incantation of the Neutral convocation."

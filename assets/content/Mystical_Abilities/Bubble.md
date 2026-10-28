@@ -1,6 +1,6 @@
 ---
 shortcode: bubble
-name: {full: Bubble, aliases: []}
+name: {full: Bubble}
 type: mysticalability
 subType: arcaneincantation
 description: "Bubble is an arcane incantation of the Neutral convocation."

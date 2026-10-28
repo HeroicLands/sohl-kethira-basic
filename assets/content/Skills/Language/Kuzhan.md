@@ -1,6 +1,6 @@
 ---
 shortcode: kuzhan
-name: {full: Kúzhan, aliases: []}
+name: {full: Kúzhan}
 type: skill
 subType: language
 description: "Kúzhan is a language."

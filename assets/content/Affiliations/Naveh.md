@@ -1,6 +1,6 @@
 ---
 shortcode: naveh
-name: {full: Navéh, aliases: []}
+name: {full: Navéh}
 type: affiliation
 subType: faithtradition
 description: "Navéh is a faith tradition."

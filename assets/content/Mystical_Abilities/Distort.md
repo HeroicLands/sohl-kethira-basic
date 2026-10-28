@@ -1,6 +1,6 @@
 ---
 shortcode: distort
-name: {full: Distort, aliases: []}
+name: {full: Distort}
 type: mysticalability
 subType: arcaneincantation
 description: "Distort is an arcane incantation of the Neutral convocation."

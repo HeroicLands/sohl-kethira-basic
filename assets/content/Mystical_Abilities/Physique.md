@@ -1,6 +1,6 @@
 ---
 shortcode: physique
-name: {full: Physique, aliases: []}
+name: {full: Physique}
 type: mysticalability
 subType: arcaneincantation
 description: "Physique is an arcane incantation of the Fývria convocation."

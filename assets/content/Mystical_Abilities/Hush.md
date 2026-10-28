@@ -1,6 +1,6 @@
 ---
 shortcode: hush
-name: {full: Hush, aliases: []}
+name: {full: Hush}
 type: mysticalability
 subType: arcaneincantation
 description: "Hush is an arcane incantation of the Odívshè convocation."

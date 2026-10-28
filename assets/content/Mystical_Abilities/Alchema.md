@@ -1,6 +1,6 @@
 ---
 shortcode: alchema
-name: {full: Alchema, aliases: []}
+name: {full: Alchema}
 type: mysticalability
 subType: arcaneincantation
 description: "Alchema is an arcane incantation of the Odívshè convocation."

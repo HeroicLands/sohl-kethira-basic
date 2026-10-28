@@ -1,6 +1,6 @@
 ---
 shortcode: vapour
-name: {full: Vapour, aliases: []}
+name: {full: Vapour}
 type: mysticalability
 subType: arcaneincantation
 description: "Vapour is an arcane incantation of the Lyáhvi convocation."

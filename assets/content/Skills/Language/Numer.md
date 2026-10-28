@@ -1,6 +1,6 @@
 ---
 shortcode: numer
-name: {full: Númer, aliases: []}
+name: {full: Númer}
 type: skill
 subType: language
 description: "Númer is a language."

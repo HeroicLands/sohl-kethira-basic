@@ -1,6 +1,6 @@
 ---
 shortcode: alanta
-name: {full: Alánta, aliases: []}
+name: {full: Alánta}
 type: skill
 subType: script
 description: "Alánta is a script."

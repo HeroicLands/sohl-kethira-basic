@@ -1,6 +1,6 @@
 ---
 shortcode: lyahvi
-name: {full: Lyáhvi, aliases: []}
+name: {full: Lyáhvi}
 type: skill
 subType: mystical
 description: "Lyáhvi is a mystical skill."

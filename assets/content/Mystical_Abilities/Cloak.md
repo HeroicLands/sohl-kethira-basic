@@ -1,6 +1,6 @@
 ---
 shortcode: cloak
-name: {full: Cloak, aliases: []}
+name: {full: Cloak}
 type: mysticalability
 subType: arcaneincantation
 description: "Cloak is an arcane incantation of the Pèleáhn convocation."

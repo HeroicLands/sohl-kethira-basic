@@ -1,6 +1,6 @@
 ---
 shortcode: waterwalk
-name: {full: Waterwalk, aliases: []}
+name: {full: Waterwalk}
 type: mysticalability
 subType: arcaneincantation
 description: "Waterwalk is an arcane incantation of the Odívshè convocation."

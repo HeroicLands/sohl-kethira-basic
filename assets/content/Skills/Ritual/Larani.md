@@ -1,6 +1,6 @@
 ---
 shortcode: larani
-name: {full: Laráni, aliases: []}
+name: {full: Laráni}
 type: skill
 subType: mystical
 description: "Laráni is a mystical skill."

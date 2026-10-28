@@ -1,6 +1,6 @@
 ---
 shortcode: persuasion
-name: {full: Persuasion, aliases: []}
+name: {full: Persuasion}
 type: mysticalability
 subType: arcaneincantation
 description: "Persuasion is an arcane incantation of the Sàvôrya convocation."

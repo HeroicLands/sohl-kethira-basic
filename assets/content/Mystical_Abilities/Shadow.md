@@ -1,6 +1,6 @@
 ---
 shortcode: shadow
-name: {full: Shadow, aliases: []}
+name: {full: Shadow}
 type: mysticalability
 subType: arcaneincantation
 description: "Shadow is an arcane incantation of the Odívshè convocation."

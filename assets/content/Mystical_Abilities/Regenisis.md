@@ -1,6 +1,6 @@
 ---
 shortcode: regenisis
-name: {full: Regenisis, aliases: []}
+name: {full: Regenisis}
 type: mysticalability
 subType: arcaneincantation
 description: "Regenisis is an arcane incantation of the Fývria convocation."

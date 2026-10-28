@@ -1,6 +1,6 @@
 ---
 shortcode: buqdin
-name: {full: Búqdin, aliases: []}
+name: {full: Búqdin}
 type: skill
 subType: language
 description: "Búqdin is a language."

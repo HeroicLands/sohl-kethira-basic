@@ -1,6 +1,6 @@
 ---
 shortcode: naveh
-name: {full: Navéh, aliases: []}
+name: {full: Navéh}
 type: skill
 subType: mystical
 description: "Navéh is a mystical skill."

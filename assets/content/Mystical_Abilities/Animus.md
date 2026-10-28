@@ -1,6 +1,6 @@
 ---
 shortcode: animus
-name: {full: Animus, aliases: []}
+name: {full: Animus}
 type: mysticalability
 subType: arcaneincantation
 description: "Animus is an arcane incantation of the Fývria convocation."

@@ -1,6 +1,6 @@
 ---
 shortcode: korisalsyndalr
-name: {full: Kôris al Sýndalr, aliases: []}
+name: {full: Kôris al Sýndalr}
 type: being
 subType: character
 tags: []

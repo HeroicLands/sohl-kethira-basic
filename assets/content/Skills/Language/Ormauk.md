@@ -1,6 +1,6 @@
 ---
 shortcode: ormauk
-name: {full: Ormauk, aliases: []}
+name: {full: Ormauk}
 type: skill
 subType: language
 description: "Ormauk is a language."

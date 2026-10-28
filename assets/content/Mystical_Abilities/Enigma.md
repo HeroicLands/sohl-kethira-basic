@@ -1,6 +1,6 @@
 ---
 shortcode: enigma
-name: {full: Enigma, aliases: []}
+name: {full: Enigma}
 type: mysticalability
 subType: arcaneincantation
 description: "Enigma is an arcane incantation of the Odívshè convocation."

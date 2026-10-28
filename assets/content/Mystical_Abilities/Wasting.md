@@ -1,6 +1,6 @@
 ---
 shortcode: wasting
-name: {full: Wasting, aliases: []}
+name: {full: Wasting}
 type: mysticalability
 subType: arcaneincantation
 description: "Wasting is an arcane incantation of the Fývria convocation."

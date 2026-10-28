@@ -1,6 +1,6 @@
 ---
 shortcode: peleahn
-name: {full: Pèleáhn, aliases: []}
+name: {full: Pèleáhn}
 type: skill
 subType: mystical
 description: "Pèleáhn is a mystical skill."

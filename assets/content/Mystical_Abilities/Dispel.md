@@ -1,6 +1,6 @@
 ---
 shortcode: dispel
-name: {full: Dispel, aliases: []}
+name: {full: Dispel}
 type: mysticalability
 subType: arcaneincantation
 description: "Dispel is an arcane incantation of the Neutral convocation."

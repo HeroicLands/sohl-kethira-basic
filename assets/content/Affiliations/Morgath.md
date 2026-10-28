@@ -1,6 +1,6 @@
 ---
 shortcode: morgath
-name: {full: Môrgath, aliases: []}
+name: {full: Môrgath}
 type: affiliation
 subType: faithtradition
 description: "Môrgath is a faith tradition."

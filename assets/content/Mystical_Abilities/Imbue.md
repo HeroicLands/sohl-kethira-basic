@@ -1,6 +1,6 @@
 ---
 shortcode: imbue
-name: {full: Imbue, aliases: []}
+name: {full: Imbue}
 type: mysticalability
 subType: arcaneincantation
 description: "Imbue is an arcane incantation of the Neutral convocation."

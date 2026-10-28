@@ -1,6 +1,6 @@
 ---
 shortcode: nadaihirin
-name: {full: Nadái-Hîrin, aliases: []}
+name: {full: Nadái-Hîrin}
 type: mystery
 subType: birthsign
 description: "Nadái-Hîrin is a birthsign."

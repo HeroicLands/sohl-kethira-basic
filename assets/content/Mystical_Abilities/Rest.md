@@ -1,6 +1,6 @@
 ---
 shortcode: rest
-name: {full: Rest, aliases: []}
+name: {full: Rest}
 type: mysticalability
 subType: arcaneincantation
 description: "Rest is an arcane incantation of the Odívshè convocation."

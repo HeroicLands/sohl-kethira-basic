@@ -1,6 +1,6 @@
 ---
 shortcode: balm
-name: {full: Balm, aliases: []}
+name: {full: Balm}
 type: mysticalability
 subType: arcaneincantation
 description: "Balm is an arcane incantation of the Fývria convocation."

@@ -1,6 +1,6 @@
 ---
 shortcode: hastening
-name: {full: Hastening, aliases: []}
+name: {full: Hastening}
 type: mysticalability
 subType: arcaneincantation
 description: "Hastening is an arcane incantation of the Pèleáhn convocation."

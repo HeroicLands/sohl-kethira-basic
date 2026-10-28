@@ -1,6 +1,6 @@
 ---
 shortcode: cecity
-name: {full: Cecity, aliases: []}
+name: {full: Cecity}
 type: mysticalability
 subType: arcaneincantation
 description: "Cecity is an arcane incantation of the Lyáhvi convocation."

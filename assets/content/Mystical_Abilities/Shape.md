@@ -1,6 +1,6 @@
 ---
 shortcode: shape
-name: {full: Shape, aliases: []}
+name: {full: Shape}
 type: mysticalability
 subType: arcaneincantation
 description: "Shape is an arcane incantation of the Fývria convocation."

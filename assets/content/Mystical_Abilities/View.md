@@ -1,6 +1,6 @@
 ---
 shortcode: view
-name: {full: View, aliases: []}
+name: {full: View}
 type: mysticalability
 subType: arcaneincantation
 description: "View is an arcane incantation of the Lyáhvi convocation."

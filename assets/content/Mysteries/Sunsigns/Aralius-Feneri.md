@@ -1,6 +1,6 @@
 ---
 shortcode: araliusfeneri
-name: {full: Arálius-Fenéri, aliases: []}
+name: {full: Arálius-Fenéri}
 type: mystery
 subType: birthsign
 description: "Arálius-Fenéri is a birthsign."

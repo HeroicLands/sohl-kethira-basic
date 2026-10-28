@@ -1,6 +1,6 @@
 ---
 shortcode: phyc
-name: {full: Psychometry, aliases: []}
+name: {full: Psychometry}
 type: mysticalability
 subType: arcanetalent
 description: "Psychometry is an arcane talent."

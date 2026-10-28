@@ -1,6 +1,6 @@
 ---
 shortcode: peoni
-name: {full: Peóni, aliases: []}
+name: {full: Peóni}
 type: affiliation
 subType: faithtradition
 description: "Peóni is a faith tradition."

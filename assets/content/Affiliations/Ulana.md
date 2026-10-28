@@ -1,6 +1,6 @@
 ---
 shortcode: ulana
-name: {full: Úlana, aliases: []}
+name: {full: Úlana}
 type: affiliation
 subType: faithtradition
 description: "Úlana is a faith tradition."

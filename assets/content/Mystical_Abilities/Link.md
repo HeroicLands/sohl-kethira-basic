@@ -1,6 +1,6 @@
 ---
 shortcode: link
-name: {full: Link, aliases: []}
+name: {full: Link}
 type: mysticalability
 subType: arcaneincantation
 description: "Link is an arcane incantation of the Sàvôrya convocation."

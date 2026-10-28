@@ -1,6 +1,6 @@
 ---
 shortcode: fever
-name: {full: Fever, aliases: []}
+name: {full: Fever}
 type: mysticalability
 subType: arcaneincantation
 description: "Fever is an arcane incantation of the Pèleáhn convocation."

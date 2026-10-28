@@ -1,6 +1,6 @@
 ---
 shortcode: vanaer
-name: {full: Vanáer, aliases: []}
+name: {full: Vanáer}
 type: skill
 subType: mystical
 description: "Vanáer is a mystical skill."

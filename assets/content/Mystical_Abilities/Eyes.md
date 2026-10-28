@@ -1,6 +1,6 @@
 ---
 shortcode: eyes
-name: {full: Eyes, aliases: []}
+name: {full: Eyes}
 type: mysticalability
 subType: arcaneincantation
 description: "Eyes is an arcane incantation of the Pèleáhn convocation."

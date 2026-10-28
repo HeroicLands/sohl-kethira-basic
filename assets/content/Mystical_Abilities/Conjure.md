@@ -1,6 +1,6 @@
 ---
 shortcode: conjure
-name: {full: Conjure, aliases: []}
+name: {full: Conjure}
 type: mysticalability
 subType: arcaneincantation
 description: "Conjure is an arcane incantation of the Odívshè convocation."

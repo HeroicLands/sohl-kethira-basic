@@ -1,6 +1,6 @@
 ---
 shortcode: korlic
-name: {full: Kôrlic, aliases: []}
+name: {full: Kôrlic}
 type: skill
 subType: language
 description: "Kôrlic is a language."

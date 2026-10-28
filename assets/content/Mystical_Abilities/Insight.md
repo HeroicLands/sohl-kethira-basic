@@ -1,6 +1,6 @@
 ---
 shortcode: insight
-name: {full: Insight, aliases: []}
+name: {full: Insight}
 type: mysticalability
 subType: arcaneincantation
 description: "Insight is an arcane incantation of the Sàvôrya convocation."

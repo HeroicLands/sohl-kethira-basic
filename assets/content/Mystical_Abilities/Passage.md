@@ -1,6 +1,6 @@
 ---
 shortcode: passage
-name: {full: Passage, aliases: []}
+name: {full: Passage}
 type: mysticalability
 subType: arcaneincantation
 description: "Passage is an arcane incantation of the Lyáhvi convocation."

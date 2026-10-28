@@ -1,6 +1,6 @@
 ---
 shortcode: mirror
-name: {full: Mirror, aliases: []}
+name: {full: Mirror}
 type: mysticalability
 subType: arcaneincantation
 description: "Mirror is an arcane incantation of the Lyáhvi convocation."

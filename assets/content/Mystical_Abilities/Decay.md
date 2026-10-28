@@ -1,6 +1,6 @@
 ---
 shortcode: decay
-name: {full: Decay, aliases: []}
+name: {full: Decay}
 type: mysticalability
 subType: arcaneincantation
 description: "Decay is an arcane incantation of the Fývria convocation."

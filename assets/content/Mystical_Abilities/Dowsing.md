@@ -1,6 +1,6 @@
 ---
 shortcode: dowsing
-name: {full: Dowsing, aliases: []}
+name: {full: Dowsing}
 type: mysticalability
 subType: arcaneincantation
 description: "Dowsing is an arcane incantation of the Odívshè convocation."

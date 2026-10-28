@@ -1,6 +1,6 @@
 ---
 shortcode: snst
-name: {full: Sensitivity, aliases: []}
+name: {full: Sensitivity}
 type: mysticalability
 subType: arcanetalent
 description: "Sensitivity is an arcane talent."

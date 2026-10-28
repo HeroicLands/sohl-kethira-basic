@@ -1,6 +1,6 @@
 ---
 shortcode: assemble
-name: {full: Assemble, aliases: []}
+name: {full: Assemble}
 type: mysticalability
 subType: arcaneincantation
 description: "Assemble is an arcane incantation of the Jmôrvi convocation."

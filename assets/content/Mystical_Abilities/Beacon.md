@@ -1,6 +1,6 @@
 ---
 shortcode: beacon
-name: {full: Beacon, aliases: []}
+name: {full: Beacon}
 type: mysticalability
 subType: arcaneincantation
 description: "Beacon is an arcane incantation of the Lyáhvi convocation."

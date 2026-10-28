@@ -1,6 +1,6 @@
 ---
 shortcode: fount
-name: {full: Fount, aliases: []}
+name: {full: Fount}
 type: mysticalability
 subType: arcaneincantation
 description: "Fount is an arcane incantation of the Neutral convocation."

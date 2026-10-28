@@ -1,6 +1,6 @@
 ---
 shortcode: clrv
-name: {full: Clairvoyance, aliases: []}
+name: {full: Clairvoyance}
 type: mysticalability
 subType: arcanetalent
 description: "Clairvoyance is an arcane talent."

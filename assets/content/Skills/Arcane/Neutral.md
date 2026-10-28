@@ -1,6 +1,6 @@
 ---
 shortcode: neutral
-name: {full: Neutral, aliases: []}
+name: {full: Neutral}
 type: skill
 subType: mystical
 description: "Neutral is a mystical skill."

@@ -1,6 +1,6 @@
 ---
 shortcode: enervation
-name: {full: Enervation, aliases: []}
+name: {full: Enervation}
 type: mysticalability
 subType: arcaneincantation
 description: "Enervation is an arcane incantation of the Sàvôrya convocation."

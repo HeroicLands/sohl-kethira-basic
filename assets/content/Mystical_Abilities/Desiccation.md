@@ -1,6 +1,6 @@
 ---
 shortcode: desiccation
-name: {full: Desiccation, aliases: []}
+name: {full: Desiccation}
 type: mysticalability
 subType: arcaneincantation
 description: "Desiccation is an arcane incantation of the Pèleáhn convocation."

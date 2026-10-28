@@ -1,6 +1,6 @@
 ---
 shortcode: shorka
-name: {full: Shôrka, aliases: []}
+name: {full: Shôrka}
 type: skill
 subType: language
 description: "Shôrka is a language."

@@ -1,6 +1,6 @@
 ---
 shortcode: hyeka
-name: {full: Gârgún Hyéka, aliases: [Brown Gârgún]}
+name: {full: Gârgún Hyéka, en: [Brown Gârgún]}
 type: being
 subType: creature
 tags: [folk, gargun]

@@ -1,6 +1,6 @@
 ---
 shortcode: confusion
-name: {full: Confusion, aliases: []}
+name: {full: Confusion}
 type: mysticalability
 subType: arcaneincantation
 description: "Confusion is an arcane incantation of the Sàvôrya convocation."

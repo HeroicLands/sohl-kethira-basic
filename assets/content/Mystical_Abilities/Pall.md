@@ -1,6 +1,6 @@
 ---
 shortcode: pall
-name: {full: Pall, aliases: []}
+name: {full: Pall}
 type: mysticalability
 subType: arcaneincantation
 description: "Pall is an arcane incantation of the Odívshè convocation."

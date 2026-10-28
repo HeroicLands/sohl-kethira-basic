@@ -1,6 +1,6 @@
 ---
 shortcode: mold
-name: {full: Mold, aliases: []}
+name: {full: Mold}
 type: mysticalability
 subType: arcaneincantation
 description: "Mold is an arcane incantation of the Jmôrvi convocation."

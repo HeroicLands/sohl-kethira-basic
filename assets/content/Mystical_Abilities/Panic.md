@@ -1,6 +1,6 @@
 ---
 shortcode: panic
-name: {full: Panic, aliases: []}
+name: {full: Panic}
 type: mysticalability
 subType: arcaneincantation
 description: "Panic is an arcane incantation of the Sàvôrya convocation."

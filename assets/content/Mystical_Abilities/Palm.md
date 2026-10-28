@@ -1,6 +1,6 @@
 ---
 shortcode: palm
-name: {full: Palm, aliases: []}
+name: {full: Palm}
 type: mysticalability
 subType: arcaneincantation
 description: "Palm is an arcane incantation of the Lyáhvi convocation."

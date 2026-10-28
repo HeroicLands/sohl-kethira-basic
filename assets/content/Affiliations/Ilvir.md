@@ -1,6 +1,6 @@
 ---
 shortcode: ilvir
-name: {full: Ilvîr, aliases: []}
+name: {full: Ilvîr}
 type: affiliation
 subType: faithtradition
 description: "Ilvîr is a faith tradition."

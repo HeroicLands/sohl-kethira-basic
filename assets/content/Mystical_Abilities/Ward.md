@@ -1,6 +1,6 @@
 ---
 shortcode: ward
-name: {full: Ward, aliases: []}
+name: {full: Ward}
 type: mysticalability
 subType: arcaneincantation
 description: "Ward is an arcane incantation of the Neutral convocation."

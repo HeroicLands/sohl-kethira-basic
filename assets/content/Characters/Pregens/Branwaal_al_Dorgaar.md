@@ -1,6 +1,6 @@
 ---
 shortcode: branwaalaldorgaar
-name: {full: Brànwâal al Dôrgaar, aliases: []}
+name: {full: Brànwâal al Dôrgaar}
 type: being
 subType: character
 tags: []

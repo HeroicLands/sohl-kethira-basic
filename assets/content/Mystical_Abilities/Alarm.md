@@ -1,6 +1,6 @@
 ---
 shortcode: alarm
-name: {full: Alarm, aliases: []}
+name: {full: Alarm}
 type: mysticalability
 subType: arcaneincantation
 description: "Alarm is an arcane incantation of the Neutral convocation."

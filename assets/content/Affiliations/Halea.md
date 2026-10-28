@@ -1,6 +1,6 @@
 ---
 shortcode: halea
-name: {full: Haléa, aliases: []}
+name: {full: Haléa}
 type: affiliation
 subType: faithtradition
 description: "Haléa is a faith tradition."

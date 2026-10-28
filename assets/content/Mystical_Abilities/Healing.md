@@ -1,6 +1,6 @@
 ---
 shortcode: heal
-name: {full: Healing, aliases: []}
+name: {full: Healing}
 type: mysticalability
 subType: arcanetalent
 description: "Healing is an arcane talent."

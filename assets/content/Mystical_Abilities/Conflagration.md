@@ -1,6 +1,6 @@
 ---
 shortcode: conflagration
-name: {full: Conflagration, aliases: []}
+name: {full: Conflagration}
 type: mysticalability
 subType: arcaneincantation
 description: "Conflagration is an arcane incantation of the Pèleáhn convocation."

@@ -1,6 +1,6 @@
 ---
 shortcode: diversion
-name: {full: Diversion, aliases: []}
+name: {full: Diversion}
 type: mysticalability
 subType: arcaneincantation
 description: "Diversion is an arcane incantation of the Sàvôrya convocation."

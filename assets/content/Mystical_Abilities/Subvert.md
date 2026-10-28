@@ -1,6 +1,6 @@
 ---
 shortcode: subvert
-name: {full: Subvert, aliases: []}
+name: {full: Subvert}
 type: mysticalability
 subType: arcaneincantation
 description: "Subvert is an arcane incantation of the Neutral convocation."

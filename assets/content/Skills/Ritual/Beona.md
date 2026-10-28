@@ -1,6 +1,6 @@
 ---
 shortcode: beona
-name: {full: Beóna, aliases: []}
+name: {full: Beóna}
 type: skill
 subType: mystical
 description: "Beóna is a mystical skill."

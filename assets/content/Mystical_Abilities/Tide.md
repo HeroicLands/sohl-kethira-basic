@@ -1,6 +1,6 @@
 ---
 shortcode: tide
-name: {full: Tide, aliases: []}
+name: {full: Tide}
 type: mysticalability
 subType: arcaneincantation
 description: "Tide is an arcane incantation of the Odívshè convocation."

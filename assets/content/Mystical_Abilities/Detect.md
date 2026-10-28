@@ -1,6 +1,6 @@
 ---
 shortcode: detect
-name: {full: Detect, aliases: []}
+name: {full: Detect}
 type: mysticalability
 subType: arcaneincantation
 description: "Detect is an arcane incantation of the Neutral convocation."

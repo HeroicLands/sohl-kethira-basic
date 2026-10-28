@@ -1,6 +1,6 @@
 ---
 shortcode: kyani
-name: {full: Gârgún Kyáni, aliases: [White Gârgún]}
+name: {full: Gârgún Kyáni, en: [White Gârgún]}
 type: being
 subType: creature
 tags: [folk, gargun]

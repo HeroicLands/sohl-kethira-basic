@@ -1,6 +1,6 @@
 ---
 shortcode: banditarcher1
-name: {full: Bandit Archer 1, aliases: []}
+name: {full: Bandit Archer 1}
 type: being
 subType: npc
 tags: []

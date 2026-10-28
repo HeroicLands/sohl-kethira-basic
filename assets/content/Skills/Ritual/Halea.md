@@ -1,6 +1,6 @@
 ---
 shortcode: halea
-name: {full: Haléa, aliases: []}
+name: {full: Haléa}
 type: skill
 subType: mystical
 description: "Haléa is a mystical skill."

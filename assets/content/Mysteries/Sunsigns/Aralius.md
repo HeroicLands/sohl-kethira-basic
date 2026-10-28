@@ -1,6 +1,6 @@
 ---
 shortcode: aralius
-name: {full: Arálius, aliases: []}
+name: {full: Arálius}
 type: mystery
 subType: birthsign
 description: "Arálius is a birthsign."

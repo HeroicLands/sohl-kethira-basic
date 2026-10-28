@@ -1,6 +1,6 @@
 ---
 shortcode: condensation
-name: {full: Condensation, aliases: []}
+name: {full: Condensation}
 type: mysticalability
 subType: arcaneincantation
 description: "Condensation is an arcane incantation of the Odívshè convocation."

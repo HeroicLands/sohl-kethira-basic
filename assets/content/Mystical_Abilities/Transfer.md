@@ -1,6 +1,6 @@
 ---
 shortcode: transfer
-name: {full: Transfer, aliases: []}
+name: {full: Transfer}
 type: mysticalability
 subType: arcaneincantation
 description: "Transfer is an arcane incantation of the Fývria convocation."

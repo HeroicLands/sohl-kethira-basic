@@ -1,6 +1,6 @@
 ---
 shortcode: ylvyr
-name: {full: Ylvýr, aliases: []}
+name: {full: Ylvýr}
 type: skill
 subType: mystical
 description: "Ylvýr is a mystical skill."

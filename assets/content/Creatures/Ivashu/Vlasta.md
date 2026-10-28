@@ -1,6 +1,6 @@
 ---
 shortcode: vlasta
-name: {full: Vlásta, aliases: [Swift One, Eater of Eyes]}
+name: {full: Vlásta, en: [Swift One, Eater of Eyes]}
 type: being
 subType: creature
 tags: []

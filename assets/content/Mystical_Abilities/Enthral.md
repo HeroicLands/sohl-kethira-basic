@@ -1,6 +1,6 @@
 ---
 shortcode: enth
-name: {full: Enthral, aliases: []}
+name: {full: Enthral}
 type: mysticalability
 subType: arcanetalent
 description: "Enthral is an arcane talent."

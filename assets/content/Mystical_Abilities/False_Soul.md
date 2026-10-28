@@ -1,6 +1,6 @@
 ---
 shortcode: falsesoul
-name: {full: False Soul, aliases: []}
+name: {full: False Soul}
 type: mysticalability
 subType: arcaneincantation
 description: "False Soul is an arcane incantation of the Neutral convocation."

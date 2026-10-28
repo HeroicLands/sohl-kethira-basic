@@ -1,6 +1,6 @@
 ---
 shortcode: elarana
-name: {full: Elarána, aliases: []}
+name: {full: Elarána}
 type: skill
 subType: mystical
 description: "Elarána is a mystical skill."

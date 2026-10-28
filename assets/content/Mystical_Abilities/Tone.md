@@ -1,6 +1,6 @@
 ---
 shortcode: tone
-name: {full: Tone, aliases: []}
+name: {full: Tone}
 type: mysticalability
 subType: arcaneincantation
 description: "Tone is an arcane incantation of the Lyáhvi convocation."

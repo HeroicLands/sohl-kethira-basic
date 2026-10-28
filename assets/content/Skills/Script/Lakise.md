@@ -1,6 +1,6 @@
 ---
 shortcode: lakise
-name: {full: Lakíse, aliases: []}
+name: {full: Lakíse}
 type: skill
 subType: script
 description: "Lakíse is a script."

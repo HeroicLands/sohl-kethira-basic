@@ -1,6 +1,6 @@
 ---
 shortcode: morgath
-name: {full: Môrgath, aliases: []}
+name: {full: Môrgath}
 type: skill
 subType: mystical
 description: "Môrgath is a mystical skill."

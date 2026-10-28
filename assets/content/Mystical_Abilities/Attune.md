@@ -1,6 +1,6 @@
 ---
 shortcode: attune
-name: {full: Attune, aliases: []}
+name: {full: Attune}
 type: mysticalability
 subType: arcaneincantation
 description: "Attune is an arcane incantation of the Neutral convocation."

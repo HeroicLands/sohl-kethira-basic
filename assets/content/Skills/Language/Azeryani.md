@@ -1,6 +1,6 @@
 ---
 shortcode: azeryani
-name: {full: Àzeryáni, aliases: []}
+name: {full: Àzeryáni}
 type: skill
 subType: language
 description: "Àzeryáni is a language."

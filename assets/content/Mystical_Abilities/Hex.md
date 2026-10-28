@@ -1,6 +1,6 @@
 ---
 shortcode: hex
-name: {full: Hex, aliases: []}
+name: {full: Hex}
 type: mysticalability
 subType: arcanetalent
 description: "Hex is an arcane talent."

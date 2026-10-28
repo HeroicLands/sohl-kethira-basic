@@ -1,6 +1,6 @@
 ---
 shortcode: masara
-name: {full: Masâra, aliases: []}
+name: {full: Masâra}
 type: mystery
 subType: birthsign
 description: "Masâra is a birthsign."

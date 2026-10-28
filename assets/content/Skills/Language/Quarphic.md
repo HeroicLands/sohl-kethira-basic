@@ -1,6 +1,6 @@
 ---
 shortcode: quarphic
-name: {full: Quârphic, aliases: []}
+name: {full: Quârphic}
 type: skill
 subType: language
 description: "Quârphic is a language."

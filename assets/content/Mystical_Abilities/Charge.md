@@ -1,6 +1,6 @@
 ---
 shortcode: charge
-name: {full: Charge, aliases: []}
+name: {full: Charge}
 type: mysticalability
 subType: arcaneincantation
 description: "Charge is an arcane incantation of the Neutral convocation."

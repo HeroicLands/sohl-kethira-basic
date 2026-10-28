@@ -1,6 +1,6 @@
 ---
 shortcode: meld
-name: {full: Meld, aliases: []}
+name: {full: Meld}
 type: mysticalability
 subType: arcaneincantation
 description: "Meld is an arcane incantation of the Fývria convocation."

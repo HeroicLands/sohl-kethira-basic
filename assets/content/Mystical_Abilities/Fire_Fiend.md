@@ -1,6 +1,6 @@
 ---
 shortcode: firefiend
-name: {full: Fire Fiend, aliases: []}
+name: {full: Fire Fiend}
 type: mysticalability
 subType: arcaneincantation
 description: "Fire Fiend is an arcane incantation of the Pèleáhn convocation."

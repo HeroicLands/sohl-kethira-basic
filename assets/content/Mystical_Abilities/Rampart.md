@@ -1,6 +1,6 @@
 ---
 shortcode: rampart
-name: {full: Rampart, aliases: []}
+name: {full: Rampart}
 type: mysticalability
 subType: arcaneincantation
 description: "Rampart is an arcane incantation of the Jmôrvi convocation."

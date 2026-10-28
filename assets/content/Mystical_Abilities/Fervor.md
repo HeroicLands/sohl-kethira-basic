@@ -1,6 +1,6 @@
 ---
 shortcode: fervor
-name: {full: Fervor, aliases: []}
+name: {full: Fervor}
 type: mysticalability
 subType: arcaneincantation
 description: "Fervor is an arcane incantation of the Sàvôrya convocation."

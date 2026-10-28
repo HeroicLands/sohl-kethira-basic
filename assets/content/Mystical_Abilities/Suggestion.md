@@ -1,6 +1,6 @@
 ---
 shortcode: suggestion
-name: {full: Suggestion, aliases: []}
+name: {full: Suggestion}
 type: mysticalability
 subType: arcaneincantation
 description: "Suggestion is an arcane incantation of the Sàvôrya convocation."

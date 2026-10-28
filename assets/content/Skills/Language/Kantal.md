@@ -1,6 +1,6 @@
 ---
 shortcode: kantal
-name: {full: Kántâl, aliases: []}
+name: {full: Kántâl}
 type: skill
 subType: language
 description: "Kántâl is a language."

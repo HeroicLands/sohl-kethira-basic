@@ -1,6 +1,6 @@
 ---
 shortcode: mend
-name: {full: Mend, aliases: []}
+name: {full: Mend}
 type: mysticalability
 subType: arcaneincantation
 description: "Mend is an arcane incantation of the Jmôrvi convocation."

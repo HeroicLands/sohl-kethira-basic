@@ -1,6 +1,6 @@
 ---
 shortcode: prism
-name: {full: Prism, aliases: []}
+name: {full: Prism}
 type: mysticalability
 subType: arcaneincantation
 description: "Prism is an arcane incantation of the Lyáhvi convocation."

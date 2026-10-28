@@ -1,6 +1,6 @@
 ---
 shortcode: larani
-name: {full: Laráni, aliases: []}
+name: {full: Laráni}
 type: affiliation
 subType: faithtradition
 description: "Laráni is a faith tradition."

@@ -1,6 +1,6 @@
 ---
 shortcode: agrik
-name: {full: Ágrik, aliases: []}
+name: {full: Ágrik}
 type: affiliation
 subType: faithtradition
 description: "Ágrik is a faith tradition."

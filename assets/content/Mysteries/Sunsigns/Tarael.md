@@ -1,6 +1,6 @@
 ---
 shortcode: tarael
-name: {full: Táræl, aliases: []}
+name: {full: Táræl}
 type: mystery
 subType: birthsign
 description: "Táræl is a birthsign."

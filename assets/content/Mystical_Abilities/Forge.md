@@ -1,6 +1,6 @@
 ---
 shortcode: forge
-name: {full: Forge, aliases: []}
+name: {full: Forge}
 type: mysticalability
 subType: arcaneincantation
 description: "Forge is an arcane incantation of the Jmôrvi convocation."

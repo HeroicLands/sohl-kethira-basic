@@ -1,6 +1,6 @@
 ---
 shortcode: angbereliusnadai
-name: {full: Angberélius-Nadái, aliases: []}
+name: {full: Angberélius-Nadái}
 type: mystery
 subType: birthsign
 description: "Angberélius-Nadái is a birthsign."

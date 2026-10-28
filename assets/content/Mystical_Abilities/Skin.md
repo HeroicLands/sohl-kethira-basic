@@ -1,6 +1,6 @@
 ---
 shortcode: skin
-name: {full: Skin, aliases: []}
+name: {full: Skin}
 type: mysticalability
 subType: arcaneincantation
 description: "Skin is an arcane incantation of the Pèleáhn convocation."

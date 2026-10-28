@@ -1,6 +1,6 @@
 ---
 shortcode: beona
-name: {full: Beóna, aliases: []}
+name: {full: Beóna}
 type: affiliation
 subType: faithtradition
 description: "Beóna is a faith tradition."

@@ -1,6 +1,6 @@
 ---
 shortcode: palithaner
-name: {full: Pálithàner, aliases: []}
+name: {full: Pálithàner}
 type: skill
 subType: language
 description: "Pálithàner is a language."

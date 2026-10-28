@@ -1,6 +1,6 @@
 ---
 shortcode: sweat
-name: {full: Sweat, aliases: []}
+name: {full: Sweat}
 type: mysticalability
 subType: arcaneincantation
 description: "Sweat is an arcane incantation of the Odívshè convocation."

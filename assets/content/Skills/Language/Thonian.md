@@ -1,6 +1,6 @@
 ---
 shortcode: thonian
-name: {full: Thónian, aliases: []}
+name: {full: Thónian}
 type: skill
 subType: language
 description: "Thónian is a language."

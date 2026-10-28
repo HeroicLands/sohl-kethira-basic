@@ -1,6 +1,6 @@
 ---
 shortcode: obedience
-name: {full: Obedience, aliases: []}
+name: {full: Obedience}
 type: mysticalability
 subType: arcaneincantation
 description: "Obedience is an arcane incantation of the Sàvôrya convocation."

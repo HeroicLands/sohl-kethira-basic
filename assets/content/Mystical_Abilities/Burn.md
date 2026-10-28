@@ -1,6 +1,6 @@
 ---
 shortcode: burn
-name: {full: Burn, aliases: []}
+name: {full: Burn}
 type: mysticalability
 subType: arcaneincantation
 description: "Burn is an arcane incantation of the Pèleáhn convocation."

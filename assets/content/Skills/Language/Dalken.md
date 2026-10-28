@@ -1,6 +1,6 @@
 ---
 shortcode: dalken
-name: {full: Dálken, aliases: []}
+name: {full: Dálken}
 type: skill
 subType: language
 description: "Dálken is a language."

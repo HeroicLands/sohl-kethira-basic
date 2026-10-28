@@ -1,6 +1,6 @@
 ---
 shortcode: selenian
-name: {full: Selénian, aliases: []}
+name: {full: Selénian}
 type: skill
 subType: script
 description: "Selénian is a script."

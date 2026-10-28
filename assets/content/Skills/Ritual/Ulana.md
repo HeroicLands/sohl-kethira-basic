@@ -1,6 +1,6 @@
 ---
 shortcode: ulana
-name: {full: Úlana, aliases: []}
+name: {full: Úlana}
 type: skill
 subType: mystical
 description: "Úlana is a mystical skill."

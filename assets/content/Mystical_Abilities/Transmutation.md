@@ -1,6 +1,6 @@
 ---
 shortcode: xmut
-name: {full: Transmutation, aliases: []}
+name: {full: Transmutation}
 type: mysticalability
 subType: arcanetalent
 description: "Transmutation is an arcane talent."

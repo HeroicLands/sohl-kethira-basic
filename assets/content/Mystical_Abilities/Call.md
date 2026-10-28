@@ -1,6 +1,6 @@
 ---
 shortcode: call
-name: {full: Call, aliases: []}
+name: {full: Call}
 type: mysticalability
 subType: arcaneincantation
 description: "Call is an arcane incantation of the Lyáhvi convocation."

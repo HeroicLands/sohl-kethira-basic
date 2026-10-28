@@ -1,6 +1,6 @@
 ---
 shortcode: muffle
-name: {full: Muffle, aliases: []}
+name: {full: Muffle}
 type: mysticalability
 subType: arcaneincantation
 description: "Muffle is an arcane incantation of the Lyáhvi convocation."

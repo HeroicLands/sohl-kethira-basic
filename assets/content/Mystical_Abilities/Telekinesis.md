@@ -1,6 +1,6 @@
 ---
 shortcode: telek
-name: {full: Telekinesis, aliases: []}
+name: {full: Telekinesis}
 type: mysticalability
 subType: arcanetalent
 description: "Telekinesis is an arcane talent."

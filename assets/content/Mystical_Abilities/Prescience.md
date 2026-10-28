@@ -1,6 +1,6 @@
 ---
 shortcode: psnc
-name: {full: Prescience, aliases: []}
+name: {full: Prescience}
 type: mysticalability
 subType: arcanetalent
 description: "Prescience is an arcane talent."

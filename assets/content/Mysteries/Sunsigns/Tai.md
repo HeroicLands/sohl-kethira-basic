@@ -1,6 +1,6 @@
 ---
 shortcode: tai
-name: {full: Tai, aliases: []}
+name: {full: Tai}
 type: mystery
 subType: birthsign
 description: "Tai is a birthsign."

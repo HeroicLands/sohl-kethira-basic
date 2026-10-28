@@ -1,6 +1,6 @@
 ---
 shortcode: masaralado
-name: {full: Masâra-Ládo, aliases: []}
+name: {full: Masâra-Ládo}
 type: mystery
 subType: birthsign
 description: "Masâra-Ládo is a birthsign."

@@ -1,6 +1,6 @@
 ---
 shortcode: garanik
-name: {full: Gáranik, aliases: []}
+name: {full: Gáranik}
 type: skill
 subType: mystical
 description: "Gáranik is a mystical skill."

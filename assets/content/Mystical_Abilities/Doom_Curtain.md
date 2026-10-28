@@ -1,6 +1,6 @@
 ---
 shortcode: doomcurtain
-name: {full: Doom Curtain, aliases: []}
+name: {full: Doom Curtain}
 type: mysticalability
 subType: arcaneincantation
 description: "Doom Curtain is an arcane incantation of the Pèleáhn convocation."

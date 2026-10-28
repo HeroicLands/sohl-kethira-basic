@@ -1,6 +1,6 @@
 ---
 shortcode: ulandusaralius
-name: {full: Ùlándus-Arálius, aliases: []}
+name: {full: Ùlándus-Arálius}
 type: mystery
 subType: birthsign
 description: "Ùlándus-Arálius is a birthsign."

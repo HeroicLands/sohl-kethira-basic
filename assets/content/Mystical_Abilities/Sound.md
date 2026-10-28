@@ -1,6 +1,6 @@
 ---
 shortcode: sound
-name: {full: Sound, aliases: []}
+name: {full: Sound}
 type: mysticalability
 subType: arcaneincantation
 description: "Sound is an arcane incantation of the Lyáhvi convocation."
