@@ -69,3 +69,13 @@ party; verbatim rulebook text or tables; or trade dress. Game mechanics may be
 implemented, but the specific creative expression used to describe them may not be
 reproduced. If you are unsure whether material is permissible, ask before
 contributing it.
+
+## Pull request checks
+
+A pull request whose title starts with `WIP:` runs the light checks. An existing
+required check runs a short guard and fails, blocking merges while the expensive
+steps stay skipped. Remove the prefix with `earl pr ready`; it starts fresh
+required checks before scheduling a merge. Changing the title by hand does not
+start those checks. Main, release and manual runs keep their existing checks.
+
+Check the workflow gating locally with `node --test utils/wip-workflows.test.mjs`.
