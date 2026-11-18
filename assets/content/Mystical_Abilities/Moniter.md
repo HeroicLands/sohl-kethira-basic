@@ -5,7 +5,12 @@ type: mysticalability
 subType: arcaneincantation
 description: "Moniter is an arcane incantation of the Neutral convocation."
 tags: []
-data: {icon: sohl-none-icon-moebiusstar, templatePriority: 0, packFolder: neutral, pack: mysteries}
+data:
+  kind: incantation
+  icon: sohl-none-icon-moebiusstar
+  templatePriority: 0
+  packFolder: neutral
+  pack: mysteries
 sohl:
   kbcat: null
   system:

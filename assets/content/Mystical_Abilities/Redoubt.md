@@ -5,7 +5,12 @@ type: mysticalability
 subType: arcaneincantation
 description: "Redoubt is an arcane incantation of the Jmôrvi convocation."
 tags: []
-data: {icon: sohl-none-icon-anvil, templatePriority: 0, packFolder: jmorvi, pack: mysteries}
+data:
+  kind: incantation
+  icon: sohl-none-icon-anvil
+  templatePriority: 0
+  packFolder: jmorvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:

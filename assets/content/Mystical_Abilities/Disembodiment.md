@@ -6,6 +6,7 @@ subType: arcanetalent
 description: "Disembodiment is an arcane talent."
 tags: []
 data:
+  kind: arcaneability
   icon: sohl-none-icon-psionics
   templatePriority: 0
   packFolder: arcanetalents

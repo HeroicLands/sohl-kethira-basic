@@ -5,7 +5,12 @@ type: mysticalability
 subType: arcaneincantation
 description: "Wave is an arcane incantation of the Odívshè convocation."
 tags: []
-data: {icon: sohl-none-icon-wavecrest, templatePriority: 0, packFolder: odivshe, pack: mysteries}
+data:
+  kind: incantation
+  icon: sohl-none-icon-wavecrest
+  templatePriority: 0
+  packFolder: odivshe
+  pack: mysteries
 sohl:
   kbcat: null
   system:

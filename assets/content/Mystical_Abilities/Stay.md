@@ -5,7 +5,12 @@ type: mysticalability
 subType: arcaneincantation
 description: "Stay is an arcane incantation of the Fývria convocation."
 tags: []
-data: {icon: sohl-none-icon-holyoak, templatePriority: 0, packFolder: fyvria, pack: mysteries}
+data:
+  kind: incantation
+  icon: sohl-none-icon-holyoak
+  templatePriority: 0
+  packFolder: fyvria
+  pack: mysteries
 sohl:
   kbcat: null
   system:

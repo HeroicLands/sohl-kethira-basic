@@ -5,7 +5,12 @@ type: mysticalability
 subType: arcaneincantation
 description: "Muffle is an arcane incantation of the Lyáhvi convocation."
 tags: []
-data: {icon: sohl-none-icon-whirlwind, templatePriority: 0, packFolder: lyahvi, pack: mysteries}
+data:
+  kind: incantation
+  icon: sohl-none-icon-whirlwind
+  templatePriority: 0
+  packFolder: lyahvi
+  pack: mysteries
 sohl:
   kbcat: null
   system:
