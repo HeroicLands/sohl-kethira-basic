@@ -1,5 +1,6 @@
 contentPackage: kethira
 packageKind: modules
+userAgentUrl: https://www.heroiclands.org/
 
 authors:
     - name: Tom Rodriguez
